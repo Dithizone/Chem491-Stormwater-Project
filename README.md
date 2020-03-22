@@ -20,4 +20,4 @@ Clustering in PCA will reveal if certain pollutants are related and correlate wi
 Anyway, this is where the fun begins! We'll just have to get creative.
 
 ### PG;NP
-Maybe determining a non-wildfire rhythm and subtracting it out (i.e. graphing only the pollutants' deviation from typical behavior will be the most elegant way of making pretty pictures. We'll see what the exploration stage shows, though!
+Maybe determining a non-wildfire rhythm and subtracting it out (i.e. graphing only the pollutants' deviation from typical behavior) will be the most elegant way of making pretty pictures. We'll see what the exploration stage shows, though!
