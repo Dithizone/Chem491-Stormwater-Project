@@ -1,10 +1,10 @@
 # Chem491-Stormwater-Project
-This is the repository for the stormwater data mining project at CSU Channel Islands! We can imagine this project in a few discrete stages &mdash; Data acquisition, data cleaning and arranging, data exploration (e.g., PCA, covariance, etc.), and then the pretty graphs and charts.
+This is the repository for the stormwater data mining project at CSU Channel Islands! We can imagine this project in a few discrete stages &mdash; Data acquisition, data cleaning and arranging, data exploration (e.g., PCA, covariance), and then the pretty graphs and charts.
 
 ### Data acquisition (in progress)
-There are quite a few Python libraries which deal with PDFs, but they either haven't been maintained or require lots of additional installs like Visual Studio C++, so the text from each PDF was extracted by ctrl-A and pasted into text files (see, e.g., ```data/raw/2019g```). The data tables were then extracted and separated by whether they came from Appendix F or G (*F data* and *G data*, respectively).
+There are quite a few Python libraries which deal with PDFs, but they either haven't been maintained or require lots of additional installs like Visual Studio C++, so the text from each PDF was extracted by ctrl-A and pasted into text files (see, e.g., ```data/raw/2019g```). The data tables were then extracted and separated by whether they came from Appendix F or G (*F data* and *G data*, respectively), and molded into a .csv format.
 
-The F data is functional but could be polished more and the G data is still in progress.
+The F data is functional but could be polished more (e.g., ```data/2019f.txt```) and the G data is still in progress. Presently, the data is arranged exactly as it is in the PDFs, but will be more useful with pollutants along one axis and dates along another (and maybe sampling station along a third).
 
 ### Data cleaning and arranging
 I imagine the structure will be ```index='dates'``` and ```header=pollutants``` for covariance tests and a transpose will need to be done for PCA. It may be necessary to express pollutants by both the pollutant name and by the sampling station location.
