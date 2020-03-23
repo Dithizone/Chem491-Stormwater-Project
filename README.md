@@ -2,7 +2,9 @@
 This is the repository for the stormwater data mining project at CSU Channel Islands! We can imagine this project in a few discrete stages &mdash; Data acquisition, data cleaning and arranging, data exploration (e.g., PCA, covariance, etc.), and then the pretty graphs and charts.
 
 ### Data acquisition (in progress)
-There are quite a few Python libraries which deal with PDFs, but they either haven't been maintained or require lots of additional installs like Visual Studio C++, so the text from each PDF was extracted by ctrl-A and pasted into text files (see, e.g., ```data/raw/2019g```). I need to get better with regular expressions anyway, so the raw text will be rearranged for csv that way.
+There are quite a few Python libraries which deal with PDFs, but they either haven't been maintained or require lots of additional installs like Visual Studio C++, so the text from each PDF was extracted by ctrl-A and pasted into text files (see, e.g., ```data/raw/2019g```). The data tables were then extracted and separated by whether they came from Appendix F or G (*F data* and *G data*, respectively).
+
+The F data is functional but could be polished more and the G data is still in progress.
 
 ### Data cleaning and arranging
 I imagine the structure will be ```index='dates'``` and ```header=pollutants``` for covariance tests and a transpose will need to be done for PCA. It may be necessary to express pollutants by both the pollutant name and by the sampling station location.
@@ -12,6 +14,7 @@ One option for arranging: we could create a 3-way tensor ```(sampling date, poll
 Things to consider:
 - Are there typos in pollutant names?
 - Are there holes in the data (e.g., sampling days/stations missing)?
+- Do the dates actually line up between stations and pollutants?
 - \<update with more\>
 
 ### Data exploration
