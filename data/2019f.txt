@@ -97,8 +97,8 @@
 2018/19-1,Lab,LCS,11/28/2018,Anion,Sulfate,Total,=,20.9,mg/L,EPA 300.0,0.1,0.5
 2018/19-1,Lab,LCS|| rec,11/28/2018,Anion,Sulfate,Total,=,105,%,EPA 300.0,-88,-88
 2018/19-1,Lab,method blank,11/28/2018,Anion,Sulfate,Total,DNQ,0.145,mg/L,EPA 300.0,0.1,0.5
-2018/19-1,MO-CAM,field duplicate,11/22/2018,Bacteriological,E. Coli,n/a,=,2489,MPN/100,mL MMO-MUG,10,10
-2018/19-1,MO-CAM,field duplicate,11/22/2018,Bacteriological,Total Coliform,n/a,=,248100,MPN/100,mL MMO-MUG,1000,1000
+2018/19-1,MO-CAM,field duplicate,11/22/2018,Bacteriological,E. Coli,n/a,=,2489,MPN/100 mL,MMO-MUG,10,10
+2018/19-1,MO-CAM,field duplicate,11/22/2018,Bacteriological,Total Coliform,n/a,=,248100,MPN/100 mL,MMO-MUG,1000,1000
 2018/19-1,000NONPJ,matrix spike,11/27/2018,Cation,Calcium,Total,=,589,mg/L,EPA 200.7,0.16,1
 2018/19-1,000NONPJ,matrix spike|| rec,11/27/2018,Cation,Calcium,Total,=,100,%,EPA 200.7,-88,-88
 2018/19-1,000NONPJ,matrix spike dup,11/27/2018,Cation,Calcium,Total,=,596,mg/L,EPA 200.7,0.16,1
@@ -321,16 +321,16 @@
 2018/19-1,ME-CC,matrix spike dup|| rec,12/31/2018,Conventional,Total Chlorine Residual,n/a,=,59,%,SM 4500-Cl G,-88,-88
 2018/19-1,ME-CC,matrix spike|| rec,12/31/2018,Conventional,Total Chlorine Residual,n/a,=,64,%,SM 4500-Cl G,-88,-88
 2018/19-1,ME-CC,matrix spike|| RPD,12/31/2018,Conventional,Total Chlorine Residual,n/a,=,4,%,SM 4500-Cl G,-88,-88
-2018/19-1,000NONPJ,lab duplicate,11/26/2018,Conventional,Total,Dissolved,Solids,n/a,=,39300 mg/L SM,2540,C
-2018/19-1,000NONPJ,lab duplicate,11/26/2018,Conventional,Total,Dissolved,Solids,n/a,=,6670 mg/L SM,2540,C
-2018/19-1,Lab,LCS,11/26/2018,Conventional,Total,Dissolved,Solids,n/a,=,840 mg/L SM,2540,C
-2018/19-1,Lab,LCS|| rec,11/26/2018,Conventional,Total,Dissolved,Solids,n/a,=,102 % SM,2540,C
-2018/19-1,Lab,method blank,11/26/2018,Conventional,Total,Dissolved,Solids,n/a,<,4 mg/L SM,2540,C
-2018/19-1,Lab,LCS,11/27/2018,Conventional,Total,Dissolved,Solids,n/a,=,837 mg/L SM,2540,C
-2018/19-1,Lab,LCS|| rec,11/27/2018,Conventional,Total,Dissolved,Solids,n/a,=,102 % SM,2540,C
-2018/19-1,Lab,method blank,11/27/2018,Conventional,Total,Dissolved,Solids,n/a,<,4 mg/L SM,2540,C
-2018/19-1,MO-HUE,lab duplicate,11/27/2018,Conventional,Total,Dissolved,Solids,n/a,=,930 mg/L SM,2540,C
-2018/19-1,MO-THO,lab duplicate,11/27/2018,Conventional,Total,Dissolved,Solids,n/a,=,1050 mg/L SM,2540,C
+2018/19-1,000NONPJ,lab duplicate,11/26/2018,Conventional,Total Dissolved Solids,n/a,=,39300,mg/L,SM 2540 C,4,10
+2018/19-1,000NONPJ,lab duplicate,11/26/2018,Conventional,Total Dissolved Solids,n/a,=,6670,mg/L,SM 2540 C,4,10
+2018/19-1,Lab,LCS,11/26/2018,Conventional,Total Dissolved Solids,n/a,=,840,mg/L,SM 2540 C,4,10
+2018/19-1,Lab,LCS|| rec,11/26/2018,Conventional,Total Dissolved Solids,n/a,=,102,%,SM 2540 C,-88,-88
+2018/19-1,Lab,method blank,11/26/2018,Conventional,Total Dissolved Solids,n/a,<,4,mg/L,SM 2540 C,4,10
+2018/19-1,Lab,LCS,11/27/2018,Conventional,Total Dissolved Solids,n/a,=,837,mg/L,SM 2540 C,4,10
+2018/19-1,Lab,LCS|| rec,11/27/2018,Conventional,Total Dissolved Solids,n/a,=,102,%,SM 2540 C,-88,-88
+2018/19-1,Lab,method blank,11/27/2018,Conventional,Total Dissolved Solids,n/a,<,4,mg/L,SM 2540 C,4,10
+2018/19-1,MO-HUE,lab duplicate,11/27/2018,Conventional,Total Dissolved Solids,n/a,=,930,mg/L,SM 2540 C,4,10
+2018/19-1,MO-THO,lab duplicate,11/27/2018,Conventional,Total Dissolved Solids,n/a,=,1050,mg/L,SM 2540 C,4,10
 2018/19-1,000NONPJ,matrix spike,11/30/2018,Conventional,Total Organic Carbon,n/a,=,6.18,mg/L,SM 5310 B,0.016,0.1
 2018/19-1,000NONPJ,matrix spike dup,11/30/2018,Conventional,Total Organic Carbon,n/a,=,5.93,mg/L,SM 5310 B,0.016,0.1
 2018/19-1,000NONPJ,matrix spike dup|| rec,11/30/2018,Conventional,Total Organic Carbon,n/a,=,96,%,SM 5310 B,-88,-88
@@ -3416,10 +3416,10 @@
 2018/19-2,MO-OJA,matrix spike dup|| rec,12/3/2018,Anion,Sulfate,Total,=,110,%,EPA 300.0,-88,-88
 2018/19-2,MO-OJA,matrix spike|| rec,12/3/2018,Anion,Sulfate,Total,=,110,%,EPA 300.0,-88,-88
 2018/19-2,MO-OJA,matrix spike|| RPD,12/3/2018,Anion,Sulfate,Total,=,0.2,%,EPA 300.0,-88,-88
-2018/19-2,ME-CC,field blank,11/30/2018,Bacteriological,E. Coli,n/a,<,10,MPN/100,mL MMO-MUG,10,10
-2018/19-2,MO-FIL,field duplicate,11/30/2018,Bacteriological,E. Coli,n/a,=,72700,MPN/100,mL MMO-MUG,100,100
-2018/19-2,ME-CC,field blank,11/30/2018,Bacteriological,Total Coliform,n/a,<,10,MPN/100,mL MMO-MUG,10,10
-2018/19-2,MO-FIL,field duplicate,11/30/2018,Bacteriological,Total Coliform,n/a,=,261300,MPN/100,mL MMO-MUG,1000,1000
+2018/19-2,ME-CC,field blank,11/30/2018,Bacteriological,E. Coli,n/a,<,10,MPN/100 mL,MMO-MUG,10,10
+2018/19-2,MO-FIL,field duplicate,11/30/2018,Bacteriological,E. Coli,n/a,=,72700,MPN/100 mL,MMO-MUG,100,100
+2018/19-2,ME-CC,field blank,11/30/2018,Bacteriological,Total Coliform,n/a,<,10,MPN/100 mL,MMO-MUG,10,10
+2018/19-2,MO-FIL,field duplicate,11/30/2018,Bacteriological,Total Coliform,n/a,=,261300,MPN/100 mL,MMO-MUG,1000,1000
 2018/19-2,000NONPJ,matrix spike,12/7/2018,Cation,Calcium,Total,=,65.9,mg/L,EPA 200.7,0.016,0.1
 2018/19-2,000NONPJ,matrix spike|| rec,12/7/2018,Cation,Calcium,Total,=,98,%,EPA 200.7,-88,-88
 2018/19-2,000NONPJ,matrix spike dup,12/7/2018,Cation,Calcium,Total,=,65,mg/L,EPA 200.7,0.016,0.1
@@ -3712,22 +3712,22 @@
 2018/19-2,Lab,LCS,12/1/2018,Conventional,Total Chlorine Residual,n/a,=,0.209,mg/L,SM 4500-Cl G,0.0015,0.05
 2018/19-2,Lab,LCS|| rec,12/1/2018,Conventional,Total Chlorine Residual,n/a,=,104,%,SM 4500-Cl G,-88,-88
 2018/19-2,Lab,method blank,12/1/2018,Conventional,Total Chlorine Residual,n/a,<,0.0015,mg/L,SM 4500-Cl G,0.0015,0.05
-2018/19-2,000NONPJ,lab duplicate,12/5/2018,Conventional,Total,Dissolved,Solids,n/a,=,1370 mg/L SM,2540,C
-2018/19-2,000NONPJ,lab duplicate,12/27/2018,Conventional,Total,Dissolved,Solids,n/a,=,59600 mg/L SM,2540,C
-2018/19-2,Lab,LCS,12/5/2018,Conventional,Total,Dissolved,Solids,n/a,=,827 mg/L SM,2540,C
-2018/19-2,Lab,LCS|| rec,12/5/2018,Conventional,Total,Dissolved,Solids,n/a,=,100 % SM,2540,C
-2018/19-2,Lab,method blank,12/5/2018,Conventional,Total,Dissolved,Solids,n/a,<,4 mg/L SM,2540,C
-2018/19-2,Lab,LCS,12/6/2018,Conventional,Total,Dissolved,Solids,n/a,=,793 mg/L SM,2540,C
-2018/19-2,Lab,LCS|| rec,12/6/2018,Conventional,Total,Dissolved,Solids,n/a,=,96 % SM,2540,C
-2018/19-2,Lab,method blank,12/6/2018,Conventional,Total,Dissolved,Solids,n/a,<,4 mg/L SM,2540,C
-2018/19-2,Lab,LCS,1/8/2019,Conventional,Total,Dissolved,Solids,n/a,=,819 mg/L SM,2540,C
-2018/19-2,Lab,LCS,1/8/2019,Conventional,Total,Dissolved,Solids,n/a,=,836 mg/L SM,2540,C
-2018/19-2,Lab,LCS|| rec,1/8/2019,Conventional,Total,Dissolved,Solids,n/a,=,101 % SM,2540,C
-2018/19-2,Lab,LCS|| rec,1/8/2019,Conventional,Total,Dissolved,Solids,n/a,=,99 % SM,2540,C
-2018/19-2,Lab,method blank,1/8/2019,Conventional,Total,Dissolved,Solids,n/a,<,4 mg/L SM,2540,C
-2018/19-2,Lab,method blank,1/8/2019,Conventional,Total,Dissolved,Solids,n/a,<,4 mg/L SM,2540,C
-2018/19-2,ME-VR2,lab duplicate,12/6/2018,Conventional,Total,Dissolved,Solids,n/a,=,838 mg/L SM,2540,C
-2018/19-2,MO-HUE,lab duplicate,12/6/2018,Conventional,Total,Dissolved,Solids,n/a,=,11000 mg/L SM,2540,C
+2018/19-2,000NONPJ,lab duplicate,12/5/2018,Conventional,Total Dissolved Solids,n/a,=,1370,mg/L,SM 2540 C,4,10
+2018/19-2,000NONPJ,lab duplicate,12/27/2018,Conventional,Total Dissolved Solids,n/a,=,59600,mg/L,SM 2540 C,4,10
+2018/19-2,Lab,LCS,12/5/2018,Conventional,Total Dissolved Solids,n/a,=,827,mg/L,SM 2540 C,4,10
+2018/19-2,Lab,LCS|| rec,12/5/2018,Conventional,Total Dissolved Solids,n/a,=,100,%,SM 2540 C,-88,-88
+2018/19-2,Lab,method blank,12/5/2018,Conventional,Total Dissolved Solids,n/a,<,4,mg/L,SM 2540 C,4,10
+2018/19-2,Lab,LCS,12/6/2018,Conventional,Total Dissolved Solids,n/a,=,793,mg/L,SM 2540 C,4,10
+2018/19-2,Lab,LCS|| rec,12/6/2018,Conventional,Total Dissolved Solids,n/a,=,96,%,SM 2540 C,-88,-88
+2018/19-2,Lab,method blank,12/6/2018,Conventional,Total Dissolved Solids,n/a,<,4,mg/L,SM 2540 C,4,10
+2018/19-2,Lab,LCS,1/8/2019,Conventional,Total Dissolved Solids,n/a,=,819,mg/L,SM 2540 C,4,10
+2018/19-2,Lab,LCS,1/8/2019,Conventional,Total Dissolved Solids,n/a,=,836,mg/L,SM 2540 C,4,10
+2018/19-2,Lab,LCS|| rec,1/8/2019,Conventional,Total Dissolved Solids,n/a,=,101,%,SM 2540 C,-88,-88
+2018/19-2,Lab,LCS|| rec,1/8/2019,Conventional,Total Dissolved Solids,n/a,=,99,%,SM 2540 C,-88,-88
+2018/19-2,Lab,method blank,1/8/2019,Conventional,Total Dissolved Solids,n/a,<,4,mg/L,SM 2540 C,4,10
+2018/19-2,Lab,method blank,1/8/2019,Conventional,Total Dissolved Solids,n/a,<,4,mg/L,SM 2540 C,4,10
+2018/19-2,ME-VR2,lab duplicate,12/6/2018,Conventional,Total Dissolved Solids,n/a,=,838,mg/L,SM 2540 C,4,10
+2018/19-2,MO-HUE,lab duplicate,12/6/2018,Conventional,Total Dissolved Solids,n/a,=,11000,mg/L,SM 2540 C,4,10
 2018/19-2,000NONPJ,matrix spike,12/7/2018,Conventional,Total Organic Carbon,n/a,=,4.82,mg/L,SM 5310 B,0.009,0.3
 2018/19-2,000NONPJ,matrix spike dup,12/7/2018,Conventional,Total Organic Carbon,n/a,=,4.68,mg/L,SM 5310 B,0.009,0.3
 2018/19-2,000NONPJ,matrix spike dup|| rec,12/7/2018,Conventional,Total Organic Carbon,n/a,=,92,%,SM 5310 B,-88,-88
@@ -7928,8 +7928,8 @@
 2018/19-3,Lab,LCS,1/15/2019,Anion,Sulfate,Total,=,18.3,mg/L,EPA 300.0,0.1,0.5
 2018/19-3,Lab,LCS|| rec,1/15/2019,Anion,Sulfate,Total,=,91,%,EPA 300.0,-88,-88
 2018/19-3,Lab,method blank,1/15/2019,Anion,Sulfate,Total,<,0.1,mg/L,EPA 300.0,0.1,0.5
-2018/19-3,MO-OJA,field duplicate,1/6/2019,Bacteriological,E. Coli,n/a,=,10462,MPN/100,mL MMO-MUG,10,10
-2018/19-3,MO-OJA,field duplicate,1/6/2019,Bacteriological,Total Coliform,n/a,=,129970,MPN/100,mL MMO-MUG,100,100
+2018/19-3,MO-OJA,field duplicate,1/6/2019,Bacteriological,E. Coli,n/a,=,10462,MPN/100 mL,MMO-MUG,10,10
+2018/19-3,MO-OJA,field duplicate,1/6/2019,Bacteriological,Total Coliform,n/a,=,129970,MPN/100 mL,MMO-MUG,100,100
 2018/19-3,Lab,method blank,1/30/2019,Cation,Calcium,Total,<,0.016,mg/L,EPA 200.7,0.016,0.1
 2018/19-3,Lab,LCS,1/30/2019,Cation,Calcium,Total,=,52,mg/L,EPA 200.7,0.016,0.1
 2018/19-3,Lab,LCS|| rec,1/30/2019,Cation,Calcium,Total,=,104,%,EPA 200.7,-88,-88
@@ -8133,11 +8133,11 @@
 2018/19-3,ME-VR2,matrix spike dup|| rec,1/7/2019,Conventional,Total Chlorine Residual,n/a,=,76,%,SM 4500-Cl G,-88,-88
 2018/19-3,ME-VR2,matrix spike|| rec,1/7/2019,Conventional,Total Chlorine Residual,n/a,=,90,%,SM 4500-Cl G,-88,-88
 2018/19-3,ME-VR2,matrix spike|| RPD,1/7/2019,Conventional,Total Chlorine Residual,n/a,=,15,%,SM 4500-Cl G,-88,-88
-2018/19-3,Lab,LCS,1/10/2019,Conventional,Total,Dissolved,Solids,n/a,=,831 mg/L SM,2540,C
-2018/19-3,Lab,LCS|| rec,1/10/2019,Conventional,Total,Dissolved,Solids,n/a,=,101 % SM,2540,C
-2018/19-3,Lab,method blank,1/10/2019,Conventional,Total,Dissolved,Solids,n/a,<,4 mg/L SM,2540,C
-2018/19-3,ME-SCR,lab duplicate,1/10/2019,Conventional,Total,Dissolved,Solids,n/a,=,1010 mg/L SM,2540,C
-2018/19-3,MO-HUE,lab duplicate,1/10/2019,Conventional,Total,Dissolved,Solids,n/a,=,2820 mg/L SM,2540,C
+2018/19-3,Lab,LCS,1/10/2019,Conventional,Total Dissolved Solids,n/a,=,831,mg/L,SM 2540 C,4,10
+2018/19-3,Lab,LCS|| rec,1/10/2019,Conventional,Total Dissolved Solids,n/a,=,101,%,SM 2540 C,-88,-88
+2018/19-3,Lab,method blank,1/10/2019,Conventional,Total Dissolved Solids,n/a,<,4,mg/L,SM 2540 C,4,10
+2018/19-3,ME-SCR,lab duplicate,1/10/2019,Conventional,Total Dissolved Solids,n/a,=,1010,mg/L,SM 2540 C,4,10
+2018/19-3,MO-HUE,lab duplicate,1/10/2019,Conventional,Total Dissolved Solids,n/a,=,2820,mg/L,SM 2540 C,4,10
 2018/19-3,Lab,LCS,1/31/2019,Conventional,Total Organic Carbon,n/a,=,45,mg/L,SM 5310 B,0.21,0.3
 2018/19-3,Lab,LCS,1/31/2019,Conventional,Total Organic Carbon,n/a,=,45,mg/L,SM 5310 B,0.21,0.3
 2018/19-3,Lab,LCS dup,1/31/2019,Conventional,Total Organic Carbon,n/a,=,45,mg/L,SM 5310 B,0.21,0.3
@@ -11145,11 +11145,11 @@
 2018/19-4,Lab,LCS|| rec,2/11/2019,Conventional,Specific Conductance,n/a,=,101,%,SM 2510 B,-88,-88
 2018/19-4,Lab,method blank,2/11/2019,Conventional,Specific Conductance,n/a,<,0.23,µmhos/cm,SM 2510 B,0.23,2
 2018/19-4,ME-SCR,lab duplicate,2/11/2019,Conventional,Specific Conductance,n/a,=,1600,µmhos/cm,SM 2510 B,1.2,10
-2018/19-4,000NONPJ,lab duplicate,2/5/2019,Conventional,Total,Dissolved,Solids,n/a,=,2130 mg/L SM,2540,C
-2018/19-4,000NONPJ,lab duplicate,2/5/2019,Conventional,Total,Dissolved,Solids,n/a,=,1320 mg/L SM,2540,C
-2018/19-4,Lab,LCS,2/5/2019,Conventional,Total,Dissolved,Solids,n/a,=,809 mg/L SM,2540,C
-2018/19-4,Lab,LCS|| rec,2/5/2019,Conventional,Total,Dissolved,Solids,n/a,=,98 % SM,2540,C
-2018/19-4,Lab,method blank,2/5/2019,Conventional,Total,Dissolved,Solids,n/a,<,4 mg/L SM,2540,C
+2018/19-4,000NONPJ,lab duplicate,2/5/2019,Conventional,Total Dissolved Solids,n/a,=,2130,mg/L,SM 2540 C,4,10
+2018/19-4,000NONPJ,lab duplicate,2/5/2019,Conventional,Total Dissolved Solids,n/a,=,1320,mg/L,SM 2540 C,4,10
+2018/19-4,Lab,LCS,2/5/2019,Conventional,Total Dissolved Solids,n/a,=,809,mg/L,SM 2540 C,4,10
+2018/19-4,Lab,LCS|| rec,2/5/2019,Conventional,Total Dissolved Solids,n/a,=,98,%,SM 2540 C,-88,-88
+2018/19-4,Lab,method blank,2/5/2019,Conventional,Total Dissolved Solids,n/a,<,4,mg/L,SM 2540 C,4,10
 2018/19-4,Lab,LCS,2/25/2019,Conventional,Total Organic Carbon,n/a,=,45,mg/L,SM 5310 B,0.21,0.3
 2018/19-4,Lab,LCS dup,2/25/2019,Conventional,Total Organic Carbon,n/a,=,46,mg/L,SM 5310 B,0.21,0.3
 2018/19-4,Lab,LCS dup|| rec,2/25/2019,Conventional,Total Organic Carbon,n/a,=,92,%,SM 5310 B,-88,-88
@@ -13407,21 +13407,21 @@
 2018/19-5,MO-FIL,matrix spike dup|| rec,5/3/2019,Conventional,Total Chlorine Residual,n/a,=,20,%,SM 4500-Cl G,-88,-88
 2018/19-5,MO-FIL,matrix spike|| rec,5/3/2019,Conventional,Total Chlorine Residual,n/a,=,26,%,SM 4500-Cl G,-88,-88
 2018/19-5,MO-FIL,matrix spike|| RPD,5/3/2019,Conventional,Total Chlorine Residual,n/a,=,13,%,SM 4500-Cl G,-88,-88
-2018/19-5,000NONPJ,lab duplicate,5/3/2019,Conventional,Total,Dissolved,Solids,n/a,=,22100 mg/L SM,2540,C
-2018/19-5,000NONPJ,lab duplicate,5/13/2019,Conventional,Total,Dissolved,Solids,n/a,=,3520 mg/L SM,2540,C
-2018/19-5,000NONPJ,lab duplicate,5/15/2019,Conventional,Total,Dissolved,Solids,n/a,=,35000 mg/L SM,2540,C
-2018/19-5,Lab,LCS,5/3/2019,Conventional,Total,Dissolved,Solids,n/a,=,809 mg/L SM,2540,C
-2018/19-5,Lab,LCS|| rec,5/3/2019,Conventional,Total,Dissolved,Solids,n/a,=,98 % SM,2540,C
-2018/19-5,Lab,method blank,5/3/2019,Conventional,Total,Dissolved,Solids,n/a,<,4 mg/L SM,2540,C
-2018/19-5,Lab,LCS,5/13/2019,Conventional,Total,Dissolved,Solids,n/a,=,813 mg/L SM,2540,C
-2018/19-5,Lab,LCS|| rec,5/13/2019,Conventional,Total,Dissolved,Solids,n/a,=,99 % SM,2540,C
-2018/19-5,Lab,method blank,5/13/2019,Conventional,Total,Dissolved,Solids,n/a,<,4 mg/L SM,2540,C
-2018/19-5,Lab,LCS,5/15/2019,Conventional,Total,Dissolved,Solids,n/a,=,816 mg/L SM,2540,C
-2018/19-5,Lab,LCS|| rec,5/15/2019,Conventional,Total,Dissolved,Solids,n/a,=,99 % SM,2540,C
-2018/19-5,Lab,method blank,5/15/2019,Conventional,Total,Dissolved,Solids,n/a,<,4 mg/L SM,2540,C
-2018/19-5,MO-HUE,lab duplicate,5/13/2019,Conventional,Total,Dissolved,Solids,n/a,=,9000 mg/L SM,2540,C
-2018/19-5,MO-SIM,lab duplicate,5/15/2019,Conventional,Total,Dissolved,Solids,n/a,=,2370 mg/L SM,2540,C
-2018/19-5,MO-VEN,lab duplicate,5/3/2019,Conventional,Total,Dissolved,Solids,n/a,=,6460 mg/L SM,2540,C
+2018/19-5,000NONPJ,lab duplicate,5/3/2019,Conventional,Total Dissolved Solids,n/a,=,22100,mg/L,SM 2540 C,4,10
+2018/19-5,000NONPJ,lab duplicate,5/13/2019,Conventional,Total Dissolved Solids,n/a,=,3520,mg/L,SM 2540 C,4,10
+2018/19-5,000NONPJ,lab duplicate,5/15/2019,Conventional,Total Dissolved Solids,n/a,=,35000,mg/L,SM 2540 C,4,10
+2018/19-5,Lab,LCS,5/3/2019,Conventional,Total Dissolved Solids,n/a,=,809,mg/L,SM 2540 C,4,10
+2018/19-5,Lab,LCS|| rec,5/3/2019,Conventional,Total Dissolved Solids,n/a,=,98,%,SM 2540 C,-88,-88
+2018/19-5,Lab,method blank,5/3/2019,Conventional,Total Dissolved Solids,n/a,<,4,mg/L,SM 2540 C,4,10
+2018/19-5,Lab,LCS,5/13/2019,Conventional,Total Dissolved Solids,n/a,=,813,mg/L,SM 2540 C,4,10
+2018/19-5,Lab,LCS|| rec,5/13/2019,Conventional,Total Dissolved Solids,n/a,=,99,%,SM 2540 C,-88,-88
+2018/19-5,Lab,method blank,5/13/2019,Conventional,Total Dissolved Solids,n/a,<,4,mg/L,SM 2540 C,4,10
+2018/19-5,Lab,LCS,5/15/2019,Conventional,Total Dissolved Solids,n/a,=,816,mg/L,SM 2540 C,4,10
+2018/19-5,Lab,LCS|| rec,5/15/2019,Conventional,Total Dissolved Solids,n/a,=,99,%,SM 2540 C,-88,-88
+2018/19-5,Lab,method blank,5/15/2019,Conventional,Total Dissolved Solids,n/a,<,4,mg/L,SM 2540 C,4,10
+2018/19-5,MO-HUE,lab duplicate,5/13/2019,Conventional,Total Dissolved Solids,n/a,=,9000,mg/L,SM 2540 C,4,10
+2018/19-5,MO-SIM,lab duplicate,5/15/2019,Conventional,Total Dissolved Solids,n/a,=,2370,mg/L,SM 2540 C,4,10
+2018/19-5,MO-VEN,lab duplicate,5/3/2019,Conventional,Total Dissolved Solids,n/a,=,6460,mg/L,SM 2540 C,4,10
 2018/19-5,000NONPJ,matrix spike,5/8/2019,Conventional,Total Organic Carbon,n/a,=,5.46,mg/L,SM 5310 B,0.009,0.3
 2018/19-5,000NONPJ,matrix spike dup,5/8/2019,Conventional,Total Organic Carbon,n/a,=,5.85,mg/L,SM 5310 B,0.009,0.3
 2018/19-5,000NONPJ,matrix spike dup|| rec,5/8/2019,Conventional,Total Organic Carbon,n/a,=,103,%,SM 5310 B,-88,-88

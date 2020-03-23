@@ -1,4 +1,4 @@
-﻿2010/11-1,000NONPJ,matrix spike,10/11/2010,Anion,Chloride,n/a,=,608,mg/L,EPA 300.0,5,25
+2010/11-1,000NONPJ,matrix spike,10/11/2010,Anion,Chloride,n/a,=,608,mg/L,EPA 300.0,5,25
 2010/11-1,000NONPJ,matrix spike dup,10/11/2010,Anion,Chloride,n/a,=,603,mg/L,EPA 300.0,5,25
 2010/11-1,000NONPJ,matrix spike dup|| rec,10/11/2010,Anion,Chloride,n/a,=,88,%,EPA 300.0,-88,-88
 2010/11-1,000NONPJ,matrix spike|| rec,10/11/2010,Anion,Chloride,n/a,=,91,%,EPA 300.0,-88,-88
@@ -100,9 +100,9 @@
 2010/11-1,Lab,LCS,10/16/2010,Anion,Perchlorate,n/a,=,11.2,µg/L,EPA 314.0,0.82,2
 2010/11-1,Lab,LCS|| rec,10/16/2010,Anion,Perchlorate,n/a,=,112,%,EPA 314.0,-88,-88
 2010/11-1,Lab,method blank,10/16/2010,Anion,Perchlorate,n/a,<,0.82,µg/L,EPA 314.0,0.82,2
-2010/11-1,MO-MEI,field duplicate,10/7/2010,Bacteriological,E. Coli,n/a,=,86640,MPN/100,mL MMO-MUG,100,100
-2010/11-1,MO-MEI,field duplicate,10/8/2010,Bacteriological,Fecal Coliform,n/a,=,110000,MPN/100,mL SM,9221,E
-2010/11-1,MO-MEI,field duplicate,10/7/2010,Bacteriological,Total Coliform,n/a,=,1413600,MPN/100,mL MMO-MUG,1000,1000
+2010/11-1,MO-MEI,field duplicate,10/7/2010,Bacteriological,E. Coli,n/a,=,86640,MPN/100 mL,MMO-MUG,100,100
+2010/11-1,MO-MEI,field duplicate,10/8/2010,Bacteriological,Fecal Coliform,n/a,=,110000,MPN/100 mL,SM,9221,E
+2010/11-1,MO-MEI,field duplicate,10/7/2010,Bacteriological,Total Coliform,n/a,=,1413600,MPN/100 mL,MMO-MUG,1000,1000
 2010/11-1,Lab,LCS,10/13/2010,Cation,Calcium,Total,=,47.5,mg/L,EPA 200.7,0.016,0.1
 2010/11-1,Lab,LCS,10/13/2010,Cation,Calcium,Total,=,48.2,mg/L,EPA 200.7,0.016,0.1
 2010/11-1,Lab,LCS|| rec,10/13/2010,Cation,Calcium,Total,=,95,%,EPA 200.7,-88,-88
@@ -249,16 +249,16 @@
 2010/11-1,Lab,LCS,10/8/2010,Conventional,Total Chlorine Residual,n/a,=,0.186,mg/L,SM 4500-Cl G,0.0016,0.05
 2010/11-1,Lab,LCS|| rec,10/8/2010,Conventional,Total Chlorine Residual,n/a,=,93,%,SM 4500-Cl G,-88,-88
 2010/11-1,Lab,method blank,10/8/2010,Conventional,Total Chlorine Residual,n/a,<,0.0016,mg/L,SM 4500-Cl G,0.0016,0.05
-2010/11-1,000NONPJ,lab duplicate,10/11/2010,Conventional,Total,Dissolved,Solids,n/a,=,438 mg/L SM,2540,C
-2010/11-1,000NONPJ,lab duplicate,10/13/2010,Conventional,Total,Dissolved,Solids,n/a,=,1230 mg/L SM,2540,C
-2010/11-1,000NONPJ,lab duplicate,10/13/2010,Conventional,Total,Dissolved,Solids,n/a,=,776 mg/L SM,2540,C
-2010/11-1,Lab,LCS,10/11/2010,Conventional,Total,Dissolved,Solids,n/a,=,810 mg/L SM,2540,C
-2010/11-1,Lab,LCS|| rec,10/11/2010,Conventional,Total,Dissolved,Solids,n/a,=,98 % SM,2540,C
-2010/11-1,Lab,method blank,10/11/2010,Conventional,Total,Dissolved,Solids,n/a,<,4 mg/L SM,2540,C
-2010/11-1,Lab,LCS,10/13/2010,Conventional,Total,Dissolved,Solids,n/a,=,842 mg/L SM,2540,C
-2010/11-1,Lab,LCS|| rec,10/13/2010,Conventional,Total,Dissolved,Solids,n/a,=,102 % SM,2540,C
-2010/11-1,Lab,method blank,10/13/2010,Conventional,Total,Dissolved,Solids,n/a,<,4 mg/L SM,2540,C
-2010/11-1,MO-VEN,lab duplicate,10/11/2010,Conventional,Total,Dissolved,Solids,n/a,=,185 mg/L SM,2540,C
+2010/11-1,000NONPJ,lab duplicate,10/11/2010,Conventional,Total Dissolved Solids,n/a,=,438,mg/L,SM 2540 C,4,10
+2010/11-1,000NONPJ,lab duplicate,10/13/2010,Conventional,Total Dissolved Solids,n/a,=,1230,mg/L,SM 2540 C,4,10
+2010/11-1,000NONPJ,lab duplicate,10/13/2010,Conventional,Total Dissolved Solids,n/a,=,776,mg/L,SM 2540 C,4,10
+2010/11-1,Lab,LCS,10/11/2010,Conventional,Total Dissolved Solids,n/a,=,810,mg/L,SM 2540 C,4,10
+2010/11-1,Lab,LCS|| rec,10/11/2010,Conventional,Total Dissolved Solids,n/a,=,98,%,SM 2540 C,-88,-88
+2010/11-1,Lab,method blank,10/11/2010,Conventional,Total Dissolved Solids,n/a,<,4,mg/L,SM 2540 C,4,10
+2010/11-1,Lab,LCS,10/13/2010,Conventional,Total Dissolved Solids,n/a,=,842,mg/L,SM 2540 C,4,10
+2010/11-1,Lab,LCS|| rec,10/13/2010,Conventional,Total Dissolved Solids,n/a,=,102,%,SM 2540 C,-88,-88
+2010/11-1,Lab,method blank,10/13/2010,Conventional,Total Dissolved Solids,n/a,<,4,mg/L,SM 2540 C,4,10
+2010/11-1,MO-VEN,lab duplicate,10/11/2010,Conventional,Total Dissolved Solids,n/a,=,185,mg/L,SM 2540 C,4,10
 2010/11-1,000NONPJ,matrix spike,10/14/2010,Conventional,Total Organic Carbon,n/a,=,5.43,mg/L,SM 5310 C,0.032,0.3
 2010/11-1,000NONPJ,matrix spike dup,10/14/2010,Conventional,Total Organic Carbon,n/a,=,5.33,mg/L,SM 5310 C,0.032,0.3
 2010/11-1,000NONPJ,matrix spike dup|| rec,10/14/2010,Conventional,Total Organic Carbon,n/a,=,97,%,SM 5310 C,-88,-88
@@ -4055,11 +4055,11 @@
 2010/11-2,ME-CC,matrix spike dup|| rec,11/1/2010,Conventional,Total Chlorine Residual,n/a,=,81,%,SM 4500-Cl G,-88,-88
 2010/11-2,ME-CC,matrix spike|| rec,11/1/2010,Conventional,Total Chlorine Residual,n/a,=,80,%,SM 4500-Cl G,-88,-88
 2010/11-2,ME-CC,matrix spike|| RPD,11/1/2010,Conventional,Total Chlorine Residual,n/a,=,0.6,%,SM 4500-Cl G,-88,-88
-2010/11-2,000NONPJ,lab duplicate,11/5/2010,Conventional,Total,Dissolved,Solids,n/a,=,255 mg/L SM,2540,C
-2010/11-2,000NONPJ,lab duplicate,11/5/2010,Conventional,Total,Dissolved,Solids,n/a,=,975 mg/L SM,2540,C
-2010/11-2,Lab,LCS,11/5/2010,Conventional,Total,Dissolved,Solids,n/a,=,809 mg/L SM,2540,C
-2010/11-2,Lab,LCS|| rec,11/5/2010,Conventional,Total,Dissolved,Solids,n/a,=,98 % SM,2540,C
-2010/11-2,Lab,method blank,11/5/2010,Conventional,Total,Dissolved,Solids,n/a,<,4 mg/L SM,2540,C
+2010/11-2,000NONPJ,lab duplicate,11/5/2010,Conventional,Total Dissolved Solids,n/a,=,255,mg/L,SM 2540 C,4,10
+2010/11-2,000NONPJ,lab duplicate,11/5/2010,Conventional,Total Dissolved Solids,n/a,=,975,mg/L,SM 2540 C,4,10
+2010/11-2,Lab,LCS,11/5/2010,Conventional,Total Dissolved Solids,n/a,=,809,mg/L,SM 2540 C,4,10
+2010/11-2,Lab,LCS|| rec,11/5/2010,Conventional,Total Dissolved Solids,n/a,=,98,%,SM 2540 C,-88,-88
+2010/11-2,Lab,method blank,11/5/2010,Conventional,Total Dissolved Solids,n/a,<,4,mg/L,SM 2540 C,4,10
 2010/11-2,000NONPJ,matrix spike,11/10/2010,Conventional,Total Organic Carbon,n/a,=,6.98,mg/L,SM 5310 C,0.032,0.3
 2010/11-2,000NONPJ,matrix spike dup,11/10/2010,Conventional,Total Organic Carbon,n/a,=,6.93,mg/L,SM 5310 C,0.032,0.3
 2010/11-2,000NONPJ,matrix spike dup|| rec,11/10/2010,Conventional,Total Organic Carbon,n/a,=,102,%,SM 5310 C,-88,-88
@@ -7326,9 +7326,9 @@
 2010/11-3,Lab,LCS,12/2/2010,Anion,Perchlorate,n/a,=,10.2,µg/L,EPA 314.0,0.82,2
 2010/11-3,Lab,LCS|| rec,12/2/2010,Anion,Perchlorate,n/a,=,102,%,EPA 314.0,-88,-88
 2010/11-3,Lab,method blank,12/2/2010,Anion,Perchlorate,n/a,<,0.82,µg/L,EPA 314.0,0.82,2
-2010/11-3,MO-MEI,field duplicate,11/21/2010,Bacteriological,E. Coli,n/a,=,8664,MPN/100,mL MMO-MUG,10,10
-2010/11-3,MO-MEI,field duplicate,11/22/2010,Bacteriological,Fecal Coliform,n/a,=,5000,MPN/100,mL SM,9221,E
-2010/11-3,MO-MEI,field duplicate,11/21/2010,Bacteriological,Total Coliform,n/a,=,204600,MPN/100,mL MMO-MUG,1000,1000
+2010/11-3,MO-MEI,field duplicate,11/21/2010,Bacteriological,E. Coli,n/a,=,8664,MPN/100 mL,MMO-MUG,10,10
+2010/11-3,MO-MEI,field duplicate,11/22/2010,Bacteriological,Fecal Coliform,n/a,=,5000,MPN/100 mL,SM,9221,E
+2010/11-3,MO-MEI,field duplicate,11/21/2010,Bacteriological,Total Coliform,n/a,=,204600,MPN/100 mL,MMO-MUG,1000,1000
 2010/11-3,000NONPJ,matrix spike,11/29/2010,Cation,Calcium,Total,=,412,mg/L,EPA 200.7,0.016,0.1
 2010/11-3,000NONPJ,matrix spike dup,11/29/2010,Cation,Calcium,Total,=,406,mg/L,EPA 200.7,0.016,0.1
 2010/11-3,000NONPJ,matrix spike dup|| rec,11/29/2010,Cation,Calcium,Total,=,67,%,EPA 200.7,-88,-88
@@ -7393,11 +7393,11 @@
 2010/11-3,Lab,LCS,11/23/2010,Conventional,Specific Conductance,n/a,=,205,µmhos/cm,SM 2510 B,0.23,2
 2010/11-3,Lab,LCS|| rec,11/23/2010,Conventional,Specific Conductance,n/a,=,102,%,SM 2510 B,-88,-88
 2010/11-3,Lab,method blank,11/23/2010,Conventional,Specific Conductance,n/a,DNQ,0.39,µmhos/cm,SM 2510 B,0.23,2
-2010/11-3,000NONPJ,lab duplicate,11/23/2010,Conventional,Total,Dissolved,Solids,n/a,=,978 mg/L SM,2540,C
-2010/11-3,000NONPJ,lab duplicate,11/23/2010,Conventional,Total,Dissolved,Solids,n/a,=,175 mg/L SM,2540,C
-2010/11-3,Lab,LCS,11/23/2010,Conventional,Total,Dissolved,Solids,n/a,=,808 mg/L SM,2540,C
-2010/11-3,Lab,LCS|| rec,11/23/2010,Conventional,Total,Dissolved,Solids,n/a,=,98 % SM,2540,C
-2010/11-3,Lab,method blank,11/23/2010,Conventional,Total,Dissolved,Solids,n/a,<,4 mg/L SM,2540,C
+2010/11-3,000NONPJ,lab duplicate,11/23/2010,Conventional,Total Dissolved Solids,n/a,=,978,mg/L,SM 2540 C,4,10
+2010/11-3,000NONPJ,lab duplicate,11/23/2010,Conventional,Total Dissolved Solids,n/a,=,175,mg/L,SM 2540 C,4,10
+2010/11-3,Lab,LCS,11/23/2010,Conventional,Total Dissolved Solids,n/a,=,808,mg/L,SM 2540 C,4,10
+2010/11-3,Lab,LCS|| rec,11/23/2010,Conventional,Total Dissolved Solids,n/a,=,98,%,SM 2540 C,-88,-88
+2010/11-3,Lab,method blank,11/23/2010,Conventional,Total Dissolved Solids,n/a,<,4,mg/L,SM 2540 C,4,10
 2010/11-3,000NONPJ,matrix spike,12/1/2010,Conventional,Total Organic Carbon,n/a,=,5.45,mg/L,SM 5310 C,0.032,0.3
 2010/11-3,000NONPJ,matrix spike dup,12/1/2010,Conventional,Total Organic Carbon,n/a,=,5.39,mg/L,SM 5310 C,0.032,0.3
 2010/11-3,000NONPJ,matrix spike dup|| rec,12/1/2010,Conventional,Total Organic Carbon,n/a,=,98,%,SM 5310 C,-88,-88
@@ -9091,9 +9091,9 @@
 2010/11-4,Lab,LCS,3/4/2011,Anion,Perchlorate,n/a,=,10.6,µg/L,EPA 314.0,0.64,2
 2010/11-4,Lab,LCS|| rec,3/4/2011,Anion,Perchlorate,n/a,=,106,%,EPA 314.0,-88,-88
 2010/11-4,Lab,method blank,3/4/2011,Anion,Perchlorate,n/a,<,0.64,µg/L,EPA 314.0,0.64,2
-2010/11-4,MO-MEI,field blank,2/17/2011,Bacteriological,E. Coli,n/a,<,10,MPN/100,mL MMO-MUG,10,10
-2010/11-4,MO-MEI,field blank,2/18/2011,Bacteriological,Fecal Coliform,n/a,<,2,MPN/100,mL SM,9221,E
-2010/11-4,MO-MEI,field blank,2/17/2011,Bacteriological,Total Coliform,n/a,<,10,MPN/100,mL MMO-MUG,10,10
+2010/11-4,MO-MEI,field blank,2/17/2011,Bacteriological,E. Coli,n/a,<,10,MPN/100 mL,MMO-MUG,10,10
+2010/11-4,MO-MEI,field blank,2/18/2011,Bacteriological,Fecal Coliform,n/a,<,2,MPN/100 mL,SM,9221,E
+2010/11-4,MO-MEI,field blank,2/17/2011,Bacteriological,Total Coliform,n/a,<,10,MPN/100 mL,MMO-MUG,10,10
 2010/11-4,000NONPJ,matrix spike,3/1/2011,Cation,Calcium,Total,=,51.6,mg/L,EPA 200.7,0.016,0.1
 2010/11-4,000NONPJ,matrix spike dup,3/1/2011,Cation,Calcium,Total,=,50.7,mg/L,EPA 200.7,0.016,0.1
 2010/11-4,000NONPJ,matrix spike dup|| rec,3/1/2011,Cation,Calcium,Total,=,97,%,EPA 200.7,-88,-88
@@ -9223,11 +9223,11 @@
 2010/11-4,ME-CC,matrix spike dup|| rec,2/18/2011,Conventional,Total Chlorine Residual,n/a,=,84,%,SM 4500-Cl G,-88,-88
 2010/11-4,ME-CC,matrix spike|| rec,2/18/2011,Conventional,Total Chlorine Residual,n/a,=,85,%,SM 4500-Cl G,-88,-88
 2010/11-4,ME-CC,matrix spike|| RPD,2/18/2011,Conventional,Total Chlorine Residual,n/a,=,0.8,%,SM 4500-Cl G,-88,-88
-2010/11-4,000NONPJ,lab duplicate,2/18/2011,Conventional,Total,Dissolved,Solids,n/a,=,1480 mg/L SM,2540,C
-2010/11-4,000NONPJ,lab duplicate,2/18/2011,Conventional,Total,Dissolved,Solids,n/a,=,741 mg/L SM,2540,C
-2010/11-4,Lab,LCS,2/18/2011,Conventional,Total,Dissolved,Solids,n/a,=,832 mg/L SM,2540,C
-2010/11-4,Lab,LCS|| rec,2/18/2011,Conventional,Total,Dissolved,Solids,n/a,=,101 % SM,2540,C
-2010/11-4,Lab,method blank,2/18/2011,Conventional,Total,Dissolved,Solids,n/a,<,4 mg/L SM,2540,C
+2010/11-4,000NONPJ,lab duplicate,2/18/2011,Conventional,Total Dissolved Solids,n/a,=,1480,mg/L,SM 2540 C,4,10
+2010/11-4,000NONPJ,lab duplicate,2/18/2011,Conventional,Total Dissolved Solids,n/a,=,741,mg/L,SM 2540 C,4,10
+2010/11-4,Lab,LCS,2/18/2011,Conventional,Total Dissolved Solids,n/a,=,832,mg/L,SM 2540 C,4,10
+2010/11-4,Lab,LCS|| rec,2/18/2011,Conventional,Total Dissolved Solids,n/a,=,101,%,SM 2540 C,-88,-88
+2010/11-4,Lab,method blank,2/18/2011,Conventional,Total Dissolved Solids,n/a,<,4,mg/L,SM 2540 C,4,10
 2010/11-4,000NONPJ,matrix spike,3/2/2011,Conventional,Total Organic Carbon,n/a,=,4.96,mg/L,SM 5310 C,0.009,0.3
 2010/11-4,000NONPJ,matrix spike dup,3/2/2011,Conventional,Total Organic Carbon,n/a,=,4.85,mg/L,SM 5310 C,0.009,0.3
 2010/11-4,000NONPJ,matrix spike dup|| rec,3/2/2011,Conventional,Total Organic Carbon,n/a,=,95,%,SM 5310 C,-88,-88
@@ -12915,16 +12915,16 @@
 2010/11-5,ME-CC,matrix spike dup|| rec,4/29/2011,Conventional,Total Chlorine Residual,n/a,=,90,%,SM 4500-Cl G,-88,-88
 2010/11-5,ME-CC,matrix spike|| rec,4/29/2011,Conventional,Total Chlorine Residual,n/a,=,90,%,SM 4500-Cl G,-88,-88
 2010/11-5,ME-CC,matrix spike|| RPD,4/29/2011,Conventional,Total Chlorine Residual,n/a,=,0.3,%,SM 4500-Cl G,-88,-88
-2010/11-5,000NONPJ,lab duplicate,4/25/2011,Conventional,Total,Dissolved,Solids,n/a,=,430 mg/L SM,2540,C
-2010/11-5,000NONPJ,lab duplicate,4/25/2011,Conventional,Total,Dissolved,Solids,n/a,=,1300 mg/L SM,2540,C
-2010/11-5,000NONPJ,lab duplicate,5/4/2011,Conventional,Total,Dissolved,Solids,n/a,=,562 mg/L SM,2540,C
-2010/11-5,000NONPJ,lab duplicate,5/4/2011,Conventional,Total,Dissolved,Solids,n/a,=,19 mg/L SM,2540,C
-2010/11-5,Lab,LCS,4/25/2011,Conventional,Total,Dissolved,Solids,n/a,=,834 mg/L SM,2540,C
-2010/11-5,Lab,LCS|| rec,4/25/2011,Conventional,Total,Dissolved,Solids,n/a,=,101 % SM,2540,C
-2010/11-5,Lab,method blank,4/25/2011,Conventional,Total,Dissolved,Solids,n/a,<,4 mg/L SM,2540,C
-2010/11-5,Lab,LCS,5/4/2011,Conventional,Total,Dissolved,Solids,n/a,=,841 mg/L SM,2540,C
-2010/11-5,Lab,LCS|| rec,5/4/2011,Conventional,Total,Dissolved,Solids,n/a,=,102 % SM,2540,C
-2010/11-5,Lab,method blank,5/4/2011,Conventional,Total,Dissolved,Solids,n/a,<,4 mg/L SM,2540,C
+2010/11-5,000NONPJ,lab duplicate,4/25/2011,Conventional,Total Dissolved Solids,n/a,=,430,mg/L,SM 2540 C,4,10
+2010/11-5,000NONPJ,lab duplicate,4/25/2011,Conventional,Total Dissolved Solids,n/a,=,1300,mg/L,SM 2540 C,4,10
+2010/11-5,000NONPJ,lab duplicate,5/4/2011,Conventional,Total Dissolved Solids,n/a,=,562,mg/L,SM 2540 C,4,10
+2010/11-5,000NONPJ,lab duplicate,5/4/2011,Conventional,Total Dissolved Solids,n/a,=,19,mg/L,SM 2540 C,4,10
+2010/11-5,Lab,LCS,4/25/2011,Conventional,Total Dissolved Solids,n/a,=,834,mg/L,SM 2540 C,4,10
+2010/11-5,Lab,LCS|| rec,4/25/2011,Conventional,Total Dissolved Solids,n/a,=,101,%,SM 2540 C,-88,-88
+2010/11-5,Lab,method blank,4/25/2011,Conventional,Total Dissolved Solids,n/a,<,4,mg/L,SM 2540 C,4,10
+2010/11-5,Lab,LCS,5/4/2011,Conventional,Total Dissolved Solids,n/a,=,841,mg/L,SM 2540 C,4,10
+2010/11-5,Lab,LCS|| rec,5/4/2011,Conventional,Total Dissolved Solids,n/a,=,102,%,SM 2540 C,-88,-88
+2010/11-5,Lab,method blank,5/4/2011,Conventional,Total Dissolved Solids,n/a,<,4,mg/L,SM 2540 C,4,10
 2010/11-5,000NONPJ,matrix spike,4/28/2011,Conventional,Total Organic Carbon,n/a,=,11.8,mg/L,SM 5310 C,0.009,0.3
 2010/11-5,000NONPJ,matrix spike dup,4/28/2011,Conventional,Total Organic Carbon,n/a,=,11.7,mg/L,SM 5310 C,0.009,0.3
 2010/11-5,000NONPJ,matrix spike dup|| rec,4/28/2011,Conventional,Total Organic Carbon,n/a,=,88,%,SM 5310 C,-88,-88

@@ -1,4 +1,4 @@
-﻿2014/15-1,000NONPJ,matrix spike,11/6/2014,Anion,Chloride,n/a,=,146,mg/L,EPA 300.0,2.5,12
+2014/15-1,000NONPJ,matrix spike,11/6/2014,Anion,Chloride,n/a,=,146,mg/L,EPA 300.0,2.5,12
 2014/15-1,000NONPJ,matrix spike,11/6/2014,Anion,Chloride,n/a,=,3.88,mg/L,EPA 300.0,0.1,0.5
 2014/15-1,000NONPJ,matrix spike dup,11/6/2014,Anion,Chloride,n/a,=,3.86,mg/L,EPA 300.0,0.1,0.5
 2014/15-1,000NONPJ,matrix spike dup,11/6/2014,Anion,Chloride,n/a,=,145,mg/L,EPA 300.0,2.5,12
@@ -236,11 +236,11 @@
 2014/15-1,ME-VR2,matrix spike dup|| rec,11/2/2014,Conventional,Total Chlorine Residual,n/a,=,95,%,SM 4500-Cl G,-88,-88
 2014/15-1,ME-VR2,matrix spike|| rec,11/2/2014,Conventional,Total Chlorine Residual,n/a,=,89,%,SM 4500-Cl G,-88,-88
 2014/15-1,ME-VR2,matrix spike|| RPD,11/2/2014,Conventional,Total Chlorine Residual,n/a,=,5,%,SM 4500-Cl G,-88,-88
-2014/15-1,000NONPJ,lab duplicate,11/5/2014,Conventional,Total,Dissolved,Solids,n/a,=,437 mg/L SM,2540,C
-2014/15-1,Lab,LCS,11/5/2014,Conventional,Total,Dissolved,Solids,n/a,=,824 mg/L SM,2540,C
-2014/15-1,Lab,LCS|| rec,11/5/2014,Conventional,Total,Dissolved,Solids,n/a,=,100 % SM,2540,C
-2014/15-1,Lab,method blank,11/5/2014,Conventional,Total,Dissolved,Solids,n/a,<,4 mg/L SM,2540,C
-2014/15-1,MO-HUE,lab duplicate,11/5/2014,Conventional,Total,Dissolved,Solids,n/a,=,3310 mg/L SM,2540,C
+2014/15-1,000NONPJ,lab duplicate,11/5/2014,Conventional,Total Dissolved Solids,n/a,=,437,mg/L,SM 2540 C,4,10
+2014/15-1,Lab,LCS,11/5/2014,Conventional,Total Dissolved Solids,n/a,=,824,mg/L,SM 2540 C,4,10
+2014/15-1,Lab,LCS|| rec,11/5/2014,Conventional,Total Dissolved Solids,n/a,=,100,%,SM 2540 C,-88,-88
+2014/15-1,Lab,method blank,11/5/2014,Conventional,Total Dissolved Solids,n/a,<,4,mg/L,SM 2540 C,4,10
+2014/15-1,MO-HUE,lab duplicate,11/5/2014,Conventional,Total Dissolved Solids,n/a,=,3310,mg/L,SM 2540 C,4,10
 2014/15-1,000NONPJ,matrix spike,11/5/2014,Conventional,Total Organic Carbon,n/a,=,8.08,mg/L,SM 5310 C,0.009,0.3
 2014/15-1,000NONPJ,matrix spike dup,11/5/2014,Conventional,Total Organic Carbon,n/a,=,8.18,mg/L,SM 5310 C,0.009,0.3
 2014/15-1,000NONPJ,matrix spike dup|| rec,11/5/2014,Conventional,Total Organic Carbon,n/a,=,101,%,SM 5310 C,-88,-88
@@ -3277,9 +3277,9 @@
 2014/15-2,Lab,method blank,12/5/2014,Anion,Perchlorate,n/a,<,0.95,µg/L,EPA 314.0,0.95,2
 2014/15-2,Lab,LCS,12/5/2014,Anion,Perchlorate,n/a,=,10.2,µg/L,EPA 314.0,0.95,2
 2014/15-2,Lab,LCS|| rec,12/5/2014,Anion,Perchlorate,n/a,=,102,%,EPA 314.0,-88,-88
-2014/15-2,MO-OXN,field duplicate,12/3/2014,Bacteriological,E. Coli,n/a,=,7270,MPN/100,mL MMO-MUG,10,10
-2014/15-2,MO-OXN,field duplicate,12/5/2014,Bacteriological,Fecal Coliform,n/a,=,70000,MPN/100,mL SM,9221,E
-2014/15-2,MO-OXN,field duplicate,12/3/2014,Bacteriological,Total Coliform,n/a,=,25600,MPN/100,mL MMO-MUG,1000,1000
+2014/15-2,MO-OXN,field duplicate,12/3/2014,Bacteriological,E. Coli,n/a,=,7270,MPN/100 mL,MMO-MUG,10,10
+2014/15-2,MO-OXN,field duplicate,12/5/2014,Bacteriological,Fecal Coliform,n/a,=,70000,MPN/100 mL,SM,9221,E
+2014/15-2,MO-OXN,field duplicate,12/3/2014,Bacteriological,Total Coliform,n/a,=,25600,MPN/100 mL,MMO-MUG,1000,1000
 2014/15-2,Lab,method blank,12/12/2014,Cation,Calcium,Total,DNQ,0.0305,mg/L,EPA 200.7,0.016,0.1
 2014/15-2,Lab,LCS,12/12/2014,Cation,Calcium,Total,=,49.4,mg/L,EPA 200.7,0.016,0.1
 2014/15-2,Lab,LCS|| rec,12/12/2014,Cation,Calcium,Total,=,98,%,EPA 200.7,-88,-88
@@ -3370,21 +3370,21 @@
 2014/15-2,Lab,LCS,12/5/2014,Conventional,Specific Conductance,n/a,=,196,µmhos/cm,SM 2510 B,0.23,2
 2014/15-2,Lab,LCS|| rec,12/5/2014,Conventional,Specific Conductance,n/a,=,98,%,SM 2510 B,-88,-88
 2014/15-2,Lab,method blank,12/5/2014,Conventional,Specific Conductance,n/a,DNQ,0.55,µmhos/cm,SM 2510 B,0.23,2
-2014/15-2,000NONPJ,lab duplicate,12/4/2014,Conventional,Total,Dissolved,Solids,n/a,=,525 mg/L SM,2540,C
-2014/15-2,000NONPJ,lab duplicate,12/4/2014,Conventional,Total,Dissolved,Solids,n/a,=,412 mg/L SM,2540,C
-2014/15-2,000NONPJ,lab duplicate,12/8/2014,Conventional,Total,Dissolved,Solids,n/a,=,6260 mg/L SM,2540,C
-2014/15-2,000NONPJ,lab duplicate,12/8/2014,Conventional,Total,Dissolved,Solids,n/a,=,129 mg/L SM,2540,C
-2014/15-2,000NONPJ,lab duplicate,12/10/2014,Conventional,Total,Dissolved,Solids,n/a,=,1170 mg/L SM,2540,C
-2014/15-2,000NONPJ,lab duplicate,12/10/2014,Conventional,Total,Dissolved,Solids,n/a,=,2740 mg/L SM,2540,C
-2014/15-2,Lab,LCS,12/4/2014,Conventional,Total,Dissolved,Solids,n/a,=,819 mg/L SM,2540,C
-2014/15-2,Lab,LCS|| rec,12/4/2014,Conventional,Total,Dissolved,Solids,n/a,=,99 % SM,2540,C
-2014/15-2,Lab,method blank,12/4/2014,Conventional,Total,Dissolved,Solids,n/a,<,4 mg/L SM,2540,C
-2014/15-2,Lab,LCS,12/8/2014,Conventional,Total,Dissolved,Solids,n/a,=,827 mg/L SM,2540,C
-2014/15-2,Lab,LCS|| rec,12/8/2014,Conventional,Total,Dissolved,Solids,n/a,=,100 % SM,2540,C
-2014/15-2,Lab,method blank,12/8/2014,Conventional,Total,Dissolved,Solids,n/a,<,4 mg/L SM,2540,C
-2014/15-2,Lab,LCS,12/10/2014,Conventional,Total,Dissolved,Solids,n/a,=,823 mg/L SM,2540,C
-2014/15-2,Lab,LCS|| rec,12/10/2014,Conventional,Total,Dissolved,Solids,n/a,=,100 % SM,2540,C
-2014/15-2,Lab,method blank,12/10/2014,Conventional,Total,Dissolved,Solids,n/a,<,4 mg/L SM,2540,C
+2014/15-2,000NONPJ,lab duplicate,12/4/2014,Conventional,Total Dissolved Solids,n/a,=,525,mg/L,SM 2540 C,4,10
+2014/15-2,000NONPJ,lab duplicate,12/4/2014,Conventional,Total Dissolved Solids,n/a,=,412,mg/L,SM 2540 C,4,10
+2014/15-2,000NONPJ,lab duplicate,12/8/2014,Conventional,Total Dissolved Solids,n/a,=,6260,mg/L,SM 2540 C,4,10
+2014/15-2,000NONPJ,lab duplicate,12/8/2014,Conventional,Total Dissolved Solids,n/a,=,129,mg/L,SM 2540 C,4,10
+2014/15-2,000NONPJ,lab duplicate,12/10/2014,Conventional,Total Dissolved Solids,n/a,=,1170,mg/L,SM 2540 C,4,10
+2014/15-2,000NONPJ,lab duplicate,12/10/2014,Conventional,Total Dissolved Solids,n/a,=,2740,mg/L,SM 2540 C,4,10
+2014/15-2,Lab,LCS,12/4/2014,Conventional,Total Dissolved Solids,n/a,=,819,mg/L,SM 2540 C,4,10
+2014/15-2,Lab,LCS|| rec,12/4/2014,Conventional,Total Dissolved Solids,n/a,=,99,%,SM 2540 C,-88,-88
+2014/15-2,Lab,method blank,12/4/2014,Conventional,Total Dissolved Solids,n/a,<,4,mg/L,SM 2540 C,4,10
+2014/15-2,Lab,LCS,12/8/2014,Conventional,Total Dissolved Solids,n/a,=,827,mg/L,SM 2540 C,4,10
+2014/15-2,Lab,LCS|| rec,12/8/2014,Conventional,Total Dissolved Solids,n/a,=,100,%,SM 2540 C,-88,-88
+2014/15-2,Lab,method blank,12/8/2014,Conventional,Total Dissolved Solids,n/a,<,4,mg/L,SM 2540 C,4,10
+2014/15-2,Lab,LCS,12/10/2014,Conventional,Total Dissolved Solids,n/a,=,823,mg/L,SM 2540 C,4,10
+2014/15-2,Lab,LCS|| rec,12/10/2014,Conventional,Total Dissolved Solids,n/a,=,100,%,SM 2540 C,-88,-88
+2014/15-2,Lab,method blank,12/10/2014,Conventional,Total Dissolved Solids,n/a,<,4,mg/L,SM 2540 C,4,10
 2014/15-2,000NONPJ,lab duplicate,12/11/2014,Conventional,Total Organic Carbon,n/a,=,40.2,mg/L,SM 5310 C,0.09,3
 2014/15-2,000NONPJ,matrix spike,12/11/2014,Conventional,Total Organic Carbon,n/a,=,91.6,mg/L,SM 5310 C,0.09,3
 2014/15-2,000NONPJ,matrix spike dup,12/11/2014,Conventional,Total Organic Carbon,n/a,=,90.5,mg/L,SM 5310 C,0.09,3
@@ -6159,16 +6159,16 @@
 2014/15-3,Lab,LCS,12/12/2014,Conventional,Total Chlorine Residual,n/a,=,0.182,mg/L,SM 4500-Cl G,0.0015,0.05
 2014/15-3,Lab,LCS|| rec,12/12/2014,Conventional,Total Chlorine Residual,n/a,=,91,%,SM 4500-Cl G,-88,-88
 2014/15-3,Lab,method blank,12/12/2014,Conventional,Total Chlorine Residual,n/a,<,0.0015,mg/L,SM 4500-Cl G,0.0015,0.05
-2014/15-3,000NONPJ,lab duplicate,12/17/2014,Conventional,Total,Dissolved,Solids,n/a,=,1700 mg/L SM,2540,C
-2014/15-3,000NONPJ,lab duplicate,12/18/2014,Conventional,Total,Dissolved,Solids,n/a,=,6760 mg/L SM,2540,C
-2014/15-3,000NONPJ,lab duplicate,12/18/2014,Conventional,Total,Dissolved,Solids,n/a,=,80 mg/L SM,2540,C
-2014/15-3,Lab,LCS,12/17/2014,Conventional,Total,Dissolved,Solids,n/a,=,823 mg/L SM,2540,C
-2014/15-3,Lab,LCS|| rec,12/17/2014,Conventional,Total,Dissolved,Solids,n/a,=,100 % SM,2540,C
-2014/15-3,Lab,method blank,12/17/2014,Conventional,Total,Dissolved,Solids,n/a,<,4 mg/L SM,2540,C
-2014/15-3,Lab,LCS,12/18/2014,Conventional,Total,Dissolved,Solids,n/a,=,831 mg/L SM,2540,C
-2014/15-3,Lab,LCS|| rec,12/18/2014,Conventional,Total,Dissolved,Solids,n/a,=,101 % SM,2540,C
-2014/15-3,Lab,method blank,12/18/2014,Conventional,Total,Dissolved,Solids,n/a,<,4 mg/L SM,2540,C
-2014/15-3,ME-SCR,lab duplicate,12/17/2014,Conventional,Total,Dissolved,Solids,n/a,=,1780 mg/L SM,2540,C
+2014/15-3,000NONPJ,lab duplicate,12/17/2014,Conventional,Total Dissolved Solids,n/a,=,1700,mg/L,SM 2540 C,4,10
+2014/15-3,000NONPJ,lab duplicate,12/18/2014,Conventional,Total Dissolved Solids,n/a,=,6760,mg/L,SM 2540 C,4,10
+2014/15-3,000NONPJ,lab duplicate,12/18/2014,Conventional,Total Dissolved Solids,n/a,=,80,mg/L,SM 2540 C,4,10
+2014/15-3,Lab,LCS,12/17/2014,Conventional,Total Dissolved Solids,n/a,=,823,mg/L,SM 2540 C,4,10
+2014/15-3,Lab,LCS|| rec,12/17/2014,Conventional,Total Dissolved Solids,n/a,=,100,%,SM 2540 C,-88,-88
+2014/15-3,Lab,method blank,12/17/2014,Conventional,Total Dissolved Solids,n/a,<,4,mg/L,SM 2540 C,4,10
+2014/15-3,Lab,LCS,12/18/2014,Conventional,Total Dissolved Solids,n/a,=,831,mg/L,SM 2540 C,4,10
+2014/15-3,Lab,LCS|| rec,12/18/2014,Conventional,Total Dissolved Solids,n/a,=,101,%,SM 2540 C,-88,-88
+2014/15-3,Lab,method blank,12/18/2014,Conventional,Total Dissolved Solids,n/a,<,4,mg/L,SM 2540 C,4,10
+2014/15-3,ME-SCR,lab duplicate,12/17/2014,Conventional,Total Dissolved Solids,n/a,=,1780,mg/L,SM 2540 C,4,10
 2014/15-3,000NONPJ,matrix spike,12/20/2014,Conventional,Total Organic Carbon,n/a,=,6.48,mg/L,SM 5310 C,0.009,0.3
 2014/15-3,000NONPJ,matrix spike dup,12/20/2014,Conventional,Total Organic Carbon,n/a,=,6.38,mg/L,SM 5310 C,0.009,0.3
 2014/15-3,000NONPJ,matrix spike dup|| rec,12/20/2014,Conventional,Total Organic Carbon,n/a,=,100,%,SM 5310 C,-88,-88
@@ -9950,11 +9950,11 @@
 2014/15-4,Lab,LCS,4/11/2015,Conventional,Specific Conductance,n/a,=,191,µmhos/cm,SM 2510 B,0.23,2
 2014/15-4,Lab,LCS|| rec,4/11/2015,Conventional,Specific Conductance,n/a,=,95,%,SM 2510 B,-88,-88
 2014/15-4,Lab,method blank,4/11/2015,Conventional,Specific Conductance,n/a,<,0.23,µmhos/cm,SM 2510 B,0.23,2
-2014/15-4,000NONPJ,lab duplicate,4/13/2015,Conventional,Total,Dissolved,Solids,n/a,=,5980 mg/L SM,2540,C
-2014/15-4,000NONPJ,lab duplicate,4/13/2015,Conventional,Total,Dissolved,Solids,n/a,=,690 mg/L SM,2540,C
-2014/15-4,Lab,LCS,4/13/2015,Conventional,Total,Dissolved,Solids,n/a,=,806 mg/L SM,2540,C
-2014/15-4,Lab,LCS|| rec,4/13/2015,Conventional,Total,Dissolved,Solids,n/a,=,98 % SM,2540,C
-2014/15-4,Lab,method blank,4/13/2015,Conventional,Total,Dissolved,Solids,n/a,<,4 mg/L SM,2540,C
+2014/15-4,000NONPJ,lab duplicate,4/13/2015,Conventional,Total Dissolved Solids,n/a,=,5980,mg/L,SM 2540 C,4,10
+2014/15-4,000NONPJ,lab duplicate,4/13/2015,Conventional,Total Dissolved Solids,n/a,=,690,mg/L,SM 2540 C,4,10
+2014/15-4,Lab,LCS,4/13/2015,Conventional,Total Dissolved Solids,n/a,=,806,mg/L,SM 2540 C,4,10
+2014/15-4,Lab,LCS|| rec,4/13/2015,Conventional,Total Dissolved Solids,n/a,=,98,%,SM 2540 C,-88,-88
+2014/15-4,Lab,method blank,4/13/2015,Conventional,Total Dissolved Solids,n/a,<,4,mg/L,SM 2540 C,4,10
 2014/15-4,000NONPJ,matrix spike,4/10/2015,Conventional,Total Organic Carbon,n/a,=,5.88,mg/L,SM 5310 C,0.009,0.3
 2014/15-4,000NONPJ,matrix spike dup,4/10/2015,Conventional,Total Organic Carbon,n/a,=,5.83,mg/L,SM 5310 C,0.009,0.3
 2014/15-4,000NONPJ,matrix spike dup|| rec,4/10/2015,Conventional,Total Organic Carbon,n/a,=,99,%,SM 5310 C,-88,-88
@@ -11942,16 +11942,16 @@
 2014/15-5,ME-CC,matrix spike dup|| rec,5/15/2015,Conventional,Total Chlorine Residual,n/a,=,102,%,SM 4500-Cl G,-88,-88
 2014/15-5,ME-CC,matrix spike|| rec,5/15/2015,Conventional,Total Chlorine Residual,n/a,=,108,%,SM 4500-Cl G,-88,-88
 2014/15-5,ME-CC,matrix spike|| RPD,5/15/2015,Conventional,Total Chlorine Residual,n/a,=,5,%,SM 4500-Cl G,-88,-88
-2014/15-5,000NONPJ,lab duplicate,5/19/2015,Conventional,Total,Dissolved,Solids,n/a,=,3160 mg/L SM,2540,C
-2014/15-5,000NONPJ,lab duplicate,5/21/2015,Conventional,Total,Dissolved,Solids,n/a,=,1300 mg/L SM,2540,C
-2014/15-5,000NONPJ,lab duplicate,5/21/2015,Conventional,Total,Dissolved,Solids,n/a,=,11800 mg/L SM,2540,C
-2014/15-5,Lab,LCS,5/19/2015,Conventional,Total,Dissolved,Solids,n/a,=,814 mg/L SM,2540,C
-2014/15-5,Lab,LCS|| rec,5/19/2015,Conventional,Total,Dissolved,Solids,n/a,=,99 % SM,2540,C
-2014/15-5,Lab,method blank,5/19/2015,Conventional,Total,Dissolved,Solids,n/a,<,4 mg/L SM,2540,C
-2014/15-5,Lab,LCS,5/21/2015,Conventional,Total,Dissolved,Solids,n/a,=,831 mg/L SM,2540,C
-2014/15-5,Lab,LCS|| rec,5/21/2015,Conventional,Total,Dissolved,Solids,n/a,=,101 % SM,2540,C
-2014/15-5,Lab,method blank,5/21/2015,Conventional,Total,Dissolved,Solids,n/a,<,4 mg/L SM,2540,C
-2014/15-5,ME-SCR,lab duplicate,5/19/2015,Conventional,Total,Dissolved,Solids,n/a,=,1580 mg/L SM,2540,C
+2014/15-5,000NONPJ,lab duplicate,5/19/2015,Conventional,Total Dissolved Solids,n/a,=,3160,mg/L,SM 2540 C,4,10
+2014/15-5,000NONPJ,lab duplicate,5/21/2015,Conventional,Total Dissolved Solids,n/a,=,1300,mg/L,SM 2540 C,4,10
+2014/15-5,000NONPJ,lab duplicate,5/21/2015,Conventional,Total Dissolved Solids,n/a,=,11800,mg/L,SM 2540 C,4,10
+2014/15-5,Lab,LCS,5/19/2015,Conventional,Total Dissolved Solids,n/a,=,814,mg/L,SM 2540 C,4,10
+2014/15-5,Lab,LCS|| rec,5/19/2015,Conventional,Total Dissolved Solids,n/a,=,99,%,SM 2540 C,-88,-88
+2014/15-5,Lab,method blank,5/19/2015,Conventional,Total Dissolved Solids,n/a,<,4,mg/L,SM 2540 C,4,10
+2014/15-5,Lab,LCS,5/21/2015,Conventional,Total Dissolved Solids,n/a,=,831,mg/L,SM 2540 C,4,10
+2014/15-5,Lab,LCS|| rec,5/21/2015,Conventional,Total Dissolved Solids,n/a,=,101,%,SM 2540 C,-88,-88
+2014/15-5,Lab,method blank,5/21/2015,Conventional,Total Dissolved Solids,n/a,<,4,mg/L,SM 2540 C,4,10
+2014/15-5,ME-SCR,lab duplicate,5/19/2015,Conventional,Total Dissolved Solids,n/a,=,1580,mg/L,SM 2540 C,4,10
 2014/15-5,000NONPJ,matrix spike,6/1/2015,Conventional,Total Organic Carbon,n/a,=,63.1,mg/L,SM 5310 C,0.09,3
 2014/15-5,000NONPJ,matrix spike dup,6/1/2015,Conventional,Total Organic Carbon,n/a,=,63.5,mg/L,SM 5310 C,0.09,3
 2014/15-5,000NONPJ,matrix spike dup|| rec,6/1/2015,Conventional,Total Organic Carbon,n/a,=,97,%,SM 5310 C,-88,-88
@@ -14749,12 +14749,12 @@
 2014/15-6,MO-CAM,matrix spike dup,7/9/2015,Anion,Perchlorate,n/a,=,42.7,µg/L,EPA 314.0,1.9,4
 2014/15-6,MO-CAM,matrix spike dup|| rec,7/9/2015,Anion,Perchlorate,n/a,=,106,%,EPA 314.0,-88,-88
 2014/15-6,MO-CAM,matrix spike|| RPD,7/9/2015,Anion,Perchlorate,n/a,=,2,%,EPA 314.0,-88,-88
-2014/15-6,Lab,method blank,6/24/2015,Bacteriological,E. Coli,n/a,<,10,MPN/100,mL MMO-MUG,10,10
-2014/15-6,MO-THO,field duplicate,7/8/2015,Bacteriological,E. Coli,n/a,=,10,MPN/100,mL MMO-MUG,10,10
-2014/15-6,Lab,method blank,6/24/2015,Bacteriological,Enterococcus,n/a,<,10,MPN/100,mL Enterolert,10,10
-2014/15-6,MO-THO,field duplicate,7/10/2015,Bacteriological,Fecal Coliform,n/a,=,50000,MPN/100,mL SM,9221,E
-2014/15-6,Lab,method blank,6/24/2015,Bacteriological,Total Coliform,n/a,<,10,MPN/100,mL MMO-MUG,10,10
-2014/15-6,MO-THO,field duplicate,7/8/2015,Bacteriological,Total Coliform,n/a,=,17239,MPN/100,mL MMO-MUG,10,10
+2014/15-6,Lab,method blank,6/24/2015,Bacteriological,E. Coli,n/a,<,10,MPN/100 mL,MMO-MUG,10,10
+2014/15-6,MO-THO,field duplicate,7/8/2015,Bacteriological,E. Coli,n/a,=,10,MPN/100 mL,MMO-MUG,10,10
+2014/15-6,Lab,method blank,6/24/2015,Bacteriological,Enterococcus,n/a,<,10,MPN/100 mL,Enterolert,10,10
+2014/15-6,MO-THO,field duplicate,7/10/2015,Bacteriological,Fecal Coliform,n/a,=,50000,MPN/100 mL,SM,9221,E
+2014/15-6,Lab,method blank,6/24/2015,Bacteriological,Total Coliform,n/a,<,10,MPN/100 mL,MMO-MUG,10,10
+2014/15-6,MO-THO,field duplicate,7/8/2015,Bacteriological,Total Coliform,n/a,=,17239,MPN/100 mL,MMO-MUG,10,10
 2014/15-6,Lab,method blank,6/29/2015,Cation,Calcium,Total,<,0.016,mg/L,EPA 200.7,0.016,0.1
 2014/15-6,Lab,LCS,6/29/2015,Cation,Calcium,Total,=,49.7,mg/L,EPA 200.7,0.016,0.1
 2014/15-6,Lab,LCS|| rec,6/29/2015,Cation,Calcium,Total,=,99,%,EPA 200.7,-88,-88
@@ -14972,19 +14972,19 @@
 2014/15-6,Lab,LCS,7/7/2015,Conventional,Total Chlorine Residual,n/a,=,0.192,mg/L,SM 4500-Cl G,0.0015,0.05
 2014/15-6,Lab,LCS|| rec,7/7/2015,Conventional,Total Chlorine Residual,n/a,=,96,%,SM 4500-Cl G,-88,-88
 2014/15-6,Lab,method blank,7/7/2015,Conventional,Total Chlorine Residual,n/a,<,0.0015,mg/L,SM 4500-Cl G,0.0015,0.05
-2014/15-6,000NONPJ,lab duplicate,6/28/2015,Conventional,Total,Dissolved,Solids,n/a,=,4890 mg/L SM,2540,C
-2014/15-6,000NONPJ,lab duplicate,7/6/2015,Conventional,Total,Dissolved,Solids,n/a,=,6250 mg/L SM,2540,C
-2014/15-6,000NONPJ,lab duplicate,7/8/2015,Conventional,Total,Dissolved,Solids,n/a,=,998 mg/L SM,2540,C
-2014/15-6,Lab,LCS,6/28/2015,Conventional,Total,Dissolved,Solids,n/a,=,803 mg/L SM,2540,C
-2014/15-6,Lab,LCS|| rec,6/28/2015,Conventional,Total,Dissolved,Solids,n/a,=,97 % SM,2540,C
-2014/15-6,Lab,method blank,6/28/2015,Conventional,Total,Dissolved,Solids,n/a,<,4 mg/L SM,2540,C
-2014/15-6,Lab,LCS,7/6/2015,Conventional,Total,Dissolved,Solids,n/a,=,813 mg/L SM,2540,C
-2014/15-6,Lab,LCS|| rec,7/6/2015,Conventional,Total,Dissolved,Solids,n/a,=,99 % SM,2540,C
-2014/15-6,Lab,method blank,7/6/2015,Conventional,Total,Dissolved,Solids,n/a,<,4 mg/L SM,2540,C
-2014/15-6,Lab,LCS,7/8/2015,Conventional,Total,Dissolved,Solids,n/a,=,810 mg/L SM,2540,C
-2014/15-6,Lab,LCS|| rec,7/8/2015,Conventional,Total,Dissolved,Solids,n/a,=,98 % SM,2540,C
-2014/15-6,Lab,method blank,7/8/2015,Conventional,Total,Dissolved,Solids,n/a,<,4 mg/L SM,2540,C
-2014/15-6,MO-FIL,lab duplicate,7/6/2015,Conventional,Total,Dissolved,Solids,n/a,=,1370 mg/L SM,2540,C
+2014/15-6,000NONPJ,lab duplicate,6/28/2015,Conventional,Total Dissolved Solids,n/a,=,4890,mg/L,SM 2540 C,4,10
+2014/15-6,000NONPJ,lab duplicate,7/6/2015,Conventional,Total Dissolved Solids,n/a,=,6250,mg/L,SM 2540 C,4,10
+2014/15-6,000NONPJ,lab duplicate,7/8/2015,Conventional,Total Dissolved Solids,n/a,=,998,mg/L,SM 2540 C,4,10
+2014/15-6,Lab,LCS,6/28/2015,Conventional,Total Dissolved Solids,n/a,=,803,mg/L,SM 2540 C,4,10
+2014/15-6,Lab,LCS|| rec,6/28/2015,Conventional,Total Dissolved Solids,n/a,=,97,%,SM 2540 C,-88,-88
+2014/15-6,Lab,method blank,6/28/2015,Conventional,Total Dissolved Solids,n/a,<,4,mg/L,SM 2540 C,4,10
+2014/15-6,Lab,LCS,7/6/2015,Conventional,Total Dissolved Solids,n/a,=,813,mg/L,SM 2540 C,4,10
+2014/15-6,Lab,LCS|| rec,7/6/2015,Conventional,Total Dissolved Solids,n/a,=,99,%,SM 2540 C,-88,-88
+2014/15-6,Lab,method blank,7/6/2015,Conventional,Total Dissolved Solids,n/a,<,4,mg/L,SM 2540 C,4,10
+2014/15-6,Lab,LCS,7/8/2015,Conventional,Total Dissolved Solids,n/a,=,810,mg/L,SM 2540 C,4,10
+2014/15-6,Lab,LCS|| rec,7/8/2015,Conventional,Total Dissolved Solids,n/a,=,98,%,SM 2540 C,-88,-88
+2014/15-6,Lab,method blank,7/8/2015,Conventional,Total Dissolved Solids,n/a,<,4,mg/L,SM 2540 C,4,10
+2014/15-6,MO-FIL,lab duplicate,7/6/2015,Conventional,Total Dissolved Solids,n/a,=,1370,mg/L,SM 2540 C,4,10
 2014/15-6,000NONPJ,matrix spike,7/6/2015,Conventional,Total Organic Carbon,n/a,=,5.93,mg/L,SM 5310 C,0.009,0.3
 2014/15-6,000NONPJ,matrix spike dup,7/6/2015,Conventional,Total Organic Carbon,n/a,=,5.88,mg/L,SM 5310 C,0.009,0.3
 2014/15-6,000NONPJ,matrix spike dup|| rec,7/6/2015,Conventional,Total Organic Carbon,n/a,=,94,%,SM 5310 C,-88,-88

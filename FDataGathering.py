@@ -1,4 +1,5 @@
-# The first step is to gather all the data in a workable format.
+# This one gathered all the F Data into data/{year}f.txt files.
+# It has completed its job admirably.
 
 import pandas as pd
 import numpy as np
@@ -135,6 +136,9 @@ for name in datanames:
             foundFraction = False
             Constituent = splitprecsv[foundAnalysisDateWhenJ + 2]
             k = foundAnalysisDateWhenJ + 3
+            if re.search(r'Dissolved', splitprecsv[foundAnalysisDateWhenJ + 3]) is not None and re.search(r'Solids', splitprecsv[foundAnalysisDateWhenJ + 4]) is not None:
+                Constituent = Constituent + ' ' + splitprecsv[foundAnalysisDateWhenJ + 3] + ' ' + splitprecsv[foundAnalysisDateWhenJ + 4]
+                k = foundAnalysisDateWhenJ + 5
             foundFractionWhenK = k
             while foundFraction is not True:
                 if re.search(r'n/a', splitprecsv[k]) is not None or re.search(r'Total',
@@ -154,9 +158,13 @@ for name in datanames:
             # print(f'Sign: {Sign}')
             Result = splitprecsv[foundFractionWhenK + 2]
             # print(f'Result: {Result}')
-            Units = splitprecsv[foundFractionWhenK + 3]
-            # print(f'Units: {Units}')
-            Method = splitprecsv[foundFractionWhenK + 4] + ' ' + splitprecsv[foundFractionWhenK + 5]
+            if re.search(r'MPN/100', splitprecsv[foundFractionWhenK + 3]) is None:
+                Units = splitprecsv[foundFractionWhenK + 3]
+                # print(f'Units: {Units}')
+                Method = splitprecsv[foundFractionWhenK + 4] + ' ' + splitprecsv[foundFractionWhenK + 5]
+            if re.search(r'MPN/100', splitprecsv[foundFractionWhenK + 3]) is not None:
+                Units = splitprecsv[foundFractionWhenK + 3] + ' ' + splitprecsv[foundFractionWhenK + 4]
+                Method = splitprecsv[foundFractionWhenK + 5]
             m = foundFractionWhenK + 5
             foundLastMethodWhenM = m
             if re.search(r'[a-zA-Z]', splitprecsv[m + 1]) is not None:
@@ -168,7 +176,7 @@ for name in datanames:
             RL = splitprecsv[foundLastMethodWhenM + 2]
             # print(f'RL: {RL}')
 
-            with open(f'data/{name}f.txt', 'a') as file2:
+            with open(f'data/{name.replace("f", "").replace("g", "")}f.txt', 'a') as file2:
                 file2.write(f'{EventID},'
                             f'{SiteID},'
                             f'{QAQCSampleType},'
@@ -195,39 +203,3 @@ for name in datanames:
                   f'{Method},'
                   f'{MDL},'
                   f'{RL}\n')
-
-# old = 'Below is the code that separated data from non-data.'
-#
-# garbagefg = open('data/precsv/garbagefg.txt', 'w')
-# thingswhichneedutf8 = ['2019fg',
-#                        '2018fg',
-#                        '2017g',
-#                        '2017f',
-#                        '2016g',
-#                        '2016f',
-#                        '2015fg',
-#                        '2014f',
-#                        '2013fg',
-#                        '2012g',
-#                        '2012f',
-#                        '2011fg']
-#
-# for k in thingswhichneedutf8:
-#     with open(f'precsv{k}.txt', 'w', encoding='utf-8', errors='ignore') as datafile:
-#         sepraw = open(f'data/correctlyencoded/{k}.txt', 'r', encoding='utf-8-sig', errors='ignore').read().replace('\uf076', '||||').replace('\uf0e0', '||||').replace('\u2070', '||||').replace('\u0d4c', '||||').replace('\u0d45', '||||').replace('\u0b3b', '||||').replace('ଶ଴ସି௣ு', '||||').replace('ுି', '||||').replace('ଶ଴ସ', '||||').replace('\u0be3', '||||').replace('\u05db', '||||').replace('\u123a', '||||').replace('\u2265', '||||').split(sep='\n')
-#         # if k not in thingswhichneedutf8:
-#         #     sepraw = open(f'data/raw/{k}.txt', 'r').read().split(sep='\n')
-#         # if k in thingswhichneedutf8:
-#         #     sepraw = open(f'data/raw/{k}.txt', 'r', encoding='utf-8').read().split(sep='\n')
-#         for i in sepraw:
-#             eventpresent = 0
-#             for j in fevents:
-#                 if re.search(f'{j}', i) is None:
-#                     eventpresent += 1
-#             if eventpresent == len(fevents):
-#                 print(f'{i}\t\t{k}')
-#                 garbagefg.write(f'{i}\n')
-#             if eventpresent < len(fevents):
-#                 datafile.write(f'{i}\n')
-#
-# garbagefg.close()

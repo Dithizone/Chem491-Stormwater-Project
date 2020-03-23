@@ -1,4 +1,3 @@
-
 2016/17-1,000NONPJ,matrix spike,11/8/2016,Anion,Chloride,n/a,=,134,mg/L,EPA 300.0,1,5
 2016/17-1,000NONPJ,matrix spike,11/8/2016,Anion,Chloride,n/a,=,99.1,mg/L,EPA 300.0,1,5
 2016/17-1,000NONPJ,matrix spike dup,11/8/2016,Anion,Chloride,n/a,=,134,mg/L,EPA 300.0,1,5
@@ -85,9 +84,9 @@
 2016/17-1,Lab,LCS,11/9/2016,Anion,Sulfate,Total,=,2.46,mg/L,EPA 300.0,0.1,0.5
 2016/17-1,Lab,LCS|| rec,11/9/2016,Anion,Sulfate,Total,=,99,%,EPA 300.0,-88,-88
 2016/17-1,Lab,method blank,11/9/2016,Anion,Sulfate,Total,<,0.1,mg/L,EPA 300.0,0.1,0.5
-2016/17-1,MO-VEN,field duplicate,10/29/2016,Bacteriological,E. Coli,n/a,=,57940,MPN/100,mL MMO-MUG,100,100
-2016/17-1,MO-VEN,field duplicate,10/31/2016,Bacteriological,Fecal Coliform,n/a,=,240000,MPN/100,mL SM,9221,E
-2016/17-1,MO-VEN,field duplicate,10/29/2016,Bacteriological,Total Coliform,n/a,=,1046200,MPN/100,mL MMO-MUG,1000,1000
+2016/17-1,MO-VEN,field duplicate,10/29/2016,Bacteriological,E. Coli,n/a,=,57940,MPN/100 mL,MMO-MUG,100,100
+2016/17-1,MO-VEN,field duplicate,10/31/2016,Bacteriological,Fecal Coliform,n/a,=,240000,MPN/100 mL,SM,9221,E
+2016/17-1,MO-VEN,field duplicate,10/29/2016,Bacteriological,Total Coliform,n/a,=,1046200,MPN/100 mL,MMO-MUG,1000,1000
 2016/17-1,Lab,method blank,11/2/2016,Cation,Calcium,Total,<,0.016,mg/L,EPA 200.7,0.016,0.1
 2016/17-1,Lab,LCS,11/2/2016,Cation,Calcium,Total,=,47.3,mg/L,EPA 200.7,0.016,0.1
 2016/17-1,Lab,LCS|| rec,11/2/2016,Cation,Calcium,Total,=,94,%,EPA 200.7,-88,-88
@@ -283,11 +282,11 @@
 2016/17-1,ME-CC,matrix spike dup|| rec,10/29/2016,Conventional,Total Chlorine Residual,n/a,=,87,%,SM 4500-Cl G,-88,-88
 2016/17-1,ME-CC,matrix spike|| rec,10/29/2016,Conventional,Total Chlorine Residual,n/a,=,86,%,SM 4500-Cl G,-88,-88
 2016/17-1,ME-CC,matrix spike|| RPD,10/29/2016,Conventional,Total Chlorine Residual,n/a,=,1,%,SM 4500-Cl G,-88,-88
-2016/17-1,000NONPJ,lab duplicate,11/1/2016,Conventional,Total,Dissolved,Solids,n/a,=,1820 mg/L SM,2540,C
-2016/17-1,Lab,LCS,11/1/2016,Conventional,Total,Dissolved,Solids,n/a,=,795 mg/L SM,2540,C
-2016/17-1,Lab,LCS|| rec,11/1/2016,Conventional,Total,Dissolved,Solids,n/a,=,96 % SM,2540,C
-2016/17-1,Lab,method blank,11/1/2016,Conventional,Total,Dissolved,Solids,n/a,<,4 mg/L SM,2540,C
-2016/17-1,MO-THO,lab duplicate,11/1/2016,Conventional,Total,Dissolved,Solids,n/a,=,1270 mg/L SM,2540,C
+2016/17-1,000NONPJ,lab duplicate,11/1/2016,Conventional,Total Dissolved Solids,n/a,=,1820,mg/L,SM 2540 C,4,10
+2016/17-1,Lab,LCS,11/1/2016,Conventional,Total Dissolved Solids,n/a,=,795,mg/L,SM 2540 C,4,10
+2016/17-1,Lab,LCS|| rec,11/1/2016,Conventional,Total Dissolved Solids,n/a,=,96,%,SM 2540 C,-88,-88
+2016/17-1,Lab,method blank,11/1/2016,Conventional,Total Dissolved Solids,n/a,<,4,mg/L,SM 2540 C,4,10
+2016/17-1,MO-THO,lab duplicate,11/1/2016,Conventional,Total Dissolved Solids,n/a,=,1270,mg/L,SM 2540 C,4,10
 2016/17-1,000NONPJ,matrix spike,11/2/2016,Conventional,Total Organic Carbon,n/a,=,4.94,mg/L,SM 5310 C,0.009,0.3
 2016/17-1,000NONPJ,matrix spike dup,11/2/2016,Conventional,Total Organic Carbon,n/a,=,5.3,mg/L,SM 5310 C,0.009,0.3
 2016/17-1,000NONPJ,matrix spike dup|| rec,11/2/2016,Conventional,Total Organic Carbon,n/a,=,102,%,SM 5310 C,-88,-88
@@ -3409,9 +3408,9 @@
 2016/17-2,Lab,LCS,12/10/2016,Anion,Sulfate,Total,=,2.43,mg/L,EPA 300.0,0.1,0.5
 2016/17-2,Lab,LCS|| rec,12/10/2016,Anion,Sulfate,Total,=,97,%,EPA 300.0,-88,-88
 2016/17-2,Lab,method blank,12/10/2016,Anion,Sulfate,Total,<,0.1,mg/L,EPA 300.0,0.1,0.5
-2016/17-2,MO-SPA,field blank,11/21/2016,Bacteriological,E. Coli,n/a,<,10,MPN/100,mL MMO-MUG,10,10
-2016/17-2,MO-SPA,field blank,11/23/2016,Bacteriological,Fecal Coliform,n/a,<,2,MPN/100,mL SM,9221,E
-2016/17-2,MO-SPA,field blank,11/21/2016,Bacteriological,Total Coliform,n/a,<,10,MPN/100,mL MMO-MUG,10,10
+2016/17-2,MO-SPA,field blank,11/21/2016,Bacteriological,E. Coli,n/a,<,10,MPN/100 mL,MMO-MUG,10,10
+2016/17-2,MO-SPA,field blank,11/23/2016,Bacteriological,Fecal Coliform,n/a,<,2,MPN/100 mL,SM,9221,E
+2016/17-2,MO-SPA,field blank,11/21/2016,Bacteriological,Total Coliform,n/a,<,10,MPN/100 mL,MMO-MUG,10,10
 2016/17-2,000NONPJ,matrix spike,12/7/2016,Cation,Calcium,Total,=,64,mg/L,EPA 200.7,0.032,0.2
 2016/17-2,000NONPJ,matrix spike|| rec,12/7/2016,Cation,Calcium,Total,=,100,%,EPA 200.7,-88,-88
 2016/17-2,000NONPJ,matrix spike dup,12/7/2016,Cation,Calcium,Total,=,61.3,mg/L,EPA 200.7,0.032,0.2
@@ -3655,11 +3654,11 @@
 2016/17-2,ME-CC,matrix spike dup|| rec,11/22/2016,Conventional,Total Chlorine Residual,n/a,=,93,%,SM 4500-Cl G,-88,-88
 2016/17-2,ME-CC,matrix spike|| rec,11/22/2016,Conventional,Total Chlorine Residual,n/a,=,97,%,SM 4500-Cl G,-88,-88
 2016/17-2,ME-CC,matrix spike|| RPD,11/22/2016,Conventional,Total Chlorine Residual,n/a,=,4,%,SM 4500-Cl G,-88,-88
-2016/17-2,000NONPJ,lab duplicate,11/23/2016,Conventional,Total,Dissolved,Solids,n/a,=,11400 mg/L SM,2540,C
-2016/17-2,Lab,LCS,11/23/2016,Conventional,Total,Dissolved,Solids,n/a,=,836 mg/L SM,2540,C
-2016/17-2,Lab,LCS|| rec,11/23/2016,Conventional,Total,Dissolved,Solids,n/a,=,101 % SM,2540,C
-2016/17-2,Lab,method blank,11/23/2016,Conventional,Total,Dissolved,Solids,n/a,<,4 mg/L SM,2540,C
-2016/17-2,MO-HUE,lab duplicate,11/23/2016,Conventional,Total,Dissolved,Solids,n/a,=,5560 mg/L SM,2540,C
+2016/17-2,000NONPJ,lab duplicate,11/23/2016,Conventional,Total Dissolved Solids,n/a,=,11400,mg/L,SM 2540 C,4,10
+2016/17-2,Lab,LCS,11/23/2016,Conventional,Total Dissolved Solids,n/a,=,836,mg/L,SM 2540 C,4,10
+2016/17-2,Lab,LCS|| rec,11/23/2016,Conventional,Total Dissolved Solids,n/a,=,101,%,SM 2540 C,-88,-88
+2016/17-2,Lab,method blank,11/23/2016,Conventional,Total Dissolved Solids,n/a,<,4,mg/L,SM 2540 C,4,10
+2016/17-2,MO-HUE,lab duplicate,11/23/2016,Conventional,Total Dissolved Solids,n/a,=,5560,mg/L,SM 2540 C,4,10
 2016/17-2,Lab,LCS,11/30/2016,Conventional,Total Organic Carbon,n/a,=,4.93,mg/L,SM 5310 C,0.009,0.3
 2016/17-2,Lab,LCS,11/30/2016,Conventional,Total Organic Carbon,n/a,=,9.82,mg/L,SM 5310 C,0.009,0.3
 2016/17-2,Lab,LCS|| rec,11/30/2016,Conventional,Total Organic Carbon,n/a,=,99,%,SM 5310 C,-88,-88
@@ -7196,12 +7195,12 @@
 2016/17-3,MO-CAM,matrix spike dup|| rec,12/27/2016,Anion,Sulfate,Total,=,105,%,EPA 300.0,-88,-88
 2016/17-3,MO-CAM,matrix spike|| rec,12/27/2016,Anion,Sulfate,Total,=,105,%,EPA 300.0,-88,-88
 2016/17-3,MO-CAM,matrix spike|| RPD,12/27/2016,Anion,Sulfate,Total,=,0.4,%,EPA 300.0,-88,-88
-2016/17-3,MO-CAM,field duplicate,12/16/2016,Bacteriological,E. Coli,n/a,=,3076,MPN/100,mL MMO-MUG,10,10
-2016/17-3,MO-SPA,field blank,12/16/2016,Bacteriological,E. Coli,n/a,<,10,MPN/100,mL MMO-MUG,10,10
-2016/17-3,MO-CAM,field duplicate,12/19/2016,Bacteriological,Fecal Coliform,n/a,>,16000,MPN/100,mL SM,9221,E
-2016/17-3,MO-SPA,field blank,12/17/2016,Bacteriological,Fecal Coliform,n/a,<,2,MPN/100,mL SM,9221,E
-2016/17-3,MO-CAM,field duplicate,12/16/2016,Bacteriological,Total Coliform,n/a,=,21430,MPN/100,mL MMO-MUG,100,100
-2016/17-3,MO-SPA,field blank,12/16/2016,Bacteriological,Total Coliform,n/a,<,10,MPN/100,mL MMO-MUG,10,10
+2016/17-3,MO-CAM,field duplicate,12/16/2016,Bacteriological,E. Coli,n/a,=,3076,MPN/100 mL,MMO-MUG,10,10
+2016/17-3,MO-SPA,field blank,12/16/2016,Bacteriological,E. Coli,n/a,<,10,MPN/100 mL,MMO-MUG,10,10
+2016/17-3,MO-CAM,field duplicate,12/19/2016,Bacteriological,Fecal Coliform,n/a,>,16000,MPN/100 mL,SM,9221,E
+2016/17-3,MO-SPA,field blank,12/17/2016,Bacteriological,Fecal Coliform,n/a,<,2,MPN/100 mL,SM,9221,E
+2016/17-3,MO-CAM,field duplicate,12/16/2016,Bacteriological,Total Coliform,n/a,=,21430,MPN/100 mL,MMO-MUG,100,100
+2016/17-3,MO-SPA,field blank,12/16/2016,Bacteriological,Total Coliform,n/a,<,10,MPN/100 mL,MMO-MUG,10,10
 2016/17-3,Lab,method blank,12/27/2016,Cation,Calcium,Total,<,0.016,mg/L,EPA 200.7,0.016,0.1
 2016/17-3,Lab,LCS,12/27/2016,Cation,Calcium,Total,=,48,mg/L,EPA 200.7,0.016,0.1
 2016/17-3,Lab,LCS|| rec,12/27/2016,Cation,Calcium,Total,=,96,%,EPA 200.7,-88,-88
@@ -7438,11 +7437,11 @@
 2016/17-3,ME-CC,matrix spike dup|| rec,12/17/2016,Conventional,Total Chlorine Residual,n/a,=,108,%,SM 4500-Cl G,-88,-88
 2016/17-3,ME-CC,matrix spike|| rec,12/17/2016,Conventional,Total Chlorine Residual,n/a,=,94,%,SM 4500-Cl G,-88,-88
 2016/17-3,ME-CC,matrix spike|| RPD,12/17/2016,Conventional,Total Chlorine Residual,n/a,=,13,%,SM 4500-Cl G,-88,-88
-2016/17-3,000NONPJ,lab duplicate,12/22/2016,Conventional,Total,Dissolved,Solids,n/a,=,54 mg/L SM,2540,C
-2016/17-3,Lab,LCS,12/22/2016,Conventional,Total,Dissolved,Solids,n/a,=,794 mg/L SM,2540,C
-2016/17-3,Lab,LCS|| rec,12/22/2016,Conventional,Total,Dissolved,Solids,n/a,=,96 % SM,2540,C
-2016/17-3,Lab,method blank,12/22/2016,Conventional,Total,Dissolved,Solids,n/a,<,4 mg/L SM,2540,C
-2016/17-3,MO-HUE,lab duplicate,12/22/2016,Conventional,Total,Dissolved,Solids,n/a,=,2730 mg/L SM,2540,C
+2016/17-3,000NONPJ,lab duplicate,12/22/2016,Conventional,Total Dissolved Solids,n/a,=,54,mg/L,SM 2540 C,4,10
+2016/17-3,Lab,LCS,12/22/2016,Conventional,Total Dissolved Solids,n/a,=,794,mg/L,SM 2540 C,4,10
+2016/17-3,Lab,LCS|| rec,12/22/2016,Conventional,Total Dissolved Solids,n/a,=,96,%,SM 2540 C,-88,-88
+2016/17-3,Lab,method blank,12/22/2016,Conventional,Total Dissolved Solids,n/a,<,4,mg/L,SM 2540 C,4,10
+2016/17-3,MO-HUE,lab duplicate,12/22/2016,Conventional,Total Dissolved Solids,n/a,=,2730,mg/L,SM 2540 C,4,10
 2016/17-3,000NONPJ,matrix spike,12/20/2016,Conventional,Total Organic Carbon,n/a,=,7.62,mg/L,SM 5310 C,0.009,0.3
 2016/17-3,000NONPJ,matrix spike dup,12/20/2016,Conventional,Total Organic Carbon,n/a,=,8.03,mg/L,SM 5310 C,0.009,0.3
 2016/17-3,000NONPJ,matrix spike dup|| rec,12/20/2016,Conventional,Total Organic Carbon,n/a,=,107,%,SM 5310 C,-88,-88
@@ -11112,11 +11111,11 @@
 2016/17-4,Lab,LCS,1/7/2017,Conventional,Specific Conductance,n/a,=,201,µmhos/cm,SM 2510 B,0.23,2
 2016/17-4,Lab,LCS|| rec,1/7/2017,Conventional,Specific Conductance,n/a,=,100,%,SM 2510 B,-88,-88
 2016/17-4,Lab,method blank,1/7/2017,Conventional,Specific Conductance,n/a,DNQ,0.29,µmhos/cm,SM 2510 B,0.23,2
-2016/17-4,000NONPJ,lab duplicate,1/8/2017,Conventional,Total,Dissolved,Solids,n/a,=,297 mg/L SM,2540,C
-2016/17-4,000NONPJ,lab duplicate,1/8/2017,Conventional,Total,Dissolved,Solids,n/a,=,4830 mg/L SM,2540,C
-2016/17-4,Lab,LCS,1/8/2017,Conventional,Total,Dissolved,Solids,n/a,=,833 mg/L SM,2540,C
-2016/17-4,Lab,LCS|| rec,1/8/2017,Conventional,Total,Dissolved,Solids,n/a,=,101 % SM,2540,C
-2016/17-4,Lab,method blank,1/8/2017,Conventional,Total,Dissolved,Solids,n/a,<,4 mg/L SM,2540,C
+2016/17-4,000NONPJ,lab duplicate,1/8/2017,Conventional,Total Dissolved Solids,n/a,=,297,mg/L,SM 2540 C,4,10
+2016/17-4,000NONPJ,lab duplicate,1/8/2017,Conventional,Total Dissolved Solids,n/a,=,4830,mg/L,SM 2540 C,4,10
+2016/17-4,Lab,LCS,1/8/2017,Conventional,Total Dissolved Solids,n/a,=,833,mg/L,SM 2540 C,4,10
+2016/17-4,Lab,LCS|| rec,1/8/2017,Conventional,Total Dissolved Solids,n/a,=,101,%,SM 2540 C,-88,-88
+2016/17-4,Lab,method blank,1/8/2017,Conventional,Total Dissolved Solids,n/a,<,4,mg/L,SM 2540 C,4,10
 2016/17-4,000NONPJ,matrix spike,1/9/2017,Conventional,Total Organic Carbon,n/a,=,5.06,mg/L,SM 5310 C,0.009,0.3
 2016/17-4,000NONPJ,matrix spike dup,1/9/2017,Conventional,Total Organic Carbon,n/a,=,5.39,mg/L,SM 5310 C,0.009,0.3
 2016/17-4,000NONPJ,matrix spike dup|| rec,1/9/2017,Conventional,Total Organic Carbon,n/a,=,104,%,SM 5310 C,-88,-88
@@ -13436,16 +13435,16 @@
 2016/17-5,Lab,LCS,1/28/2017,Conventional,Specific Conductance,n/a,=,204,µmhos/cm,SM 2510 B,0.23,2
 2016/17-5,Lab,LCS|| rec,1/28/2017,Conventional,Specific Conductance,n/a,=,102,%,SM 2510 B,-88,-88
 2016/17-5,Lab,method blank,1/28/2017,Conventional,Specific Conductance,n/a,DNQ,0.92,µmhos/cm,SM 2510 B,0.23,2
-2016/17-5,000NONPJ,lab duplicate,1/24/2017,Conventional,Total,Dissolved,Solids,n/a,=,846 mg/L SM,2540,C
-2016/17-5,000NONPJ,lab duplicate,1/25/2017,Conventional,Total,Dissolved,Solids,n/a,=,63 mg/L SM,2540,C
-2016/17-5,000NONPJ,lab duplicate,1/25/2017,Conventional,Total,Dissolved,Solids,n/a,=,288 mg/L SM,2540,C
-2016/17-5,Lab,LCS,1/24/2017,Conventional,Total,Dissolved,Solids,n/a,=,797 mg/L SM,2540,C
-2016/17-5,Lab,LCS|| rec,1/24/2017,Conventional,Total,Dissolved,Solids,n/a,=,97 % SM,2540,C
-2016/17-5,Lab,method blank,1/24/2017,Conventional,Total,Dissolved,Solids,n/a,<,4 mg/L SM,2540,C
-2016/17-5,Lab,LCS,1/25/2017,Conventional,Total,Dissolved,Solids,n/a,=,815 mg/L SM,2540,C
-2016/17-5,Lab,LCS|| rec,1/25/2017,Conventional,Total,Dissolved,Solids,n/a,=,99 % SM,2540,C
-2016/17-5,Lab,method blank,1/25/2017,Conventional,Total,Dissolved,Solids,n/a,<,4 mg/L SM,2540,C
-2016/17-5,ME-VR2,lab duplicate,1/24/2017,Conventional,Total,Dissolved,Solids,n/a,=,1100 mg/L SM,2540,C
+2016/17-5,000NONPJ,lab duplicate,1/24/2017,Conventional,Total Dissolved Solids,n/a,=,846,mg/L,SM 2540 C,4,10
+2016/17-5,000NONPJ,lab duplicate,1/25/2017,Conventional,Total Dissolved Solids,n/a,=,63,mg/L,SM 2540 C,4,10
+2016/17-5,000NONPJ,lab duplicate,1/25/2017,Conventional,Total Dissolved Solids,n/a,=,288,mg/L,SM 2540 C,4,10
+2016/17-5,Lab,LCS,1/24/2017,Conventional,Total Dissolved Solids,n/a,=,797,mg/L,SM 2540 C,4,10
+2016/17-5,Lab,LCS|| rec,1/24/2017,Conventional,Total Dissolved Solids,n/a,=,97,%,SM 2540 C,-88,-88
+2016/17-5,Lab,method blank,1/24/2017,Conventional,Total Dissolved Solids,n/a,<,4,mg/L,SM 2540 C,4,10
+2016/17-5,Lab,LCS,1/25/2017,Conventional,Total Dissolved Solids,n/a,=,815,mg/L,SM 2540 C,4,10
+2016/17-5,Lab,LCS|| rec,1/25/2017,Conventional,Total Dissolved Solids,n/a,=,99,%,SM 2540 C,-88,-88
+2016/17-5,Lab,method blank,1/25/2017,Conventional,Total Dissolved Solids,n/a,<,4,mg/L,SM 2540 C,4,10
+2016/17-5,ME-VR2,lab duplicate,1/24/2017,Conventional,Total Dissolved Solids,n/a,=,1100,mg/L,SM 2540 C,4,10
 2016/17-5,000NONPJ,matrix spike,1/24/2017,Conventional,Total Organic Carbon,n/a,=,8.5,mg/L,SM 5310 C,0.009,0.3
 2016/17-5,000NONPJ,matrix spike dup,1/24/2017,Conventional,Total Organic Carbon,n/a,=,9.18,mg/L,SM 5310 C,0.009,0.3
 2016/17-5,000NONPJ,matrix spike dup|| rec,1/24/2017,Conventional,Total Organic Carbon,n/a,=,111,%,SM 5310 C,-88,-88
@@ -16400,26 +16399,26 @@
 2016/17-6,ME-CC,matrix spike dup|| rec,5/18/2017,Conventional,Total Chlorine Residual,n/a,=,97,%,SM 4500-Cl G,-88,-88
 2016/17-6,ME-CC,matrix spike|| rec,5/18/2017,Conventional,Total Chlorine Residual,n/a,=,98,%,SM 4500-Cl G,-88,-88
 2016/17-6,ME-CC,matrix spike|| RPD,5/18/2017,Conventional,Total Chlorine Residual,n/a,=,0.9,%,SM 4500-Cl G,-88,-88
-2016/17-6,000NONPJ,lab duplicate,5/5/2017,Conventional,Total,Dissolved,Solids,n/a,=,2120 mg/L SM,2540,C
-2016/17-6,000NONPJ,lab duplicate,5/9/2017,Conventional,Total,Dissolved,Solids,n/a,=,84 mg/L SM,2540,C
-2016/17-6,000NONPJ,lab duplicate,5/9/2017,Conventional,Total,Dissolved,Solids,n/a,=,564 mg/L SM,2540,C
-2016/17-6,000NONPJ,lab duplicate,5/22/2017,Conventional,Total,Dissolved,Solids,n/a,=,589 mg/L SM,2540,C
-2016/17-6,000NONPJ,lab duplicate,5/23/2017,Conventional,Total,Dissolved,Solids,n/a,=,1830 mg/L SM,2540,C
-2016/17-6,000NONPJ,lab duplicate,5/23/2017,Conventional,Total,Dissolved,Solids,n/a,=,2890 mg/L SM,2540,C
-2016/17-6,Lab,LCS,5/5/2017,Conventional,Total,Dissolved,Solids,n/a,=,828 mg/L SM,2540,C
-2016/17-6,Lab,LCS|| rec,5/5/2017,Conventional,Total,Dissolved,Solids,n/a,=,100 % SM,2540,C
-2016/17-6,Lab,method blank,5/5/2017,Conventional,Total,Dissolved,Solids,n/a,<,4 mg/L SM,2540,C
-2016/17-6,Lab,LCS,5/9/2017,Conventional,Total,Dissolved,Solids,n/a,=,836 mg/L SM,2540,C
-2016/17-6,Lab,LCS|| rec,5/9/2017,Conventional,Total,Dissolved,Solids,n/a,=,101 % SM,2540,C
-2016/17-6,Lab,method blank,5/9/2017,Conventional,Total,Dissolved,Solids,n/a,DNQ,4 mg/L SM,2540,C
-2016/17-6,Lab,LCS,5/22/2017,Conventional,Total,Dissolved,Solids,n/a,=,827 mg/L SM,2540,C
-2016/17-6,Lab,LCS|| rec,5/22/2017,Conventional,Total,Dissolved,Solids,n/a,=,100 % SM,2540,C
-2016/17-6,Lab,method blank,5/22/2017,Conventional,Total,Dissolved,Solids,n/a,<,4 mg/L SM,2540,C
-2016/17-6,Lab,LCS,5/23/2017,Conventional,Total,Dissolved,Solids,n/a,=,821 mg/L SM,2540,C
-2016/17-6,Lab,LCS|| rec,5/23/2017,Conventional,Total,Dissolved,Solids,n/a,=,100 % SM,2540,C
-2016/17-6,Lab,method blank,5/23/2017,Conventional,Total,Dissolved,Solids,n/a,<,4 mg/L SM,2540,C
-2016/17-6,MO-MPK,lab duplicate,5/22/2017,Conventional,Total,Dissolved,Solids,n/a,=,1530 mg/L SM,2540,C
-2016/17-6,MO-VEN,lab duplicate,5/5/2017,Conventional,Total,Dissolved,Solids,n/a,=,9400 mg/L SM,2540,C
+2016/17-6,000NONPJ,lab duplicate,5/5/2017,Conventional,Total Dissolved Solids,n/a,=,2120,mg/L,SM 2540 C,4,10
+2016/17-6,000NONPJ,lab duplicate,5/9/2017,Conventional,Total Dissolved Solids,n/a,=,84,mg/L,SM 2540 C,4,10
+2016/17-6,000NONPJ,lab duplicate,5/9/2017,Conventional,Total Dissolved Solids,n/a,=,564,mg/L,SM 2540 C,4,10
+2016/17-6,000NONPJ,lab duplicate,5/22/2017,Conventional,Total Dissolved Solids,n/a,=,589,mg/L,SM 2540 C,4,10
+2016/17-6,000NONPJ,lab duplicate,5/23/2017,Conventional,Total Dissolved Solids,n/a,=,1830,mg/L,SM 2540 C,4,10
+2016/17-6,000NONPJ,lab duplicate,5/23/2017,Conventional,Total Dissolved Solids,n/a,=,2890,mg/L,SM 2540 C,4,10
+2016/17-6,Lab,LCS,5/5/2017,Conventional,Total Dissolved Solids,n/a,=,828,mg/L,SM 2540 C,4,10
+2016/17-6,Lab,LCS|| rec,5/5/2017,Conventional,Total Dissolved Solids,n/a,=,100,%,SM 2540 C,-88,-88
+2016/17-6,Lab,method blank,5/5/2017,Conventional,Total Dissolved Solids,n/a,<,4,mg/L,SM 2540 C,4,10
+2016/17-6,Lab,LCS,5/9/2017,Conventional,Total Dissolved Solids,n/a,=,836,mg/L,SM 2540 C,4,10
+2016/17-6,Lab,LCS|| rec,5/9/2017,Conventional,Total Dissolved Solids,n/a,=,101,%,SM 2540 C,-88,-88
+2016/17-6,Lab,method blank,5/9/2017,Conventional,Total Dissolved Solids,n/a,DNQ,4,mg/L,SM 2540 C,4,10
+2016/17-6,Lab,LCS,5/22/2017,Conventional,Total Dissolved Solids,n/a,=,827,mg/L,SM 2540 C,4,10
+2016/17-6,Lab,LCS|| rec,5/22/2017,Conventional,Total Dissolved Solids,n/a,=,100,%,SM 2540 C,-88,-88
+2016/17-6,Lab,method blank,5/22/2017,Conventional,Total Dissolved Solids,n/a,<,4,mg/L,SM 2540 C,4,10
+2016/17-6,Lab,LCS,5/23/2017,Conventional,Total Dissolved Solids,n/a,=,821,mg/L,SM 2540 C,4,10
+2016/17-6,Lab,LCS|| rec,5/23/2017,Conventional,Total Dissolved Solids,n/a,=,100,%,SM 2540 C,-88,-88
+2016/17-6,Lab,method blank,5/23/2017,Conventional,Total Dissolved Solids,n/a,<,4,mg/L,SM 2540 C,4,10
+2016/17-6,MO-MPK,lab duplicate,5/22/2017,Conventional,Total Dissolved Solids,n/a,=,1530,mg/L,SM 2540 C,4,10
+2016/17-6,MO-VEN,lab duplicate,5/5/2017,Conventional,Total Dissolved Solids,n/a,=,9400,mg/L,SM 2540 C,4,10
 2016/17-6,000NONPJ,matrix spike,5/9/2017,Conventional,Total Organic Carbon,n/a,=,55.8,mg/L,SM 5310 C,0.09,3
 2016/17-6,000NONPJ,matrix spike dup,5/9/2017,Conventional,Total Organic Carbon,n/a,=,59.8,mg/L,SM 5310 C,0.09,3
 2016/17-6,000NONPJ,matrix spike dup|| rec,5/9/2017,Conventional,Total Organic Carbon,n/a,=,103,%,SM 5310 C,-88,-88
