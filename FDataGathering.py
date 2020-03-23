@@ -176,7 +176,7 @@ for name in datanames:
             RL = splitprecsv[foundLastMethodWhenM + 2]
             # print(f'RL: {RL}')
 
-            with open(f'data/{name.replace("f", "").replace("g", "")}f.txt', 'a') as file2:
+            with open(f'data/{name.replace("f", "").replace("g", "")}f.csv', 'a') as file2:
                 file2.write(f'{EventID},'
                             f'{SiteID},'
                             f'{QAQCSampleType},'
