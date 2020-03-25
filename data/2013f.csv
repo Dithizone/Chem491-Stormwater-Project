@@ -16120,7 +16120,604 @@
 2012/13-PRE,000NONPJ,matrix spike dup|| rec,8/9/2012,Metal,Aluminum,Total,=,98,%,EPA 200.8,-88,-88
 2012/13-PRE,000NONPJ,matrix spike|| rec,8/9/2012,Metal,Aluminum,Total,=,98,%,EPA 200.8,-88,-88
 2012/13-PRE,000NONPJ,matrix spike|| RPD,8/9/2012,Metal,Aluminum,Total,=,0.06,%,EPA 200.8,-88,-88
-2012/13-PRE,Carboy,Blank (HNO3||methanol) equip blank,8/9/2012,Metal,Aluminum,Total,DNQ,3.1,µg/L,EPA 200.8,0.61,5
+2012/13-PRE,Carboy Blank,(HNO3||methanol) equip blank,8/9/2012,Metal,Aluminum,Total,DNQ,3.1,µg/L,EPA 200.8,0.61,5
 2012/13-PRE,Lab,LCS,8/9/2012,Metal,Aluminum,Total,=,52,µg/L,EPA 200.8,0.61,5
 2012/13-PRE,Lab,LCS|| rec,8/9/2012,Metal,Aluminum,Total,=,104,%,EPA 200.8,-88,-88
 2012/13-PRE,Lab,method blank,8/9/2012,Metal,Aluminum,Total,DNQ,1.13,µg/L,EPA 200.8,0.61,5
+2012/13-PRE,Tubing Blank (distilled),equip blank,8/9/2012,Metal,Aluminum,Total,=,10,µg/L,EPA 200.8,0.61,5
+2012/13-PRE,000NONPJ,matrix spike,8/9/2012,Metal,Antimony,Total,=,47.9,µg/L,EPA 200.8,0.04,0.5
+2012/13-PRE,000NONPJ,matrix spike dup,8/9/2012,Metal,Antimony,Total,=,48.8,µg/L,EPA 200.8,0.04,0.5
+2012/13-PRE,000NONPJ,matrix spike dup|| rec,8/9/2012,Metal,Antimony,Total,=,97,%,EPA 200.8,-88,-88
+2012/13-PRE,000NONPJ,matrix spike|| rec,8/9/2012,Metal,Antimony,Total,=,95,%,EPA 200.8,-88,-88
+2012/13-PRE,000NONPJ,matrix spike|| RPD,8/9/2012,Metal,Antimony,Total,=,2,%,EPA 200.8,-88,-88
+2012/13-PRE,Carboy Blank,(HNO3||methanol) equip blank,8/9/2012,Metal,Antimony,Total,<,0.04,µg/L,EPA 200.8,0.04,0.5
+2012/13-PRE,Lab,LCS,8/9/2012,Metal,Antimony,Total,=,48.2,µg/L,EPA 200.8,0.04,0.5
+2012/13-PRE,Lab,LCS|| rec,8/9/2012,Metal,Antimony,Total,=,96,%,EPA 200.8,-88,-88
+2012/13-PRE,Lab,method blank,8/9/2012,Metal,Antimony,Total,<,0.04,µg/L,EPA 200.8,0.04,0.5
+2012/13-PRE,Tubing Blank (distilled),equip blank,8/9/2012,Metal,Antimony,Total,<,0.04,µg/L,EPA 200.8,0.04,0.5
+2012/13-PRE,000NONPJ,matrix spike,8/9/2012,Metal,Arsenic,Total,=,54.1,µg/L,EPA 200.8,0.036,0.4
+2012/13-PRE,000NONPJ,matrix spike dup,8/9/2012,Metal,Arsenic,Total,=,53.8,µg/L,EPA 200.8,0.036,0.4
+2012/13-PRE,000NONPJ,matrix spike dup|| rec,8/9/2012,Metal,Arsenic,Total,=,104,%,EPA 200.8,-88,-88
+2012/13-PRE,000NONPJ,matrix spike|| rec,8/9/2012,Metal,Arsenic,Total,=,105,%,EPA 200.8,-88,-88
+2012/13-PRE,000NONPJ,matrix spike|| RPD,8/9/2012,Metal,Arsenic,Total,=,0.5,%,EPA 200.8,-88,-88
+2012/13-PRE,Carboy Blank,(HNO3||methanol) equip blank,8/9/2012,Metal,Arsenic,Total,<,0.036,µg/L,EPA 200.8,0.036,0.4
+2012/13-PRE,Lab,LCS,8/9/2012,Metal,Arsenic,Total,=,52.7,µg/L,EPA 200.8,0.036,0.4
+2012/13-PRE,Lab,LCS|| rec,8/9/2012,Metal,Arsenic,Total,=,106,%,EPA 200.8,-88,-88
+2012/13-PRE,Lab,method blank,8/9/2012,Metal,Arsenic,Total,<,0.036,µg/L,EPA 200.8,0.036,0.4
+2012/13-PRE,Tubing Blank (distilled),equip blank,8/9/2012,Metal,Arsenic,Total,<,0.036,µg/L,EPA 200.8,0.036,0.4
+2012/13-PRE,000NONPJ,matrix spike,8/9/2012,Metal,Beryllium,Total,=,51.5,µg/L,EPA 200.8,0.088,0.1
+2012/13-PRE,000NONPJ,matrix spike dup,8/9/2012,Metal,Beryllium,Total,=,51.9,µg/L,EPA 200.8,0.088,0.1
+2012/13-PRE,000NONPJ,matrix spike dup|| rec,8/9/2012,Metal,Beryllium,Total,=,104,%,EPA 200.8,-88,-88
+2012/13-PRE,000NONPJ,matrix spike|| rec,8/9/2012,Metal,Beryllium,Total,=,103,%,EPA 200.8,-88,-88
+2012/13-PRE,000NONPJ,matrix spike|| RPD,8/9/2012,Metal,Beryllium,Total,=,0.7,%,EPA 200.8,-88,-88
+2012/13-PRE,Carboy Blank,(HNO3||methanol) equip blank,8/9/2012,Metal,Beryllium,Total,<,0.088,µg/L,EPA 200.8,0.088,0.1
+2012/13-PRE,Lab,LCS,8/9/2012,Metal,Beryllium,Total,=,50.1,µg/L,EPA 200.8,0.088,0.1
+2012/13-PRE,Lab,LCS|| rec,8/9/2012,Metal,Beryllium,Total,=,100,%,EPA 200.8,-88,-88
+2012/13-PRE,Lab,method blank,8/9/2012,Metal,Beryllium,Total,<,0.088,µg/L,EPA 200.8,0.088,0.1
+2012/13-PRE,Tubing Blank (distilled),equip blank,8/9/2012,Metal,Beryllium,Total,<,0.088,µg/L,EPA 200.8,0.088,0.1
+2012/13-PRE,000NONPJ,matrix spike,8/9/2012,Metal,Cadmium,Total,=,47.1,µg/L,EPA 200.8,0.02,0.1
+2012/13-PRE,000NONPJ,matrix spike dup,8/9/2012,Metal,Cadmium,Total,=,47.7,µg/L,EPA 200.8,0.02,0.1
+2012/13-PRE,000NONPJ,matrix spike dup|| rec,8/9/2012,Metal,Cadmium,Total,=,95,%,EPA 200.8,-88,-88
+2012/13-PRE,000NONPJ,matrix spike|| rec,8/9/2012,Metal,Cadmium,Total,=,94,%,EPA 200.8,-88,-88
+2012/13-PRE,000NONPJ,matrix spike|| RPD,8/9/2012,Metal,Cadmium,Total,=,1,%,EPA 200.8,-88,-88
+2012/13-PRE,Carboy Blank,(HNO3||methanol) equip blank,8/9/2012,Metal,Cadmium,Total,<,0.02,µg/L,EPA 200.8,0.02,0.1
+2012/13-PRE,Lab,LCS,8/9/2012,Metal,Cadmium,Total,=,49.9,µg/L,EPA 200.8,0.02,0.1
+2012/13-PRE,Lab,LCS|| rec,8/9/2012,Metal,Cadmium,Total,=,100,%,EPA 200.8,-88,-88
+2012/13-PRE,Lab,method blank,8/9/2012,Metal,Cadmium,Total,<,0.02,µg/L,EPA 200.8,0.02,0.1
+2012/13-PRE,Tubing Blank (distilled),equip blank,8/9/2012,Metal,Cadmium,Total,<,0.02,µg/L,EPA 200.8,0.02,0.1
+2012/13-PRE,000NONPJ,matrix spike,8/9/2012,Metal,Chromium,Total,=,50.1,µg/L,EPA 200.8,0.074,0.2
+2012/13-PRE,000NONPJ,matrix spike dup,8/9/2012,Metal,Chromium,Total,=,49.7,µg/L,EPA 200.8,0.074,0.2
+2012/13-PRE,000NONPJ,matrix spike dup|| rec,8/9/2012,Metal,Chromium,Total,=,99,%,EPA 200.8,-88,-88
+2012/13-PRE,000NONPJ,matrix spike|| rec,8/9/2012,Metal,Chromium,Total,=,99,%,EPA 200.8,-88,-88
+2012/13-PRE,000NONPJ,matrix spike|| RPD,8/9/2012,Metal,Chromium,Total,=,0.8,%,EPA 200.8,-88,-88
+2012/13-PRE,Carboy Blank,(HNO3||methanol) equip blank,8/9/2012,Metal,Chromium,Total,<,0.074,µg/L,EPA 200.8,0.074,0.2
+2012/13-PRE,Lab,LCS,8/9/2012,Metal,Chromium,Total,=,51.2,µg/L,EPA 200.8,0.074,0.2
+2012/13-PRE,Lab,LCS|| rec,8/9/2012,Metal,Chromium,Total,=,102,%,EPA 200.8,-88,-88
+2012/13-PRE,Lab,method blank,8/9/2012,Metal,Chromium,Total,<,0.074,µg/L,EPA 200.8,0.074,0.2
+2012/13-PRE,Tubing Blank (distilled),equip blank,8/9/2012,Metal,Chromium,Total,<,0.074,µg/L,EPA 200.8,0.074,0.2
+2012/13-PRE,000NONPJ,matrix spike,8/9/2012,Metal,Copper,Total,=,52.5,µg/L,EPA 200.8,0.27,0.5
+2012/13-PRE,000NONPJ,matrix spike dup,8/9/2012,Metal,Copper,Total,=,52.2,µg/L,EPA 200.8,0.27,0.5
+2012/13-PRE,000NONPJ,matrix spike dup|| rec,8/9/2012,Metal,Copper,Total,=,93,%,EPA 200.8,-88,-88
+2012/13-PRE,000NONPJ,matrix spike|| rec,8/9/2012,Metal,Copper,Total,=,93,%,EPA 200.8,-88,-88
+2012/13-PRE,000NONPJ,matrix spike|| RPD,8/9/2012,Metal,Copper,Total,=,0.5,%,EPA 200.8,-88,-88
+2012/13-PRE,Carboy Blank,(HNO3||methanol) equip blank,8/9/2012,Metal,Copper,Total,<,0.27,µg/L,EPA 200.8,0.27,0.5
+2012/13-PRE,Lab,LCS,8/9/2012,Metal,Copper,Total,=,53.4,µg/L,EPA 200.8,0.27,0.5
+2012/13-PRE,Lab,LCS|| rec,8/9/2012,Metal,Copper,Total,=,107,%,EPA 200.8,-88,-88
+2012/13-PRE,Lab,method blank,8/9/2012,Metal,Copper,Total,<,0.27,µg/L,EPA 200.8,0.27,0.5
+2012/13-PRE,Tubing Blank (distilled),equip blank,8/9/2012,Metal,Copper,Total,=,0.53,µg/L,EPA 200.8,0.27,0.5
+2012/13-PRE,Carboy Blank,(HNO3||methanol) equip blank,8/7/2012,Metal,Iron,Total,<,1.1,µg/L,EPA 200.7,1.1,10
+2012/13-PRE,Lab,LCS,8/7/2012,Metal,Iron,Total,=,197,µg/L,EPA 200.7,1.1,10
+2012/13-PRE,Lab,LCS|| rec,8/7/2012,Metal,Iron,Total,=,99,%,EPA 200.7,-88,-88
+2012/13-PRE,Lab,method blank,8/7/2012,Metal,Iron,Total,<,1.1,µg/L,EPA 200.7,1.1,10
+2012/13-PRE,Tubing Blank (distilled),equip blank,8/7/2012,Metal,Iron,Total,DNQ,1.7,µg/L,EPA 200.7,1.1,10
+2012/13-PRE,Tubing Blank (distilled),matrix spike,8/7/2012,Metal,Iron,Total,=,205,µg/L,EPA 200.7,1.1,10
+2012/13-PRE,Tubing Blank (distilled),matrix spike dup,8/7/2012,Metal,Iron,Total,=,208,µg/L,EPA 200.7,1.1,10
+2012/13-PRE,Tubing Blank (distilled),matrix spike dup|| rec,8/7/2012,Metal,Iron,Total,=,103,%,EPA 200.7,-88,-88
+2012/13-PRE,Tubing Blank (distilled),matrix spike|| rec,8/7/2012,Metal,Iron,Total,=,102,%,EPA 200.7,-88,-88
+2012/13-PRE,Tubing Blank (distilled),matrix spike|| RPD,8/7/2012,Metal,Iron,Total,=,1,%,EPA 200.7,-88,-88
+2012/13-PRE,000NONPJ,matrix spike,8/9/2012,Metal,Lead,Total,=,50.8,µg/L,EPA 200.8,0.011,0.2
+2012/13-PRE,000NONPJ,matrix spike dup,8/9/2012,Metal,Lead,Total,=,51.3,µg/L,EPA 200.8,0.011,0.2
+2012/13-PRE,000NONPJ,matrix spike dup|| rec,8/9/2012,Metal,Lead,Total,=,102,%,EPA 200.8,-88,-88
+2012/13-PRE,000NONPJ,matrix spike|| rec,8/9/2012,Metal,Lead,Total,=,101,%,EPA 200.8,-88,-88
+2012/13-PRE,000NONPJ,matrix spike|| RPD,8/9/2012,Metal,Lead,Total,=,0.9,%,EPA 200.8,-88,-88
+2012/13-PRE,Carboy Blank,(HNO3||methanol) equip blank,8/9/2012,Metal,Lead,Total,<,0.011,µg/L,EPA 200.8,0.011,0.2
+2012/13-PRE,Lab,LCS,8/9/2012,Metal,Lead,Total,=,48.7,µg/L,EPA 200.8,0.011,0.2
+2012/13-PRE,Lab,LCS|| rec,8/9/2012,Metal,Lead,Total,=,97,%,EPA 200.8,-88,-88
+2012/13-PRE,Lab,method blank,8/9/2012,Metal,Lead,Total,<,0.011,µg/L,EPA 200.8,0.011,0.2
+2012/13-PRE,Tubing Blank (distilled),equip blank,8/9/2012,Metal,Lead,Total,DNQ,0.02,µg/L,EPA 200.8,0.011,0.2
+2012/13-PRE,000NONPJ,matrix spike,8/6/2012,Metal,Mercury,Total,=,975,ng/L,EPA 245.1,3.9,50
+2012/13-PRE,000NONPJ,matrix spike,8/6/2012,Metal,Mercury,Total,=,967,ng/L,EPA 245.1,3.9,50
+2012/13-PRE,000NONPJ,matrix spike dup,8/6/2012,Metal,Mercury,Total,=,973,ng/L,EPA 245.1,3.9,50
+2012/13-PRE,000NONPJ,matrix spike dup,8/6/2012,Metal,Mercury,Total,=,957,ng/L,EPA 245.1,3.9,50
+2012/13-PRE,000NONPJ,matrix spike dup|| rec,8/6/2012,Metal,Mercury,Total,=,92,%,EPA 245.1,-88,-88
+2012/13-PRE,000NONPJ,matrix spike dup|| rec,8/6/2012,Metal,Mercury,Total,=,94,%,EPA 245.1,-88,-88
+2012/13-PRE,000NONPJ,matrix spike|| rec,8/6/2012,Metal,Mercury,Total,=,93,%,EPA 245.1,-88,-88
+2012/13-PRE,000NONPJ,matrix spike|| rec,8/6/2012,Metal,Mercury,Total,=,94,%,EPA 245.1,-88,-88
+2012/13-PRE,000NONPJ,matrix spike|| RPD,8/6/2012,Metal,Mercury,Total,=,0.2,%,EPA 245.1,-88,-88
+2012/13-PRE,000NONPJ,matrix spike|| RPD,8/6/2012,Metal,Mercury,Total,=,1,%,EPA 245.1,-88,-88
+2012/13-PRE,Carboy Blank,(HNO3||methanol) equip blank,8/6/2012,Metal,Mercury,Total,DNQ,41,ng/L,EPA 245.1,3.9,50
+2012/13-PRE,Lab,LCS,8/6/2012,Metal,Mercury,Total,=,983,ng/L,EPA 245.1,3.9,50
+2012/13-PRE,Lab,LCS|| rec,8/6/2012,Metal,Mercury,Total,=,98,%,EPA 245.1,-88,-88
+2012/13-PRE,Lab,method blank,8/6/2012,Metal,Mercury,Total,DNQ,39,ng/L,EPA 245.1,3.9,50
+2012/13-PRE,Tubing Blank (distilled),equip blank,8/6/2012,Metal,Mercury,Total,DNQ,36,ng/L,EPA 245.1,3.9,50
+2012/13-PRE,000NONPJ,matrix spike,8/9/2012,Metal,Nickel,Total,=,50.9,µg/L,EPA 200.8,0.13,0.8
+2012/13-PRE,000NONPJ,matrix spike dup,8/9/2012,Metal,Nickel,Total,=,50.4,µg/L,EPA 200.8,0.13,0.8
+2012/13-PRE,000NONPJ,matrix spike dup|| rec,8/9/2012,Metal,Nickel,Total,=,94,%,EPA 200.8,-88,-88
+2012/13-PRE,000NONPJ,matrix spike|| rec,8/9/2012,Metal,Nickel,Total,=,95,%,EPA 200.8,-88,-88
+2012/13-PRE,000NONPJ,matrix spike|| RPD,8/9/2012,Metal,Nickel,Total,=,1,%,EPA 200.8,-88,-88
+2012/13-PRE,Carboy Blank,(HNO3||methanol) equip blank,8/9/2012,Metal,Nickel,Total,<,0.13,µg/L,EPA 200.8,0.13,0.8
+2012/13-PRE,Lab,LCS,8/9/2012,Metal,Nickel,Total,=,52.5,µg/L,EPA 200.8,0.13,0.8
+2012/13-PRE,Lab,LCS|| rec,8/9/2012,Metal,Nickel,Total,=,105,%,EPA 200.8,-88,-88
+2012/13-PRE,Lab,method blank,8/9/2012,Metal,Nickel,Total,<,0.13,µg/L,EPA 200.8,0.13,0.8
+2012/13-PRE,Tubing Blank (distilled),equip blank,8/9/2012,Metal,Nickel,Total,<,0.13,µg/L,EPA 200.8,0.13,0.8
+2012/13-PRE,000NONPJ,matrix spike,8/9/2012,Metal,Selenium,Total,=,50.2,µg/L,EPA 200.8,0.28,0.4
+2012/13-PRE,000NONPJ,matrix spike dup,8/9/2012,Metal,Selenium,Total,=,50.2,µg/L,EPA 200.8,0.28,0.4
+2012/13-PRE,000NONPJ,matrix spike dup|| rec,8/9/2012,Metal,Selenium,Total,=,101,%,EPA 200.8,-88,-88
+2012/13-PRE,000NONPJ,matrix spike|| rec,8/9/2012,Metal,Selenium,Total,=,100,%,EPA 200.8,-88,-88
+2012/13-PRE,000NONPJ,matrix spike|| RPD,8/9/2012,Metal,Selenium,Total,=,0.1,%,EPA 200.8,-88,-88
+2012/13-PRE,Carboy Blank,(HNO3||methanol) equip blank,8/9/2012,Metal,Selenium,Total,<,0.28,µg/L,EPA 200.8,0.28,0.4
+2012/13-PRE,Lab,LCS,8/9/2012,Metal,Selenium,Total,=,54.2,µg/L,EPA 200.8,0.28,0.4
+2012/13-PRE,Lab,LCS|| rec,8/9/2012,Metal,Selenium,Total,=,108,%,EPA 200.8,-88,-88
+2012/13-PRE,Lab,method blank,8/9/2012,Metal,Selenium,Total,<,0.28,µg/L,EPA 200.8,0.28,0.4
+2012/13-PRE,Tubing Blank (distilled),equip blank,8/9/2012,Metal,Selenium,Total,<,0.28,µg/L,EPA 200.8,0.28,0.4
+2012/13-PRE,000NONPJ,matrix spike,8/9/2012,Metal,Silver,Total,=,42.7,µg/L,EPA 200.8,0.027,0.2
+2012/13-PRE,000NONPJ,matrix spike dup,8/9/2012,Metal,Silver,Total,=,43.1,µg/L,EPA 200.8,0.027,0.2
+2012/13-PRE,000NONPJ,matrix spike dup|| rec,8/9/2012,Metal,Silver,Total,=,86,%,EPA 200.8,-88,-88
+2012/13-PRE,000NONPJ,matrix spike|| rec,8/9/2012,Metal,Silver,Total,=,85,%,EPA 200.8,-88,-88
+2012/13-PRE,000NONPJ,matrix spike|| RPD,8/9/2012,Metal,Silver,Total,=,1,%,EPA 200.8,-88,-88
+2012/13-PRE,Carboy Blank,(HNO3||methanol) equip blank,8/9/2012,Metal,Silver,Total,<,0.027,µg/L,EPA 200.8,0.027,0.2
+2012/13-PRE,Lab,LCS,8/9/2012,Metal,Silver,Total,=,46.4,µg/L,EPA 200.8,0.027,0.2
+2012/13-PRE,Lab,LCS|| rec,8/9/2012,Metal,Silver,Total,=,93,%,EPA 200.8,-88,-88
+2012/13-PRE,Lab,method blank,8/9/2012,Metal,Silver,Total,<,0.027,µg/L,EPA 200.8,0.027,0.2
+2012/13-PRE,Tubing Blank (distilled),equip blank,8/9/2012,Metal,Silver,Total,<,0.027,µg/L,EPA 200.8,0.027,0.2
+2012/13-PRE,000NONPJ,matrix spike,8/9/2012,Metal,Thallium,Total,=,53,µg/L,EPA 200.8,0.009,0.2
+2012/13-PRE,000NONPJ,matrix spike dup,8/9/2012,Metal,Thallium,Total,=,53.5,µg/L,EPA 200.8,0.009,0.2
+2012/13-PRE,000NONPJ,matrix spike dup|| rec,8/9/2012,Metal,Thallium,Total,=,107,%,EPA 200.8,-88,-88
+2012/13-PRE,000NONPJ,matrix spike|| rec,8/9/2012,Metal,Thallium,Total,=,106,%,EPA 200.8,-88,-88
+2012/13-PRE,000NONPJ,matrix spike|| RPD,8/9/2012,Metal,Thallium,Total,=,1,%,EPA 200.8,-88,-88
+2012/13-PRE,Carboy Blank,(HNO3||methanol) equip blank,8/9/2012,Metal,Thallium,Total,DNQ,0.02,µg/L,EPA 200.8,0.009,0.2
+2012/13-PRE,Lab,LCS,8/9/2012,Metal,Thallium,Total,=,49.1,µg/L,EPA 200.8,0.009,0.2
+2012/13-PRE,Lab,LCS|| rec,8/9/2012,Metal,Thallium,Total,=,98,%,EPA 200.8,-88,-88
+2012/13-PRE,Lab,method blank,8/9/2012,Metal,Thallium,Total,DNQ,0.02,µg/L,EPA 200.8,0.009,0.2
+2012/13-PRE,Tubing Blank (distilled),equip blank,8/9/2012,Metal,Thallium,Total,DNQ,0.04,µg/L,EPA 200.8,0.009,0.2
+2012/13-PRE,000NONPJ,matrix spike,8/9/2012,Metal,Zinc,Total,=,86.1,µg/L,EPA 200.8,1.1,5
+2012/13-PRE,000NONPJ,matrix spike dup,8/9/2012,Metal,Zinc,Total,=,85.9,µg/L,EPA 200.8,1.1,5
+2012/13-PRE,000NONPJ,matrix spike dup|| rec,8/9/2012,Metal,Zinc,Total,=,97,%,EPA 200.8,-88,-88
+2012/13-PRE,000NONPJ,matrix spike|| rec,8/9/2012,Metal,Zinc,Total,=,97,%,EPA 200.8,-88,-88
+2012/13-PRE,000NONPJ,matrix spike|| RPD,8/9/2012,Metal,Zinc,Total,=,0.2,%,EPA 200.8,-88,-88
+2012/13-PRE,Carboy Blank,(HNO3||methanol) equip blank,8/9/2012,Metal,Zinc,Total,<,1.1,µg/L,EPA 200.8,1.1,5
+2012/13-PRE,Lab,LCS,8/9/2012,Metal,Zinc,Total,=,55.9,µg/L,EPA 200.8,1.1,5
+2012/13-PRE,Lab,LCS|| rec,8/9/2012,Metal,Zinc,Total,=,112,%,EPA 200.8,-88,-88
+2012/13-PRE,Lab,method blank,8/9/2012,Metal,Zinc,Total,<,1.1,µg/L,EPA 200.8,1.1,5
+2012/13-PRE,Tubing Blank (distilled),equip blank,8/9/2012,Metal,Zinc,Total,<,1.1,µg/L,EPA 200.8,1.1,5
+2012/13-PRE,000NONPJ,matrix spike,8/7/2012,Nutrient,Nitrate + Nitrite as N,n/a,=,2.05,mg/L,EPA 353.2,0.01,0.1
+2012/13-PRE,000NONPJ,matrix spike,8/7/2012,Nutrient,Nitrate + Nitrite as N,n/a,=,2.2,mg/L,EPA 353.2,0.01,0.1
+2012/13-PRE,000NONPJ,matrix spike dup,8/7/2012,Nutrient,Nitrate + Nitrite as N,n/a,=,2.18,mg/L,EPA 353.2,0.01,0.1
+2012/13-PRE,000NONPJ,matrix spike dup,8/7/2012,Nutrient,Nitrate + Nitrite as N,n/a,=,2.04,mg/L,EPA 353.2,0.01,0.1
+2012/13-PRE,000NONPJ,matrix spike dup|| rec,8/7/2012,Nutrient,Nitrate + Nitrite as N,n/a,=,100,%,EPA 353.2,-88,-88
+2012/13-PRE,000NONPJ,matrix spike dup|| rec,8/7/2012,Nutrient,Nitrate + Nitrite as N,n/a,=,98,%,EPA 353.2,-88,-88
+2012/13-PRE,000NONPJ,matrix spike|| rec,8/7/2012,Nutrient,Nitrate + Nitrite as N,n/a,=,99,%,EPA 353.2,-88,-88
+2012/13-PRE,000NONPJ,matrix spike|| rec,8/7/2012,Nutrient,Nitrate + Nitrite as N,n/a,=,100,%,EPA 353.2,-88,-88
+2012/13-PRE,000NONPJ,matrix spike|| RPD,8/7/2012,Nutrient,Nitrate + Nitrite as N,n/a,=,0.8,%,EPA 353.2,-88,-88
+2012/13-PRE,000NONPJ,matrix spike|| RPD,8/7/2012,Nutrient,Nitrate + Nitrite as N,n/a,=,0.4,%,EPA 353.2,-88,-88
+2012/13-PRE,Carboy Blank,(HNO3||methanol) equip blank,8/7/2012,Nutrient,Nitrate + Nitrite as N,n/a,<,0.01,mg/L,EPA 353.2,0.01,0.1
+2012/13-PRE,Lab,LCS,8/7/2012,Nutrient,Nitrate + Nitrite as N,n/a,=,1.03,mg/L,EPA 353.2,0.01,0.1
+2012/13-PRE,Lab,LCS|| rec,8/7/2012,Nutrient,Nitrate + Nitrite as N,n/a,=,103,%,EPA 353.2,-88,-88
+2012/13-PRE,Lab,method blank,8/7/2012,Nutrient,Nitrate + Nitrite as N,n/a,<,0.01,mg/L,EPA 353.2,0.01,0.1
+2012/13-PRE,Tubing Blank (distilled),equip blank,8/7/2012,Nutrient,Nitrate + Nitrite as N,n/a,<,0.01,mg/L,EPA 353.2,0.01,0.1
+2012/13-PRE,Carboy Blank,(HNO3||methanol) equip blank,8/10/2012,Organic,1||2||4-Trichlorobenzene,n/a,<,0.55,µg/L,EPA 625,0.55,1
+2012/13-PRE,Lab,LCS,8/9/2012,Organic,1||2||4-Trichlorobenzene,n/a,=,26.6,µg/L,EPA 625,0.55,1
+2012/13-PRE,Lab,LCS dup,8/9/2012,Organic,1||2||4-Trichlorobenzene,n/a,=,36.3,µg/L,EPA 625,0.55,1
+2012/13-PRE,Lab,LCS dup|| rec,8/9/2012,Organic,1||2||4-Trichlorobenzene,n/a,=,73,%,EPA 625,-88,-88
+2012/13-PRE,Lab,LCS|| rec,8/9/2012,Organic,1||2||4-Trichlorobenzene,n/a,=,53,%,EPA 625,-88,-88
+2012/13-PRE,Lab,LCS|| RPD,8/9/2012,Organic,1||2||4-Trichlorobenzene,n/a,=,31,%,EPA 625,-88,-88
+2012/13-PRE,Lab,method blank,8/9/2012,Organic,1||2||4-Trichlorobenzene,n/a,<,0.55,µg/L,EPA 625,0.55,1
+2012/13-PRE,Tubing Blank (distilled),equip blank,8/10/2012,Organic,1||2||4-Trichlorobenzene,n/a,<,0.55,µg/L,EPA 625,0.55,1
+2012/13-PRE,Carboy Blank,(HNO3||methanol) equip blank,8/10/2012,Organic,1||2-Dichlorobenzene,n/a,<,0.57,µg/L,EPA 625,0.57,1
+2012/13-PRE,Lab,LCS,8/9/2012,Organic,1||2-Dichlorobenzene,n/a,=,24.7,µg/L,EPA 625,0.57,1
+2012/13-PRE,Lab,LCS dup,8/9/2012,Organic,1||2-Dichlorobenzene,n/a,=,34.7,µg/L,EPA 625,0.57,1
+2012/13-PRE,Lab,LCS dup|| rec,8/9/2012,Organic,1||2-Dichlorobenzene,n/a,=,69,%,EPA 625,-88,-88
+2012/13-PRE,Lab,LCS|| rec,8/9/2012,Organic,1||2-Dichlorobenzene,n/a,=,49,%,EPA 625,-88,-88
+2012/13-PRE,Lab,LCS|| RPD,8/9/2012,Organic,1||2-Dichlorobenzene,n/a,=,34,%,EPA 625,-88,-88
+2012/13-PRE,Lab,method blank,8/9/2012,Organic,1||2-Dichlorobenzene,n/a,<,0.57,µg/L,EPA 625,0.57,1
+2012/13-PRE,Tubing Blank (distilled),equip blank,8/10/2012,Organic,1||2-Dichlorobenzene,n/a,<,0.57,µg/L,EPA 625,0.57,1
+2012/13-PRE,Carboy Blank,(HNO3||methanol) equip blank,8/10/2012,Organic,1||2-Diphenylhydrazine,n/a,<,0.25,µg/L,EPA 625,0.25,1
+2012/13-PRE,Lab,method blank,8/9/2012,Organic,1||2-Diphenylhydrazine,n/a,<,0.25,µg/L,EPA 625,0.25,1
+2012/13-PRE,Tubing Blank (distilled),equip blank,8/10/2012,Organic,1||2-Diphenylhydrazine,n/a,<,0.25,µg/L,EPA 625,0.25,1
+2012/13-PRE,Carboy Blank,(HNO3||methanol) equip blank,8/10/2012,Organic,1||3-Dichlorobenzene,n/a,<,0.53,µg/L,EPA 625,0.53,1
+2012/13-PRE,Lab,LCS,8/9/2012,Organic,1||3-Dichlorobenzene,n/a,=,23.5,µg/L,EPA 625,0.53,1
+2012/13-PRE,Lab,LCS dup,8/9/2012,Organic,1||3-Dichlorobenzene,n/a,=,32.8,µg/L,EPA 625,0.53,1
+2012/13-PRE,Lab,LCS dup|| rec,8/9/2012,Organic,1||3-Dichlorobenzene,n/a,=,66,%,EPA 625,-88,-88
+2012/13-PRE,Lab,LCS|| rec,8/9/2012,Organic,1||3-Dichlorobenzene,n/a,=,47,%,EPA 625,-88,-88
+2012/13-PRE,Lab,LCS|| RPD,8/9/2012,Organic,1||3-Dichlorobenzene,n/a,=,33,%,EPA 625,-88,-88
+2012/13-PRE,Lab,method blank,8/9/2012,Organic,1||3-Dichlorobenzene,n/a,<,0.53,µg/L,EPA 625,0.53,1
+2012/13-PRE,Tubing Blank (distilled),equip blank,8/10/2012,Organic,1||3-Dichlorobenzene,n/a,<,0.53,µg/L,EPA 625,0.53,1
+2012/13-PRE,Carboy Blank,(HNO3||methanol) equip blank,8/10/2012,Organic,1||4-Dichlorobenzene,n/a,<,0.55,µg/L,EPA 625,0.55,1
+2012/13-PRE,Lab,LCS,8/9/2012,Organic,1||4-Dichlorobenzene,n/a,=,24.3,µg/L,EPA 625,0.55,1
+2012/13-PRE,Lab,LCS dup,8/9/2012,Organic,1||4-Dichlorobenzene,n/a,=,33.9,µg/L,EPA 625,0.55,1
+2012/13-PRE,Lab,LCS dup|| rec,8/9/2012,Organic,1||4-Dichlorobenzene,n/a,=,68,%,EPA 625,-88,-88
+2012/13-PRE,Lab,LCS|| rec,8/9/2012,Organic,1||4-Dichlorobenzene,n/a,=,49,%,EPA 625,-88,-88
+2012/13-PRE,Lab,LCS|| RPD,8/9/2012,Organic,1||4-Dichlorobenzene,n/a,=,33,%,EPA 625,-88,-88
+2012/13-PRE,Lab,method blank,8/9/2012,Organic,1||4-Dichlorobenzene,n/a,<,0.55,µg/L,EPA 625,0.55,1
+2012/13-PRE,Tubing Blank (distilled),equip blank,8/10/2012,Organic,1||4-Dichlorobenzene,n/a,<,0.55,µg/L,EPA 625,0.55,1
+2012/13-PRE,Carboy Blank,(HNO3||methanol) srgt equip blank,8/10/2012,Organic,2||4||6-Tribromophenol,n/a,=,73.9,µg/L,EPA 625,-88,-88
+2012/13-PRE,Carboy Blank,(HNO3||methanol)srgt equip blank|| rec,8/10/2012,Organic,2||4||6-Tribromophenol,n/a,=,74,%,EPA 625,-88,-88
+2012/13-PRE,Lab,srgt LCS,8/9/2012,Organic,2||4||6-Tribromophenol,n/a,=,74.9,µg/L,EPA 625,-88,-88
+2012/13-PRE,Lab,srgt LCS dup,8/9/2012,Organic,2||4||6-Tribromophenol,n/a,=,80.3,µg/L,EPA 625,-88,-88
+2012/13-PRE,Lab,srgt LCS dup|| rec,8/9/2012,Organic,2||4||6-Tribromophenol,n/a,=,80,%,EPA 625,-88,-88
+2012/13-PRE,Lab,srgt LCS|| rec,8/9/2012,Organic,2||4||6-Tribromophenol,n/a,=,75,%,EPA 625,-88,-88
+2012/13-PRE,Lab,srgt method blank,8/9/2012,Organic,2||4||6-Tribromophenol,n/a,=,53.2,µg/L,EPA 625,-88,-88
+2012/13-PRE,Lab,srgt method blank|| rec,8/9/2012,Organic,2||4||6-Tribromophenol,n/a,=,53,%,EPA 625,-88,-88
+2012/13-PRE,Tubing Blank (distilled),srgt equip blank,8/10/2012,Organic,2||4||6-Tribromophenol,n/a,=,85.3,µg/L,EPA 625,-88,-88
+2012/13-PRE,Tubing Blank (distilled),srgt equip blank|| rec,8/10/2012,Organic,2||4||6-Tribromophenol,n/a,=,76,%,EPA 625,-88,-88
+2012/13-PRE,Carboy Blank,(HNO3||methanol) equip blank,8/10/2012,Organic,2||4||6-Trichlorophenol,n/a,<,0.22,µg/L,EPA 625,0.22,1
+2012/13-PRE,Tubing Blank (distilled),equip blank,8/10/2012,Organic,2||4||6-Trichlorophenol,n/a,<,0.22,µg/L,EPA 625,0.22,1
+2012/13-PRE,Carboy Blank,(HNO3||methanol) equip blank,8/10/2012,Organic,2||4-Dichlorophenol,n/a,<,0.26,µg/L,EPA 625,0.26,1
+2012/13-PRE,Tubing Blank (distilled),equip blank,8/10/2012,Organic,2||4-Dichlorophenol,n/a,<,0.26,µg/L,EPA 625,0.26,1
+2012/13-PRE,Carboy Blank,(HNO3||methanol) equip blank,8/10/2012,Organic,2||4-Dimethylphenol,n/a,<,0.3,µg/L,EPA 625,0.3,1
+2012/13-PRE,Tubing Blank (distilled),equip blank,8/10/2012,Organic,2||4-Dimethylphenol,n/a,<,0.3,µg/L,EPA 625,0.3,1
+2012/13-PRE,Carboy Blank,(HNO3||methanol) equip blank,8/10/2012,Organic,2||4-Dinitrophenol,n/a,<,1.6,µg/L,EPA 625,1.6,10
+2012/13-PRE,Tubing Blank (distilled),equip blank,8/10/2012,Organic,2||4-Dinitrophenol,n/a,<,1.6,µg/L,EPA 625,1.6,10
+2012/13-PRE,Carboy Blank,(HNO3||methanol) equip blank,8/10/2012,Organic,2||4-Dinitrotoluene,n/a,<,0.18,µg/L,EPA 625,0.18,1
+2012/13-PRE,Lab,LCS,8/9/2012,Organic,2||4-Dinitrotoluene,n/a,=,38.4,µg/L,EPA 625,0.18,1
+2012/13-PRE,Lab,LCS dup,8/9/2012,Organic,2||4-Dinitrotoluene,n/a,=,41.5,µg/L,EPA 625,0.18,1
+2012/13-PRE,Lab,LCS dup|| rec,8/9/2012,Organic,2||4-Dinitrotoluene,n/a,=,83,%,EPA 625,-88,-88
+2012/13-PRE,Lab,LCS|| rec,8/9/2012,Organic,2||4-Dinitrotoluene,n/a,=,77,%,EPA 625,-88,-88
+2012/13-PRE,Lab,LCS|| RPD,8/9/2012,Organic,2||4-Dinitrotoluene,n/a,=,8,%,EPA 625,-88,-88
+2012/13-PRE,Lab,method blank,8/9/2012,Organic,2||4-Dinitrotoluene,n/a,<,0.18,µg/L,EPA 625,0.18,1
+2012/13-PRE,Tubing Blank (distilled),equip blank,8/10/2012,Organic,2||4-Dinitrotoluene,n/a,<,0.18,µg/L,EPA 625,0.18,1
+2012/13-PRE,Carboy Blank,(HNO3||methanol) equip blank,8/10/2012,Organic,2||6-Dinitrotoluene,n/a,<,0.27,µg/L,EPA 625,0.27,1
+2012/13-PRE,Lab,LCS,8/9/2012,Organic,2||6-Dinitrotoluene,n/a,=,40.5,µg/L,EPA 625,0.27,1
+2012/13-PRE,Lab,LCS dup,8/9/2012,Organic,2||6-Dinitrotoluene,n/a,=,44.5,µg/L,EPA 625,0.27,1
+2012/13-PRE,Lab,LCS dup|| rec,8/9/2012,Organic,2||6-Dinitrotoluene,n/a,=,89,%,EPA 625,-88,-88
+2012/13-PRE,Lab,LCS|| rec,8/9/2012,Organic,2||6-Dinitrotoluene,n/a,=,81,%,EPA 625,-88,-88
+2012/13-PRE,Lab,LCS|| RPD,8/9/2012,Organic,2||6-Dinitrotoluene,n/a,=,9,%,EPA 625,-88,-88
+2012/13-PRE,Lab,method blank,8/9/2012,Organic,2||6-Dinitrotoluene,n/a,<,0.27,µg/L,EPA 625,0.27,1
+2012/13-PRE,Tubing Blank (distilled),equip blank,8/10/2012,Organic,2||6-Dinitrotoluene,n/a,<,0.27,µg/L,EPA 625,0.27,1
+2012/13-PRE,Carboy Blank,(HNO3||methanol) equip blank,8/10/2012,Organic,2-Chloronaphthalene,n/a,<,0.45,µg/L,EPA 625,0.45,1
+2012/13-PRE,Lab,LCS,8/9/2012,Organic,2-Chloronaphthalene,n/a,=,35.3,µg/L,EPA 625,0.45,1
+2012/13-PRE,Lab,LCS dup,8/9/2012,Organic,2-Chloronaphthalene,n/a,=,42.6,µg/L,EPA 625,0.45,1
+2012/13-PRE,Lab,LCS dup|| rec,8/9/2012,Organic,2-Chloronaphthalene,n/a,=,85,%,EPA 625,-88,-88
+2012/13-PRE,Lab,LCS|| rec,8/9/2012,Organic,2-Chloronaphthalene,n/a,=,71,%,EPA 625,-88,-88
+2012/13-PRE,Lab,LCS|| RPD,8/9/2012,Organic,2-Chloronaphthalene,n/a,=,19,%,EPA 625,-88,-88
+2012/13-PRE,Lab,method blank,8/9/2012,Organic,2-Chloronaphthalene,n/a,<,0.45,µg/L,EPA 625,0.45,1
+2012/13-PRE,Tubing Blank (distilled),equip blank,8/10/2012,Organic,2-Chloronaphthalene,n/a,<,0.45,µg/L,EPA 625,0.45,1
+2012/13-PRE,Carboy Blank,(HNO3||methanol) equip blank,8/10/2012,Organic,2-Chlorophenol,n/a,<,0.28,µg/L,EPA 625,0.28,1
+2012/13-PRE,Tubing Blank (distilled),equip blank,8/10/2012,Organic,2-Chlorophenol,n/a,<,0.28,µg/L,EPA 625,0.28,1
+2012/13-PRE,Carboy Blank,(HNO3||methanol) srgt equip blank,8/10/2012,Organic,2-Fluorobiphenyl,n/a,=,42.1,µg/L,EPA 625,-88,-88
+2012/13-PRE,Carboy Blank,(HNO3||methanol)srgt equip blank|| rec,8/10/2012,Organic,2-Fluorobiphenyl,n/a,=,84,%,EPA 625,-88,-88
+2012/13-PRE,Lab,srgt LCS,8/9/2012,Organic,2-Fluorobiphenyl,n/a,=,34.5,µg/L,EPA 625,-88,-88
+2012/13-PRE,Lab,srgt LCS dup,8/9/2012,Organic,2-Fluorobiphenyl,n/a,=,41.2,µg/L,EPA 625,-88,-88
+2012/13-PRE,Lab,srgt LCS dup|| rec,8/9/2012,Organic,2-Fluorobiphenyl,n/a,=,82,%,EPA 625,-88,-88
+2012/13-PRE,Lab,srgt LCS|| rec,8/9/2012,Organic,2-Fluorobiphenyl,n/a,=,69,%,EPA 625,-88,-88
+2012/13-PRE,Lab,srgt method blank,8/9/2012,Organic,2-Fluorobiphenyl,n/a,=,26.4,µg/L,EPA 625,-88,-88
+2012/13-PRE,Lab,srgt method blank|| rec,8/9/2012,Organic,2-Fluorobiphenyl,n/a,=,53,%,EPA 625,-88,-88
+2012/13-PRE,Tubing Blank (distilled),srgt equip blank,8/10/2012,Organic,2-Fluorobiphenyl,n/a,=,47.7,µg/L,EPA 625,-88,-88
+2012/13-PRE,Tubing Blank (distilled),srgt equip blank|| rec,8/10/2012,Organic,2-Fluorobiphenyl,n/a,=,85,%,EPA 625,-88,-88
+2012/13-PRE,Carboy Blank,(HNO3||methanol) srgt equip blank,8/10/2012,Organic,2-Fluorophenol,n/a,=,47.6,µg/L,EPA 625,-88,-88
+2012/13-PRE,Carboy Blank,(HNO3||methanol)srgt equip blank|| rec,8/10/2012,Organic,2-Fluorophenol,n/a,=,48,%,EPA 625,-88,-88
+2012/13-PRE,Lab,srgt LCS,8/9/2012,Organic,2-Fluorophenol,n/a,=,29.7,µg/L,EPA 625,-88,-88
+2012/13-PRE,Lab,srgt LCS dup,8/9/2012,Organic,2-Fluorophenol,n/a,=,39,µg/L,EPA 625,-88,-88
+2012/13-PRE,Lab,srgt LCS dup|| rec,8/9/2012,Organic,2-Fluorophenol,n/a,=,39,%,EPA 625,-88,-88
+2012/13-PRE,Lab,srgt LCS|| rec,8/9/2012,Organic,2-Fluorophenol,n/a,=,30,%,EPA 625,-88,-88
+2012/13-PRE,Lab,srgt method blank,8/9/2012,Organic,2-Fluorophenol,n/a,=,27.4,µg/L,EPA 625,-88,-88
+2012/13-PRE,Lab,srgt method blank|| rec,8/9/2012,Organic,2-Fluorophenol,n/a,=,27,%,EPA 625,-88,-88
+2012/13-PRE,Tubing Blank (distilled),srgt equip blank,8/10/2012,Organic,2-Fluorophenol,n/a,=,56.5,µg/L,EPA 625,-88,-88
+2012/13-PRE,Tubing Blank (distilled),srgt equip blank|| rec,8/10/2012,Organic,2-Fluorophenol,n/a,=,50,%,EPA 625,-88,-88
+2012/13-PRE,Carboy Blank,(HNO3||methanol) equip blank,8/10/2012,Organic,2-Nitrophenol,n/a,<,0.26,µg/L,EPA 625,0.26,1
+2012/13-PRE,Tubing Blank (distilled),equip blank,8/10/2012,Organic,2-Nitrophenol,n/a,<,0.26,µg/L,EPA 625,0.26,1
+2012/13-PRE,Carboy Blank,(HNO3||methanol) equip blank,8/10/2012,Organic,3||3'-Dichlorobenzidine,n/a,<,1.2,µg/L,EPA 625,1.2,5
+2012/13-PRE,Lab,LCS,8/9/2012,Organic,3||3'-Dichlorobenzidine,n/a,=,36.1,µg/L,EPA 625,1.2,5
+2012/13-PRE,Lab,LCS dup,8/9/2012,Organic,3||3'-Dichlorobenzidine,n/a,=,19.2,µg/L,EPA 625,1.2,5
+2012/13-PRE,Lab,LCS dup|| rec,8/9/2012,Organic,3||3'-Dichlorobenzidine,n/a,=,38,%,EPA 625,-88,-88
+2012/13-PRE,Lab,LCS|| rec,8/9/2012,Organic,3||3'-Dichlorobenzidine,n/a,=,72,%,EPA 625,-88,-88
+2012/13-PRE,Lab,LCS|| RPD,8/9/2012,Organic,3||3'-Dichlorobenzidine,n/a,=,61,%,EPA 625,-88,-88
+2012/13-PRE,Lab,method blank,8/9/2012,Organic,3||3'-Dichlorobenzidine,n/a,<,1.2,µg/L,EPA 625,1.2,5
+2012/13-PRE,Tubing Blank (distilled),equip blank,8/10/2012,Organic,3||3'-Dichlorobenzidine,n/a,<,1.2,µg/L,EPA 625,1.2,5
+2012/13-PRE,Carboy Blank,(HNO3||methanol) equip blank,8/10/2012,Organic,4||6-Dinitro-2-methylphenol,n/a,<,1.7,µg/L,EPA 625,1.7,5
+2012/13-PRE,Tubing Blank (distilled),equip blank,8/10/2012,Organic,4||6-Dinitro-2-methylphenol,n/a,<,1.7,µg/L,EPA 625,1.7,5
+2012/13-PRE,Carboy Blank,(HNO3||methanol) equip blank,8/10/2012,Organic,4-Bromophenyl phenyl ether,n/a,<,0.36,µg/L,EPA 625,0.36,1
+2012/13-PRE,Lab,LCS,8/9/2012,Organic,4-Bromophenyl phenyl ether,n/a,=,32.5,µg/L,EPA 625,0.36,1
+2012/13-PRE,Lab,LCS dup,8/9/2012,Organic,4-Bromophenyl phenyl ether,n/a,=,35.5,µg/L,EPA 625,0.36,1
+2012/13-PRE,Lab,LCS dup|| rec,8/9/2012,Organic,4-Bromophenyl phenyl ether,n/a,=,71,%,EPA 625,-88,-88
+2012/13-PRE,Lab,LCS|| rec,8/9/2012,Organic,4-Bromophenyl phenyl ether,n/a,=,65,%,EPA 625,-88,-88
+2012/13-PRE,Lab,LCS|| RPD,8/9/2012,Organic,4-Bromophenyl phenyl ether,n/a,=,9,%,EPA 625,-88,-88
+2012/13-PRE,Lab,method blank,8/9/2012,Organic,4-Bromophenyl phenyl ether,n/a,<,0.36,µg/L,EPA 625,0.36,1
+2012/13-PRE,Tubing Blank (distilled),equip blank,8/10/2012,Organic,4-Bromophenyl phenyl ether,n/a,<,0.36,µg/L,EPA 625,0.36,1
+2012/13-PRE,Carboy Blank,(HNO3||methanol) equip blank,8/10/2012,Organic,4-Chloro-3-methylphenol,n/a,<,0.23,µg/L,EPA 625,0.23,1
+2012/13-PRE,Tubing Blank (distilled),equip blank,8/10/2012,Organic,4-Chloro-3-methylphenol,n/a,<,0.23,µg/L,EPA 625,0.23,1
+2012/13-PRE,Carboy Blank,(HNO3||methanol) equip blank,8/10/2012,Organic,4-Chlorophenyl phenyl ether,n/a,<,0.41,µg/L,EPA 625,0.41,1
+2012/13-PRE,Lab,LCS,8/9/2012,Organic,4-Chlorophenyl phenyl ether,n/a,=,35.8,µg/L,EPA 625,0.41,1
+2012/13-PRE,Lab,LCS dup,8/9/2012,Organic,4-Chlorophenyl phenyl ether,n/a,=,40,µg/L,EPA 625,0.41,1
+2012/13-PRE,Lab,LCS dup|| rec,8/9/2012,Organic,4-Chlorophenyl phenyl ether,n/a,=,80,%,EPA 625,-88,-88
+2012/13-PRE,Lab,LCS|| rec,8/9/2012,Organic,4-Chlorophenyl phenyl ether,n/a,=,72,%,EPA 625,-88,-88
+2012/13-PRE,Lab,LCS|| RPD,8/9/2012,Organic,4-Chlorophenyl phenyl ether,n/a,=,11,%,EPA 625,-88,-88
+2012/13-PRE,Lab,method blank,8/9/2012,Organic,4-Chlorophenyl phenyl ether,n/a,<,0.41,µg/L,EPA 625,0.41,1
+2012/13-PRE,Tubing Blank (distilled),equip blank,8/10/2012,Organic,4-Chlorophenyl phenyl ether,n/a,<,0.41,µg/L,EPA 625,0.41,1
+2012/13-PRE,Carboy Blank,(HNO3||methanol) equip blank,8/10/2012,Organic,4-Nitrophenol,n/a,<,0.45,µg/L,EPA 625,0.45,5
+2012/13-PRE,Tubing Blank (distilled),equip blank,8/10/2012,Organic,4-Nitrophenol,n/a,<,0.45,µg/L,EPA 625,0.45,5
+2012/13-PRE,Carboy Blank,(HNO3||methanol) equip blank,8/10/2012,Organic,Acenaphthene,n/a,<,0.38,µg/L,EPA 625,0.38,1
+2012/13-PRE,Tubing Blank (distilled),equip blank,8/10/2012,Organic,Acenaphthene,n/a,<,0.38,µg/L,EPA 625,0.38,1
+2012/13-PRE,Carboy Blank,(HNO3||methanol) equip blank,8/10/2012,Organic,Acenaphthylene,n/a,<,0.4,µg/L,EPA 625,0.4,1
+2012/13-PRE,Tubing Blank (distilled),equip blank,8/10/2012,Organic,Acenaphthylene,n/a,<,0.4,µg/L,EPA 625,0.4,1
+2012/13-PRE,Carboy Blank,(HNO3||methanol) equip blank,8/10/2012,Organic,Anthracene,n/a,<,0.34,µg/L,EPA 625,0.34,1
+2012/13-PRE,Tubing Blank (distilled),equip blank,8/10/2012,Organic,Anthracene,n/a,<,0.34,µg/L,EPA 625,0.34,1
+2012/13-PRE,Carboy Blank,(HNO3||methanol) equip blank,8/10/2012,Organic,Benz(a)anthracene,n/a,<,0.19,µg/L,EPA 625,0.19,1
+2012/13-PRE,Tubing Blank (distilled),equip blank,8/10/2012,Organic,Benz(a)anthracene,n/a,<,0.19,µg/L,EPA 625,0.19,1
+2012/13-PRE,Carboy Blank,(HNO3||methanol) equip blank,8/10/2012,Organic,Benzidine,n/a,<,3.7,µg/L,EPA 625,3.7,10
+2012/13-PRE,Lab,method blank,8/9/2012,Organic,Benzidine,n/a,<,3.7,µg/L,EPA 625,3.7,10
+2012/13-PRE,Tubing Blank (distilled),equip blank,8/10/2012,Organic,Benzidine,n/a,<,3.7,µg/L,EPA 625,3.7,10
+2012/13-PRE,Carboy Blank,(HNO3||methanol) equip blank,8/10/2012,Organic,Benzo(a)pyrene,n/a,<,0.13,µg/L,EPA 625,0.13,1
+2012/13-PRE,Tubing Blank (distilled),equip blank,8/10/2012,Organic,Benzo(a)pyrene,n/a,<,0.13,µg/L,EPA 625,0.13,1
+2012/13-PRE,Carboy Blank,(HNO3||methanol) equip blank,8/10/2012,Organic,Benzo(b)fluoranthene,n/a,<,0.14,µg/L,EPA 625,0.14,1
+2012/13-PRE,Tubing Blank (distilled),equip blank,8/10/2012,Organic,Benzo(b)fluoranthene,n/a,<,0.14,µg/L,EPA 625,0.14,1
+2012/13-PRE,Carboy Blank,(HNO3||methanol) equip blank,8/10/2012,Organic,Benzo(g||h||i)perylene,n/a,<,0.1,µg/L,EPA 625,0.1,2
+2012/13-PRE,Tubing Blank (distilled),equip blank,8/10/2012,Organic,Benzo(g||h||i)perylene,n/a,<,0.1,µg/L,EPA 625,0.1,2
+2012/13-PRE,Carboy Blank,(HNO3||methanol) equip blank,8/10/2012,Organic,Benzo(k)fluoranthene,n/a,<,0.22,µg/L,EPA 625,0.22,1
+2012/13-PRE,Tubing Blank (distilled),equip blank,8/10/2012,Organic,Benzo(k)fluoranthene,n/a,<,0.22,µg/L,EPA 625,0.22,1
+2012/13-PRE,Carboy Blank,(HNO3||methanol) equip blank,8/10/2012,Organic,Bis(2-chloroethoxy)methane,n/a,<,0.25,µg/L,EPA 625,0.25,1
+2012/13-PRE,Lab,LCS,8/9/2012,Organic,Bis(2-chloroethoxy)methane,n/a,=,29.6,µg/L,EPA 625,0.25,1
+2012/13-PRE,Lab,LCS dup,8/9/2012,Organic,Bis(2-chloroethoxy)methane,n/a,=,37.4,µg/L,EPA 625,0.25,1
+2012/13-PRE,Lab,LCS dup|| rec,8/9/2012,Organic,Bis(2-chloroethoxy)methane,n/a,=,75,%,EPA 625,-88,-88
+2012/13-PRE,Lab,LCS|| rec,8/9/2012,Organic,Bis(2-chloroethoxy)methane,n/a,=,59,%,EPA 625,-88,-88
+2012/13-PRE,Lab,LCS|| RPD,8/9/2012,Organic,Bis(2-chloroethoxy)methane,n/a,=,23,%,EPA 625,-88,-88
+2012/13-PRE,Lab,method blank,8/9/2012,Organic,Bis(2-chloroethoxy)methane,n/a,<,0.25,µg/L,EPA 625,0.25,1
+2012/13-PRE,Tubing Blank (distilled),equip blank,8/10/2012,Organic,Bis(2-chloroethoxy)methane,n/a,<,0.25,µg/L,EPA 625,0.25,1
+2012/13-PRE,Carboy Blank,(HNO3||methanol) equip blank,8/10/2012,Organic,Bis(2-chloroethyl)ether,n/a,<,0.27,µg/L,EPA 625,0.27,1
+2012/13-PRE,Lab,LCS,8/9/2012,Organic,Bis(2-chloroethyl)ether,n/a,=,23.9,µg/L,EPA 625,0.27,1
+2012/13-PRE,Lab,LCS dup,8/9/2012,Organic,Bis(2-chloroethyl)ether,n/a,=,33.3,µg/L,EPA 625,0.27,1
+2012/13-PRE,Lab,LCS dup|| rec,8/9/2012,Organic,Bis(2-chloroethyl)ether,n/a,=,67,%,EPA 625,-88,-88
+2012/13-PRE,Lab,LCS|| rec,8/9/2012,Organic,Bis(2-chloroethyl)ether,n/a,=,48,%,EPA 625,-88,-88
+2012/13-PRE,Lab,LCS|| RPD,8/9/2012,Organic,Bis(2-chloroethyl)ether,n/a,=,33,%,EPA 625,-88,-88
+2012/13-PRE,Lab,method blank,8/9/2012,Organic,Bis(2-chloroethyl)ether,n/a,<,0.27,µg/L,EPA 625,0.27,1
+2012/13-PRE,Tubing Blank (distilled),equip blank,8/10/2012,Organic,Bis(2-chloroethyl)ether,n/a,<,0.27,µg/L,EPA 625,0.27,1
+2012/13-PRE,Carboy Blank,(HNO3||methanol) equip blank,8/10/2012,Organic,Bis(2-chloroisopropyl)ether,n/a,<,0.38,µg/L,EPA 625,0.38,1
+2012/13-PRE,Lab,LCS,8/9/2012,Organic,Bis(2-chloroisopropyl)ether,n/a,=,26.1,µg/L,EPA 625,0.38,1
+2012/13-PRE,Lab,LCS dup,8/9/2012,Organic,Bis(2-chloroisopropyl)ether,n/a,=,36.7,µg/L,EPA 625,0.38,1
+2012/13-PRE,Lab,LCS dup|| rec,8/9/2012,Organic,Bis(2-chloroisopropyl)ether,n/a,=,73,%,EPA 625,-88,-88
+2012/13-PRE,Lab,LCS|| rec,8/9/2012,Organic,Bis(2-chloroisopropyl)ether,n/a,=,52,%,EPA 625,-88,-88
+2012/13-PRE,Lab,LCS|| RPD,8/9/2012,Organic,Bis(2-chloroisopropyl)ether,n/a,=,34,%,EPA 625,-88,-88
+2012/13-PRE,Lab,method blank,8/9/2012,Organic,Bis(2-chloroisopropyl)ether,n/a,<,0.38,µg/L,EPA 625,0.38,1
+2012/13-PRE,Tubing Blank (distilled),equip blank,8/10/2012,Organic,Bis(2-chloroisopropyl)ether,n/a,<,0.38,µg/L,EPA 625,0.38,1
+2012/13-PRE,Carboy Blank,(HNO3||methanol) equip blank,8/10/2012,Organic,Bis(2-ethylhexyl)phthalate,n/a,<,2.3,µg/L,EPA 625,2.3,5
+2012/13-PRE,Tubing Blank (distilled),equip blank,8/10/2012,Organic,Bis(2-ethylhexyl)phthalate,n/a,DNQ,4.2,µg/L,EPA 625,2.3,5
+2012/13-PRE,Carboy Blank,(HNO3||methanol) equip blank,8/10/2012,Organic,Butyl benzyl phthalate,n/a,<,0.18,µg/L,EPA 625,0.18,1
+2012/13-PRE,Lab,LCS,8/9/2012,Organic,Butyl benzyl phthalate,n/a,=,45.9,µg/L,EPA 625,0.18,1
+2012/13-PRE,Lab,LCS dup,8/9/2012,Organic,Butyl benzyl phthalate,n/a,=,48.5,µg/L,EPA 625,0.18,1
+2012/13-PRE,Lab,LCS dup|| rec,8/9/2012,Organic,Butyl benzyl phthalate,n/a,=,97,%,EPA 625,-88,-88
+2012/13-PRE,Lab,LCS|| rec,8/9/2012,Organic,Butyl benzyl phthalate,n/a,=,92,%,EPA 625,-88,-88
+2012/13-PRE,Lab,LCS|| RPD,8/9/2012,Organic,Butyl benzyl phthalate,n/a,=,5,%,EPA 625,-88,-88
+2012/13-PRE,Lab,method blank,8/9/2012,Organic,Butyl benzyl phthalate,n/a,<,0.18,µg/L,EPA 625,0.18,1
+2012/13-PRE,Tubing Blank (distilled),equip blank,8/10/2012,Organic,Butyl benzyl phthalate,n/a,<,0.18,µg/L,EPA 625,0.18,1
+2012/13-PRE,Carboy Blank,(HNO3||methanol) equip blank,8/10/2012,Organic,Chrysene,n/a,<,0.19,µg/L,EPA 625,0.19,1
+2012/13-PRE,Tubing Blank (distilled),equip blank,8/10/2012,Organic,Chrysene,n/a,<,0.19,µg/L,EPA 625,0.19,1
+2012/13-PRE,Carboy Blank,(HNO3||methanol) equip blank,8/10/2012,Organic,Dibenz(a||h)anthracene,n/a,<,0.08,µg/L,EPA 625,0.08,2
+2012/13-PRE,Tubing Blank (distilled),equip blank,8/10/2012,Organic,Dibenz(a||h)anthracene,n/a,<,0.08,µg/L,EPA 625,0.08,2
+2012/13-PRE,Carboy Blank,(HNO3||methanol) equip blank,8/10/2012,Organic,Diethyl phthalate,n/a,<,0.15,µg/L,EPA 625,0.15,1
+2012/13-PRE,Lab,LCS,8/9/2012,Organic,Diethyl phthalate,n/a,=,39.2,µg/L,EPA 625,0.15,1
+2012/13-PRE,Lab,LCS dup,8/9/2012,Organic,Diethyl phthalate,n/a,=,42.8,µg/L,EPA 625,0.15,1
+2012/13-PRE,Lab,LCS dup|| rec,8/9/2012,Organic,Diethyl phthalate,n/a,=,86,%,EPA 625,-88,-88
+2012/13-PRE,Lab,LCS|| rec,8/9/2012,Organic,Diethyl phthalate,n/a,=,78,%,EPA 625,-88,-88
+2012/13-PRE,Lab,LCS|| RPD,8/9/2012,Organic,Diethyl phthalate,n/a,=,9,%,EPA 625,-88,-88
+2012/13-PRE,Lab,method blank,8/9/2012,Organic,Diethyl phthalate,n/a,<,0.15,µg/L,EPA 625,0.15,1
+2012/13-PRE,Tubing Blank (distilled),equip blank,8/10/2012,Organic,Diethyl phthalate,n/a,<,0.15,µg/L,EPA 625,0.15,1
+2012/13-PRE,Carboy Blank,(HNO3||methanol) equip blank,8/10/2012,Organic,Dimethyl phthalate,n/a,<,0.18,µg/L,EPA 625,0.18,1
+2012/13-PRE,Lab,LCS,8/9/2012,Organic,Dimethyl phthalate,n/a,=,39.9,µg/L,EPA 625,0.18,1
+2012/13-PRE,Lab,LCS dup,8/9/2012,Organic,Dimethyl phthalate,n/a,=,43.5,µg/L,EPA 625,0.18,1
+2012/13-PRE,Lab,LCS dup|| rec,8/9/2012,Organic,Dimethyl phthalate,n/a,=,87,%,EPA 625,-88,-88
+2012/13-PRE,Lab,LCS|| rec,8/9/2012,Organic,Dimethyl phthalate,n/a,=,80,%,EPA 625,-88,-88
+2012/13-PRE,Lab,LCS|| RPD,8/9/2012,Organic,Dimethyl phthalate,n/a,=,9,%,EPA 625,-88,-88
+2012/13-PRE,Lab,method blank,8/9/2012,Organic,Dimethyl phthalate,n/a,<,0.18,µg/L,EPA 625,0.18,1
+2012/13-PRE,Tubing Blank (distilled),equip blank,8/10/2012,Organic,Dimethyl phthalate,n/a,<,0.18,µg/L,EPA 625,0.18,1
+2012/13-PRE,Carboy Blank,(HNO3||methanol) equip blank,8/10/2012,Organic,Di-n-butylphthalate,n/a,<,0.24,µg/L,EPA 625,0.24,1
+2012/13-PRE,Lab,LCS,8/9/2012,Organic,Di-n-butylphthalate,n/a,=,41.9,µg/L,EPA 625,0.24,1
+2012/13-PRE,Lab,LCS dup,8/9/2012,Organic,Di-n-butylphthalate,n/a,=,44.8,µg/L,EPA 625,0.24,1
+2012/13-PRE,Lab,LCS dup|| rec,8/9/2012,Organic,Di-n-butylphthalate,n/a,=,90,%,EPA 625,-88,-88
+2012/13-PRE,Lab,LCS|| rec,8/9/2012,Organic,Di-n-butylphthalate,n/a,=,84,%,EPA 625,-88,-88
+2012/13-PRE,Lab,LCS|| RPD,8/9/2012,Organic,Di-n-butylphthalate,n/a,=,7,%,EPA 625,-88,-88
+2012/13-PRE,Lab,method blank,8/9/2012,Organic,Di-n-butylphthalate,n/a,<,0.24,µg/L,EPA 625,0.24,1
+2012/13-PRE,Tubing Blank (distilled),equip blank,8/10/2012,Organic,Di-n-butylphthalate,n/a,<,0.24,µg/L,EPA 625,0.24,1
+2012/13-PRE,Carboy Blank,(HNO3||methanol) equip blank,8/10/2012,Organic,Di-n-octylphthalate,n/a,<,0.19,µg/L,EPA 625,0.19,1
+2012/13-PRE,Lab,LCS,8/9/2012,Organic,Di-n-octylphthalate,n/a,=,38.1,µg/L,EPA 625,0.19,1
+2012/13-PRE,Lab,LCS dup,8/9/2012,Organic,Di-n-octylphthalate,n/a,=,41.2,µg/L,EPA 625,0.19,1
+2012/13-PRE,Lab,LCS dup|| rec,8/9/2012,Organic,Di-n-octylphthalate,n/a,=,82,%,EPA 625,-88,-88
+2012/13-PRE,Lab,LCS|| rec,8/9/2012,Organic,Di-n-octylphthalate,n/a,=,76,%,EPA 625,-88,-88
+2012/13-PRE,Lab,LCS|| RPD,8/9/2012,Organic,Di-n-octylphthalate,n/a,=,8,%,EPA 625,-88,-88
+2012/13-PRE,Lab,method blank,8/9/2012,Organic,Di-n-octylphthalate,n/a,<,0.19,µg/L,EPA 625,0.19,1
+2012/13-PRE,Tubing Blank (distilled),equip blank,8/10/2012,Organic,Di-n-octylphthalate,n/a,<,0.19,µg/L,EPA 625,0.19,1
+2012/13-PRE,Carboy Blank,(HNO3||methanol) equip blank,8/10/2012,Organic,Fluoranthene,n/a,<,0.22,µg/L,EPA 625,0.22,1
+2012/13-PRE,Tubing Blank (distilled),equip blank,8/10/2012,Organic,Fluoranthene,n/a,<,0.22,µg/L,EPA 625,0.22,1
+2012/13-PRE,Carboy Blank,(HNO3||methanol) equip blank,8/10/2012,Organic,Fluorene,n/a,<,0.35,µg/L,EPA 625,0.35,1
+2012/13-PRE,Tubing Blank (distilled),equip blank,8/10/2012,Organic,Fluorene,n/a,<,0.35,µg/L,EPA 625,0.35,1
+2012/13-PRE,Carboy Blank,(HNO3||methanol) equip blank,8/10/2012,Organic,Hexachlorobenzene,n/a,<,0.49,µg/L,EPA 625,0.49,1
+2012/13-PRE,Lab,LCS,8/9/2012,Organic,Hexachlorobenzene,n/a,=,34.8,µg/L,EPA 625,0.49,1
+2012/13-PRE,Lab,LCS dup,8/9/2012,Organic,Hexachlorobenzene,n/a,=,37.7,µg/L,EPA 625,0.49,1
+2012/13-PRE,Lab,LCS dup|| rec,8/9/2012,Organic,Hexachlorobenzene,n/a,=,75,%,EPA 625,-88,-88
+2012/13-PRE,Lab,LCS|| rec,8/9/2012,Organic,Hexachlorobenzene,n/a,=,70,%,EPA 625,-88,-88
+2012/13-PRE,Lab,LCS|| RPD,8/9/2012,Organic,Hexachlorobenzene,n/a,=,8,%,EPA 625,-88,-88
+2012/13-PRE,Lab,method blank,8/9/2012,Organic,Hexachlorobenzene,n/a,<,0.49,µg/L,EPA 625,0.49,1
+2012/13-PRE,Tubing Blank (distilled),equip blank,8/10/2012,Organic,Hexachlorobenzene,n/a,<,0.49,µg/L,EPA 625,0.49,1
+2012/13-PRE,Carboy Blank,(HNO3||methanol) equip blank,8/10/2012,Organic,Hexachlorobutadiene,n/a,<,0.47,µg/L,EPA 625,0.47,1
+2012/13-PRE,Lab,LCS,8/9/2012,Organic,Hexachlorobutadiene,n/a,=,27.8,µg/L,EPA 625,0.47,1
+2012/13-PRE,Lab,LCS dup,8/9/2012,Organic,Hexachlorobutadiene,n/a,=,38.8,µg/L,EPA 625,0.47,1
+2012/13-PRE,Lab,LCS dup|| rec,8/9/2012,Organic,Hexachlorobutadiene,n/a,=,78,%,EPA 625,-88,-88
+2012/13-PRE,Lab,LCS|| rec,8/9/2012,Organic,Hexachlorobutadiene,n/a,=,56,%,EPA 625,-88,-88
+2012/13-PRE,Lab,LCS|| RPD,8/9/2012,Organic,Hexachlorobutadiene,n/a,=,33,%,EPA 625,-88,-88
+2012/13-PRE,Lab,method blank,8/9/2012,Organic,Hexachlorobutadiene,n/a,<,0.47,µg/L,EPA 625,0.47,1
+2012/13-PRE,Tubing Blank (distilled),equip blank,8/10/2012,Organic,Hexachlorobutadiene,n/a,<,0.47,µg/L,EPA 625,0.47,1
+2012/13-PRE,Carboy Blank,(HNO3||methanol) equip blank,8/10/2012,Organic,Hexachlorocyclopentadiene,n/a,<,1.5,µg/L,EPA 625,1.5,5
+2012/13-PRE,Lab,LCS,8/9/2012,Organic,Hexachlorocyclopentadiene,n/a,=,13.9,µg/L,EPA 625,1.5,5
+2012/13-PRE,Lab,LCS dup,8/9/2012,Organic,Hexachlorocyclopentadiene,n/a,=,20.4,µg/L,EPA 625,1.5,5
+2012/13-PRE,Lab,LCS dup|| rec,8/9/2012,Organic,Hexachlorocyclopentadiene,n/a,=,41,%,EPA 625,-88,-88
+2012/13-PRE,Lab,LCS|| rec,8/9/2012,Organic,Hexachlorocyclopentadiene,n/a,=,28,%,EPA 625,-88,-88
+2012/13-PRE,Lab,LCS|| RPD,8/9/2012,Organic,Hexachlorocyclopentadiene,n/a,=,38,%,EPA 625,-88,-88
+2012/13-PRE,Lab,method blank,8/9/2012,Organic,Hexachlorocyclopentadiene,n/a,<,1.5,µg/L,EPA 625,1.5,5
+2012/13-PRE,Tubing Blank (distilled),equip blank,8/10/2012,Organic,Hexachlorocyclopentadiene,n/a,<,1.5,µg/L,EPA 625,1.5,5
+2012/13-PRE,Carboy Blank,(HNO3||methanol) equip blank,8/10/2012,Organic,Hexachloroethane,n/a,<,0.52,µg/L,EPA 625,0.52,1
+2012/13-PRE,Lab,LCS,8/9/2012,Organic,Hexachloroethane,n/a,=,25.3,µg/L,EPA 625,0.52,1
+2012/13-PRE,Lab,LCS dup,8/9/2012,Organic,Hexachloroethane,n/a,=,35.1,µg/L,EPA 625,0.52,1
+2012/13-PRE,Lab,LCS dup|| rec,8/9/2012,Organic,Hexachloroethane,n/a,=,70,%,EPA 625,-88,-88
+2012/13-PRE,Lab,LCS|| rec,8/9/2012,Organic,Hexachloroethane,n/a,=,51,%,EPA 625,-88,-88
+2012/13-PRE,Lab,LCS|| RPD,8/9/2012,Organic,Hexachloroethane,n/a,=,32,%,EPA 625,-88,-88
+2012/13-PRE,Lab,method blank,8/9/2012,Organic,Hexachloroethane,n/a,<,0.52,µg/L,EPA 625,0.52,1
+2012/13-PRE,Tubing Blank (distilled),equip blank,8/10/2012,Organic,Hexachloroethane,n/a,<,0.52,µg/L,EPA 625,0.52,1
+2012/13-PRE,Carboy Blank,(HNO3||methanol) equip blank,8/10/2012,Organic,Indeno(1||2||3-cd)pyrene,n/a,<,0.12,µg/L,EPA 625,0.12,2
+2012/13-PRE,Tubing Blank (distilled),equip blank,8/10/2012,Organic,Indeno(1||2||3-cd)pyrene,n/a,<,0.12,µg/L,EPA 625,0.12,2
+2012/13-PRE,Carboy Blank,(HNO3||methanol) equip blank,8/10/2012,Organic,Isophorone,n/a,<,0.21,µg/L,EPA 625,0.21,1
+2012/13-PRE,Lab,LCS,8/9/2012,Organic,Isophorone,n/a,=,29.7,µg/L,EPA 625,0.21,1
+2012/13-PRE,Lab,LCS dup,8/9/2012,Organic,Isophorone,n/a,=,35.7,µg/L,EPA 625,0.21,1
+2012/13-PRE,Lab,LCS dup|| rec,8/9/2012,Organic,Isophorone,n/a,=,71,%,EPA 625,-88,-88
+2012/13-PRE,Lab,LCS|| rec,8/9/2012,Organic,Isophorone,n/a,=,59,%,EPA 625,-88,-88
+2012/13-PRE,Lab,LCS|| RPD,8/9/2012,Organic,Isophorone,n/a,=,18,%,EPA 625,-88,-88
+2012/13-PRE,Lab,method blank,8/9/2012,Organic,Isophorone,n/a,<,0.21,µg/L,EPA 625,0.21,1
+2012/13-PRE,Tubing Blank (distilled),equip blank,8/10/2012,Organic,Isophorone,n/a,<,0.21,µg/L,EPA 625,0.21,1
+2012/13-PRE,Carboy Blank,(HNO3||methanol) equip blank,8/10/2012,Organic,Naphthalene,n/a,<,0.49,µg/L,EPA 625,0.49,1
+2012/13-PRE,Tubing Blank (distilled),equip blank,8/10/2012,Organic,Naphthalene,n/a,<,0.49,µg/L,EPA 625,0.49,1
+2012/13-PRE,Carboy Blank,(HNO3||methanol) equip blank,8/10/2012,Organic,Nitrobenzene,n/a,<,0.36,µg/L,EPA 625,0.36,1
+2012/13-PRE,Lab,LCS,8/9/2012,Organic,Nitrobenzene,n/a,=,27.8,µg/L,EPA 625,0.36,1
+2012/13-PRE,Lab,LCS dup,8/9/2012,Organic,Nitrobenzene,n/a,=,38.4,µg/L,EPA 625,0.36,1
+2012/13-PRE,Lab,LCS dup|| rec,8/9/2012,Organic,Nitrobenzene,n/a,=,77,%,EPA 625,-88,-88
+2012/13-PRE,Lab,LCS|| rec,8/9/2012,Organic,Nitrobenzene,n/a,=,56,%,EPA 625,-88,-88
+2012/13-PRE,Lab,LCS|| RPD,8/9/2012,Organic,Nitrobenzene,n/a,=,32,%,EPA 625,-88,-88
+2012/13-PRE,Lab,method blank,8/9/2012,Organic,Nitrobenzene,n/a,<,0.36,µg/L,EPA 625,0.36,1
+2012/13-PRE,Tubing Blank (distilled),equip blank,8/10/2012,Organic,Nitrobenzene,n/a,<,0.36,µg/L,EPA 625,0.36,1
+2012/13-PRE,Carboy Blank,(HNO3||methanol) srgt equip blank,8/10/2012,Organic,Nitrobenzene-d5,n/a,=,43.7,µg/L,EPA 625,-88,-88
+2012/13-PRE,Carboy Blank,(HNO3||methanol)srgt equip blank|| rec,8/10/2012,Organic,Nitrobenzene-d5,n/a,=,87,%,EPA 625,-88,-88
+2012/13-PRE,Lab,srgt LCS,8/9/2012,Organic,Nitrobenzene-d5,n/a,=,27,µg/L,EPA 625,-88,-88
+2012/13-PRE,Lab,srgt LCS dup,8/9/2012,Organic,Nitrobenzene-d5,n/a,=,36.2,µg/L,EPA 625,-88,-88
+2012/13-PRE,Lab,srgt LCS dup|| rec,8/9/2012,Organic,Nitrobenzene-d5,n/a,=,72,%,EPA 625,-88,-88
+2012/13-PRE,Lab,srgt LCS|| rec,8/9/2012,Organic,Nitrobenzene-d5,n/a,=,54,%,EPA 625,-88,-88
+2012/13-PRE,Lab,srgt method blank,8/9/2012,Organic,Nitrobenzene-d5,n/a,=,25.8,µg/L,EPA 625,-88,-88
+2012/13-PRE,Lab,srgt method blank|| rec,8/9/2012,Organic,Nitrobenzene-d5,n/a,=,52,%,EPA 625,-88,-88
+2012/13-PRE,Tubing Blank (distilled),srgt equip blank,8/10/2012,Organic,Nitrobenzene-d5,n/a,=,49.2,µg/L,EPA 625,-88,-88
+2012/13-PRE,Tubing Blank (distilled),srgt equip blank|| rec,8/10/2012,Organic,Nitrobenzene-d5,n/a,=,88,%,EPA 625,-88,-88
+2012/13-PRE,Carboy Blank,(HNO3||methanol) equip blank,8/10/2012,Organic,N-Nitrosodimethylamine,n/a,<,0.14,µg/L,EPA 625,0.14,1
+2012/13-PRE,Lab,LCS,8/9/2012,Organic,N-Nitrosodimethylamine,n/a,=,13.5,µg/L,EPA 625,0.14,1
+2012/13-PRE,Lab,LCS dup,8/9/2012,Organic,N-Nitrosodimethylamine,n/a,=,18.2,µg/L,EPA 625,0.14,1
+2012/13-PRE,Lab,LCS dup|| rec,8/9/2012,Organic,N-Nitrosodimethylamine,n/a,=,36,%,EPA 625,-88,-88
+2012/13-PRE,Lab,LCS|| rec,8/9/2012,Organic,N-Nitrosodimethylamine,n/a,=,27,%,EPA 625,-88,-88
+2012/13-PRE,Lab,LCS|| RPD,8/9/2012,Organic,N-Nitrosodimethylamine,n/a,=,30,%,EPA 625,-88,-88
+2012/13-PRE,Lab,method blank,8/9/2012,Organic,N-Nitrosodimethylamine,n/a,<,0.14,µg/L,EPA 625,0.14,1
+2012/13-PRE,Tubing Blank (distilled),equip blank,8/10/2012,Organic,N-Nitrosodimethylamine,n/a,<,0.14,µg/L,EPA 625,0.14,1
+2012/13-PRE,Carboy Blank,(HNO3||methanol) equip blank,8/10/2012,Organic,N-Nitrosodi-N-propylamine,n/a,<,0.26,µg/L,EPA 625,0.26,1
+2012/13-PRE,Lab,LCS,8/9/2012,Organic,N-Nitrosodi-N-propylamine,n/a,=,29,µg/L,EPA 625,0.26,1
+2012/13-PRE,Lab,LCS dup,8/9/2012,Organic,N-Nitrosodi-N-propylamine,n/a,=,39.3,µg/L,EPA 625,0.26,1
+2012/13-PRE,Lab,LCS dup|| rec,8/9/2012,Organic,N-Nitrosodi-N-propylamine,n/a,=,79,%,EPA 625,-88,-88
+2012/13-PRE,Lab,LCS|| rec,8/9/2012,Organic,N-Nitrosodi-N-propylamine,n/a,=,58,%,EPA 625,-88,-88
+2012/13-PRE,Lab,LCS|| RPD,8/9/2012,Organic,N-Nitrosodi-N-propylamine,n/a,=,30,%,EPA 625,-88,-88
+2012/13-PRE,Lab,method blank,8/9/2012,Organic,N-Nitrosodi-N-propylamine,n/a,<,0.26,µg/L,EPA 625,0.26,1
+2012/13-PRE,Tubing Blank (distilled),equip blank,8/10/2012,Organic,N-Nitrosodi-N-propylamine,n/a,<,0.26,µg/L,EPA 625,0.26,1
+2012/13-PRE,Carboy Blank,(HNO3||methanol) equip blank,8/10/2012,Organic,N-Nitrosodiphenylamine,n/a,<,0.19,µg/L,EPA 625,0.19,1
+2012/13-PRE,Lab,LCS,8/9/2012,Organic,N-Nitrosodiphenylamine,n/a,=,32.9,µg/L,EPA 625,0.19,1
+2012/13-PRE,Lab,LCS dup,8/9/2012,Organic,N-Nitrosodiphenylamine,n/a,=,34,µg/L,EPA 625,0.19,1
+2012/13-PRE,Lab,LCS dup|| rec,8/9/2012,Organic,N-Nitrosodiphenylamine,n/a,=,68,%,EPA 625,-88,-88
+2012/13-PRE,Lab,LCS|| rec,8/9/2012,Organic,N-Nitrosodiphenylamine,n/a,=,66,%,EPA 625,-88,-88
+2012/13-PRE,Lab,LCS|| RPD,8/9/2012,Organic,N-Nitrosodiphenylamine,n/a,=,3,%,EPA 625,-88,-88
+2012/13-PRE,Lab,method blank,8/9/2012,Organic,N-Nitrosodiphenylamine,n/a,<,0.19,µg/L,EPA 625,0.19,1
+2012/13-PRE,Tubing Blank (distilled),equip blank,8/10/2012,Organic,N-Nitrosodiphenylamine,n/a,<,0.19,µg/L,EPA 625,0.19,1
+2012/13-PRE,Carboy Blank,(HNO3||methanol) equip blank,8/10/2012,Organic,Phenanthrene,n/a,<,0.32,µg/L,EPA 625,0.32,1
+2012/13-PRE,Tubing Blank (distilled),equip blank,8/10/2012,Organic,Phenanthrene,n/a,<,0.32,µg/L,EPA 625,0.32,1
+2012/13-PRE,Carboy Blank,(HNO3||methanol) equip blank,8/10/2012,Organic,Phenol,n/a,<,0.16,µg/L,EPA 625,0.16,1
+2012/13-PRE,Tubing Blank (distilled),equip blank,8/10/2012,Organic,Phenol,n/a,<,0.16,µg/L,EPA 625,0.16,1
+2012/13-PRE,Carboy Blank,(HNO3||methanol) srgt equip blank,8/10/2012,Organic,Phenol-d5,n/a,=,30.8,µg/L,EPA 625,-88,-88
+2012/13-PRE,Carboy Blank,(HNO3||methanol)srgt equip blank|| rec,8/10/2012,Organic,Phenol-d5,n/a,=,31,%,EPA 625,-88,-88
+2012/13-PRE,Lab,srgt LCS,8/9/2012,Organic,Phenol-d5,n/a,=,21.8,µg/L,EPA 625,-88,-88
+2012/13-PRE,Lab,srgt LCS dup,8/9/2012,Organic,Phenol-d5,n/a,=,25.7,µg/L,EPA 625,-88,-88
+2012/13-PRE,Lab,srgt LCS dup|| rec,8/9/2012,Organic,Phenol-d5,n/a,=,26,%,EPA 625,-88,-88
+2012/13-PRE,Lab,srgt LCS|| rec,8/9/2012,Organic,Phenol-d5,n/a,=,22,%,EPA 625,-88,-88
+2012/13-PRE,Lab,srgt method blank,8/9/2012,Organic,Phenol-d5,n/a,=,17.9,µg/L,EPA 625,-88,-88
+2012/13-PRE,Lab,srgt method blank|| rec,8/9/2012,Organic,Phenol-d5,n/a,=,18,%,EPA 625,-88,-88
+2012/13-PRE,Tubing Blank (distilled),srgt equip blank,8/10/2012,Organic,Phenol-d5,n/a,=,38.6,µg/L,EPA 625,-88,-88
+2012/13-PRE,Tubing Blank (distilled),srgt equip blank|| rec,8/10/2012,Organic,Phenol-d5,n/a,=,34,%,EPA 625,-88,-88
+2012/13-PRE,Carboy Blank,(HNO3||methanol) srgt equip blank,8/10/2012,Organic,p-Terphenyl-d14,n/a,=,48.6,µg/L,EPA 625,-88,-88
+2012/13-PRE,Carboy Blank,(HNO3||methanol)srgt equip blank|| rec,8/10/2012,Organic,p-Terphenyl-d14,n/a,=,97,%,EPA 625,-88,-88
+2012/13-PRE,Lab,srgt LCS,8/9/2012,Organic,p-Terphenyl-d14,n/a,=,47.6,µg/L,EPA 625,-88,-88
+2012/13-PRE,Lab,srgt LCS dup,8/9/2012,Organic,p-Terphenyl-d14,n/a,=,50.5,µg/L,EPA 625,-88,-88
+2012/13-PRE,Lab,srgt LCS dup|| rec,8/9/2012,Organic,p-Terphenyl-d14,n/a,=,101,%,EPA 625,-88,-88
+2012/13-PRE,Lab,srgt LCS|| rec,8/9/2012,Organic,p-Terphenyl-d14,n/a,=,95,%,EPA 625,-88,-88
+2012/13-PRE,Lab,srgt method blank,8/9/2012,Organic,p-Terphenyl-d14,n/a,=,35.4,µg/L,EPA 625,-88,-88
+2012/13-PRE,Lab,srgt method blank|| rec,8/9/2012,Organic,p-Terphenyl-d14,n/a,=,71,%,EPA 625,-88,-88
+2012/13-PRE,Tubing Blank (distilled),srgt equip blank,8/10/2012,Organic,p-Terphenyl-d14,n/a,=,54,µg/L,EPA 625,-88,-88
+2012/13-PRE,Tubing Blank (distilled),srgt equip blank|| rec,8/10/2012,Organic,p-Terphenyl-d14,n/a,=,96,%,EPA 625,-88,-88
+2012/13-PRE,Carboy Blank,(HNO3||methanol) equip blank,8/10/2012,Organic,Pyrene,n/a,<,0.25,µg/L,EPA 625,0.25,1
+2012/13-PRE,Tubing Blank (distilled),equip blank,8/10/2012,Organic,Pyrene,n/a,<,0.25,µg/L,EPA 625,0.25,1
+2012/13-PRE,Carboy Blank,(HNO3||methanol) equip blank,8/10/2012,Pesticide,Pentachlorophenol,n/a,<,0.19,µg/L,EPA 625,0.19,1
+2012/13-PRE,Tubing Blank (distilled),equip blank,8/10/2012,Pesticide,Pentachlorophenol,n/a,<,0.19,µg/L,EPA 625,0.19,1
+2012/13-PRE2,000NONPJ,matrix spike,9/6/2012,Metal,Copper,Total,=,48.5,µg/L,EPA 200.8,0.27,0.5
+2012/13-PRE2,000NONPJ,matrix spike,9/6/2012,Metal,Copper,Total,=,46.8,µg/L,EPA 200.8,0.27,0.5
+2012/13-PRE2,000NONPJ,matrix spike dup,9/6/2012,Metal,Copper,Total,=,46.9,µg/L,EPA 200.8,0.27,0.5
+2012/13-PRE2,000NONPJ,matrix spike dup,9/6/2012,Metal,Copper,Total,=,47.9,µg/L,EPA 200.8,0.27,0.5
+2012/13-PRE2,000NONPJ,matrix spike dup|| rec,9/6/2012,Metal,Copper,Total,=,90,%,EPA 200.8,-88,-88
+2012/13-PRE2,000NONPJ,matrix spike dup|| rec,9/6/2012,Metal,Copper,Total,=,90,%,EPA 200.8,-88,-88
+2012/13-PRE2,000NONPJ,matrix spike|| rec,9/6/2012,Metal,Copper,Total,=,91,%,EPA 200.8,-88,-88
+2012/13-PRE2,000NONPJ,matrix spike|| rec,9/6/2012,Metal,Copper,Total,=,90,%,EPA 200.8,-88,-88
+2012/13-PRE2,000NONPJ,matrix spike|| RPD,9/6/2012,Metal,Copper,Total,=,1,%,EPA 200.8,-88,-88
+2012/13-PRE2,000NONPJ,matrix spike|| RPD,9/6/2012,Metal,Copper,Total,=,0.3,%,EPA 200.8,-88,-88
+2012/13-PRE2,Lab,LCS,9/5/2012,Metal,Copper,Total,=,53,µg/L,EPA 200.8,0.27,0.5
+2012/13-PRE2,Lab,LCS|| rec,9/5/2012,Metal,Copper,Total,=,106,%,EPA 200.8,-88,-88
+2012/13-PRE2,Lab,method blank,9/5/2012,Metal,Copper,Total,<,0.27,µg/L,EPA 200.8,0.27,0.5
+2012/13-PRE2,Tubing Blank,equip blank,9/5/2012,Metal,Copper,Total,<,0.27,µg/L,EPA 200.8,0.27,0.5
+2012/13-PRE2,Tubing Blank,equip blank,9/5/2012,Metal,Copper,Total,<,0.27,µg/L,EPA 200.8,0.27,0.5
+2012/13-PRE2,Tubing Blank (distilled),equip blank,9/5/2012,Metal,Copper,Total,=,0.6,µg/L,EPA 200.8,0.27,0.5
+2012/13-PRE2,Tubing Blank (distilled),equip blank,9/5/2012,Metal,Copper,Total,=,0.64,µg/L,EPA 200.8,0.27,0.5
+2013-DRY,Lab,method blank,8/22/2013,Cation,Calcium,Total,<,0.016,mg/L,EPA 200.7,0.016,0.1
+2013-DRY,Lab,LCS,8/22/2013,Cation,Calcium,Total,=,49.5,mg/L,EPA 200.7,0.016,0.1
+2013-DRY,Lab,LCS|| rec,8/22/2013,Cation,Calcium,Total,=,99,%,EPA 200.7,-88,-88
+2013-DRY,MO-CAM,matrix spike,8/22/2013,Cation,Calcium,Total,=,185,mg/L,EPA 200.7,0.016,0.1
+2013-DRY,MO-CAM,matrix spike|| rec,8/22/2013,Cation,Calcium,Total,=,86,%,EPA 200.7,-88,-88
+2013-DRY,MO-CAM,matrix spike dup,8/22/2013,Cation,Calcium,Total,=,186,mg/L,EPA 200.7,0.016,0.1
+2013-DRY,MO-CAM,matrix spike dup|| rec,8/22/2013,Cation,Calcium,Total,=,89,%,EPA 200.7,-88,-88
+2013-DRY,MO-CAM,matrix spike|| RPD,8/22/2013,Cation,Calcium,Total,=,0.9,%,EPA 200.7,-88,-88
+2013-DRY,MO-SPA,matrix spike,8/22/2013,Cation,Calcium,Total,=,183,mg/L,EPA 200.7,0.016,0.1
+2013-DRY,MO-SPA,matrix spike|| rec,8/22/2013,Cation,Calcium,Total,=,86,%,EPA 200.7,-88,-88
+2013-DRY,MO-SPA,matrix spike dup,8/22/2013,Cation,Calcium,Total,=,189,mg/L,EPA 200.7,0.016,0.1
+2013-DRY,MO-SPA,matrix spike dup|| rec,8/22/2013,Cation,Calcium,Total,=,98,%,EPA 200.7,-88,-88
+2013-DRY,MO-SPA,matrix spike|| RPD,8/22/2013,Cation,Calcium,Total,=,3,%,EPA 200.7,-88,-88
+2013-DRY,Lab,method blank,8/22/2013,Cation,Magnesium,Total,<,0.012,mg/L,EPA 200.7,0.012,0.1
+2013-DRY,Lab,LCS,8/22/2013,Cation,Magnesium,Total,=,48.1,mg/L,EPA 200.7,0.012,0.1
+2013-DRY,Lab,LCS|| rec,8/22/2013,Cation,Magnesium,Total,=,96,%,EPA 200.7,-88,-88
+2013-DRY,MO-CAM,matrix spike,8/22/2013,Cation,Magnesium,Total,=,64.6,mg/L,EPA 200.7,0.012,0.1
+2013-DRY,MO-CAM,matrix spike|| rec,8/22/2013,Cation,Magnesium,Total,=,97,%,EPA 200.7,-88,-88
+2013-DRY,MO-CAM,matrix spike dup,8/22/2013,Cation,Magnesium,Total,=,64.8,mg/L,EPA 200.7,0.012,0.1
+2013-DRY,MO-CAM,matrix spike dup|| rec,8/22/2013,Cation,Magnesium,Total,=,97,%,EPA 200.7,-88,-88
+2013-DRY,MO-CAM,matrix spike|| RPD,8/22/2013,Cation,Magnesium,Total,=,0.3,%,EPA 200.7,-88,-88
+2013-DRY,MO-SPA,matrix spike,8/22/2013,Cation,Magnesium,Total,=,92.5,mg/L,EPA 200.7,0.012,0.1
+2013-DRY,MO-SPA,matrix spike|| rec,8/22/2013,Cation,Magnesium,Total,=,95,%,EPA 200.7,-88,-88
+2013-DRY,MO-SPA,matrix spike dup,8/22/2013,Cation,Magnesium,Total,=,92.6,mg/L,EPA 200.7,0.012,0.1
+2013-DRY,MO-SPA,matrix spike dup|| rec,8/22/2013,Cation,Magnesium,Total,=,95,%,EPA 200.7,-88,-88
+2013-DRY,MO-SPA,matrix spike|| RPD,8/22/2013,Cation,Magnesium,Total,=,0.07,%,EPA 200.7,-88,-88
+2013-DRY,000NONPJ,matrix spike,8/28/2013,Conventional,Total Organic Carbon,n/a,=,5.43,mg/L,SM 5310 C,0.009,0.3
+2013-DRY,000NONPJ,matrix spike dup,8/28/2013,Conventional,Total Organic Carbon,n/a,=,5.65,mg/L,SM 5310 C,0.009,0.3
+2013-DRY,000NONPJ,matrix spike dup|| rec,8/28/2013,Conventional,Total Organic Carbon,n/a,=,103,%,SM 5310 C,-88,-88
+2013-DRY,000NONPJ,matrix spike|| rec,8/28/2013,Conventional,Total Organic Carbon,n/a,=,99,%,SM 5310 C,-88,-88
+2013-DRY,000NONPJ,matrix spike|| RPD,8/28/2013,Conventional,Total Organic Carbon,n/a,=,4,%,SM 5310 C,-88,-88
+2013-DRY,Lab,LCS,8/19/2013,Conventional,Total Organic Carbon,n/a,=,5.01,mg/L,SM 5310 C,0.009,0.3
+2013-DRY,Lab,LCS|| rec,8/19/2013,Conventional,Total Organic Carbon,n/a,=,100,%,SM 5310 C,-88,-88
+2013-DRY,Lab,method blank,8/19/2013,Conventional,Total Organic Carbon,n/a,DNQ,0.017,mg/L,SM 5310 C,0.009,0.3
+2013-DRY,Lab,LCS,8/28/2013,Conventional,Total Organic Carbon,n/a,=,4.97,mg/L,SM 5310 C,0.009,0.3
+2013-DRY,Lab,LCS|| rec,8/28/2013,Conventional,Total Organic Carbon,n/a,=,99,%,SM 5310 C,-88,-88
+2013-DRY,Lab,method blank,8/28/2013,Conventional,Total Organic Carbon,n/a,<,0.009,mg/L,SM 5310 C,0.009,0.3
+2013-DRY,MO-CAM,matrix spike,8/19/2013,Conventional,Total Organic Carbon,n/a,=,48.6,mg/L,SM 5310 C,0.045,1.5
+2013-DRY,MO-CAM,matrix spike dup,8/19/2013,Conventional,Total Organic Carbon,n/a,=,49.5,mg/L,SM 5310 C,0.045,1.5
+2013-DRY,MO-CAM,matrix spike dup|| rec,8/19/2013,Conventional,Total Organic Carbon,n/a,=,113,%,SM 5310 C,-88,-88
+2013-DRY,MO-CAM,matrix spike|| rec,8/19/2013,Conventional,Total Organic Carbon,n/a,=,110,%,SM 5310 C,-88,-88
+2013-DRY,MO-CAM,matrix spike|| RPD,8/19/2013,Conventional,Total Organic Carbon,n/a,=,2,%,SM 5310 C,-88,-88
+2013-DRY,DRY-HUE3,matrix spike,8/24/2013,Metal,Copper,Dissolved,=,41.8,µg/L,EPA 200.8,0.036,0.5
+2013-DRY,DRY-HUE3,matrix spike|| rec,8/24/2013,Metal,Copper,Dissolved,=,83,%,EPA 200.8,-88,-88
+2013-DRY,DRY-HUE3,matrix spike dup,8/24/2013,Metal,Copper,Dissolved,=,42.6,µg/L,EPA 200.8,0.036,0.5
+2013-DRY,DRY-HUE3,matrix spike dup|| rec,8/24/2013,Metal,Copper,Dissolved,=,85,%,EPA 200.8,-88,-88
+2013-DRY,DRY-HUE3,matrix spike|| RPD,8/24/2013,Metal,Copper,Dissolved,=,2,%,EPA 200.8,-88,-88
+2013-DRY,Lab,LCS,8/23/2013,Metal,Copper,Dissolved,=,52.5,µg/L,EPA 200.8,0.036,0.5
+2013-DRY,Lab,LCS|| rec,8/23/2013,Metal,Copper,Dissolved,=,105,%,EPA 200.8,-88,-88
+2013-DRY,Lab,method blank,8/23/2013,Metal,Copper,Dissolved,DNQ,0.1,µg/L,EPA 200.8,0.036,0.5
+2013-DRY,MO-SIM,matrix spike,8/24/2013,Metal,Copper,Dissolved,=,41.8,µg/L,EPA 200.8,0.036,0.5
+2013-DRY,MO-SIM,matrix spike|| rec,8/24/2013,Metal,Copper,Dissolved,=,83,%,EPA 200.8,-88,-88
+2013-DRY,MO-SIM,matrix spike dup,8/24/2013,Metal,Copper,Dissolved,=,42.4,µg/L,EPA 200.8,0.036,0.5
+2013-DRY,MO-SIM,matrix spike dup|| rec,8/24/2013,Metal,Copper,Dissolved,=,84,%,EPA 200.8,-88,-88
+2013-DRY,MO-SIM,matrix spike|| RPD,8/24/2013,Metal,Copper,Dissolved,=,1,%,EPA 200.8,-88,-88
+2013-DRY,DRY-HUE3,matrix spike,8/24/2013,Metal,Lead,Dissolved,=,51.3,µg/L,EPA 200.8,0.024,0.2
+2013-DRY,DRY-HUE3,matrix spike|| rec,8/24/2013,Metal,Lead,Dissolved,=,103,%,EPA 200.8,-88,-88
+2013-DRY,DRY-HUE3,matrix spike dup,8/24/2013,Metal,Lead,Dissolved,=,50.9,µg/L,EPA 200.8,0.024,0.2
+2013-DRY,DRY-HUE3,matrix spike dup|| rec,8/24/2013,Metal,Lead,Dissolved,=,102,%,EPA 200.8,-88,-88
+2013-DRY,DRY-HUE3,matrix spike|| RPD,8/24/2013,Metal,Lead,Dissolved,=,0.9,%,EPA 200.8,-88,-88
+2013-DRY,Lab,LCS,8/23/2013,Metal,Lead,Dissolved,=,51.1,µg/L,EPA 200.8,0.024,0.2
+2013-DRY,Lab,LCS|| rec,8/23/2013,Metal,Lead,Dissolved,=,102,%,EPA 200.8,-88,-88
+2013-DRY,Lab,method blank,8/23/2013,Metal,Lead,Dissolved,<,0.024,µg/L,EPA 200.8,0.024,0.2
+2013-DRY,MO-SIM,matrix spike,8/24/2013,Metal,Lead,Dissolved,=,51.3,µg/L,EPA 200.8,0.024,0.2
+2013-DRY,MO-SIM,matrix spike|| rec,8/24/2013,Metal,Lead,Dissolved,=,103,%,EPA 200.8,-88,-88
+2013-DRY,MO-SIM,matrix spike dup,8/24/2013,Metal,Lead,Dissolved,=,51.8,µg/L,EPA 200.8,0.024,0.2
+2013-DRY,MO-SIM,matrix spike dup|| rec,8/24/2013,Metal,Lead,Dissolved,=,104,%,EPA 200.8,-88,-88
+2013-DRY,MO-SIM,matrix spike|| RPD,8/24/2013,Metal,Lead,Dissolved,=,1,%,EPA 200.8,-88,-88
+2013-DRY,DRY-HUE3,matrix spike,8/24/2013,Metal,Zinc,Dissolved,=,48.1,µg/L,EPA 200.8,0.5,5
+2013-DRY,DRY-HUE3,matrix spike|| rec,8/24/2013,Metal,Zinc,Dissolved,=,91,%,EPA 200.8,-88,-88
+2013-DRY,DRY-HUE3,matrix spike dup,8/24/2013,Metal,Zinc,Dissolved,=,48.3,µg/L,EPA 200.8,0.5,5
+2013-DRY,DRY-HUE3,matrix spike dup|| rec,8/24/2013,Metal,Zinc,Dissolved,=,92,%,EPA 200.8,-88,-88
+2013-DRY,DRY-HUE3,matrix spike|| RPD,8/24/2013,Metal,Zinc,Dissolved,=,0.4,%,EPA 200.8,-88,-88
+2013-DRY,Lab,LCS,8/23/2013,Metal,Zinc,Dissolved,=,55.1,µg/L,EPA 200.8,0.5,5
+2013-DRY,Lab,LCS|| rec,8/23/2013,Metal,Zinc,Dissolved,=,110,%,EPA 200.8,-88,-88
+2013-DRY,Lab,method blank,8/23/2013,Metal,Zinc,Dissolved,DNQ,2.51,µg/L,EPA 200.8,0.5,5
+2013-DRY,MO-SIM,matrix spike,8/24/2013,Metal,Zinc,Dissolved,=,47.4,µg/L,EPA 200.8,0.5,5
+2013-DRY,MO-SIM,matrix spike|| rec,8/24/2013,Metal,Zinc,Dissolved,=,89,%,EPA 200.8,-88,-88
+2013-DRY,MO-SIM,matrix spike dup,8/24/2013,Metal,Zinc,Dissolved,=,47.5,µg/L,EPA 200.8,0.5,5
+2013-DRY,MO-SIM,matrix spike dup|| rec,8/24/2013,Metal,Zinc,Dissolved,=,90,%,EPA 200.8,-88,-88
+2013-DRY,MO-SIM,matrix spike|| RPD,8/24/2013,Metal,Zinc,Dissolved,=,0.3,%,EPA 200.8,-88,-88

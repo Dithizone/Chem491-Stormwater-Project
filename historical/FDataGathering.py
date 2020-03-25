@@ -1,12 +1,10 @@
 # This one gathered all the F Data into data/{year}f.txt files.
 # It has completed its job admirably.
 
-import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
 import re
 from UsefulThings import datanames
 from UsefulThings import fevents
+from UsefulThings import feventproblemchildren
 
 EventID = ''
 SiteID = ''
@@ -23,7 +21,7 @@ MDL = ''
 RL = ''
 
 for name in datanames:
-    with open(f'data/precsv/precsv{name}.txt', 'r') as file:
+    with open(file=f'data/precsv/precsv{name}.txt', mode='r') as file:
         precsv = file.read().replace(',', '||').split(sep='\n')
         inFData = True
         FLength = -1
@@ -36,12 +34,41 @@ for name in datanames:
         for i in range(FLength):
             splitprecsv = precsv[i].split(sep=' ')
             print(splitprecsv)
-            EventID = splitprecsv[0]
-            # print(f'EventID: {EventID}')
-            SiteID = splitprecsv[1]
-            # print(f'SiteID: {SiteID}')
-            QAQCSampleType = splitprecsv[2]
-            j = 3
+            if splitprecsv[0] not in feventproblemchildren:
+                EventID = splitprecsv[0]
+                # print(f'EventID: {EventID}')
+                SiteID = splitprecsv[1]
+                # print(f'SiteID: {SiteID}')
+                QAQCSampleType = splitprecsv[2]
+                j = 3
+                if splitprecsv[1] == 'Carboy':
+                    SiteID = 'Carboy Blank'
+                    QAQCSampleType = splitprecsv[3]
+                    j = 4
+                if splitprecsv[1] == 'Tubing':
+                    SiteID = 'Tubing Blank'
+                    QAQCSampleType = splitprecsv[3]
+                    j = 4
+            if splitprecsv[0] == feventproblemchildren[0]:
+                EventID = '2016/17-PRE'
+                SiteID = 'Blankwater-ultrapure'
+                QAQCSampleType = splitprecsv[1]
+                j = 2
+            if splitprecsv[0] == feventproblemchildren[1]:
+                EventID = '2012/13-PRE'
+                SiteID = 'Tubing Blank (distilled)'
+                QAQCSampleType = splitprecsv[3]
+                j = 4
+            if splitprecsv[0] == feventproblemchildren[2]:
+                EventID = '2012/13-PRE2'
+                SiteID = 'Tubing Blank (distilled)'
+                QAQCSampleType = splitprecsv[3]
+                j = 4
+            if splitprecsv[0] == feventproblemchildren[3]:
+                EventID = '2011/12-PRE2'
+                SiteID = 'Arrowhead (handle)'
+                QAQCSampleType = splitprecsv[2]
+                j = 3
             foundAnalysisDate = False
             foundAnalysisDateWhenJ = j
             while foundAnalysisDate is not True:

@@ -19638,107 +19638,107 @@
 2017/18-5,Lab,LCS dup,7/2/2018,Pesticide,Trithion,n/a,=,4.83,µg/L,EPA 525.2,0.012,0.1
 2017/18-5,Lab,LCS dup|| rec,7/2/2018,Pesticide,Trithion,n/a,=,97,%,EPA 525.2,-88,-88
 2017/18-5,Lab,LCS|| RPD,7/2/2018,Pesticide,Trithion,n/a,=,0.6,%,EPA 525.2,-88,-88
-2017/18-PRE,Carboy,Blank equip blank,8/17/2017,Metal,Aluminum,Total,DNQ,2.8,µg/L,EPA 200.8,1.3,5
-2017/18-PRE,Carboy,Blank matrix spike,8/17/2017,Metal,Aluminum,Total,=,52.3,µg/L,EPA 200.8,1.3,5
-2017/18-PRE,Carboy,Blank matrix spike|| rec,8/17/2017,Metal,Aluminum,Total,=,99,%,EPA 200.8,-88,-88
-2017/18-PRE,Carboy,Blank matrix spike dup,8/17/2017,Metal,Aluminum,Total,=,52.4,µg/L,EPA 200.8,1.3,5
-2017/18-PRE,Carboy,Blank matrix spike dup|| rec,8/17/2017,Metal,Aluminum,Total,=,99,%,EPA 200.8,-88,-88
-2017/18-PRE,Carboy,Blank matrix spike|| RPD,8/17/2017,Metal,Aluminum,Total,=,0.3,%,EPA 200.8,-88,-88
+2017/18-PRE,Carboy Blank,equip blank,8/17/2017,Metal,Aluminum,Total,DNQ,2.8,µg/L,EPA 200.8,1.3,5
+2017/18-PRE,Carboy Blank,matrix spike,8/17/2017,Metal,Aluminum,Total,=,52.3,µg/L,EPA 200.8,1.3,5
+2017/18-PRE,Carboy Blank,matrix spike|| rec,8/17/2017,Metal,Aluminum,Total,=,99,%,EPA 200.8,-88,-88
+2017/18-PRE,Carboy Blank,matrix spike dup,8/17/2017,Metal,Aluminum,Total,=,52.4,µg/L,EPA 200.8,1.3,5
+2017/18-PRE,Carboy Blank,matrix spike dup|| rec,8/17/2017,Metal,Aluminum,Total,=,99,%,EPA 200.8,-88,-88
+2017/18-PRE,Carboy Blank,matrix spike|| RPD,8/17/2017,Metal,Aluminum,Total,=,0.3,%,EPA 200.8,-88,-88
 2017/18-PRE,Lab,method blank,8/17/2017,Metal,Aluminum,Total,DNQ,1.39,µg/L,EPA 200.8,1.3,5
 2017/18-PRE,Lab,LCS,8/17/2017,Metal,Aluminum,Total,=,53.7,µg/L,EPA 200.8,1.3,5
 2017/18-PRE,Lab,LCS|| rec,8/17/2017,Metal,Aluminum,Total,=,107,%,EPA 200.8,-88,-88
-2017/18-PRE,Tubing,Blank equip blank,8/17/2017,Metal,Aluminum,Total,=,8.3,µg/L,EPA 200.8,1.3,5
-2017/18-PRE,Tubing,Blank matrix spike,8/17/2017,Metal,Aluminum,Total,=,57.4,µg/L,EPA 200.8,1.3,5
-2017/18-PRE,Tubing,Blank matrix spike|| rec,8/17/2017,Metal,Aluminum,Total,=,98,%,EPA 200.8,-88,-88
-2017/18-PRE,Tubing,Blank matrix spike dup,8/17/2017,Metal,Aluminum,Total,=,58.6,µg/L,EPA 200.8,1.3,5
-2017/18-PRE,Tubing,Blank matrix spike dup|| rec,8/17/2017,Metal,Aluminum,Total,=,101,%,EPA 200.8,-88,-88
-2017/18-PRE,Tubing,Blank matrix spike|| RPD,8/17/2017,Metal,Aluminum,Total,=,2,%,EPA 200.8,-88,-88
-2017/18-PRE,Carboy,Blank equip blank,8/17/2017,Metal,Antimony,Total,<,0.045,µg/L,EPA 200.8,0.045,0.5
-2017/18-PRE,Carboy,Blank matrix spike,8/17/2017,Metal,Antimony,Total,=,51.5,µg/L,EPA 200.8,0.045,0.5
-2017/18-PRE,Carboy,Blank matrix spike|| rec,8/17/2017,Metal,Antimony,Total,=,103,%,EPA 200.8,-88,-88
-2017/18-PRE,Carboy,Blank matrix spike dup,8/17/2017,Metal,Antimony,Total,=,52.5,µg/L,EPA 200.8,0.045,0.5
-2017/18-PRE,Carboy,Blank matrix spike dup|| rec,8/17/2017,Metal,Antimony,Total,=,105,%,EPA 200.8,-88,-88
-2017/18-PRE,Carboy,Blank matrix spike|| RPD,8/17/2017,Metal,Antimony,Total,=,2,%,EPA 200.8,-88,-88
+2017/18-PRE,Tubing Blank,equip blank,8/17/2017,Metal,Aluminum,Total,=,8.3,µg/L,EPA 200.8,1.3,5
+2017/18-PRE,Tubing Blank,matrix spike,8/17/2017,Metal,Aluminum,Total,=,57.4,µg/L,EPA 200.8,1.3,5
+2017/18-PRE,Tubing Blank,matrix spike|| rec,8/17/2017,Metal,Aluminum,Total,=,98,%,EPA 200.8,-88,-88
+2017/18-PRE,Tubing Blank,matrix spike dup,8/17/2017,Metal,Aluminum,Total,=,58.6,µg/L,EPA 200.8,1.3,5
+2017/18-PRE,Tubing Blank,matrix spike dup|| rec,8/17/2017,Metal,Aluminum,Total,=,101,%,EPA 200.8,-88,-88
+2017/18-PRE,Tubing Blank,matrix spike|| RPD,8/17/2017,Metal,Aluminum,Total,=,2,%,EPA 200.8,-88,-88
+2017/18-PRE,Carboy Blank,equip blank,8/17/2017,Metal,Antimony,Total,<,0.045,µg/L,EPA 200.8,0.045,0.5
+2017/18-PRE,Carboy Blank,matrix spike,8/17/2017,Metal,Antimony,Total,=,51.5,µg/L,EPA 200.8,0.045,0.5
+2017/18-PRE,Carboy Blank,matrix spike|| rec,8/17/2017,Metal,Antimony,Total,=,103,%,EPA 200.8,-88,-88
+2017/18-PRE,Carboy Blank,matrix spike dup,8/17/2017,Metal,Antimony,Total,=,52.5,µg/L,EPA 200.8,0.045,0.5
+2017/18-PRE,Carboy Blank,matrix spike dup|| rec,8/17/2017,Metal,Antimony,Total,=,105,%,EPA 200.8,-88,-88
+2017/18-PRE,Carboy Blank,matrix spike|| RPD,8/17/2017,Metal,Antimony,Total,=,2,%,EPA 200.8,-88,-88
 2017/18-PRE,Lab,method blank,8/17/2017,Metal,Antimony,Total,<,0.045,µg/L,EPA 200.8,0.045,0.5
 2017/18-PRE,Lab,LCS,8/17/2017,Metal,Antimony,Total,=,53.4,µg/L,EPA 200.8,0.045,0.5
 2017/18-PRE,Lab,LCS|| rec,8/17/2017,Metal,Antimony,Total,=,107,%,EPA 200.8,-88,-88
-2017/18-PRE,Tubing,Blank equip blank,8/17/2017,Metal,Antimony,Total,<,0.045,µg/L,EPA 200.8,0.045,0.5
-2017/18-PRE,Tubing,Blank matrix spike,8/17/2017,Metal,Antimony,Total,=,51.2,µg/L,EPA 200.8,0.045,0.5
-2017/18-PRE,Tubing,Blank matrix spike|| rec,8/17/2017,Metal,Antimony,Total,=,102,%,EPA 200.8,-88,-88
-2017/18-PRE,Tubing,Blank matrix spike dup,8/17/2017,Metal,Antimony,Total,=,52.8,µg/L,EPA 200.8,0.045,0.5
-2017/18-PRE,Tubing,Blank matrix spike dup|| rec,8/17/2017,Metal,Antimony,Total,=,106,%,EPA 200.8,-88,-88
-2017/18-PRE,Tubing,Blank matrix spike|| RPD,8/17/2017,Metal,Antimony,Total,=,3,%,EPA 200.8,-88,-88
-2017/18-PRE,Carboy,Blank equip blank,8/17/2017,Metal,Arsenic,Total,<,0.074,µg/L,EPA 200.8,0.074,0.4
-2017/18-PRE,Carboy,Blank matrix spike,8/17/2017,Metal,Arsenic,Total,=,51.8,µg/L,EPA 200.8,0.074,0.4
-2017/18-PRE,Carboy,Blank matrix spike|| rec,8/17/2017,Metal,Arsenic,Total,=,104,%,EPA 200.8,-88,-88
-2017/18-PRE,Carboy,Blank matrix spike dup,8/17/2017,Metal,Arsenic,Total,=,53.2,µg/L,EPA 200.8,0.074,0.4
-2017/18-PRE,Carboy,Blank matrix spike dup|| rec,8/17/2017,Metal,Arsenic,Total,=,106,%,EPA 200.8,-88,-88
-2017/18-PRE,Carboy,Blank matrix spike|| RPD,8/17/2017,Metal,Arsenic,Total,=,3,%,EPA 200.8,-88,-88
+2017/18-PRE,Tubing Blank,equip blank,8/17/2017,Metal,Antimony,Total,<,0.045,µg/L,EPA 200.8,0.045,0.5
+2017/18-PRE,Tubing Blank,matrix spike,8/17/2017,Metal,Antimony,Total,=,51.2,µg/L,EPA 200.8,0.045,0.5
+2017/18-PRE,Tubing Blank,matrix spike|| rec,8/17/2017,Metal,Antimony,Total,=,102,%,EPA 200.8,-88,-88
+2017/18-PRE,Tubing Blank,matrix spike dup,8/17/2017,Metal,Antimony,Total,=,52.8,µg/L,EPA 200.8,0.045,0.5
+2017/18-PRE,Tubing Blank,matrix spike dup|| rec,8/17/2017,Metal,Antimony,Total,=,106,%,EPA 200.8,-88,-88
+2017/18-PRE,Tubing Blank,matrix spike|| RPD,8/17/2017,Metal,Antimony,Total,=,3,%,EPA 200.8,-88,-88
+2017/18-PRE,Carboy Blank,equip blank,8/17/2017,Metal,Arsenic,Total,<,0.074,µg/L,EPA 200.8,0.074,0.4
+2017/18-PRE,Carboy Blank,matrix spike,8/17/2017,Metal,Arsenic,Total,=,51.8,µg/L,EPA 200.8,0.074,0.4
+2017/18-PRE,Carboy Blank,matrix spike|| rec,8/17/2017,Metal,Arsenic,Total,=,104,%,EPA 200.8,-88,-88
+2017/18-PRE,Carboy Blank,matrix spike dup,8/17/2017,Metal,Arsenic,Total,=,53.2,µg/L,EPA 200.8,0.074,0.4
+2017/18-PRE,Carboy Blank,matrix spike dup|| rec,8/17/2017,Metal,Arsenic,Total,=,106,%,EPA 200.8,-88,-88
+2017/18-PRE,Carboy Blank,matrix spike|| RPD,8/17/2017,Metal,Arsenic,Total,=,3,%,EPA 200.8,-88,-88
 2017/18-PRE,Lab,method blank,8/17/2017,Metal,Arsenic,Total,<,0.074,µg/L,EPA 200.8,0.074,0.4
 2017/18-PRE,Lab,LCS,8/17/2017,Metal,Arsenic,Total,=,52.8,µg/L,EPA 200.8,0.074,0.4
 2017/18-PRE,Lab,LCS|| rec,8/17/2017,Metal,Arsenic,Total,=,106,%,EPA 200.8,-88,-88
-2017/18-PRE,Tubing,Blank equip blank,8/17/2017,Metal,Arsenic,Total,<,0.074,µg/L,EPA 200.8,0.074,0.4
-2017/18-PRE,Tubing,Blank matrix spike,8/17/2017,Metal,Arsenic,Total,=,52.6,µg/L,EPA 200.8,0.074,0.4
-2017/18-PRE,Tubing,Blank matrix spike|| rec,8/17/2017,Metal,Arsenic,Total,=,105,%,EPA 200.8,-88,-88
-2017/18-PRE,Tubing,Blank matrix spike dup,8/17/2017,Metal,Arsenic,Total,=,53.1,µg/L,EPA 200.8,0.074,0.4
-2017/18-PRE,Tubing,Blank matrix spike dup|| rec,8/17/2017,Metal,Arsenic,Total,=,106,%,EPA 200.8,-88,-88
-2017/18-PRE,Tubing,Blank matrix spike|| RPD,8/17/2017,Metal,Arsenic,Total,=,1,%,EPA 200.8,-88,-88
-2017/18-PRE,Carboy,Blank matrix spike,8/18/2017,Metal,Beryllium,Total,=,47.6,µg/L,EPA 200.8,0.033,0.1
-2017/18-PRE,Carboy,Blank matrix spike|| rec,8/18/2017,Metal,Beryllium,Total,=,95,%,EPA 200.8,-88,-88
-2017/18-PRE,Carboy,Blank matrix spike dup,8/18/2017,Metal,Beryllium,Total,=,48.8,µg/L,EPA 200.8,0.033,0.1
-2017/18-PRE,Carboy,Blank matrix spike dup|| rec,8/18/2017,Metal,Beryllium,Total,=,98,%,EPA 200.8,-88,-88
-2017/18-PRE,Carboy,Blank matrix spike|| RPD,8/18/2017,Metal,Beryllium,Total,=,3,%,EPA 200.8,-88,-88
-2017/18-PRE,Carboy,Blank equip blank,8/18/2017,Metal,Beryllium,Total,<,0.033,µg/L,EPA 200.8,0.033,0.1
+2017/18-PRE,Tubing Blank,equip blank,8/17/2017,Metal,Arsenic,Total,<,0.074,µg/L,EPA 200.8,0.074,0.4
+2017/18-PRE,Tubing Blank,matrix spike,8/17/2017,Metal,Arsenic,Total,=,52.6,µg/L,EPA 200.8,0.074,0.4
+2017/18-PRE,Tubing Blank,matrix spike|| rec,8/17/2017,Metal,Arsenic,Total,=,105,%,EPA 200.8,-88,-88
+2017/18-PRE,Tubing Blank,matrix spike dup,8/17/2017,Metal,Arsenic,Total,=,53.1,µg/L,EPA 200.8,0.074,0.4
+2017/18-PRE,Tubing Blank,matrix spike dup|| rec,8/17/2017,Metal,Arsenic,Total,=,106,%,EPA 200.8,-88,-88
+2017/18-PRE,Tubing Blank,matrix spike|| RPD,8/17/2017,Metal,Arsenic,Total,=,1,%,EPA 200.8,-88,-88
+2017/18-PRE,Carboy Blank,matrix spike,8/18/2017,Metal,Beryllium,Total,=,47.6,µg/L,EPA 200.8,0.033,0.1
+2017/18-PRE,Carboy Blank,matrix spike|| rec,8/18/2017,Metal,Beryllium,Total,=,95,%,EPA 200.8,-88,-88
+2017/18-PRE,Carboy Blank,matrix spike dup,8/18/2017,Metal,Beryllium,Total,=,48.8,µg/L,EPA 200.8,0.033,0.1
+2017/18-PRE,Carboy Blank,matrix spike dup|| rec,8/18/2017,Metal,Beryllium,Total,=,98,%,EPA 200.8,-88,-88
+2017/18-PRE,Carboy Blank,matrix spike|| RPD,8/18/2017,Metal,Beryllium,Total,=,3,%,EPA 200.8,-88,-88
+2017/18-PRE,Carboy Blank,equip blank,8/18/2017,Metal,Beryllium,Total,<,0.033,µg/L,EPA 200.8,0.033,0.1
 2017/18-PRE,Lab,method blank,8/18/2017,Metal,Beryllium,Total,<,0.033,µg/L,EPA 200.8,0.033,0.1
 2017/18-PRE,Lab,LCS,8/18/2017,Metal,Beryllium,Total,=,49.3,µg/L,EPA 200.8,0.033,0.1
 2017/18-PRE,Lab,LCS|| rec,8/18/2017,Metal,Beryllium,Total,=,99,%,EPA 200.8,-88,-88
-2017/18-PRE,Tubing,Blank matrix spike,8/18/2017,Metal,Beryllium,Total,=,48.5,µg/L,EPA 200.8,0.033,0.1
-2017/18-PRE,Tubing,Blank matrix spike|| rec,8/18/2017,Metal,Beryllium,Total,=,97,%,EPA 200.8,-88,-88
-2017/18-PRE,Tubing,Blank matrix spike dup,8/18/2017,Metal,Beryllium,Total,=,49.6,µg/L,EPA 200.8,0.033,0.1
-2017/18-PRE,Tubing,Blank matrix spike dup|| rec,8/18/2017,Metal,Beryllium,Total,=,99,%,EPA 200.8,-88,-88
-2017/18-PRE,Tubing,Blank matrix spike|| RPD,8/18/2017,Metal,Beryllium,Total,=,2,%,EPA 200.8,-88,-88
-2017/18-PRE,Tubing,Blank equip blank,8/18/2017,Metal,Beryllium,Total,<,0.033,µg/L,EPA 200.8,0.033,0.1
-2017/18-PRE,Carboy,Blank equip blank,8/17/2017,Metal,Cadmium,Total,<,0.041,µg/L,EPA 200.8,0.041,0.1
-2017/18-PRE,Carboy,Blank matrix spike,8/17/2017,Metal,Cadmium,Total,=,51.9,µg/L,EPA 200.8,0.041,0.1
-2017/18-PRE,Carboy,Blank matrix spike|| rec,8/17/2017,Metal,Cadmium,Total,=,104,%,EPA 200.8,-88,-88
-2017/18-PRE,Carboy,Blank matrix spike dup,8/17/2017,Metal,Cadmium,Total,=,51.9,µg/L,EPA 200.8,0.041,0.1
-2017/18-PRE,Carboy,Blank matrix spike dup|| rec,8/17/2017,Metal,Cadmium,Total,=,104,%,EPA 200.8,-88,-88
-2017/18-PRE,Carboy,Blank matrix spike|| RPD,8/17/2017,Metal,Cadmium,Total,=,0.02,%,EPA 200.8,-88,-88
+2017/18-PRE,Tubing Blank,matrix spike,8/18/2017,Metal,Beryllium,Total,=,48.5,µg/L,EPA 200.8,0.033,0.1
+2017/18-PRE,Tubing Blank,matrix spike|| rec,8/18/2017,Metal,Beryllium,Total,=,97,%,EPA 200.8,-88,-88
+2017/18-PRE,Tubing Blank,matrix spike dup,8/18/2017,Metal,Beryllium,Total,=,49.6,µg/L,EPA 200.8,0.033,0.1
+2017/18-PRE,Tubing Blank,matrix spike dup|| rec,8/18/2017,Metal,Beryllium,Total,=,99,%,EPA 200.8,-88,-88
+2017/18-PRE,Tubing Blank,matrix spike|| RPD,8/18/2017,Metal,Beryllium,Total,=,2,%,EPA 200.8,-88,-88
+2017/18-PRE,Tubing Blank,equip blank,8/18/2017,Metal,Beryllium,Total,<,0.033,µg/L,EPA 200.8,0.033,0.1
+2017/18-PRE,Carboy Blank,equip blank,8/17/2017,Metal,Cadmium,Total,<,0.041,µg/L,EPA 200.8,0.041,0.1
+2017/18-PRE,Carboy Blank,matrix spike,8/17/2017,Metal,Cadmium,Total,=,51.9,µg/L,EPA 200.8,0.041,0.1
+2017/18-PRE,Carboy Blank,matrix spike|| rec,8/17/2017,Metal,Cadmium,Total,=,104,%,EPA 200.8,-88,-88
+2017/18-PRE,Carboy Blank,matrix spike dup,8/17/2017,Metal,Cadmium,Total,=,51.9,µg/L,EPA 200.8,0.041,0.1
+2017/18-PRE,Carboy Blank,matrix spike dup|| rec,8/17/2017,Metal,Cadmium,Total,=,104,%,EPA 200.8,-88,-88
+2017/18-PRE,Carboy Blank,matrix spike|| RPD,8/17/2017,Metal,Cadmium,Total,=,0.02,%,EPA 200.8,-88,-88
 2017/18-PRE,Lab,method blank,8/17/2017,Metal,Cadmium,Total,<,0.041,µg/L,EPA 200.8,0.041,0.1
 2017/18-PRE,Lab,LCS,8/17/2017,Metal,Cadmium,Total,=,51.7,µg/L,EPA 200.8,0.041,0.1
 2017/18-PRE,Lab,LCS|| rec,8/17/2017,Metal,Cadmium,Total,=,103,%,EPA 200.8,-88,-88
-2017/18-PRE,Tubing,Blank equip blank,8/17/2017,Metal,Cadmium,Total,<,0.041,µg/L,EPA 200.8,0.041,0.1
-2017/18-PRE,Tubing,Blank matrix spike,8/17/2017,Metal,Cadmium,Total,=,52.7,µg/L,EPA 200.8,0.041,0.1
-2017/18-PRE,Tubing,Blank matrix spike|| rec,8/17/2017,Metal,Cadmium,Total,=,105,%,EPA 200.8,-88,-88
-2017/18-PRE,Tubing,Blank matrix spike dup,8/17/2017,Metal,Cadmium,Total,=,52.6,µg/L,EPA 200.8,0.041,0.1
-2017/18-PRE,Tubing,Blank matrix spike dup|| rec,8/17/2017,Metal,Cadmium,Total,=,105,%,EPA 200.8,-88,-88
-2017/18-PRE,Tubing,Blank matrix spike|| RPD,8/17/2017,Metal,Cadmium,Total,=,0.2,%,EPA 200.8,-88,-88
-2017/18-PRE,Carboy,Blank equip blank,8/17/2017,Metal,Chromium,Total,<,0.035,µg/L,EPA 200.8,0.035,0.2
-2017/18-PRE,Carboy,Blank matrix spike,8/17/2017,Metal,Chromium,Total,=,47,µg/L,EPA 200.8,0.035,0.2
-2017/18-PRE,Carboy,Blank matrix spike|| rec,8/17/2017,Metal,Chromium,Total,=,94,%,EPA 200.8,-88,-88
-2017/18-PRE,Carboy,Blank matrix spike dup,8/17/2017,Metal,Chromium,Total,=,47.9,µg/L,EPA 200.8,0.035,0.2
-2017/18-PRE,Carboy,Blank matrix spike dup|| rec,8/17/2017,Metal,Chromium,Total,=,96,%,EPA 200.8,-88,-88
-2017/18-PRE,Carboy,Blank matrix spike|| RPD,8/17/2017,Metal,Chromium,Total,=,2,%,EPA 200.8,-88,-88
+2017/18-PRE,Tubing Blank,equip blank,8/17/2017,Metal,Cadmium,Total,<,0.041,µg/L,EPA 200.8,0.041,0.1
+2017/18-PRE,Tubing Blank,matrix spike,8/17/2017,Metal,Cadmium,Total,=,52.7,µg/L,EPA 200.8,0.041,0.1
+2017/18-PRE,Tubing Blank,matrix spike|| rec,8/17/2017,Metal,Cadmium,Total,=,105,%,EPA 200.8,-88,-88
+2017/18-PRE,Tubing Blank,matrix spike dup,8/17/2017,Metal,Cadmium,Total,=,52.6,µg/L,EPA 200.8,0.041,0.1
+2017/18-PRE,Tubing Blank,matrix spike dup|| rec,8/17/2017,Metal,Cadmium,Total,=,105,%,EPA 200.8,-88,-88
+2017/18-PRE,Tubing Blank,matrix spike|| RPD,8/17/2017,Metal,Cadmium,Total,=,0.2,%,EPA 200.8,-88,-88
+2017/18-PRE,Carboy Blank,equip blank,8/17/2017,Metal,Chromium,Total,<,0.035,µg/L,EPA 200.8,0.035,0.2
+2017/18-PRE,Carboy Blank,matrix spike,8/17/2017,Metal,Chromium,Total,=,47,µg/L,EPA 200.8,0.035,0.2
+2017/18-PRE,Carboy Blank,matrix spike|| rec,8/17/2017,Metal,Chromium,Total,=,94,%,EPA 200.8,-88,-88
+2017/18-PRE,Carboy Blank,matrix spike dup,8/17/2017,Metal,Chromium,Total,=,47.9,µg/L,EPA 200.8,0.035,0.2
+2017/18-PRE,Carboy Blank,matrix spike dup|| rec,8/17/2017,Metal,Chromium,Total,=,96,%,EPA 200.8,-88,-88
+2017/18-PRE,Carboy Blank,matrix spike|| RPD,8/17/2017,Metal,Chromium,Total,=,2,%,EPA 200.8,-88,-88
 2017/18-PRE,Lab,method blank,8/17/2017,Metal,Chromium,Total,<,0.035,µg/L,EPA 200.8,0.035,0.2
 2017/18-PRE,Lab,LCS,8/17/2017,Metal,Chromium,Total,=,47.7,µg/L,EPA 200.8,0.035,0.2
 2017/18-PRE,Lab,LCS|| rec,8/17/2017,Metal,Chromium,Total,=,95,%,EPA 200.8,-88,-88
-2017/18-PRE,Tubing,Blank equip blank,8/17/2017,Metal,Chromium,Total,=,0.22,µg/L,EPA 200.8,0.035,0.2
-2017/18-PRE,Tubing,Blank matrix spike,8/17/2017,Metal,Chromium,Total,=,48,µg/L,EPA 200.8,0.035,0.2
-2017/18-PRE,Tubing,Blank matrix spike|| rec,8/17/2017,Metal,Chromium,Total,=,96,%,EPA 200.8,-88,-88
-2017/18-PRE,Tubing,Blank matrix spike dup,8/17/2017,Metal,Chromium,Total,=,48.5,µg/L,EPA 200.8,0.035,0.2
-2017/18-PRE,Tubing,Blank matrix spike dup|| rec,8/17/2017,Metal,Chromium,Total,=,97,%,EPA 200.8,-88,-88
-2017/18-PRE,Tubing,Blank matrix spike|| RPD,8/17/2017,Metal,Chromium,Total,=,1,%,EPA 200.8,-88,-88
+2017/18-PRE,Tubing Blank,equip blank,8/17/2017,Metal,Chromium,Total,=,0.22,µg/L,EPA 200.8,0.035,0.2
+2017/18-PRE,Tubing Blank,matrix spike,8/17/2017,Metal,Chromium,Total,=,48,µg/L,EPA 200.8,0.035,0.2
+2017/18-PRE,Tubing Blank,matrix spike|| rec,8/17/2017,Metal,Chromium,Total,=,96,%,EPA 200.8,-88,-88
+2017/18-PRE,Tubing Blank,matrix spike dup,8/17/2017,Metal,Chromium,Total,=,48.5,µg/L,EPA 200.8,0.035,0.2
+2017/18-PRE,Tubing Blank,matrix spike dup|| rec,8/17/2017,Metal,Chromium,Total,=,97,%,EPA 200.8,-88,-88
+2017/18-PRE,Tubing Blank,matrix spike|| RPD,8/17/2017,Metal,Chromium,Total,=,1,%,EPA 200.8,-88,-88
 2017/18-PRE,000NONPJ,matrix spike,10/12/2017,Metal,Copper,Total,=,51.9,µg/L,EPA 200.8,0.13,0.5
 2017/18-PRE,000NONPJ,matrix spike|| rec,10/12/2017,Metal,Copper,Total,=,88,%,EPA 200.8,-88,-88
 2017/18-PRE,000NONPJ,matrix spike dup,10/12/2017,Metal,Copper,Total,=,51.5,µg/L,EPA 200.8,0.13,0.5
 2017/18-PRE,000NONPJ,matrix spike dup|| rec,10/12/2017,Metal,Copper,Total,=,87,%,EPA 200.8,-88,-88
 2017/18-PRE,000NONPJ,matrix spike|| RPD,10/12/2017,Metal,Copper,Total,=,0.7,%,EPA 200.8,-88,-88
-2017/18-PRE,Carboy,Blank equip blank,8/17/2017,Metal,Copper,Total,=,0.74,µg/L,EPA 200.8,0.13,0.5
-2017/18-PRE,Carboy,Blank matrix spike,8/17/2017,Metal,Copper,Total,=,53,µg/L,EPA 200.8,0.13,0.5
-2017/18-PRE,Carboy,Blank matrix spike|| rec,8/17/2017,Metal,Copper,Total,=,105,%,EPA 200.8,-88,-88
-2017/18-PRE,Carboy,Blank matrix spike dup,8/17/2017,Metal,Copper,Total,=,53.8,µg/L,EPA 200.8,0.13,0.5
-2017/18-PRE,Carboy,Blank matrix spike dup|| rec,8/17/2017,Metal,Copper,Total,=,106,%,EPA 200.8,-88,-88
-2017/18-PRE,Carboy,Blank matrix spike|| RPD,8/17/2017,Metal,Copper,Total,=,2,%,EPA 200.8,-88,-88
+2017/18-PRE,Carboy Blank,equip blank,8/17/2017,Metal,Copper,Total,=,0.74,µg/L,EPA 200.8,0.13,0.5
+2017/18-PRE,Carboy Blank,matrix spike,8/17/2017,Metal,Copper,Total,=,53,µg/L,EPA 200.8,0.13,0.5
+2017/18-PRE,Carboy Blank,matrix spike|| rec,8/17/2017,Metal,Copper,Total,=,105,%,EPA 200.8,-88,-88
+2017/18-PRE,Carboy Blank,matrix spike dup,8/17/2017,Metal,Copper,Total,=,53.8,µg/L,EPA 200.8,0.13,0.5
+2017/18-PRE,Carboy Blank,matrix spike dup|| rec,8/17/2017,Metal,Copper,Total,=,106,%,EPA 200.8,-88,-88
+2017/18-PRE,Carboy Blank,matrix spike|| RPD,8/17/2017,Metal,Copper,Total,=,2,%,EPA 200.8,-88,-88
 2017/18-PRE,Lab,method blank,8/17/2017,Metal,Copper,Total,<,0.13,µg/L,EPA 200.8,0.13,0.5
 2017/18-PRE,Lab,LCS,8/17/2017,Metal,Copper,Total,=,52.4,µg/L,EPA 200.8,0.13,0.5
 2017/18-PRE,Lab,LCS|| rec,8/17/2017,Metal,Copper,Total,=,105,%,EPA 200.8,-88,-88
@@ -19748,12 +19748,12 @@
 2017/18-PRE,Lab,method blank,10/12/2017,Metal,Copper,Total,<,0.13,µg/L,EPA 200.8,0.13,0.5
 2017/18-PRE,Lab,LCS,10/12/2017,Metal,Copper,Total,=,50.7,µg/L,EPA 200.8,0.13,0.5
 2017/18-PRE,Lab,LCS|| rec,10/12/2017,Metal,Copper,Total,=,101,%,EPA 200.8,-88,-88
-2017/18-PRE,Tubing,Blank equip blank,8/17/2017,Metal,Copper,Total,DNQ,0.26,µg/L,EPA 200.8,0.13,0.5
-2017/18-PRE,Tubing,Blank matrix spike,8/17/2017,Metal,Copper,Total,=,53.5,µg/L,EPA 200.8,0.13,0.5
-2017/18-PRE,Tubing,Blank matrix spike|| rec,8/17/2017,Metal,Copper,Total,=,106,%,EPA 200.8,-88,-88
-2017/18-PRE,Tubing,Blank matrix spike dup,8/17/2017,Metal,Copper,Total,=,54.6,µg/L,EPA 200.8,0.13,0.5
-2017/18-PRE,Tubing,Blank matrix spike dup|| rec,8/17/2017,Metal,Copper,Total,=,109,%,EPA 200.8,-88,-88
-2017/18-PRE,Tubing,Blank matrix spike|| RPD,8/17/2017,Metal,Copper,Total,=,2,%,EPA 200.8,-88,-88
+2017/18-PRE,Tubing Blank,equip blank,8/17/2017,Metal,Copper,Total,DNQ,0.26,µg/L,EPA 200.8,0.13,0.5
+2017/18-PRE,Tubing Blank,matrix spike,8/17/2017,Metal,Copper,Total,=,53.5,µg/L,EPA 200.8,0.13,0.5
+2017/18-PRE,Tubing Blank,matrix spike|| rec,8/17/2017,Metal,Copper,Total,=,106,%,EPA 200.8,-88,-88
+2017/18-PRE,Tubing Blank,matrix spike dup,8/17/2017,Metal,Copper,Total,=,54.6,µg/L,EPA 200.8,0.13,0.5
+2017/18-PRE,Tubing Blank,matrix spike dup|| rec,8/17/2017,Metal,Copper,Total,=,109,%,EPA 200.8,-88,-88
+2017/18-PRE,Tubing Blank,matrix spike|| RPD,8/17/2017,Metal,Copper,Total,=,2,%,EPA 200.8,-88,-88
 2017/18-PRE,Ultrapure,Water equip blank,10/12/2017,Metal,Copper,Total,DNQ,0.22,µg/L,EPA 200.8,0.13,0.5
 2017/18-PRE,Ultrapure,Water equip blank,10/12/2017,Metal,Copper,Total,DNQ,0.22,µg/L,EPA 200.8,0.13,0.5
 2017/18-PRE,000NONPJ,matrix spike,8/17/2017,Metal,Iron,Total,=,713,µg/L,EPA 200.7,1.1,10
@@ -19766,26 +19766,26 @@
 2017/18-PRE,000NONPJ,matrix spike dup,8/17/2017,Metal,Iron,Total,=,280,µg/L,EPA 200.7,1.1,10
 2017/18-PRE,000NONPJ,matrix spike dup|| rec,8/17/2017,Metal,Iron,Total,=,99,%,EPA 200.7,-88,-88
 2017/18-PRE,000NONPJ,matrix spike|| RPD,8/17/2017,Metal,Iron,Total,=,0.7,%,EPA 200.7,-88,-88
-2017/18-PRE,Carboy,Blank equip blank,8/17/2017,Metal,Iron,Total,DNQ,2,µg/L,EPA 200.7,1.1,10
+2017/18-PRE,Carboy Blank,equip blank,8/17/2017,Metal,Iron,Total,DNQ,2,µg/L,EPA 200.7,1.1,10
 2017/18-PRE,Lab,method blank,8/17/2017,Metal,Iron,Total,DNQ,2,µg/L,EPA 200.7,1.1,10
 2017/18-PRE,Lab,LCS,8/17/2017,Metal,Iron,Total,=,191,µg/L,EPA 200.7,1.1,10
 2017/18-PRE,Lab,LCS|| rec,8/17/2017,Metal,Iron,Total,=,95,%,EPA 200.7,-88,-88
-2017/18-PRE,Tubing,Blank equip blank,8/17/2017,Metal,Iron,Total,DNQ,7,µg/L,EPA 200.7,1.1,10
-2017/18-PRE,Carboy,Blank equip blank,8/17/2017,Metal,Lead,Total,<,0.031,µg/L,EPA 200.8,0.031,0.2
-2017/18-PRE,Carboy,Blank matrix spike,8/17/2017,Metal,Lead,Total,=,50.8,µg/L,EPA 200.8,0.031,0.2
-2017/18-PRE,Carboy,Blank matrix spike|| rec,8/17/2017,Metal,Lead,Total,=,102,%,EPA 200.8,-88,-88
-2017/18-PRE,Carboy,Blank matrix spike dup,8/17/2017,Metal,Lead,Total,=,52.5,µg/L,EPA 200.8,0.031,0.2
-2017/18-PRE,Carboy,Blank matrix spike dup|| rec,8/17/2017,Metal,Lead,Total,=,105,%,EPA 200.8,-88,-88
-2017/18-PRE,Carboy,Blank matrix spike|| RPD,8/17/2017,Metal,Lead,Total,=,3,%,EPA 200.8,-88,-88
+2017/18-PRE,Tubing Blank,equip blank,8/17/2017,Metal,Iron,Total,DNQ,7,µg/L,EPA 200.7,1.1,10
+2017/18-PRE,Carboy Blank,equip blank,8/17/2017,Metal,Lead,Total,<,0.031,µg/L,EPA 200.8,0.031,0.2
+2017/18-PRE,Carboy Blank,matrix spike,8/17/2017,Metal,Lead,Total,=,50.8,µg/L,EPA 200.8,0.031,0.2
+2017/18-PRE,Carboy Blank,matrix spike|| rec,8/17/2017,Metal,Lead,Total,=,102,%,EPA 200.8,-88,-88
+2017/18-PRE,Carboy Blank,matrix spike dup,8/17/2017,Metal,Lead,Total,=,52.5,µg/L,EPA 200.8,0.031,0.2
+2017/18-PRE,Carboy Blank,matrix spike dup|| rec,8/17/2017,Metal,Lead,Total,=,105,%,EPA 200.8,-88,-88
+2017/18-PRE,Carboy Blank,matrix spike|| RPD,8/17/2017,Metal,Lead,Total,=,3,%,EPA 200.8,-88,-88
 2017/18-PRE,Lab,method blank,8/17/2017,Metal,Lead,Total,<,0.031,µg/L,EPA 200.8,0.031,0.2
 2017/18-PRE,Lab,LCS,8/17/2017,Metal,Lead,Total,=,53.5,µg/L,EPA 200.8,0.031,0.2
 2017/18-PRE,Lab,LCS|| rec,8/17/2017,Metal,Lead,Total,=,107,%,EPA 200.8,-88,-88
-2017/18-PRE,Tubing,Blank equip blank,8/17/2017,Metal,Lead,Total,<,0.031,µg/L,EPA 200.8,0.031,0.2
-2017/18-PRE,Tubing,Blank matrix spike,8/17/2017,Metal,Lead,Total,=,51.8,µg/L,EPA 200.8,0.031,0.2
-2017/18-PRE,Tubing,Blank matrix spike|| rec,8/17/2017,Metal,Lead,Total,=,104,%,EPA 200.8,-88,-88
-2017/18-PRE,Tubing,Blank matrix spike dup,8/17/2017,Metal,Lead,Total,=,52.1,µg/L,EPA 200.8,0.031,0.2
-2017/18-PRE,Tubing,Blank matrix spike dup|| rec,8/17/2017,Metal,Lead,Total,=,104,%,EPA 200.8,-88,-88
-2017/18-PRE,Tubing,Blank matrix spike|| RPD,8/17/2017,Metal,Lead,Total,=,0.6,%,EPA 200.8,-88,-88
+2017/18-PRE,Tubing Blank,equip blank,8/17/2017,Metal,Lead,Total,<,0.031,µg/L,EPA 200.8,0.031,0.2
+2017/18-PRE,Tubing Blank,matrix spike,8/17/2017,Metal,Lead,Total,=,51.8,µg/L,EPA 200.8,0.031,0.2
+2017/18-PRE,Tubing Blank,matrix spike|| rec,8/17/2017,Metal,Lead,Total,=,104,%,EPA 200.8,-88,-88
+2017/18-PRE,Tubing Blank,matrix spike dup,8/17/2017,Metal,Lead,Total,=,52.1,µg/L,EPA 200.8,0.031,0.2
+2017/18-PRE,Tubing Blank,matrix spike dup|| rec,8/17/2017,Metal,Lead,Total,=,104,%,EPA 200.8,-88,-88
+2017/18-PRE,Tubing Blank,matrix spike|| RPD,8/17/2017,Metal,Lead,Total,=,0.6,%,EPA 200.8,-88,-88
 2017/18-PRE,000NONPJ,matrix spike,8/16/2017,Metal,Mercury,Total,=,908,ng/L,EPA 245.1,17,50
 2017/18-PRE,000NONPJ,matrix spike|| rec,8/16/2017,Metal,Mercury,Total,=,91,%,EPA 245.1,-88,-88
 2017/18-PRE,000NONPJ,matrix spike dup,8/16/2017,Metal,Mercury,Total,=,907,ng/L,EPA 245.1,17,50
@@ -19796,328 +19796,328 @@
 2017/18-PRE,000NONPJ,matrix spike dup,8/16/2017,Metal,Mercury,Total,=,943,ng/L,EPA 245.1,17,50
 2017/18-PRE,000NONPJ,matrix spike dup|| rec,8/16/2017,Metal,Mercury,Total,=,94,%,EPA 245.1,-88,-88
 2017/18-PRE,000NONPJ,matrix spike|| RPD,8/16/2017,Metal,Mercury,Total,=,0.5,%,EPA 245.1,-88,-88
-2017/18-PRE,Carboy,Blank equip blank,8/16/2017,Metal,Mercury,Total,<,17,ng/L,EPA 245.1,17,50
+2017/18-PRE,Carboy Blank,equip blank,8/16/2017,Metal,Mercury,Total,<,17,ng/L,EPA 245.1,17,50
 2017/18-PRE,Lab,method blank,8/16/2017,Metal,Mercury,Total,<,17,ng/L,EPA 245.1,17,50
 2017/18-PRE,Lab,LCS,8/16/2017,Metal,Mercury,Total,=,933,ng/L,EPA 245.1,17,50
 2017/18-PRE,Lab,LCS|| rec,8/16/2017,Metal,Mercury,Total,=,93,%,EPA 245.1,-88,-88
-2017/18-PRE,Tubing,Blank equip blank,8/16/2017,Metal,Mercury,Total,<,17,ng/L,EPA 245.1,17,50
+2017/18-PRE,Tubing Blank,equip blank,8/16/2017,Metal,Mercury,Total,<,17,ng/L,EPA 245.1,17,50
 2017/18-PRE,000NONPJ,matrix spike,10/12/2017,Metal,Nickel,Total,=,45,µg/L,EPA 200.8,0.045,0.8
 2017/18-PRE,000NONPJ,matrix spike|| rec,10/12/2017,Metal,Nickel,Total,=,88,%,EPA 200.8,-88,-88
 2017/18-PRE,000NONPJ,matrix spike dup,10/12/2017,Metal,Nickel,Total,=,44.7,µg/L,EPA 200.8,0.045,0.8
 2017/18-PRE,000NONPJ,matrix spike dup|| rec,10/12/2017,Metal,Nickel,Total,=,88,%,EPA 200.8,-88,-88
 2017/18-PRE,000NONPJ,matrix spike|| RPD,10/12/2017,Metal,Nickel,Total,=,0.7,%,EPA 200.8,-88,-88
-2017/18-PRE,Carboy,Blank equip blank,8/17/2017,Metal,Nickel,Total,DNQ,0.065,µg/L,EPA 200.8,0.045,0.8
-2017/18-PRE,Carboy,Blank matrix spike,8/17/2017,Metal,Nickel,Total,=,52.3,µg/L,EPA 200.8,0.045,0.8
-2017/18-PRE,Carboy,Blank matrix spike|| rec,8/17/2017,Metal,Nickel,Total,=,104,%,EPA 200.8,-88,-88
-2017/18-PRE,Carboy,Blank matrix spike dup,8/17/2017,Metal,Nickel,Total,=,52.7,µg/L,EPA 200.8,0.045,0.8
-2017/18-PRE,Carboy,Blank matrix spike dup|| rec,8/17/2017,Metal,Nickel,Total,=,105,%,EPA 200.8,-88,-88
-2017/18-PRE,Carboy,Blank matrix spike|| RPD,8/17/2017,Metal,Nickel,Total,=,0.8,%,EPA 200.8,-88,-88
+2017/18-PRE,Carboy Blank,equip blank,8/17/2017,Metal,Nickel,Total,DNQ,0.065,µg/L,EPA 200.8,0.045,0.8
+2017/18-PRE,Carboy Blank,matrix spike,8/17/2017,Metal,Nickel,Total,=,52.3,µg/L,EPA 200.8,0.045,0.8
+2017/18-PRE,Carboy Blank,matrix spike|| rec,8/17/2017,Metal,Nickel,Total,=,104,%,EPA 200.8,-88,-88
+2017/18-PRE,Carboy Blank,matrix spike dup,8/17/2017,Metal,Nickel,Total,=,52.7,µg/L,EPA 200.8,0.045,0.8
+2017/18-PRE,Carboy Blank,matrix spike dup|| rec,8/17/2017,Metal,Nickel,Total,=,105,%,EPA 200.8,-88,-88
+2017/18-PRE,Carboy Blank,matrix spike|| RPD,8/17/2017,Metal,Nickel,Total,=,0.8,%,EPA 200.8,-88,-88
 2017/18-PRE,Lab,method blank,8/17/2017,Metal,Nickel,Total,<,0.045,µg/L,EPA 200.8,0.045,0.8
 2017/18-PRE,Lab,LCS,8/17/2017,Metal,Nickel,Total,=,52.2,µg/L,EPA 200.8,0.045,0.8
 2017/18-PRE,Lab,LCS|| rec,8/17/2017,Metal,Nickel,Total,=,104,%,EPA 200.8,-88,-88
 2017/18-PRE,Lab,method blank,10/12/2017,Metal,Nickel,Total,<,0.045,µg/L,EPA 200.8,0.045,0.8
 2017/18-PRE,Lab,LCS,10/12/2017,Metal,Nickel,Total,=,50.1,µg/L,EPA 200.8,0.045,0.8
 2017/18-PRE,Lab,LCS|| rec,10/12/2017,Metal,Nickel,Total,=,100,%,EPA 200.8,-88,-88
-2017/18-PRE,Tubing,Blank equip blank,8/17/2017,Metal,Nickel,Total,DNQ,0.063,µg/L,EPA 200.8,0.045,0.8
-2017/18-PRE,Tubing,Blank matrix spike,8/17/2017,Metal,Nickel,Total,=,52.8,µg/L,EPA 200.8,0.045,0.8
-2017/18-PRE,Tubing,Blank matrix spike|| rec,8/17/2017,Metal,Nickel,Total,=,106,%,EPA 200.8,-88,-88
-2017/18-PRE,Tubing,Blank matrix spike dup,8/17/2017,Metal,Nickel,Total,=,53.3,µg/L,EPA 200.8,0.045,0.8
-2017/18-PRE,Tubing,Blank matrix spike dup|| rec,8/17/2017,Metal,Nickel,Total,=,107,%,EPA 200.8,-88,-88
-2017/18-PRE,Tubing,Blank matrix spike|| RPD,8/17/2017,Metal,Nickel,Total,=,1,%,EPA 200.8,-88,-88
+2017/18-PRE,Tubing Blank,equip blank,8/17/2017,Metal,Nickel,Total,DNQ,0.063,µg/L,EPA 200.8,0.045,0.8
+2017/18-PRE,Tubing Blank,matrix spike,8/17/2017,Metal,Nickel,Total,=,52.8,µg/L,EPA 200.8,0.045,0.8
+2017/18-PRE,Tubing Blank,matrix spike|| rec,8/17/2017,Metal,Nickel,Total,=,106,%,EPA 200.8,-88,-88
+2017/18-PRE,Tubing Blank,matrix spike dup,8/17/2017,Metal,Nickel,Total,=,53.3,µg/L,EPA 200.8,0.045,0.8
+2017/18-PRE,Tubing Blank,matrix spike dup|| rec,8/17/2017,Metal,Nickel,Total,=,107,%,EPA 200.8,-88,-88
+2017/18-PRE,Tubing Blank,matrix spike|| RPD,8/17/2017,Metal,Nickel,Total,=,1,%,EPA 200.8,-88,-88
 2017/18-PRE,Ultrapure,Water equip blank,10/12/2017,Metal,Nickel,Total,<,0.045,µg/L,EPA 200.8,0.045,0.8
 2017/18-PRE,Ultrapure,Water equip blank,10/12/2017,Metal,Nickel,Total,<,0.045,µg/L,EPA 200.8,0.045,0.8
-2017/18-PRE,Carboy,Blank equip blank,8/17/2017,Metal,Selenium,Total,<,0.14,µg/L,EPA 200.8,0.14,0.4
-2017/18-PRE,Carboy,Blank matrix spike,8/17/2017,Metal,Selenium,Total,=,49.2,µg/L,EPA 200.8,0.14,0.4
-2017/18-PRE,Carboy,Blank matrix spike|| rec,8/17/2017,Metal,Selenium,Total,=,98,%,EPA 200.8,-88,-88
-2017/18-PRE,Carboy,Blank matrix spike dup,8/17/2017,Metal,Selenium,Total,=,51,µg/L,EPA 200.8,0.14,0.4
-2017/18-PRE,Carboy,Blank matrix spike dup|| rec,8/17/2017,Metal,Selenium,Total,=,102,%,EPA 200.8,-88,-88
-2017/18-PRE,Carboy,Blank matrix spike|| RPD,8/17/2017,Metal,Selenium,Total,=,4,%,EPA 200.8,-88,-88
+2017/18-PRE,Carboy Blank,equip blank,8/17/2017,Metal,Selenium,Total,<,0.14,µg/L,EPA 200.8,0.14,0.4
+2017/18-PRE,Carboy Blank,matrix spike,8/17/2017,Metal,Selenium,Total,=,49.2,µg/L,EPA 200.8,0.14,0.4
+2017/18-PRE,Carboy Blank,matrix spike|| rec,8/17/2017,Metal,Selenium,Total,=,98,%,EPA 200.8,-88,-88
+2017/18-PRE,Carboy Blank,matrix spike dup,8/17/2017,Metal,Selenium,Total,=,51,µg/L,EPA 200.8,0.14,0.4
+2017/18-PRE,Carboy Blank,matrix spike dup|| rec,8/17/2017,Metal,Selenium,Total,=,102,%,EPA 200.8,-88,-88
+2017/18-PRE,Carboy Blank,matrix spike|| RPD,8/17/2017,Metal,Selenium,Total,=,4,%,EPA 200.8,-88,-88
 2017/18-PRE,Lab,method blank,8/17/2017,Metal,Selenium,Total,<,0.14,µg/L,EPA 200.8,0.14,0.4
 2017/18-PRE,Lab,LCS,8/17/2017,Metal,Selenium,Total,=,52.8,µg/L,EPA 200.8,0.14,0.4
 2017/18-PRE,Lab,LCS|| rec,8/17/2017,Metal,Selenium,Total,=,106,%,EPA 200.8,-88,-88
-2017/18-PRE,Tubing,Blank equip blank,8/17/2017,Metal,Selenium,Total,<,0.14,µg/L,EPA 200.8,0.14,0.4
-2017/18-PRE,Tubing,Blank matrix spike,8/17/2017,Metal,Selenium,Total,=,50.7,µg/L,EPA 200.8,0.14,0.4
-2017/18-PRE,Tubing,Blank matrix spike|| rec,8/17/2017,Metal,Selenium,Total,=,101,%,EPA 200.8,-88,-88
-2017/18-PRE,Tubing,Blank matrix spike dup,8/17/2017,Metal,Selenium,Total,=,51.4,µg/L,EPA 200.8,0.14,0.4
-2017/18-PRE,Tubing,Blank matrix spike dup|| rec,8/17/2017,Metal,Selenium,Total,=,103,%,EPA 200.8,-88,-88
-2017/18-PRE,Tubing,Blank matrix spike|| RPD,8/17/2017,Metal,Selenium,Total,=,1,%,EPA 200.8,-88,-88
-2017/18-PRE,Carboy,Blank equip blank,8/17/2017,Metal,Silver,Total,<,0.062,µg/L,EPA 200.8,0.062,0.2
-2017/18-PRE,Carboy,Blank matrix spike,8/17/2017,Metal,Silver,Total,=,50.4,µg/L,EPA 200.8,0.062,0.2
-2017/18-PRE,Carboy,Blank matrix spike|| rec,8/17/2017,Metal,Silver,Total,=,101,%,EPA 200.8,-88,-88
-2017/18-PRE,Carboy,Blank matrix spike dup,8/17/2017,Metal,Silver,Total,=,51.5,µg/L,EPA 200.8,0.062,0.2
-2017/18-PRE,Carboy,Blank matrix spike dup|| rec,8/17/2017,Metal,Silver,Total,=,103,%,EPA 200.8,-88,-88
-2017/18-PRE,Carboy,Blank matrix spike|| RPD,8/17/2017,Metal,Silver,Total,=,2,%,EPA 200.8,-88,-88
+2017/18-PRE,Tubing Blank,equip blank,8/17/2017,Metal,Selenium,Total,<,0.14,µg/L,EPA 200.8,0.14,0.4
+2017/18-PRE,Tubing Blank,matrix spike,8/17/2017,Metal,Selenium,Total,=,50.7,µg/L,EPA 200.8,0.14,0.4
+2017/18-PRE,Tubing Blank,matrix spike|| rec,8/17/2017,Metal,Selenium,Total,=,101,%,EPA 200.8,-88,-88
+2017/18-PRE,Tubing Blank,matrix spike dup,8/17/2017,Metal,Selenium,Total,=,51.4,µg/L,EPA 200.8,0.14,0.4
+2017/18-PRE,Tubing Blank,matrix spike dup|| rec,8/17/2017,Metal,Selenium,Total,=,103,%,EPA 200.8,-88,-88
+2017/18-PRE,Tubing Blank,matrix spike|| RPD,8/17/2017,Metal,Selenium,Total,=,1,%,EPA 200.8,-88,-88
+2017/18-PRE,Carboy Blank,equip blank,8/17/2017,Metal,Silver,Total,<,0.062,µg/L,EPA 200.8,0.062,0.2
+2017/18-PRE,Carboy Blank,matrix spike,8/17/2017,Metal,Silver,Total,=,50.4,µg/L,EPA 200.8,0.062,0.2
+2017/18-PRE,Carboy Blank,matrix spike|| rec,8/17/2017,Metal,Silver,Total,=,101,%,EPA 200.8,-88,-88
+2017/18-PRE,Carboy Blank,matrix spike dup,8/17/2017,Metal,Silver,Total,=,51.5,µg/L,EPA 200.8,0.062,0.2
+2017/18-PRE,Carboy Blank,matrix spike dup|| rec,8/17/2017,Metal,Silver,Total,=,103,%,EPA 200.8,-88,-88
+2017/18-PRE,Carboy Blank,matrix spike|| RPD,8/17/2017,Metal,Silver,Total,=,2,%,EPA 200.8,-88,-88
 2017/18-PRE,Lab,method blank,8/17/2017,Metal,Silver,Total,<,0.062,µg/L,EPA 200.8,0.062,0.2
 2017/18-PRE,Lab,LCS,8/17/2017,Metal,Silver,Total,=,52.9,µg/L,EPA 200.8,0.062,0.2
 2017/18-PRE,Lab,LCS|| rec,8/17/2017,Metal,Silver,Total,=,106,%,EPA 200.8,-88,-88
-2017/18-PRE,Tubing,Blank equip blank,8/17/2017,Metal,Silver,Total,<,0.062,µg/L,EPA 200.8,0.062,0.2
-2017/18-PRE,Tubing,Blank matrix spike,8/17/2017,Metal,Silver,Total,=,51,µg/L,EPA 200.8,0.062,0.2
-2017/18-PRE,Tubing,Blank matrix spike|| rec,8/17/2017,Metal,Silver,Total,=,102,%,EPA 200.8,-88,-88
-2017/18-PRE,Tubing,Blank matrix spike dup,8/17/2017,Metal,Silver,Total,=,50.9,µg/L,EPA 200.8,0.062,0.2
-2017/18-PRE,Tubing,Blank matrix spike dup|| rec,8/17/2017,Metal,Silver,Total,=,102,%,EPA 200.8,-88,-88
-2017/18-PRE,Tubing,Blank matrix spike|| RPD,8/17/2017,Metal,Silver,Total,=,0.2,%,EPA 200.8,-88,-88
-2017/18-PRE,Carboy,Blank equip blank,8/17/2017,Metal,Thallium,Total,<,0.014,µg/L,EPA 200.8,0.014,0.2
-2017/18-PRE,Carboy,Blank matrix spike,8/17/2017,Metal,Thallium,Total,=,51.7,µg/L,EPA 200.8,0.014,0.2
-2017/18-PRE,Carboy,Blank matrix spike|| rec,8/17/2017,Metal,Thallium,Total,=,103,%,EPA 200.8,-88,-88
-2017/18-PRE,Carboy,Blank matrix spike dup,8/17/2017,Metal,Thallium,Total,=,52.7,µg/L,EPA 200.8,0.014,0.2
-2017/18-PRE,Carboy,Blank matrix spike dup|| rec,8/17/2017,Metal,Thallium,Total,=,105,%,EPA 200.8,-88,-88
-2017/18-PRE,Carboy,Blank matrix spike|| RPD,8/17/2017,Metal,Thallium,Total,=,2,%,EPA 200.8,-88,-88
+2017/18-PRE,Tubing Blank,equip blank,8/17/2017,Metal,Silver,Total,<,0.062,µg/L,EPA 200.8,0.062,0.2
+2017/18-PRE,Tubing Blank,matrix spike,8/17/2017,Metal,Silver,Total,=,51,µg/L,EPA 200.8,0.062,0.2
+2017/18-PRE,Tubing Blank,matrix spike|| rec,8/17/2017,Metal,Silver,Total,=,102,%,EPA 200.8,-88,-88
+2017/18-PRE,Tubing Blank,matrix spike dup,8/17/2017,Metal,Silver,Total,=,50.9,µg/L,EPA 200.8,0.062,0.2
+2017/18-PRE,Tubing Blank,matrix spike dup|| rec,8/17/2017,Metal,Silver,Total,=,102,%,EPA 200.8,-88,-88
+2017/18-PRE,Tubing Blank,matrix spike|| RPD,8/17/2017,Metal,Silver,Total,=,0.2,%,EPA 200.8,-88,-88
+2017/18-PRE,Carboy Blank,equip blank,8/17/2017,Metal,Thallium,Total,<,0.014,µg/L,EPA 200.8,0.014,0.2
+2017/18-PRE,Carboy Blank,matrix spike,8/17/2017,Metal,Thallium,Total,=,51.7,µg/L,EPA 200.8,0.014,0.2
+2017/18-PRE,Carboy Blank,matrix spike|| rec,8/17/2017,Metal,Thallium,Total,=,103,%,EPA 200.8,-88,-88
+2017/18-PRE,Carboy Blank,matrix spike dup,8/17/2017,Metal,Thallium,Total,=,52.7,µg/L,EPA 200.8,0.014,0.2
+2017/18-PRE,Carboy Blank,matrix spike dup|| rec,8/17/2017,Metal,Thallium,Total,=,105,%,EPA 200.8,-88,-88
+2017/18-PRE,Carboy Blank,matrix spike|| RPD,8/17/2017,Metal,Thallium,Total,=,2,%,EPA 200.8,-88,-88
 2017/18-PRE,Lab,method blank,8/17/2017,Metal,Thallium,Total,<,0.014,µg/L,EPA 200.8,0.014,0.2
 2017/18-PRE,Lab,LCS,8/17/2017,Metal,Thallium,Total,=,54.2,µg/L,EPA 200.8,0.014,0.2
 2017/18-PRE,Lab,LCS|| rec,8/17/2017,Metal,Thallium,Total,=,108,%,EPA 200.8,-88,-88
-2017/18-PRE,Tubing,Blank equip blank,8/17/2017,Metal,Thallium,Total,<,0.014,µg/L,EPA 200.8,0.014,0.2
-2017/18-PRE,Tubing,Blank matrix spike,8/17/2017,Metal,Thallium,Total,=,52.6,µg/L,EPA 200.8,0.014,0.2
-2017/18-PRE,Tubing,Blank matrix spike|| rec,8/17/2017,Metal,Thallium,Total,=,105,%,EPA 200.8,-88,-88
-2017/18-PRE,Tubing,Blank matrix spike dup,8/17/2017,Metal,Thallium,Total,=,52.2,µg/L,EPA 200.8,0.014,0.2
-2017/18-PRE,Tubing,Blank matrix spike dup|| rec,8/17/2017,Metal,Thallium,Total,=,104,%,EPA 200.8,-88,-88
-2017/18-PRE,Tubing,Blank matrix spike|| RPD,8/17/2017,Metal,Thallium,Total,=,0.7,%,EPA 200.8,-88,-88
-2017/18-PRE,Carboy,Blank matrix spike,8/18/2017,Metal,Zinc,Total,=,51.8,µg/L,EPA 200.8,0.94,5
-2017/18-PRE,Carboy,Blank matrix spike|| rec,8/18/2017,Metal,Zinc,Total,=,104,%,EPA 200.8,-88,-88
-2017/18-PRE,Carboy,Blank matrix spike dup,8/18/2017,Metal,Zinc,Total,=,51.8,µg/L,EPA 200.8,0.94,5
-2017/18-PRE,Carboy,Blank matrix spike dup|| rec,8/18/2017,Metal,Zinc,Total,=,104,%,EPA 200.8,-88,-88
-2017/18-PRE,Carboy,Blank matrix spike|| RPD,8/18/2017,Metal,Zinc,Total,=,0.2,%,EPA 200.8,-88,-88
-2017/18-PRE,Carboy,Blank equip blank,8/18/2017,Metal,Zinc,Total,<,0.94,µg/L,EPA 200.8,0.94,5
+2017/18-PRE,Tubing Blank,equip blank,8/17/2017,Metal,Thallium,Total,<,0.014,µg/L,EPA 200.8,0.014,0.2
+2017/18-PRE,Tubing Blank,matrix spike,8/17/2017,Metal,Thallium,Total,=,52.6,µg/L,EPA 200.8,0.014,0.2
+2017/18-PRE,Tubing Blank,matrix spike|| rec,8/17/2017,Metal,Thallium,Total,=,105,%,EPA 200.8,-88,-88
+2017/18-PRE,Tubing Blank,matrix spike dup,8/17/2017,Metal,Thallium,Total,=,52.2,µg/L,EPA 200.8,0.014,0.2
+2017/18-PRE,Tubing Blank,matrix spike dup|| rec,8/17/2017,Metal,Thallium,Total,=,104,%,EPA 200.8,-88,-88
+2017/18-PRE,Tubing Blank,matrix spike|| RPD,8/17/2017,Metal,Thallium,Total,=,0.7,%,EPA 200.8,-88,-88
+2017/18-PRE,Carboy Blank,matrix spike,8/18/2017,Metal,Zinc,Total,=,51.8,µg/L,EPA 200.8,0.94,5
+2017/18-PRE,Carboy Blank,matrix spike|| rec,8/18/2017,Metal,Zinc,Total,=,104,%,EPA 200.8,-88,-88
+2017/18-PRE,Carboy Blank,matrix spike dup,8/18/2017,Metal,Zinc,Total,=,51.8,µg/L,EPA 200.8,0.94,5
+2017/18-PRE,Carboy Blank,matrix spike dup|| rec,8/18/2017,Metal,Zinc,Total,=,104,%,EPA 200.8,-88,-88
+2017/18-PRE,Carboy Blank,matrix spike|| RPD,8/18/2017,Metal,Zinc,Total,=,0.2,%,EPA 200.8,-88,-88
+2017/18-PRE,Carboy Blank,equip blank,8/18/2017,Metal,Zinc,Total,<,0.94,µg/L,EPA 200.8,0.94,5
 2017/18-PRE,Lab,method blank,8/18/2017,Metal,Zinc,Total,<,0.94,µg/L,EPA 200.8,0.94,5
 2017/18-PRE,Lab,LCS,8/18/2017,Metal,Zinc,Total,=,52.9,µg/L,EPA 200.8,0.94,5
 2017/18-PRE,Lab,LCS|| rec,8/18/2017,Metal,Zinc,Total,=,106,%,EPA 200.8,-88,-88
-2017/18-PRE,Tubing,Blank matrix spike,8/18/2017,Metal,Zinc,Total,=,52.2,µg/L,EPA 200.8,0.94,5
-2017/18-PRE,Tubing,Blank matrix spike|| rec,8/18/2017,Metal,Zinc,Total,=,104,%,EPA 200.8,-88,-88
-2017/18-PRE,Tubing,Blank matrix spike dup,8/18/2017,Metal,Zinc,Total,=,52.4,µg/L,EPA 200.8,0.94,5
-2017/18-PRE,Tubing,Blank matrix spike dup|| rec,8/18/2017,Metal,Zinc,Total,=,105,%,EPA 200.8,-88,-88
-2017/18-PRE,Tubing,Blank matrix spike|| RPD,8/18/2017,Metal,Zinc,Total,=,0.3,%,EPA 200.8,-88,-88
-2017/18-PRE,Tubing,Blank equip blank,8/18/2017,Metal,Zinc,Total,<,0.94,µg/L,EPA 200.8,0.94,5
-2017/18-PRE,Carboy,Blank equip blank,8/18/2017,Organic,1||2||4-Trichlorobenzene,n/a,<,0.55,µg/L,EPA 625,0.55,1
+2017/18-PRE,Tubing Blank,matrix spike,8/18/2017,Metal,Zinc,Total,=,52.2,µg/L,EPA 200.8,0.94,5
+2017/18-PRE,Tubing Blank,matrix spike|| rec,8/18/2017,Metal,Zinc,Total,=,104,%,EPA 200.8,-88,-88
+2017/18-PRE,Tubing Blank,matrix spike dup,8/18/2017,Metal,Zinc,Total,=,52.4,µg/L,EPA 200.8,0.94,5
+2017/18-PRE,Tubing Blank,matrix spike dup|| rec,8/18/2017,Metal,Zinc,Total,=,105,%,EPA 200.8,-88,-88
+2017/18-PRE,Tubing Blank,matrix spike|| RPD,8/18/2017,Metal,Zinc,Total,=,0.3,%,EPA 200.8,-88,-88
+2017/18-PRE,Tubing Blank,equip blank,8/18/2017,Metal,Zinc,Total,<,0.94,µg/L,EPA 200.8,0.94,5
+2017/18-PRE,Carboy Blank,equip blank,8/18/2017,Organic,1||2||4-Trichlorobenzene,n/a,<,0.55,µg/L,EPA 625,0.55,1
 2017/18-PRE,Lab,method blank,8/18/2017,Organic,1||2||4-Trichlorobenzene,n/a,<,0.55,µg/L,EPA 625,0.55,1
 2017/18-PRE,Lab,LCS,8/18/2017,Organic,1||2||4-Trichlorobenzene,n/a,=,19.5,µg/L,EPA 625,0.55,1
 2017/18-PRE,Lab,LCS|| rec,8/18/2017,Organic,1||2||4-Trichlorobenzene,n/a,=,78,%,EPA 625,-88,-88
 2017/18-PRE,Lab,LCS dup,8/18/2017,Organic,1||2||4-Trichlorobenzene,n/a,=,17.6,µg/L,EPA 625,0.55,1
 2017/18-PRE,Lab,LCS dup|| rec,8/18/2017,Organic,1||2||4-Trichlorobenzene,n/a,=,70,%,EPA 625,-88,-88
 2017/18-PRE,Lab,LCS|| RPD,8/18/2017,Organic,1||2||4-Trichlorobenzene,n/a,=,10,%,EPA 625,-88,-88
-2017/18-PRE,Tubing,Blank equip blank,8/18/2017,Organic,1||2||4-Trichlorobenzene,n/a,<,0.55,µg/L,EPA 625,0.55,1
-2017/18-PRE,Carboy,Blank equip blank,8/18/2017,Organic,1||2-Dichlorobenzene,n/a,<,0.57,µg/L,EPA 625,0.57,1
+2017/18-PRE,Tubing Blank,equip blank,8/18/2017,Organic,1||2||4-Trichlorobenzene,n/a,<,0.55,µg/L,EPA 625,0.55,1
+2017/18-PRE,Carboy Blank,equip blank,8/18/2017,Organic,1||2-Dichlorobenzene,n/a,<,0.57,µg/L,EPA 625,0.57,1
 2017/18-PRE,Lab,method blank,8/18/2017,Organic,1||2-Dichlorobenzene,n/a,<,0.57,µg/L,EPA 625,0.57,1
 2017/18-PRE,Lab,LCS,8/18/2017,Organic,1||2-Dichlorobenzene,n/a,=,19.8,µg/L,EPA 625,0.57,1
 2017/18-PRE,Lab,LCS|| rec,8/18/2017,Organic,1||2-Dichlorobenzene,n/a,=,79,%,EPA 625,-88,-88
 2017/18-PRE,Lab,LCS dup,8/18/2017,Organic,1||2-Dichlorobenzene,n/a,=,18.4,µg/L,EPA 625,0.57,1
 2017/18-PRE,Lab,LCS dup|| rec,8/18/2017,Organic,1||2-Dichlorobenzene,n/a,=,74,%,EPA 625,-88,-88
 2017/18-PRE,Lab,LCS|| RPD,8/18/2017,Organic,1||2-Dichlorobenzene,n/a,=,7,%,EPA 625,-88,-88
-2017/18-PRE,Tubing,Blank equip blank,8/18/2017,Organic,1||2-Dichlorobenzene,n/a,<,0.57,µg/L,EPA 625,0.57,1
-2017/18-PRE,Carboy,Blank equip blank,8/18/2017,Organic,1||2-Diphenylhydrazine,n/a,<,0.25,µg/L,EPA 625,0.25,1
+2017/18-PRE,Tubing Blank,equip blank,8/18/2017,Organic,1||2-Dichlorobenzene,n/a,<,0.57,µg/L,EPA 625,0.57,1
+2017/18-PRE,Carboy Blank,equip blank,8/18/2017,Organic,1||2-Diphenylhydrazine,n/a,<,0.25,µg/L,EPA 625,0.25,1
 2017/18-PRE,Lab,method blank,8/18/2017,Organic,1||2-Diphenylhydrazine,n/a,<,0.25,µg/L,EPA 625,0.25,1
-2017/18-PRE,Tubing,Blank equip blank,8/18/2017,Organic,1||2-Diphenylhydrazine,n/a,<,0.25,µg/L,EPA 625,0.25,1
-2017/18-PRE,Carboy,Blank equip blank,8/18/2017,Organic,1||3-Dichlorobenzene,n/a,<,0.53,µg/L,EPA 625,0.53,1
+2017/18-PRE,Tubing Blank,equip blank,8/18/2017,Organic,1||2-Diphenylhydrazine,n/a,<,0.25,µg/L,EPA 625,0.25,1
+2017/18-PRE,Carboy Blank,equip blank,8/18/2017,Organic,1||3-Dichlorobenzene,n/a,<,0.53,µg/L,EPA 625,0.53,1
 2017/18-PRE,Lab,method blank,8/18/2017,Organic,1||3-Dichlorobenzene,n/a,<,0.53,µg/L,EPA 625,0.53,1
 2017/18-PRE,Lab,LCS,8/18/2017,Organic,1||3-Dichlorobenzene,n/a,=,18.6,µg/L,EPA 625,0.53,1
 2017/18-PRE,Lab,LCS|| rec,8/18/2017,Organic,1||3-Dichlorobenzene,n/a,=,75,%,EPA 625,-88,-88
 2017/18-PRE,Lab,LCS dup,8/18/2017,Organic,1||3-Dichlorobenzene,n/a,=,17.4,µg/L,EPA 625,0.53,1
 2017/18-PRE,Lab,LCS dup|| rec,8/18/2017,Organic,1||3-Dichlorobenzene,n/a,=,70,%,EPA 625,-88,-88
 2017/18-PRE,Lab,LCS|| RPD,8/18/2017,Organic,1||3-Dichlorobenzene,n/a,=,7,%,EPA 625,-88,-88
-2017/18-PRE,Tubing,Blank equip blank,8/18/2017,Organic,1||3-Dichlorobenzene,n/a,<,0.53,µg/L,EPA 625,0.53,1
-2017/18-PRE,Carboy,Blank srgt equip blank,9/4/2017,Organic,1||3-Dimethyl-2-nitrobenzene,n/a,=,5.42,µg/L,EPA 525.2,-88,-88
-2017/18-PRE,Carboy,Blank srgt equip blank|| rec,9/4/2017,Organic,1||3-Dimethyl-2-nitrobenzene,n/a,=,108,%,EPA 525.2,-88,-88
+2017/18-PRE,Tubing Blank,equip blank,8/18/2017,Organic,1||3-Dichlorobenzene,n/a,<,0.53,µg/L,EPA 625,0.53,1
+2017/18-PRE,Carboy Blank,srgt equip blank,9/4/2017,Organic,1||3-Dimethyl-2-nitrobenzene,n/a,=,5.42,µg/L,EPA 525.2,-88,-88
+2017/18-PRE,Carboy Blank,srgt equip blank|| rec,9/4/2017,Organic,1||3-Dimethyl-2-nitrobenzene,n/a,=,108,%,EPA 525.2,-88,-88
 2017/18-PRE,Lab,srgt method blank,9/3/2017,Organic,1||3-Dimethyl-2-nitrobenzene,n/a,=,5.2,µg/L,EPA 525.2,-88,-88
 2017/18-PRE,Lab,srgt method blank|| rec,9/3/2017,Organic,1||3-Dimethyl-2-nitrobenzene,n/a,=,104,%,EPA 525.2,-88,-88
 2017/18-PRE,Lab,srgt LCS,9/3/2017,Organic,1||3-Dimethyl-2-nitrobenzene,n/a,=,5.2,µg/L,EPA 525.2,-88,-88
 2017/18-PRE,Lab,srgt LCS|| rec,9/3/2017,Organic,1||3-Dimethyl-2-nitrobenzene,n/a,=,104,%,EPA 525.2,-88,-88
 2017/18-PRE,Lab,srgt LCS dup,9/3/2017,Organic,1||3-Dimethyl-2-nitrobenzene,n/a,=,5.07,µg/L,EPA 525.2,-88,-88
 2017/18-PRE,Lab,srgt LCS dup|| rec,9/3/2017,Organic,1||3-Dimethyl-2-nitrobenzene,n/a,=,101,%,EPA 525.2,-88,-88
-2017/18-PRE,Tubing,Blank srgt equip blank,9/3/2017,Organic,1||3-Dimethyl-2-nitrobenzene,n/a,=,5.43,µg/L,EPA 525.2,-88,-88
-2017/18-PRE,Tubing,Blank srgt equip blank|| rec,9/3/2017,Organic,1||3-Dimethyl-2-nitrobenzene,n/a,=,109,%,EPA 525.2,-88,-88
-2017/18-PRE,Carboy,Blank equip blank,8/18/2017,Organic,1||4-Dichlorobenzene,n/a,<,0.55,µg/L,EPA 625,0.55,1
+2017/18-PRE,Tubing Blank,srgt equip blank,9/3/2017,Organic,1||3-Dimethyl-2-nitrobenzene,n/a,=,5.43,µg/L,EPA 525.2,-88,-88
+2017/18-PRE,Tubing Blank,srgt equip blank|| rec,9/3/2017,Organic,1||3-Dimethyl-2-nitrobenzene,n/a,=,109,%,EPA 525.2,-88,-88
+2017/18-PRE,Carboy Blank,equip blank,8/18/2017,Organic,1||4-Dichlorobenzene,n/a,<,0.55,µg/L,EPA 625,0.55,1
 2017/18-PRE,Lab,method blank,8/18/2017,Organic,1||4-Dichlorobenzene,n/a,<,0.55,µg/L,EPA 625,0.55,1
 2017/18-PRE,Lab,LCS,8/18/2017,Organic,1||4-Dichlorobenzene,n/a,=,18.1,µg/L,EPA 625,0.55,1
 2017/18-PRE,Lab,LCS|| rec,8/18/2017,Organic,1||4-Dichlorobenzene,n/a,=,72,%,EPA 625,-88,-88
 2017/18-PRE,Lab,LCS dup,8/18/2017,Organic,1||4-Dichlorobenzene,n/a,=,16.8,µg/L,EPA 625,0.55,1
 2017/18-PRE,Lab,LCS dup|| rec,8/18/2017,Organic,1||4-Dichlorobenzene,n/a,=,67,%,EPA 625,-88,-88
 2017/18-PRE,Lab,LCS|| RPD,8/18/2017,Organic,1||4-Dichlorobenzene,n/a,=,7,%,EPA 625,-88,-88
-2017/18-PRE,Tubing,Blank equip blank,8/18/2017,Organic,1||4-Dichlorobenzene,n/a,<,0.55,µg/L,EPA 625,0.55,1
-2017/18-PRE,Carboy,Blank srgt equip blank,8/18/2017,Organic,2||4||6-Tribromophenol,n/a,=,28.4,µg/L,EPA 625,-88,-88
-2017/18-PRE,Carboy,Blank srgt equip blank|| rec,8/18/2017,Organic,2||4||6-Tribromophenol,n/a,=,57,%,EPA 625,-88,-88
+2017/18-PRE,Tubing Blank,equip blank,8/18/2017,Organic,1||4-Dichlorobenzene,n/a,<,0.55,µg/L,EPA 625,0.55,1
+2017/18-PRE,Carboy Blank,srgt equip blank,8/18/2017,Organic,2||4||6-Tribromophenol,n/a,=,28.4,µg/L,EPA 625,-88,-88
+2017/18-PRE,Carboy Blank,srgt equip blank|| rec,8/18/2017,Organic,2||4||6-Tribromophenol,n/a,=,57,%,EPA 625,-88,-88
 2017/18-PRE,Lab,srgt method blank,8/18/2017,Organic,2||4||6-Tribromophenol,n/a,=,26.4,µg/L,EPA 625,-88,-88
 2017/18-PRE,Lab,srgt method blank|| rec,8/18/2017,Organic,2||4||6-Tribromophenol,n/a,=,53,%,EPA 625,-88,-88
 2017/18-PRE,Lab,srgt LCS,8/18/2017,Organic,2||4||6-Tribromophenol,n/a,=,36.4,µg/L,EPA 625,-88,-88
 2017/18-PRE,Lab,srgt LCS|| rec,8/18/2017,Organic,2||4||6-Tribromophenol,n/a,=,73,%,EPA 625,-88,-88
 2017/18-PRE,Lab,srgt LCS dup,8/18/2017,Organic,2||4||6-Tribromophenol,n/a,=,34.5,µg/L,EPA 625,-88,-88
 2017/18-PRE,Lab,srgt LCS dup|| rec,8/18/2017,Organic,2||4||6-Tribromophenol,n/a,=,69,%,EPA 625,-88,-88
-2017/18-PRE,Tubing,Blank srgt equip blank,8/18/2017,Organic,2||4||6-Tribromophenol,n/a,=,25.7,µg/L,EPA 625,-88,-88
-2017/18-PRE,Tubing,Blank srgt equip blank|| rec,8/18/2017,Organic,2||4||6-Tribromophenol,n/a,=,51,%,EPA 625,-88,-88
-2017/18-PRE,Carboy,Blank equip blank,8/18/2017,Organic,2||4||6-Trichlorophenol,n/a,<,0.22,µg/L,EPA 625,0.22,1
+2017/18-PRE,Tubing Blank,srgt equip blank,8/18/2017,Organic,2||4||6-Tribromophenol,n/a,=,25.7,µg/L,EPA 625,-88,-88
+2017/18-PRE,Tubing Blank,srgt equip blank|| rec,8/18/2017,Organic,2||4||6-Tribromophenol,n/a,=,51,%,EPA 625,-88,-88
+2017/18-PRE,Carboy Blank,equip blank,8/18/2017,Organic,2||4||6-Trichlorophenol,n/a,<,0.22,µg/L,EPA 625,0.22,1
 2017/18-PRE,Lab,method blank,8/18/2017,Organic,2||4||6-Trichlorophenol,n/a,<,0.22,µg/L,EPA 625,0.22,1
 2017/18-PRE,Lab,LCS,8/18/2017,Organic,2||4||6-Trichlorophenol,n/a,=,18.7,µg/L,EPA 625,0.22,1
 2017/18-PRE,Lab,LCS|| rec,8/18/2017,Organic,2||4||6-Trichlorophenol,n/a,=,75,%,EPA 625,-88,-88
 2017/18-PRE,Lab,LCS dup,8/18/2017,Organic,2||4||6-Trichlorophenol,n/a,=,18.1,µg/L,EPA 625,0.22,1
 2017/18-PRE,Lab,LCS dup|| rec,8/18/2017,Organic,2||4||6-Trichlorophenol,n/a,=,72,%,EPA 625,-88,-88
 2017/18-PRE,Lab,LCS|| RPD,8/18/2017,Organic,2||4||6-Trichlorophenol,n/a,=,4,%,EPA 625,-88,-88
-2017/18-PRE,Tubing,Blank equip blank,8/18/2017,Organic,2||4||6-Trichlorophenol,n/a,<,0.22,µg/L,EPA 625,0.22,1
-2017/18-PRE,Carboy,Blank equip blank,8/18/2017,Organic,2||4-Dichlorophenol,n/a,<,0.26,µg/L,EPA 625,0.26,1
+2017/18-PRE,Tubing Blank,equip blank,8/18/2017,Organic,2||4||6-Trichlorophenol,n/a,<,0.22,µg/L,EPA 625,0.22,1
+2017/18-PRE,Carboy Blank,equip blank,8/18/2017,Organic,2||4-Dichlorophenol,n/a,<,0.26,µg/L,EPA 625,0.26,1
 2017/18-PRE,Lab,method blank,8/18/2017,Organic,2||4-Dichlorophenol,n/a,<,0.26,µg/L,EPA 625,0.26,1
 2017/18-PRE,Lab,LCS,8/18/2017,Organic,2||4-Dichlorophenol,n/a,=,19,µg/L,EPA 625,0.26,1
 2017/18-PRE,Lab,LCS|| rec,8/18/2017,Organic,2||4-Dichlorophenol,n/a,=,76,%,EPA 625,-88,-88
 2017/18-PRE,Lab,LCS dup,8/18/2017,Organic,2||4-Dichlorophenol,n/a,=,17.8,µg/L,EPA 625,0.26,1
 2017/18-PRE,Lab,LCS dup|| rec,8/18/2017,Organic,2||4-Dichlorophenol,n/a,=,71,%,EPA 625,-88,-88
 2017/18-PRE,Lab,LCS|| RPD,8/18/2017,Organic,2||4-Dichlorophenol,n/a,=,6,%,EPA 625,-88,-88
-2017/18-PRE,Tubing,Blank equip blank,8/18/2017,Organic,2||4-Dichlorophenol,n/a,<,0.26,µg/L,EPA 625,0.26,1
-2017/18-PRE,Carboy,Blank equip blank,8/18/2017,Organic,2||4-Dimethylphenol,n/a,<,0.3,µg/L,EPA 625,0.3,1
+2017/18-PRE,Tubing Blank,equip blank,8/18/2017,Organic,2||4-Dichlorophenol,n/a,<,0.26,µg/L,EPA 625,0.26,1
+2017/18-PRE,Carboy Blank,equip blank,8/18/2017,Organic,2||4-Dimethylphenol,n/a,<,0.3,µg/L,EPA 625,0.3,1
 2017/18-PRE,Lab,method blank,8/18/2017,Organic,2||4-Dimethylphenol,n/a,<,0.3,µg/L,EPA 625,0.3,1
 2017/18-PRE,Lab,LCS,8/18/2017,Organic,2||4-Dimethylphenol,n/a,=,16.3,µg/L,EPA 625,0.3,1
 2017/18-PRE,Lab,LCS|| rec,8/18/2017,Organic,2||4-Dimethylphenol,n/a,=,65,%,EPA 625,-88,-88
 2017/18-PRE,Lab,LCS dup,8/18/2017,Organic,2||4-Dimethylphenol,n/a,=,15.9,µg/L,EPA 625,0.3,1
 2017/18-PRE,Lab,LCS dup|| rec,8/18/2017,Organic,2||4-Dimethylphenol,n/a,=,64,%,EPA 625,-88,-88
 2017/18-PRE,Lab,LCS|| RPD,8/18/2017,Organic,2||4-Dimethylphenol,n/a,=,2,%,EPA 625,-88,-88
-2017/18-PRE,Tubing,Blank equip blank,8/18/2017,Organic,2||4-Dimethylphenol,n/a,<,0.3,µg/L,EPA 625,0.3,1
-2017/18-PRE,Carboy,Blank equip blank,8/18/2017,Organic,2||4-Dinitrophenol,n/a,<,1.6,µg/L,EPA 625,1.6,10
+2017/18-PRE,Tubing Blank,equip blank,8/18/2017,Organic,2||4-Dimethylphenol,n/a,<,0.3,µg/L,EPA 625,0.3,1
+2017/18-PRE,Carboy Blank,equip blank,8/18/2017,Organic,2||4-Dinitrophenol,n/a,<,1.6,µg/L,EPA 625,1.6,10
 2017/18-PRE,Lab,method blank,8/18/2017,Organic,2||4-Dinitrophenol,n/a,<,1.6,µg/L,EPA 625,1.6,10
 2017/18-PRE,Lab,LCS,8/18/2017,Organic,2||4-Dinitrophenol,n/a,=,19.7,µg/L,EPA 625,1.6,10
 2017/18-PRE,Lab,LCS|| rec,8/18/2017,Organic,2||4-Dinitrophenol,n/a,=,79,%,EPA 625,-88,-88
 2017/18-PRE,Lab,LCS dup,8/18/2017,Organic,2||4-Dinitrophenol,n/a,=,18.1,µg/L,EPA 625,1.6,10
 2017/18-PRE,Lab,LCS dup|| rec,8/18/2017,Organic,2||4-Dinitrophenol,n/a,=,72,%,EPA 625,-88,-88
 2017/18-PRE,Lab,LCS|| RPD,8/18/2017,Organic,2||4-Dinitrophenol,n/a,=,8,%,EPA 625,-88,-88
-2017/18-PRE,Tubing,Blank equip blank,8/18/2017,Organic,2||4-Dinitrophenol,n/a,<,1.6,µg/L,EPA 625,1.6,10
-2017/18-PRE,Carboy,Blank equip blank,8/18/2017,Organic,2||4-Dinitrotoluene,n/a,<,0.18,µg/L,EPA 625,0.18,1
+2017/18-PRE,Tubing Blank,equip blank,8/18/2017,Organic,2||4-Dinitrophenol,n/a,<,1.6,µg/L,EPA 625,1.6,10
+2017/18-PRE,Carboy Blank,equip blank,8/18/2017,Organic,2||4-Dinitrotoluene,n/a,<,0.18,µg/L,EPA 625,0.18,1
 2017/18-PRE,Lab,method blank,8/18/2017,Organic,2||4-Dinitrotoluene,n/a,<,0.18,µg/L,EPA 625,0.18,1
 2017/18-PRE,Lab,LCS,8/18/2017,Organic,2||4-Dinitrotoluene,n/a,=,29.3,µg/L,EPA 625,0.18,1
 2017/18-PRE,Lab,LCS|| rec,8/18/2017,Organic,2||4-Dinitrotoluene,n/a,=,117,%,EPA 625,-88,-88
 2017/18-PRE,Lab,LCS dup,8/18/2017,Organic,2||4-Dinitrotoluene,n/a,=,29,µg/L,EPA 625,0.18,1
 2017/18-PRE,Lab,LCS dup|| rec,8/18/2017,Organic,2||4-Dinitrotoluene,n/a,=,116,%,EPA 625,-88,-88
 2017/18-PRE,Lab,LCS|| RPD,8/18/2017,Organic,2||4-Dinitrotoluene,n/a,=,0.8,%,EPA 625,-88,-88
-2017/18-PRE,Tubing,Blank equip blank,8/18/2017,Organic,2||4-Dinitrotoluene,n/a,<,0.18,µg/L,EPA 625,0.18,1
-2017/18-PRE,Carboy,Blank equip blank,8/18/2017,Organic,2||6-Dinitrotoluene,n/a,<,0.27,µg/L,EPA 625,0.27,1
+2017/18-PRE,Tubing Blank,equip blank,8/18/2017,Organic,2||4-Dinitrotoluene,n/a,<,0.18,µg/L,EPA 625,0.18,1
+2017/18-PRE,Carboy Blank,equip blank,8/18/2017,Organic,2||6-Dinitrotoluene,n/a,<,0.27,µg/L,EPA 625,0.27,1
 2017/18-PRE,Lab,method blank,8/18/2017,Organic,2||6-Dinitrotoluene,n/a,<,0.27,µg/L,EPA 625,0.27,1
 2017/18-PRE,Lab,LCS,8/18/2017,Organic,2||6-Dinitrotoluene,n/a,=,18.2,µg/L,EPA 625,0.27,1
 2017/18-PRE,Lab,LCS|| rec,8/18/2017,Organic,2||6-Dinitrotoluene,n/a,=,73,%,EPA 625,-88,-88
 2017/18-PRE,Lab,LCS dup,8/18/2017,Organic,2||6-Dinitrotoluene,n/a,=,18.7,µg/L,EPA 625,0.27,1
 2017/18-PRE,Lab,LCS dup|| rec,8/18/2017,Organic,2||6-Dinitrotoluene,n/a,=,75,%,EPA 625,-88,-88
 2017/18-PRE,Lab,LCS|| RPD,8/18/2017,Organic,2||6-Dinitrotoluene,n/a,=,2,%,EPA 625,-88,-88
-2017/18-PRE,Tubing,Blank equip blank,8/18/2017,Organic,2||6-Dinitrotoluene,n/a,<,0.27,µg/L,EPA 625,0.27,1
-2017/18-PRE,Carboy,Blank equip blank,8/18/2017,Organic,2-Chloronaphthalene,n/a,<,0.45,µg/L,EPA 625,0.45,1
+2017/18-PRE,Tubing Blank,equip blank,8/18/2017,Organic,2||6-Dinitrotoluene,n/a,<,0.27,µg/L,EPA 625,0.27,1
+2017/18-PRE,Carboy Blank,equip blank,8/18/2017,Organic,2-Chloronaphthalene,n/a,<,0.45,µg/L,EPA 625,0.45,1
 2017/18-PRE,Lab,method blank,8/18/2017,Organic,2-Chloronaphthalene,n/a,<,0.45,µg/L,EPA 625,0.45,1
 2017/18-PRE,Lab,LCS,8/18/2017,Organic,2-Chloronaphthalene,n/a,=,18.6,µg/L,EPA 625,0.45,1
 2017/18-PRE,Lab,LCS|| rec,8/18/2017,Organic,2-Chloronaphthalene,n/a,=,74,%,EPA 625,-88,-88
 2017/18-PRE,Lab,LCS dup,8/18/2017,Organic,2-Chloronaphthalene,n/a,=,17.9,µg/L,EPA 625,0.45,1
 2017/18-PRE,Lab,LCS dup|| rec,8/18/2017,Organic,2-Chloronaphthalene,n/a,=,72,%,EPA 625,-88,-88
 2017/18-PRE,Lab,LCS|| RPD,8/18/2017,Organic,2-Chloronaphthalene,n/a,=,4,%,EPA 625,-88,-88
-2017/18-PRE,Tubing,Blank equip blank,8/18/2017,Organic,2-Chloronaphthalene,n/a,<,0.45,µg/L,EPA 625,0.45,1
-2017/18-PRE,Carboy,Blank equip blank,8/18/2017,Organic,2-Chlorophenol,n/a,<,0.28,µg/L,EPA 625,0.28,1
+2017/18-PRE,Tubing Blank,equip blank,8/18/2017,Organic,2-Chloronaphthalene,n/a,<,0.45,µg/L,EPA 625,0.45,1
+2017/18-PRE,Carboy Blank,equip blank,8/18/2017,Organic,2-Chlorophenol,n/a,<,0.28,µg/L,EPA 625,0.28,1
 2017/18-PRE,Lab,method blank,8/18/2017,Organic,2-Chlorophenol,n/a,<,0.28,µg/L,EPA 625,0.28,1
 2017/18-PRE,Lab,LCS,8/18/2017,Organic,2-Chlorophenol,n/a,=,18,µg/L,EPA 625,0.28,1
 2017/18-PRE,Lab,LCS|| rec,8/18/2017,Organic,2-Chlorophenol,n/a,=,72,%,EPA 625,-88,-88
 2017/18-PRE,Lab,LCS dup,8/18/2017,Organic,2-Chlorophenol,n/a,=,16.7,µg/L,EPA 625,0.28,1
 2017/18-PRE,Lab,LCS dup|| rec,8/18/2017,Organic,2-Chlorophenol,n/a,=,67,%,EPA 625,-88,-88
 2017/18-PRE,Lab,LCS|| RPD,8/18/2017,Organic,2-Chlorophenol,n/a,=,8,%,EPA 625,-88,-88
-2017/18-PRE,Tubing,Blank equip blank,8/18/2017,Organic,2-Chlorophenol,n/a,<,0.28,µg/L,EPA 625,0.28,1
-2017/18-PRE,Carboy,Blank srgt equip blank,8/18/2017,Organic,2-Fluorobiphenyl,n/a,=,15.2,µg/L,EPA 625,-88,-88
-2017/18-PRE,Carboy,Blank srgt equip blank|| rec,8/18/2017,Organic,2-Fluorobiphenyl,n/a,=,61,%,EPA 625,-88,-88
+2017/18-PRE,Tubing Blank,equip blank,8/18/2017,Organic,2-Chlorophenol,n/a,<,0.28,µg/L,EPA 625,0.28,1
+2017/18-PRE,Carboy Blank,srgt equip blank,8/18/2017,Organic,2-Fluorobiphenyl,n/a,=,15.2,µg/L,EPA 625,-88,-88
+2017/18-PRE,Carboy Blank,srgt equip blank|| rec,8/18/2017,Organic,2-Fluorobiphenyl,n/a,=,61,%,EPA 625,-88,-88
 2017/18-PRE,Lab,srgt method blank,8/18/2017,Organic,2-Fluorobiphenyl,n/a,=,13.3,µg/L,EPA 625,-88,-88
 2017/18-PRE,Lab,srgt method blank|| rec,8/18/2017,Organic,2-Fluorobiphenyl,n/a,=,53,%,EPA 625,-88,-88
 2017/18-PRE,Lab,srgt LCS,8/18/2017,Organic,2-Fluorobiphenyl,n/a,=,15.9,µg/L,EPA 625,-88,-88
 2017/18-PRE,Lab,srgt LCS|| rec,8/18/2017,Organic,2-Fluorobiphenyl,n/a,=,63,%,EPA 625,-88,-88
 2017/18-PRE,Lab,srgt LCS dup,8/18/2017,Organic,2-Fluorobiphenyl,n/a,=,14.8,µg/L,EPA 625,-88,-88
 2017/18-PRE,Lab,srgt LCS dup|| rec,8/18/2017,Organic,2-Fluorobiphenyl,n/a,=,59,%,EPA 625,-88,-88
-2017/18-PRE,Tubing,Blank srgt equip blank,8/18/2017,Organic,2-Fluorobiphenyl,n/a,=,12.9,µg/L,EPA 625,-88,-88
-2017/18-PRE,Tubing,Blank srgt equip blank|| rec,8/18/2017,Organic,2-Fluorobiphenyl,n/a,=,51,%,EPA 625,-88,-88
-2017/18-PRE,Carboy,Blank srgt equip blank,8/18/2017,Organic,2-Fluorophenol,n/a,=,19.7,µg/L,EPA 625,-88,-88
-2017/18-PRE,Carboy,Blank srgt equip blank|| rec,8/18/2017,Organic,2-Fluorophenol,n/a,=,39,%,EPA 625,-88,-88
+2017/18-PRE,Tubing Blank,srgt equip blank,8/18/2017,Organic,2-Fluorobiphenyl,n/a,=,12.9,µg/L,EPA 625,-88,-88
+2017/18-PRE,Tubing Blank,srgt equip blank|| rec,8/18/2017,Organic,2-Fluorobiphenyl,n/a,=,51,%,EPA 625,-88,-88
+2017/18-PRE,Carboy Blank,srgt equip blank,8/18/2017,Organic,2-Fluorophenol,n/a,=,19.7,µg/L,EPA 625,-88,-88
+2017/18-PRE,Carboy Blank,srgt equip blank|| rec,8/18/2017,Organic,2-Fluorophenol,n/a,=,39,%,EPA 625,-88,-88
 2017/18-PRE,Lab,srgt method blank,8/18/2017,Organic,2-Fluorophenol,n/a,=,18.2,µg/L,EPA 625,-88,-88
 2017/18-PRE,Lab,srgt method blank|| rec,8/18/2017,Organic,2-Fluorophenol,n/a,=,36,%,EPA 625,-88,-88
 2017/18-PRE,Lab,srgt LCS,8/18/2017,Organic,2-Fluorophenol,n/a,=,20.8,µg/L,EPA 625,-88,-88
 2017/18-PRE,Lab,srgt LCS|| rec,8/18/2017,Organic,2-Fluorophenol,n/a,=,42,%,EPA 625,-88,-88
 2017/18-PRE,Lab,srgt LCS dup,8/18/2017,Organic,2-Fluorophenol,n/a,=,19.7,µg/L,EPA 625,-88,-88
 2017/18-PRE,Lab,srgt LCS dup|| rec,8/18/2017,Organic,2-Fluorophenol,n/a,=,39,%,EPA 625,-88,-88
-2017/18-PRE,Tubing,Blank srgt equip blank,8/18/2017,Organic,2-Fluorophenol,n/a,=,18.4,µg/L,EPA 625,-88,-88
-2017/18-PRE,Tubing,Blank srgt equip blank|| rec,8/18/2017,Organic,2-Fluorophenol,n/a,=,37,%,EPA 625,-88,-88
-2017/18-PRE,Carboy,Blank equip blank,8/18/2017,Organic,2-Nitrophenol,n/a,<,0.26,µg/L,EPA 625,0.26,1
+2017/18-PRE,Tubing Blank,srgt equip blank,8/18/2017,Organic,2-Fluorophenol,n/a,=,18.4,µg/L,EPA 625,-88,-88
+2017/18-PRE,Tubing Blank,srgt equip blank|| rec,8/18/2017,Organic,2-Fluorophenol,n/a,=,37,%,EPA 625,-88,-88
+2017/18-PRE,Carboy Blank,equip blank,8/18/2017,Organic,2-Nitrophenol,n/a,<,0.26,µg/L,EPA 625,0.26,1
 2017/18-PRE,Lab,method blank,8/18/2017,Organic,2-Nitrophenol,n/a,<,0.26,µg/L,EPA 625,0.26,1
 2017/18-PRE,Lab,LCS,8/18/2017,Organic,2-Nitrophenol,n/a,=,20.6,µg/L,EPA 625,0.26,1
 2017/18-PRE,Lab,LCS|| rec,8/18/2017,Organic,2-Nitrophenol,n/a,=,82,%,EPA 625,-88,-88
 2017/18-PRE,Lab,LCS dup,8/18/2017,Organic,2-Nitrophenol,n/a,=,19.1,µg/L,EPA 625,0.26,1
 2017/18-PRE,Lab,LCS dup|| rec,8/18/2017,Organic,2-Nitrophenol,n/a,=,76,%,EPA 625,-88,-88
 2017/18-PRE,Lab,LCS|| RPD,8/18/2017,Organic,2-Nitrophenol,n/a,=,8,%,EPA 625,-88,-88
-2017/18-PRE,Tubing,Blank equip blank,8/18/2017,Organic,2-Nitrophenol,n/a,<,0.26,µg/L,EPA 625,0.26,1
-2017/18-PRE,Carboy,Blank equip blank,8/18/2017,Organic,3||3'-Dichlorobenzidine,n/a,<,1.2,µg/L,EPA 625,1.2,5
+2017/18-PRE,Tubing Blank,equip blank,8/18/2017,Organic,2-Nitrophenol,n/a,<,0.26,µg/L,EPA 625,0.26,1
+2017/18-PRE,Carboy Blank,equip blank,8/18/2017,Organic,3||3'-Dichlorobenzidine,n/a,<,1.2,µg/L,EPA 625,1.2,5
 2017/18-PRE,Lab,method blank,8/18/2017,Organic,3||3'-Dichlorobenzidine,n/a,<,1.2,µg/L,EPA 625,1.2,5
 2017/18-PRE,Lab,LCS,8/18/2017,Organic,3||3'-Dichlorobenzidine,n/a,=,13.5,µg/L,EPA 625,1.2,5
 2017/18-PRE,Lab,LCS|| rec,8/18/2017,Organic,3||3'-Dichlorobenzidine,n/a,=,54,%,EPA 625,-88,-88
 2017/18-PRE,Lab,LCS dup,8/18/2017,Organic,3||3'-Dichlorobenzidine,n/a,=,13.1,µg/L,EPA 625,1.2,5
 2017/18-PRE,Lab,LCS dup|| rec,8/18/2017,Organic,3||3'-Dichlorobenzidine,n/a,=,52,%,EPA 625,-88,-88
 2017/18-PRE,Lab,LCS|| RPD,8/18/2017,Organic,3||3'-Dichlorobenzidine,n/a,=,3,%,EPA 625,-88,-88
-2017/18-PRE,Tubing,Blank equip blank,8/18/2017,Organic,3||3'-Dichlorobenzidine,n/a,<,1.2,µg/L,EPA 625,1.2,5
-2017/18-PRE,Carboy,Blank equip blank,8/18/2017,Organic,4||6-Dinitro-2-methylphenol,n/a,<,1.7,µg/L,EPA 625,1.7,5
+2017/18-PRE,Tubing Blank,equip blank,8/18/2017,Organic,3||3'-Dichlorobenzidine,n/a,<,1.2,µg/L,EPA 625,1.2,5
+2017/18-PRE,Carboy Blank,equip blank,8/18/2017,Organic,4||6-Dinitro-2-methylphenol,n/a,<,1.7,µg/L,EPA 625,1.7,5
 2017/18-PRE,Lab,method blank,8/18/2017,Organic,4||6-Dinitro-2-methylphenol,n/a,<,1.7,µg/L,EPA 625,1.7,5
 2017/18-PRE,Lab,LCS,8/18/2017,Organic,4||6-Dinitro-2-methylphenol,n/a,=,23.5,µg/L,EPA 625,1.7,5
 2017/18-PRE,Lab,LCS|| rec,8/18/2017,Organic,4||6-Dinitro-2-methylphenol,n/a,=,94,%,EPA 625,-88,-88
 2017/18-PRE,Lab,LCS dup,8/18/2017,Organic,4||6-Dinitro-2-methylphenol,n/a,=,22.7,µg/L,EPA 625,1.7,5
 2017/18-PRE,Lab,LCS dup|| rec,8/18/2017,Organic,4||6-Dinitro-2-methylphenol,n/a,=,91,%,EPA 625,-88,-88
 2017/18-PRE,Lab,LCS|| RPD,8/18/2017,Organic,4||6-Dinitro-2-methylphenol,n/a,=,4,%,EPA 625,-88,-88
-2017/18-PRE,Tubing,Blank equip blank,8/18/2017,Organic,4||6-Dinitro-2-methylphenol,n/a,<,1.7,µg/L,EPA 625,1.7,5
-2017/18-PRE,Carboy,Blank equip blank,8/18/2017,Organic,4-Bromophenyl phenyl ether,n/a,<,0.36,µg/L,EPA 625,0.36,1
+2017/18-PRE,Tubing Blank,equip blank,8/18/2017,Organic,4||6-Dinitro-2-methylphenol,n/a,<,1.7,µg/L,EPA 625,1.7,5
+2017/18-PRE,Carboy Blank,equip blank,8/18/2017,Organic,4-Bromophenyl phenyl ether,n/a,<,0.36,µg/L,EPA 625,0.36,1
 2017/18-PRE,Lab,method blank,8/18/2017,Organic,4-Bromophenyl phenyl ether,n/a,<,0.36,µg/L,EPA 625,0.36,1
 2017/18-PRE,Lab,LCS,8/18/2017,Organic,4-Bromophenyl phenyl ether,n/a,=,18.6,µg/L,EPA 625,0.36,1
 2017/18-PRE,Lab,LCS|| rec,8/18/2017,Organic,4-Bromophenyl phenyl ether,n/a,=,74,%,EPA 625,-88,-88
 2017/18-PRE,Lab,LCS dup,8/18/2017,Organic,4-Bromophenyl phenyl ether,n/a,=,18.4,µg/L,EPA 625,0.36,1
 2017/18-PRE,Lab,LCS dup|| rec,8/18/2017,Organic,4-Bromophenyl phenyl ether,n/a,=,74,%,EPA 625,-88,-88
 2017/18-PRE,Lab,LCS|| RPD,8/18/2017,Organic,4-Bromophenyl phenyl ether,n/a,=,1,%,EPA 625,-88,-88
-2017/18-PRE,Tubing,Blank equip blank,8/18/2017,Organic,4-Bromophenyl phenyl ether,n/a,<,0.36,µg/L,EPA 625,0.36,1
-2017/18-PRE,Carboy,Blank equip blank,8/18/2017,Organic,4-Chloro-3-methylphenol,n/a,<,0.23,µg/L,EPA 625,0.23,1
+2017/18-PRE,Tubing Blank,equip blank,8/18/2017,Organic,4-Bromophenyl phenyl ether,n/a,<,0.36,µg/L,EPA 625,0.36,1
+2017/18-PRE,Carboy Blank,equip blank,8/18/2017,Organic,4-Chloro-3-methylphenol,n/a,<,0.23,µg/L,EPA 625,0.23,1
 2017/18-PRE,Lab,method blank,8/18/2017,Organic,4-Chloro-3-methylphenol,n/a,<,0.23,µg/L,EPA 625,0.23,1
 2017/18-PRE,Lab,LCS,8/18/2017,Organic,4-Chloro-3-methylphenol,n/a,=,18.8,µg/L,EPA 625,0.23,1
 2017/18-PRE,Lab,LCS|| rec,8/18/2017,Organic,4-Chloro-3-methylphenol,n/a,=,75,%,EPA 625,-88,-88
 2017/18-PRE,Lab,LCS dup,8/18/2017,Organic,4-Chloro-3-methylphenol,n/a,=,17.8,µg/L,EPA 625,0.23,1
 2017/18-PRE,Lab,LCS dup|| rec,8/18/2017,Organic,4-Chloro-3-methylphenol,n/a,=,71,%,EPA 625,-88,-88
 2017/18-PRE,Lab,LCS|| RPD,8/18/2017,Organic,4-Chloro-3-methylphenol,n/a,=,5,%,EPA 625,-88,-88
-2017/18-PRE,Tubing,Blank equip blank,8/18/2017,Organic,4-Chloro-3-methylphenol,n/a,<,0.23,µg/L,EPA 625,0.23,1
-2017/18-PRE,Carboy,Blank equip blank,8/18/2017,Organic,4-Chlorophenyl phenyl ether,n/a,<,0.41,µg/L,EPA 625,0.41,1
+2017/18-PRE,Tubing Blank,equip blank,8/18/2017,Organic,4-Chloro-3-methylphenol,n/a,<,0.23,µg/L,EPA 625,0.23,1
+2017/18-PRE,Carboy Blank,equip blank,8/18/2017,Organic,4-Chlorophenyl phenyl ether,n/a,<,0.41,µg/L,EPA 625,0.41,1
 2017/18-PRE,Lab,method blank,8/18/2017,Organic,4-Chlorophenyl phenyl ether,n/a,<,0.41,µg/L,EPA 625,0.41,1
 2017/18-PRE,Lab,LCS,8/18/2017,Organic,4-Chlorophenyl phenyl ether,n/a,=,21.2,µg/L,EPA 625,0.41,1
 2017/18-PRE,Lab,LCS|| rec,8/18/2017,Organic,4-Chlorophenyl phenyl ether,n/a,=,85,%,EPA 625,-88,-88
 2017/18-PRE,Lab,LCS dup,8/18/2017,Organic,4-Chlorophenyl phenyl ether,n/a,=,20.2,µg/L,EPA 625,0.41,1
 2017/18-PRE,Lab,LCS dup|| rec,8/18/2017,Organic,4-Chlorophenyl phenyl ether,n/a,=,81,%,EPA 625,-88,-88
 2017/18-PRE,Lab,LCS|| RPD,8/18/2017,Organic,4-Chlorophenyl phenyl ether,n/a,=,5,%,EPA 625,-88,-88
-2017/18-PRE,Tubing,Blank equip blank,8/18/2017,Organic,4-Chlorophenyl phenyl ether,n/a,<,0.41,µg/L,EPA 625,0.41,1
-2017/18-PRE,Carboy,Blank equip blank,8/18/2017,Organic,4-Nitrophenol,n/a,<,0.45,µg/L,EPA 625,0.45,5
+2017/18-PRE,Tubing Blank,equip blank,8/18/2017,Organic,4-Chlorophenyl phenyl ether,n/a,<,0.41,µg/L,EPA 625,0.41,1
+2017/18-PRE,Carboy Blank,equip blank,8/18/2017,Organic,4-Nitrophenol,n/a,<,0.45,µg/L,EPA 625,0.45,5
 2017/18-PRE,Lab,method blank,8/18/2017,Organic,4-Nitrophenol,n/a,<,0.45,µg/L,EPA 625,0.45,5
 2017/18-PRE,Lab,LCS,8/18/2017,Organic,4-Nitrophenol,n/a,=,11.2,µg/L,EPA 625,0.45,5
 2017/18-PRE,Lab,LCS|| rec,8/18/2017,Organic,4-Nitrophenol,n/a,=,45,%,EPA 625,-88,-88
 2017/18-PRE,Lab,LCS dup,8/18/2017,Organic,4-Nitrophenol,n/a,=,10.9,µg/L,EPA 625,0.45,5
 2017/18-PRE,Lab,LCS dup|| rec,8/18/2017,Organic,4-Nitrophenol,n/a,=,44,%,EPA 625,-88,-88
 2017/18-PRE,Lab,LCS|| RPD,8/18/2017,Organic,4-Nitrophenol,n/a,=,2,%,EPA 625,-88,-88
-2017/18-PRE,Tubing,Blank equip blank,8/18/2017,Organic,4-Nitrophenol,n/a,<,0.45,µg/L,EPA 625,0.45,5
-2017/18-PRE,Carboy,Blank equip blank,8/18/2017,Organic,Acenaphthene,n/a,<,0.38,µg/L,EPA 625,0.38,1
+2017/18-PRE,Tubing Blank,equip blank,8/18/2017,Organic,4-Nitrophenol,n/a,<,0.45,µg/L,EPA 625,0.45,5
+2017/18-PRE,Carboy Blank,equip blank,8/18/2017,Organic,Acenaphthene,n/a,<,0.38,µg/L,EPA 625,0.38,1
 2017/18-PRE,Lab,method blank,8/18/2017,Organic,Acenaphthene,n/a,<,0.38,µg/L,EPA 625,0.38,1
 2017/18-PRE,Lab,LCS,8/18/2017,Organic,Acenaphthene,n/a,=,20,µg/L,EPA 625,0.38,1
 2017/18-PRE,Lab,LCS|| rec,8/18/2017,Organic,Acenaphthene,n/a,=,80,%,EPA 625,-88,-88
 2017/18-PRE,Lab,LCS dup,8/18/2017,Organic,Acenaphthene,n/a,=,18.7,µg/L,EPA 625,0.38,1
 2017/18-PRE,Lab,LCS dup|| rec,8/18/2017,Organic,Acenaphthene,n/a,=,75,%,EPA 625,-88,-88
 2017/18-PRE,Lab,LCS|| RPD,8/18/2017,Organic,Acenaphthene,n/a,=,7,%,EPA 625,-88,-88
-2017/18-PRE,Tubing,Blank equip blank,8/18/2017,Organic,Acenaphthene,n/a,<,0.38,µg/L,EPA 625,0.38,1
-2017/18-PRE,Carboy,Blank equip blank,8/18/2017,Organic,Acenaphthylene,n/a,<,0.4,µg/L,EPA 625,0.4,1
+2017/18-PRE,Tubing Blank,equip blank,8/18/2017,Organic,Acenaphthene,n/a,<,0.38,µg/L,EPA 625,0.38,1
+2017/18-PRE,Carboy Blank,equip blank,8/18/2017,Organic,Acenaphthylene,n/a,<,0.4,µg/L,EPA 625,0.4,1
 2017/18-PRE,Lab,method blank,8/18/2017,Organic,Acenaphthylene,n/a,<,0.4,µg/L,EPA 625,0.4,1
 2017/18-PRE,Lab,LCS,8/18/2017,Organic,Acenaphthylene,n/a,=,19.5,µg/L,EPA 625,0.4,1
 2017/18-PRE,Lab,LCS|| rec,8/18/2017,Organic,Acenaphthylene,n/a,=,78,%,EPA 625,-88,-88
 2017/18-PRE,Lab,LCS dup,8/18/2017,Organic,Acenaphthylene,n/a,=,18.8,µg/L,EPA 625,0.4,1
 2017/18-PRE,Lab,LCS dup|| rec,8/18/2017,Organic,Acenaphthylene,n/a,=,75,%,EPA 625,-88,-88
 2017/18-PRE,Lab,LCS|| RPD,8/18/2017,Organic,Acenaphthylene,n/a,=,3,%,EPA 625,-88,-88
-2017/18-PRE,Tubing,Blank equip blank,8/18/2017,Organic,Acenaphthylene,n/a,<,0.4,µg/L,EPA 625,0.4,1
-2017/18-PRE,Carboy,Blank equip blank,8/18/2017,Organic,Anthracene,n/a,<,0.34,µg/L,EPA 625,0.34,1
+2017/18-PRE,Tubing Blank,equip blank,8/18/2017,Organic,Acenaphthylene,n/a,<,0.4,µg/L,EPA 625,0.4,1
+2017/18-PRE,Carboy Blank,equip blank,8/18/2017,Organic,Anthracene,n/a,<,0.34,µg/L,EPA 625,0.34,1
 2017/18-PRE,Lab,method blank,8/18/2017,Organic,Anthracene,n/a,<,0.34,µg/L,EPA 625,0.34,1
 2017/18-PRE,Lab,LCS,8/18/2017,Organic,Anthracene,n/a,=,21.3,µg/L,EPA 625,0.34,1
 2017/18-PRE,Lab,LCS|| rec,8/18/2017,Organic,Anthracene,n/a,=,85,%,EPA 625,-88,-88
 2017/18-PRE,Lab,LCS dup,8/18/2017,Organic,Anthracene,n/a,=,20.9,µg/L,EPA 625,0.34,1
 2017/18-PRE,Lab,LCS dup|| rec,8/18/2017,Organic,Anthracene,n/a,=,84,%,EPA 625,-88,-88
 2017/18-PRE,Lab,LCS|| RPD,8/18/2017,Organic,Anthracene,n/a,=,2,%,EPA 625,-88,-88
-2017/18-PRE,Tubing,Blank equip blank,8/18/2017,Organic,Anthracene,n/a,<,0.34,µg/L,EPA 625,0.34,1
-2017/18-PRE,Carboy,Blank equip blank,8/18/2017,Organic,Benz(a)anthracene,n/a,<,0.19,µg/L,EPA 625,0.19,1
+2017/18-PRE,Tubing Blank,equip blank,8/18/2017,Organic,Anthracene,n/a,<,0.34,µg/L,EPA 625,0.34,1
+2017/18-PRE,Carboy Blank,equip blank,8/18/2017,Organic,Benz(a)anthracene,n/a,<,0.19,µg/L,EPA 625,0.19,1
 2017/18-PRE,Lab,method blank,8/18/2017,Organic,Benz(a)anthracene,n/a,<,0.19,µg/L,EPA 625,0.19,1
 2017/18-PRE,Lab,LCS,8/18/2017,Organic,Benz(a)anthracene,n/a,=,18.9,µg/L,EPA 625,0.19,1
 2017/18-PRE,Lab,LCS|| rec,8/18/2017,Organic,Benz(a)anthracene,n/a,=,76,%,EPA 625,-88,-88
 2017/18-PRE,Lab,LCS dup,8/18/2017,Organic,Benz(a)anthracene,n/a,=,17.9,µg/L,EPA 625,0.19,1
 2017/18-PRE,Lab,LCS dup|| rec,8/18/2017,Organic,Benz(a)anthracene,n/a,=,71,%,EPA 625,-88,-88
 2017/18-PRE,Lab,LCS|| RPD,8/18/2017,Organic,Benz(a)anthracene,n/a,=,6,%,EPA 625,-88,-88
-2017/18-PRE,Tubing,Blank equip blank,8/18/2017,Organic,Benz(a)anthracene,n/a,<,0.19,µg/L,EPA 625,0.19,1
-2017/18-PRE,Carboy,Blank equip blank,8/18/2017,Organic,Benzidine,n/a,<,3.7,µg/L,EPA 625,3.7,10
+2017/18-PRE,Tubing Blank,equip blank,8/18/2017,Organic,Benz(a)anthracene,n/a,<,0.19,µg/L,EPA 625,0.19,1
+2017/18-PRE,Carboy Blank,equip blank,8/18/2017,Organic,Benzidine,n/a,<,3.7,µg/L,EPA 625,3.7,10
 2017/18-PRE,Lab,method blank,8/18/2017,Organic,Benzidine,n/a,<,3.7,µg/L,EPA 625,3.7,10
-2017/18-PRE,Tubing,Blank equip blank,8/18/2017,Organic,Benzidine,n/a,<,3.7,µg/L,EPA 625,3.7,10
-2017/18-PRE,Carboy,Blank equip blank,8/18/2017,Organic,Benzo(a)pyrene,n/a,<,0.13,µg/L,EPA 625,0.13,1
-2017/18-PRE,Carboy,Blank equip blank,9/4/2017,Organic,Benzo(a)pyrene,n/a,<,0.07,µg/L,EPA 525.2,0.07,0.1
+2017/18-PRE,Tubing Blank,equip blank,8/18/2017,Organic,Benzidine,n/a,<,3.7,µg/L,EPA 625,3.7,10
+2017/18-PRE,Carboy Blank,equip blank,8/18/2017,Organic,Benzo(a)pyrene,n/a,<,0.13,µg/L,EPA 625,0.13,1
+2017/18-PRE,Carboy Blank,equip blank,9/4/2017,Organic,Benzo(a)pyrene,n/a,<,0.07,µg/L,EPA 525.2,0.07,0.1
 2017/18-PRE,Lab,method blank,8/18/2017,Organic,Benzo(a)pyrene,n/a,<,0.13,µg/L,EPA 625,0.13,1
 2017/18-PRE,Lab,LCS,8/18/2017,Organic,Benzo(a)pyrene,n/a,=,24.6,µg/L,EPA 625,0.13,1
 2017/18-PRE,Lab,LCS|| rec,8/18/2017,Organic,Benzo(a)pyrene,n/a,=,98,%,EPA 625,-88,-88
@@ -20130,66 +20130,66 @@
 2017/18-PRE,Lab,LCS dup,9/3/2017,Organic,Benzo(a)pyrene,n/a,=,4.56,µg/L,EPA 525.2,0.07,0.1
 2017/18-PRE,Lab,LCS dup|| rec,9/3/2017,Organic,Benzo(a)pyrene,n/a,=,91,%,EPA 525.2,-88,-88
 2017/18-PRE,Lab,LCS|| RPD,9/3/2017,Organic,Benzo(a)pyrene,n/a,=,4,%,EPA 525.2,-88,-88
-2017/18-PRE,Tubing,Blank equip blank,8/18/2017,Organic,Benzo(a)pyrene,n/a,<,0.13,µg/L,EPA 625,0.13,1
-2017/18-PRE,Tubing,Blank equip blank,9/3/2017,Organic,Benzo(a)pyrene,n/a,<,0.07,µg/L,EPA 525.2,0.07,0.1
-2017/18-PRE,Carboy,Blank equip blank,8/18/2017,Organic,Benzo(b)fluoranthene,n/a,<,0.14,µg/L,EPA 625,0.14,1
+2017/18-PRE,Tubing Blank,equip blank,8/18/2017,Organic,Benzo(a)pyrene,n/a,<,0.13,µg/L,EPA 625,0.13,1
+2017/18-PRE,Tubing Blank,equip blank,9/3/2017,Organic,Benzo(a)pyrene,n/a,<,0.07,µg/L,EPA 525.2,0.07,0.1
+2017/18-PRE,Carboy Blank,equip blank,8/18/2017,Organic,Benzo(b)fluoranthene,n/a,<,0.14,µg/L,EPA 625,0.14,1
 2017/18-PRE,Lab,method blank,8/18/2017,Organic,Benzo(b)fluoranthene,n/a,<,0.14,µg/L,EPA 625,0.14,1
 2017/18-PRE,Lab,LCS,8/18/2017,Organic,Benzo(b)fluoranthene,n/a,=,25.9,µg/L,EPA 625,0.14,1
 2017/18-PRE,Lab,LCS|| rec,8/18/2017,Organic,Benzo(b)fluoranthene,n/a,=,104,%,EPA 625,-88,-88
 2017/18-PRE,Lab,LCS dup,8/18/2017,Organic,Benzo(b)fluoranthene,n/a,=,24.9,µg/L,EPA 625,0.14,1
 2017/18-PRE,Lab,LCS dup|| rec,8/18/2017,Organic,Benzo(b)fluoranthene,n/a,=,100,%,EPA 625,-88,-88
 2017/18-PRE,Lab,LCS|| RPD,8/18/2017,Organic,Benzo(b)fluoranthene,n/a,=,4,%,EPA 625,-88,-88
-2017/18-PRE,Tubing,Blank equip blank,8/18/2017,Organic,Benzo(b)fluoranthene,n/a,<,0.14,µg/L,EPA 625,0.14,1
-2017/18-PRE,Carboy,Blank equip blank,8/18/2017,Organic,Benzo(g||h||i)perylene,n/a,<,0.1,µg/L,EPA 625,0.1,2
+2017/18-PRE,Tubing Blank,equip blank,8/18/2017,Organic,Benzo(b)fluoranthene,n/a,<,0.14,µg/L,EPA 625,0.14,1
+2017/18-PRE,Carboy Blank,equip blank,8/18/2017,Organic,Benzo(g||h||i)perylene,n/a,<,0.1,µg/L,EPA 625,0.1,2
 2017/18-PRE,Lab,method blank,8/18/2017,Organic,Benzo(g||h||i)perylene,n/a,<,0.1,µg/L,EPA 625,0.1,2
 2017/18-PRE,Lab,LCS,8/18/2017,Organic,Benzo(g||h||i)perylene,n/a,=,21.6,µg/L,EPA 625,0.1,2
 2017/18-PRE,Lab,LCS|| rec,8/18/2017,Organic,Benzo(g||h||i)perylene,n/a,=,86,%,EPA 625,-88,-88
 2017/18-PRE,Lab,LCS dup,8/18/2017,Organic,Benzo(g||h||i)perylene,n/a,=,21.9,µg/L,EPA 625,0.1,2
 2017/18-PRE,Lab,LCS dup|| rec,8/18/2017,Organic,Benzo(g||h||i)perylene,n/a,=,88,%,EPA 625,-88,-88
 2017/18-PRE,Lab,LCS|| RPD,8/18/2017,Organic,Benzo(g||h||i)perylene,n/a,=,1,%,EPA 625,-88,-88
-2017/18-PRE,Tubing,Blank equip blank,8/18/2017,Organic,Benzo(g||h||i)perylene,n/a,<,0.1,µg/L,EPA 625,0.1,2
-2017/18-PRE,Carboy,Blank equip blank,8/18/2017,Organic,Benzo(k)fluoranthene,n/a,<,0.22,µg/L,EPA 625,0.22,1
+2017/18-PRE,Tubing Blank,equip blank,8/18/2017,Organic,Benzo(g||h||i)perylene,n/a,<,0.1,µg/L,EPA 625,0.1,2
+2017/18-PRE,Carboy Blank,equip blank,8/18/2017,Organic,Benzo(k)fluoranthene,n/a,<,0.22,µg/L,EPA 625,0.22,1
 2017/18-PRE,Lab,method blank,8/18/2017,Organic,Benzo(k)fluoranthene,n/a,<,0.22,µg/L,EPA 625,0.22,1
 2017/18-PRE,Lab,LCS,8/18/2017,Organic,Benzo(k)fluoranthene,n/a,=,25.6,µg/L,EPA 625,0.22,1
 2017/18-PRE,Lab,LCS|| rec,8/18/2017,Organic,Benzo(k)fluoranthene,n/a,=,103,%,EPA 625,-88,-88
 2017/18-PRE,Lab,LCS dup,8/18/2017,Organic,Benzo(k)fluoranthene,n/a,=,22.4,µg/L,EPA 625,0.22,1
 2017/18-PRE,Lab,LCS dup|| rec,8/18/2017,Organic,Benzo(k)fluoranthene,n/a,=,90,%,EPA 625,-88,-88
 2017/18-PRE,Lab,LCS|| RPD,8/18/2017,Organic,Benzo(k)fluoranthene,n/a,=,13,%,EPA 625,-88,-88
-2017/18-PRE,Tubing,Blank equip blank,8/18/2017,Organic,Benzo(k)fluoranthene,n/a,<,0.22,µg/L,EPA 625,0.22,1
-2017/18-PRE,Carboy,Blank equip blank,8/18/2017,Organic,Bis(2-chloroethoxy)methane,n/a,<,0.25,µg/L,EPA 625,0.25,1
+2017/18-PRE,Tubing Blank,equip blank,8/18/2017,Organic,Benzo(k)fluoranthene,n/a,<,0.22,µg/L,EPA 625,0.22,1
+2017/18-PRE,Carboy Blank,equip blank,8/18/2017,Organic,Bis(2-chloroethoxy)methane,n/a,<,0.25,µg/L,EPA 625,0.25,1
 2017/18-PRE,Lab,method blank,8/18/2017,Organic,Bis(2-chloroethoxy)methane,n/a,<,0.25,µg/L,EPA 625,0.25,1
 2017/18-PRE,Lab,LCS,8/18/2017,Organic,Bis(2-chloroethoxy)methane,n/a,=,19.2,µg/L,EPA 625,0.25,1
 2017/18-PRE,Lab,LCS|| rec,8/18/2017,Organic,Bis(2-chloroethoxy)methane,n/a,=,77,%,EPA 625,-88,-88
 2017/18-PRE,Lab,LCS dup,8/18/2017,Organic,Bis(2-chloroethoxy)methane,n/a,=,18,µg/L,EPA 625,0.25,1
 2017/18-PRE,Lab,LCS dup|| rec,8/18/2017,Organic,Bis(2-chloroethoxy)methane,n/a,=,72,%,EPA 625,-88,-88
 2017/18-PRE,Lab,LCS|| RPD,8/18/2017,Organic,Bis(2-chloroethoxy)methane,n/a,=,6,%,EPA 625,-88,-88
-2017/18-PRE,Tubing,Blank equip blank,8/18/2017,Organic,Bis(2-chloroethoxy)methane,n/a,<,0.25,µg/L,EPA 625,0.25,1
-2017/18-PRE,Carboy,Blank equip blank,8/18/2017,Organic,Bis(2-chloroethyl)ether,n/a,<,0.27,µg/L,EPA 625,0.27,1
+2017/18-PRE,Tubing Blank,equip blank,8/18/2017,Organic,Bis(2-chloroethoxy)methane,n/a,<,0.25,µg/L,EPA 625,0.25,1
+2017/18-PRE,Carboy Blank,equip blank,8/18/2017,Organic,Bis(2-chloroethyl)ether,n/a,<,0.27,µg/L,EPA 625,0.27,1
 2017/18-PRE,Lab,method blank,8/18/2017,Organic,Bis(2-chloroethyl)ether,n/a,<,0.27,µg/L,EPA 625,0.27,1
 2017/18-PRE,Lab,LCS,8/18/2017,Organic,Bis(2-chloroethyl)ether,n/a,=,17.1,µg/L,EPA 625,0.27,1
 2017/18-PRE,Lab,LCS|| rec,8/18/2017,Organic,Bis(2-chloroethyl)ether,n/a,=,68,%,EPA 625,-88,-88
 2017/18-PRE,Lab,LCS dup,8/18/2017,Organic,Bis(2-chloroethyl)ether,n/a,=,16,µg/L,EPA 625,0.27,1
 2017/18-PRE,Lab,LCS dup|| rec,8/18/2017,Organic,Bis(2-chloroethyl)ether,n/a,=,64,%,EPA 625,-88,-88
 2017/18-PRE,Lab,LCS|| RPD,8/18/2017,Organic,Bis(2-chloroethyl)ether,n/a,=,7,%,EPA 625,-88,-88
-2017/18-PRE,Tubing,Blank equip blank,8/18/2017,Organic,Bis(2-chloroethyl)ether,n/a,<,0.27,µg/L,EPA 625,0.27,1
-2017/18-PRE,Carboy,Blank equip blank,8/18/2017,Organic,Bis(2-chloroisopropyl)ether,n/a,<,0.38,µg/L,EPA 625,0.38,1
+2017/18-PRE,Tubing Blank,equip blank,8/18/2017,Organic,Bis(2-chloroethyl)ether,n/a,<,0.27,µg/L,EPA 625,0.27,1
+2017/18-PRE,Carboy Blank,equip blank,8/18/2017,Organic,Bis(2-chloroisopropyl)ether,n/a,<,0.38,µg/L,EPA 625,0.38,1
 2017/18-PRE,Lab,method blank,8/18/2017,Organic,Bis(2-chloroisopropyl)ether,n/a,<,0.38,µg/L,EPA 625,0.38,1
 2017/18-PRE,Lab,LCS,8/18/2017,Organic,Bis(2-chloroisopropyl)ether,n/a,=,19.8,µg/L,EPA 625,0.38,1
 2017/18-PRE,Lab,LCS|| rec,8/18/2017,Organic,Bis(2-chloroisopropyl)ether,n/a,=,79,%,EPA 625,-88,-88
 2017/18-PRE,Lab,LCS dup,8/18/2017,Organic,Bis(2-chloroisopropyl)ether,n/a,=,18.5,µg/L,EPA 625,0.38,1
 2017/18-PRE,Lab,LCS dup|| rec,8/18/2017,Organic,Bis(2-chloroisopropyl)ether,n/a,=,74,%,EPA 625,-88,-88
 2017/18-PRE,Lab,LCS|| RPD,8/18/2017,Organic,Bis(2-chloroisopropyl)ether,n/a,=,7,%,EPA 625,-88,-88
-2017/18-PRE,Tubing,Blank equip blank,8/18/2017,Organic,Bis(2-chloroisopropyl)ether,n/a,<,0.38,µg/L,EPA 625,0.38,1
-2017/18-PRE,Carboy,Blank equip blank,9/4/2017,Organic,Bis(2-ethylhexyl)adipate,n/a,<,0.1,µg/L,EPA 525.2,0.1,5
+2017/18-PRE,Tubing Blank,equip blank,8/18/2017,Organic,Bis(2-chloroisopropyl)ether,n/a,<,0.38,µg/L,EPA 625,0.38,1
+2017/18-PRE,Carboy Blank,equip blank,9/4/2017,Organic,Bis(2-ethylhexyl)adipate,n/a,<,0.1,µg/L,EPA 525.2,0.1,5
 2017/18-PRE,Lab,method blank,9/3/2017,Organic,Bis(2-ethylhexyl)adipate,n/a,<,0.1,µg/L,EPA 525.2,0.1,5
 2017/18-PRE,Lab,LCS,9/3/2017,Organic,Bis(2-ethylhexyl)adipate,n/a,=,5.63,µg/L,EPA 525.2,0.1,5
 2017/18-PRE,Lab,LCS|| rec,9/3/2017,Organic,Bis(2-ethylhexyl)adipate,n/a,=,113,%,EPA 525.2,-88,-88
 2017/18-PRE,Lab,LCS dup,9/3/2017,Organic,Bis(2-ethylhexyl)adipate,n/a,=,5.72,µg/L,EPA 525.2,0.1,5
 2017/18-PRE,Lab,LCS dup|| rec,9/3/2017,Organic,Bis(2-ethylhexyl)adipate,n/a,=,114,%,EPA 525.2,-88,-88
 2017/18-PRE,Lab,LCS|| RPD,9/3/2017,Organic,Bis(2-ethylhexyl)adipate,n/a,=,2,%,EPA 525.2,-88,-88
-2017/18-PRE,Tubing,Blank equip blank,9/3/2017,Organic,Bis(2-ethylhexyl)adipate,n/a,<,0.1,µg/L,EPA 525.2,0.1,5
-2017/18-PRE,Carboy,Blank equip blank,8/18/2017,Organic,Bis(2-ethylhexyl)phthalate,n/a,=,8.6,µg/L,EPA 625,2.3,5
-2017/18-PRE,Carboy,Blank equip blank,9/4/2017,Organic,Bis(2-ethylhexyl)phthalate,n/a,<,1.1,µg/L,EPA 525.2,1.1,3
+2017/18-PRE,Tubing Blank,equip blank,9/3/2017,Organic,Bis(2-ethylhexyl)adipate,n/a,<,0.1,µg/L,EPA 525.2,0.1,5
+2017/18-PRE,Carboy Blank,equip blank,8/18/2017,Organic,Bis(2-ethylhexyl)phthalate,n/a,=,8.6,µg/L,EPA 625,2.3,5
+2017/18-PRE,Carboy Blank,equip blank,9/4/2017,Organic,Bis(2-ethylhexyl)phthalate,n/a,<,1.1,µg/L,EPA 525.2,1.1,3
 2017/18-PRE,Lab,method blank,8/18/2017,Organic,Bis(2-ethylhexyl)phthalate,n/a,<,2.3,µg/L,EPA 625,2.3,5
 2017/18-PRE,Lab,LCS,8/18/2017,Organic,Bis(2-ethylhexyl)phthalate,n/a,=,24.7,µg/L,EPA 625,2.3,5
 2017/18-PRE,Lab,LCS|| rec,8/18/2017,Organic,Bis(2-ethylhexyl)phthalate,n/a,=,99,%,EPA 625,-88,-88
@@ -20202,419 +20202,419 @@
 2017/18-PRE,Lab,LCS dup,9/3/2017,Organic,Bis(2-ethylhexyl)phthalate,n/a,=,5.94,µg/L,EPA 525.2,1.1,3
 2017/18-PRE,Lab,LCS dup|| rec,9/3/2017,Organic,Bis(2-ethylhexyl)phthalate,n/a,=,119,%,EPA 525.2,-88,-88
 2017/18-PRE,Lab,LCS|| RPD,9/3/2017,Organic,Bis(2-ethylhexyl)phthalate,n/a,=,1,%,EPA 525.2,-88,-88
-2017/18-PRE,Tubing,Blank equip blank,8/18/2017,Organic,Bis(2-ethylhexyl)phthalate,n/a,<,2.3,µg/L,EPA 625,2.3,5
-2017/18-PRE,Tubing,Blank equip blank,9/3/2017,Organic,Bis(2-ethylhexyl)phthalate,n/a,<,1.1,µg/L,EPA 525.2,1.1,3
-2017/18-PRE,Carboy,Blank equip blank,8/18/2017,Organic,Butyl benzyl phthalate,n/a,DNQ,0.42,µg/L,EPA 625,0.18,1
+2017/18-PRE,Tubing Blank,equip blank,8/18/2017,Organic,Bis(2-ethylhexyl)phthalate,n/a,<,2.3,µg/L,EPA 625,2.3,5
+2017/18-PRE,Tubing Blank,equip blank,9/3/2017,Organic,Bis(2-ethylhexyl)phthalate,n/a,<,1.1,µg/L,EPA 525.2,1.1,3
+2017/18-PRE,Carboy Blank,equip blank,8/18/2017,Organic,Butyl benzyl phthalate,n/a,DNQ,0.42,µg/L,EPA 625,0.18,1
 2017/18-PRE,Lab,method blank,8/18/2017,Organic,Butyl benzyl phthalate,n/a,DNQ,0.267,µg/L,EPA 625,0.18,1
 2017/18-PRE,Lab,LCS,8/18/2017,Organic,Butyl benzyl phthalate,n/a,=,24.2,µg/L,EPA 625,0.18,1
 2017/18-PRE,Lab,LCS|| rec,8/18/2017,Organic,Butyl benzyl phthalate,n/a,=,97,%,EPA 625,-88,-88
 2017/18-PRE,Lab,LCS dup,8/18/2017,Organic,Butyl benzyl phthalate,n/a,=,22.5,µg/L,EPA 625,0.18,1
 2017/18-PRE,Lab,LCS dup|| rec,8/18/2017,Organic,Butyl benzyl phthalate,n/a,=,90,%,EPA 625,-88,-88
 2017/18-PRE,Lab,LCS|| RPD,8/18/2017,Organic,Butyl benzyl phthalate,n/a,=,7,%,EPA 625,-88,-88
-2017/18-PRE,Tubing,Blank equip blank,8/18/2017,Organic,Butyl benzyl phthalate,n/a,<,0.18,µg/L,EPA 625,0.18,1
-2017/18-PRE,Carboy,Blank equip blank,8/18/2017,Organic,Chrysene,n/a,<,0.19,µg/L,EPA 625,0.19,1
+2017/18-PRE,Tubing Blank,equip blank,8/18/2017,Organic,Butyl benzyl phthalate,n/a,<,0.18,µg/L,EPA 625,0.18,1
+2017/18-PRE,Carboy Blank,equip blank,8/18/2017,Organic,Chrysene,n/a,<,0.19,µg/L,EPA 625,0.19,1
 2017/18-PRE,Lab,method blank,8/18/2017,Organic,Chrysene,n/a,<,0.19,µg/L,EPA 625,0.19,1
 2017/18-PRE,Lab,LCS,8/18/2017,Organic,Chrysene,n/a,=,24.6,µg/L,EPA 625,0.19,1
 2017/18-PRE,Lab,LCS|| rec,8/18/2017,Organic,Chrysene,n/a,=,98,%,EPA 625,-88,-88
 2017/18-PRE,Lab,LCS dup,8/18/2017,Organic,Chrysene,n/a,=,23.3,µg/L,EPA 625,0.19,1
 2017/18-PRE,Lab,LCS dup|| rec,8/18/2017,Organic,Chrysene,n/a,=,93,%,EPA 625,-88,-88
 2017/18-PRE,Lab,LCS|| RPD,8/18/2017,Organic,Chrysene,n/a,=,5,%,EPA 625,-88,-88
-2017/18-PRE,Tubing,Blank equip blank,8/18/2017,Organic,Chrysene,n/a,<,0.19,µg/L,EPA 625,0.19,1
-2017/18-PRE,Carboy,Blank equip blank,8/18/2017,Organic,Dibenz(a||h)anthracene,n/a,<,0.08,µg/L,EPA 625,0.08,2
+2017/18-PRE,Tubing Blank,equip blank,8/18/2017,Organic,Chrysene,n/a,<,0.19,µg/L,EPA 625,0.19,1
+2017/18-PRE,Carboy Blank,equip blank,8/18/2017,Organic,Dibenz(a||h)anthracene,n/a,<,0.08,µg/L,EPA 625,0.08,2
 2017/18-PRE,Lab,method blank,8/18/2017,Organic,Dibenz(a||h)anthracene,n/a,<,0.08,µg/L,EPA 625,0.08,2
 2017/18-PRE,Lab,LCS,8/18/2017,Organic,Dibenz(a||h)anthracene,n/a,=,22.8,µg/L,EPA 625,0.08,2
 2017/18-PRE,Lab,LCS|| rec,8/18/2017,Organic,Dibenz(a||h)anthracene,n/a,=,91,%,EPA 625,-88,-88
 2017/18-PRE,Lab,LCS dup,8/18/2017,Organic,Dibenz(a||h)anthracene,n/a,=,23.7,µg/L,EPA 625,0.08,2
 2017/18-PRE,Lab,LCS dup|| rec,8/18/2017,Organic,Dibenz(a||h)anthracene,n/a,=,95,%,EPA 625,-88,-88
 2017/18-PRE,Lab,LCS|| RPD,8/18/2017,Organic,Dibenz(a||h)anthracene,n/a,=,4,%,EPA 625,-88,-88
-2017/18-PRE,Tubing,Blank equip blank,8/18/2017,Organic,Dibenz(a||h)anthracene,n/a,<,0.08,µg/L,EPA 625,0.08,2
-2017/18-PRE,Carboy,Blank equip blank,8/18/2017,Organic,Diethyl phthalate,n/a,<,0.15,µg/L,EPA 625,0.15,1
+2017/18-PRE,Tubing Blank,equip blank,8/18/2017,Organic,Dibenz(a||h)anthracene,n/a,<,0.08,µg/L,EPA 625,0.08,2
+2017/18-PRE,Carboy Blank,equip blank,8/18/2017,Organic,Diethyl phthalate,n/a,<,0.15,µg/L,EPA 625,0.15,1
 2017/18-PRE,Lab,method blank,8/18/2017,Organic,Diethyl phthalate,n/a,<,0.15,µg/L,EPA 625,0.15,1
 2017/18-PRE,Lab,LCS,8/18/2017,Organic,Diethyl phthalate,n/a,=,20.7,µg/L,EPA 625,0.15,1
 2017/18-PRE,Lab,LCS|| rec,8/18/2017,Organic,Diethyl phthalate,n/a,=,83,%,EPA 625,-88,-88
 2017/18-PRE,Lab,LCS dup,8/18/2017,Organic,Diethyl phthalate,n/a,=,20.6,µg/L,EPA 625,0.15,1
 2017/18-PRE,Lab,LCS dup|| rec,8/18/2017,Organic,Diethyl phthalate,n/a,=,82,%,EPA 625,-88,-88
 2017/18-PRE,Lab,LCS|| RPD,8/18/2017,Organic,Diethyl phthalate,n/a,=,0.7,%,EPA 625,-88,-88
-2017/18-PRE,Tubing,Blank equip blank,8/18/2017,Organic,Diethyl phthalate,n/a,DNQ,0.74,µg/L,EPA 625,0.15,1
-2017/18-PRE,Carboy,Blank equip blank,8/18/2017,Organic,Dimethyl phthalate,n/a,<,0.18,µg/L,EPA 625,0.18,1
+2017/18-PRE,Tubing Blank,equip blank,8/18/2017,Organic,Diethyl phthalate,n/a,DNQ,0.74,µg/L,EPA 625,0.15,1
+2017/18-PRE,Carboy Blank,equip blank,8/18/2017,Organic,Dimethyl phthalate,n/a,<,0.18,µg/L,EPA 625,0.18,1
 2017/18-PRE,Lab,method blank,8/18/2017,Organic,Dimethyl phthalate,n/a,<,0.18,µg/L,EPA 625,0.18,1
 2017/18-PRE,Lab,LCS,8/18/2017,Organic,Dimethyl phthalate,n/a,=,19.9,µg/L,EPA 625,0.18,1
 2017/18-PRE,Lab,LCS|| rec,8/18/2017,Organic,Dimethyl phthalate,n/a,=,79,%,EPA 625,-88,-88
 2017/18-PRE,Lab,LCS dup,8/18/2017,Organic,Dimethyl phthalate,n/a,=,19.9,µg/L,EPA 625,0.18,1
 2017/18-PRE,Lab,LCS dup|| rec,8/18/2017,Organic,Dimethyl phthalate,n/a,=,80,%,EPA 625,-88,-88
 2017/18-PRE,Lab,LCS|| RPD,8/18/2017,Organic,Dimethyl phthalate,n/a,=,0.3,%,EPA 625,-88,-88
-2017/18-PRE,Tubing,Blank equip blank,8/18/2017,Organic,Dimethyl phthalate,n/a,<,0.18,µg/L,EPA 625,0.18,1
-2017/18-PRE,Carboy,Blank equip blank,8/18/2017,Organic,Di-n-butylphthalate,n/a,<,0.24,µg/L,EPA 625,0.24,1
+2017/18-PRE,Tubing Blank,equip blank,8/18/2017,Organic,Dimethyl phthalate,n/a,<,0.18,µg/L,EPA 625,0.18,1
+2017/18-PRE,Carboy Blank,equip blank,8/18/2017,Organic,Di-n-butylphthalate,n/a,<,0.24,µg/L,EPA 625,0.24,1
 2017/18-PRE,Lab,method blank,8/18/2017,Organic,Di-n-butylphthalate,n/a,<,0.24,µg/L,EPA 625,0.24,1
 2017/18-PRE,Lab,LCS,8/18/2017,Organic,Di-n-butylphthalate,n/a,=,26.3,µg/L,EPA 625,0.24,1
 2017/18-PRE,Lab,LCS|| rec,8/18/2017,Organic,Di-n-butylphthalate,n/a,=,105,%,EPA 625,-88,-88
 2017/18-PRE,Lab,LCS dup,8/18/2017,Organic,Di-n-butylphthalate,n/a,=,28.2,µg/L,EPA 625,0.24,1
 2017/18-PRE,Lab,LCS dup|| rec,8/18/2017,Organic,Di-n-butylphthalate,n/a,=,113,%,EPA 625,-88,-88
 2017/18-PRE,Lab,LCS|| RPD,8/18/2017,Organic,Di-n-butylphthalate,n/a,=,7,%,EPA 625,-88,-88
-2017/18-PRE,Tubing,Blank equip blank,8/18/2017,Organic,Di-n-butylphthalate,n/a,<,0.24,µg/L,EPA 625,0.24,1
-2017/18-PRE,Carboy,Blank equip blank,8/18/2017,Organic,Di-n-octylphthalate,n/a,<,0.19,µg/L,EPA 625,0.19,1
+2017/18-PRE,Tubing Blank,equip blank,8/18/2017,Organic,Di-n-butylphthalate,n/a,<,0.24,µg/L,EPA 625,0.24,1
+2017/18-PRE,Carboy Blank,equip blank,8/18/2017,Organic,Di-n-octylphthalate,n/a,<,0.19,µg/L,EPA 625,0.19,1
 2017/18-PRE,Lab,method blank,8/18/2017,Organic,Di-n-octylphthalate,n/a,<,0.19,µg/L,EPA 625,0.19,1
 2017/18-PRE,Lab,LCS,8/18/2017,Organic,Di-n-octylphthalate,n/a,=,26.9,µg/L,EPA 625,0.19,1
 2017/18-PRE,Lab,LCS|| rec,8/18/2017,Organic,Di-n-octylphthalate,n/a,=,107,%,EPA 625,-88,-88
 2017/18-PRE,Lab,LCS dup,8/18/2017,Organic,Di-n-octylphthalate,n/a,=,25.5,µg/L,EPA 625,0.19,1
 2017/18-PRE,Lab,LCS dup|| rec,8/18/2017,Organic,Di-n-octylphthalate,n/a,=,102,%,EPA 625,-88,-88
 2017/18-PRE,Lab,LCS|| RPD,8/18/2017,Organic,Di-n-octylphthalate,n/a,=,5,%,EPA 625,-88,-88
-2017/18-PRE,Tubing,Blank equip blank,8/18/2017,Organic,Di-n-octylphthalate,n/a,<,0.19,µg/L,EPA 625,0.19,1
-2017/18-PRE,Carboy,Blank equip blank,8/18/2017,Organic,Fluoranthene,n/a,<,0.22,µg/L,EPA 625,0.22,1
+2017/18-PRE,Tubing Blank,equip blank,8/18/2017,Organic,Di-n-octylphthalate,n/a,<,0.19,µg/L,EPA 625,0.19,1
+2017/18-PRE,Carboy Blank,equip blank,8/18/2017,Organic,Fluoranthene,n/a,<,0.22,µg/L,EPA 625,0.22,1
 2017/18-PRE,Lab,method blank,8/18/2017,Organic,Fluoranthene,n/a,<,0.22,µg/L,EPA 625,0.22,1
 2017/18-PRE,Lab,LCS,8/18/2017,Organic,Fluoranthene,n/a,=,21.9,µg/L,EPA 625,0.22,1
 2017/18-PRE,Lab,LCS|| rec,8/18/2017,Organic,Fluoranthene,n/a,=,87,%,EPA 625,-88,-88
 2017/18-PRE,Lab,LCS dup,8/18/2017,Organic,Fluoranthene,n/a,=,20.6,µg/L,EPA 625,0.22,1
 2017/18-PRE,Lab,LCS dup|| rec,8/18/2017,Organic,Fluoranthene,n/a,=,82,%,EPA 625,-88,-88
 2017/18-PRE,Lab,LCS|| RPD,8/18/2017,Organic,Fluoranthene,n/a,=,6,%,EPA 625,-88,-88
-2017/18-PRE,Tubing,Blank equip blank,8/18/2017,Organic,Fluoranthene,n/a,<,0.22,µg/L,EPA 625,0.22,1
-2017/18-PRE,Carboy,Blank equip blank,8/18/2017,Organic,Fluorene,n/a,<,0.35,µg/L,EPA 625,0.35,1
+2017/18-PRE,Tubing Blank,equip blank,8/18/2017,Organic,Fluoranthene,n/a,<,0.22,µg/L,EPA 625,0.22,1
+2017/18-PRE,Carboy Blank,equip blank,8/18/2017,Organic,Fluorene,n/a,<,0.35,µg/L,EPA 625,0.35,1
 2017/18-PRE,Lab,method blank,8/18/2017,Organic,Fluorene,n/a,<,0.35,µg/L,EPA 625,0.35,1
 2017/18-PRE,Lab,LCS,8/18/2017,Organic,Fluorene,n/a,=,19.9,µg/L,EPA 625,0.35,1
 2017/18-PRE,Lab,LCS|| rec,8/18/2017,Organic,Fluorene,n/a,=,79,%,EPA 625,-88,-88
 2017/18-PRE,Lab,LCS dup,8/18/2017,Organic,Fluorene,n/a,=,19.2,µg/L,EPA 625,0.35,1
 2017/18-PRE,Lab,LCS dup|| rec,8/18/2017,Organic,Fluorene,n/a,=,77,%,EPA 625,-88,-88
 2017/18-PRE,Lab,LCS|| RPD,8/18/2017,Organic,Fluorene,n/a,=,4,%,EPA 625,-88,-88
-2017/18-PRE,Tubing,Blank equip blank,8/18/2017,Organic,Fluorene,n/a,<,0.35,µg/L,EPA 625,0.35,1
-2017/18-PRE,Carboy,Blank equip blank,8/18/2017,Organic,Hexachlorobenzene,n/a,<,0.49,µg/L,EPA 625,0.49,1
+2017/18-PRE,Tubing Blank,equip blank,8/18/2017,Organic,Fluorene,n/a,<,0.35,µg/L,EPA 625,0.35,1
+2017/18-PRE,Carboy Blank,equip blank,8/18/2017,Organic,Hexachlorobenzene,n/a,<,0.49,µg/L,EPA 625,0.49,1
 2017/18-PRE,Lab,method blank,8/18/2017,Organic,Hexachlorobenzene,n/a,<,0.49,µg/L,EPA 625,0.49,1
 2017/18-PRE,Lab,LCS,8/18/2017,Organic,Hexachlorobenzene,n/a,=,17.4,µg/L,EPA 625,0.49,1
 2017/18-PRE,Lab,LCS|| rec,8/18/2017,Organic,Hexachlorobenzene,n/a,=,70,%,EPA 625,-88,-88
 2017/18-PRE,Lab,LCS dup,8/18/2017,Organic,Hexachlorobenzene,n/a,=,17.2,µg/L,EPA 625,0.49,1
 2017/18-PRE,Lab,LCS dup|| rec,8/18/2017,Organic,Hexachlorobenzene,n/a,=,69,%,EPA 625,-88,-88
 2017/18-PRE,Lab,LCS|| RPD,8/18/2017,Organic,Hexachlorobenzene,n/a,=,2,%,EPA 625,-88,-88
-2017/18-PRE,Tubing,Blank equip blank,8/18/2017,Organic,Hexachlorobenzene,n/a,<,0.49,µg/L,EPA 625,0.49,1
-2017/18-PRE,Carboy,Blank equip blank,8/18/2017,Organic,Hexachlorobutadiene,n/a,<,0.47,µg/L,EPA 625,0.47,1
+2017/18-PRE,Tubing Blank,equip blank,8/18/2017,Organic,Hexachlorobenzene,n/a,<,0.49,µg/L,EPA 625,0.49,1
+2017/18-PRE,Carboy Blank,equip blank,8/18/2017,Organic,Hexachlorobutadiene,n/a,<,0.47,µg/L,EPA 625,0.47,1
 2017/18-PRE,Lab,method blank,8/18/2017,Organic,Hexachlorobutadiene,n/a,<,0.47,µg/L,EPA 625,0.47,1
 2017/18-PRE,Lab,LCS,8/18/2017,Organic,Hexachlorobutadiene,n/a,=,16.5,µg/L,EPA 625,0.47,1
 2017/18-PRE,Lab,LCS|| rec,8/18/2017,Organic,Hexachlorobutadiene,n/a,=,66,%,EPA 625,-88,-88
 2017/18-PRE,Lab,LCS dup,8/18/2017,Organic,Hexachlorobutadiene,n/a,=,15.4,µg/L,EPA 625,0.47,1
 2017/18-PRE,Lab,LCS dup|| rec,8/18/2017,Organic,Hexachlorobutadiene,n/a,=,62,%,EPA 625,-88,-88
 2017/18-PRE,Lab,LCS|| RPD,8/18/2017,Organic,Hexachlorobutadiene,n/a,=,7,%,EPA 625,-88,-88
-2017/18-PRE,Tubing,Blank equip blank,8/18/2017,Organic,Hexachlorobutadiene,n/a,<,0.47,µg/L,EPA 625,0.47,1
-2017/18-PRE,Carboy,Blank equip blank,8/18/2017,Organic,Hexachlorocyclopentadiene,n/a,<,1.5,µg/L,EPA 625,1.5,5
+2017/18-PRE,Tubing Blank,equip blank,8/18/2017,Organic,Hexachlorobutadiene,n/a,<,0.47,µg/L,EPA 625,0.47,1
+2017/18-PRE,Carboy Blank,equip blank,8/18/2017,Organic,Hexachlorocyclopentadiene,n/a,<,1.5,µg/L,EPA 625,1.5,5
 2017/18-PRE,Lab,method blank,8/18/2017,Organic,Hexachlorocyclopentadiene,n/a,<,1.5,µg/L,EPA 625,1.5,5
 2017/18-PRE,Lab,LCS,8/18/2017,Organic,Hexachlorocyclopentadiene,n/a,=,9.56,µg/L,EPA 625,1.5,5
 2017/18-PRE,Lab,LCS|| rec,8/18/2017,Organic,Hexachlorocyclopentadiene,n/a,=,38,%,EPA 625,-88,-88
 2017/18-PRE,Lab,LCS dup,8/18/2017,Organic,Hexachlorocyclopentadiene,n/a,=,8.4,µg/L,EPA 625,1.5,5
 2017/18-PRE,Lab,LCS dup|| rec,8/18/2017,Organic,Hexachlorocyclopentadiene,n/a,=,34,%,EPA 625,-88,-88
 2017/18-PRE,Lab,LCS|| RPD,8/18/2017,Organic,Hexachlorocyclopentadiene,n/a,=,13,%,EPA 625,-88,-88
-2017/18-PRE,Tubing,Blank equip blank,8/18/2017,Organic,Hexachlorocyclopentadiene,n/a,<,1.5,µg/L,EPA 625,1.5,5
-2017/18-PRE,Carboy,Blank equip blank,8/18/2017,Organic,Hexachloroethane,n/a,<,0.52,µg/L,EPA 625,0.52,1
+2017/18-PRE,Tubing Blank,equip blank,8/18/2017,Organic,Hexachlorocyclopentadiene,n/a,<,1.5,µg/L,EPA 625,1.5,5
+2017/18-PRE,Carboy Blank,equip blank,8/18/2017,Organic,Hexachloroethane,n/a,<,0.52,µg/L,EPA 625,0.52,1
 2017/18-PRE,Lab,method blank,8/18/2017,Organic,Hexachloroethane,n/a,<,0.52,µg/L,EPA 625,0.52,1
 2017/18-PRE,Lab,LCS,8/18/2017,Organic,Hexachloroethane,n/a,=,18.8,µg/L,EPA 625,0.52,1
 2017/18-PRE,Lab,LCS|| rec,8/18/2017,Organic,Hexachloroethane,n/a,=,75,%,EPA 625,-88,-88
 2017/18-PRE,Lab,LCS dup,8/18/2017,Organic,Hexachloroethane,n/a,=,17.1,µg/L,EPA 625,0.52,1
 2017/18-PRE,Lab,LCS dup|| rec,8/18/2017,Organic,Hexachloroethane,n/a,=,68,%,EPA 625,-88,-88
 2017/18-PRE,Lab,LCS|| RPD,8/18/2017,Organic,Hexachloroethane,n/a,=,9,%,EPA 625,-88,-88
-2017/18-PRE,Tubing,Blank equip blank,8/18/2017,Organic,Hexachloroethane,n/a,<,0.52,µg/L,EPA 625,0.52,1
-2017/18-PRE,Carboy,Blank equip blank,8/18/2017,Organic,Indeno(1||2||3-cd)pyrene,n/a,<,0.12,µg/L,EPA 625,0.12,2
+2017/18-PRE,Tubing Blank,equip blank,8/18/2017,Organic,Hexachloroethane,n/a,<,0.52,µg/L,EPA 625,0.52,1
+2017/18-PRE,Carboy Blank,equip blank,8/18/2017,Organic,Indeno(1||2||3-cd)pyrene,n/a,<,0.12,µg/L,EPA 625,0.12,2
 2017/18-PRE,Lab,method blank,8/18/2017,Organic,Indeno(1||2||3-cd)pyrene,n/a,<,0.12,µg/L,EPA 625,0.12,2
 2017/18-PRE,Lab,LCS,8/18/2017,Organic,Indeno(1||2||3-cd)pyrene,n/a,=,23.2,µg/L,EPA 625,0.12,2
 2017/18-PRE,Lab,LCS|| rec,8/18/2017,Organic,Indeno(1||2||3-cd)pyrene,n/a,=,93,%,EPA 625,-88,-88
 2017/18-PRE,Lab,LCS dup,8/18/2017,Organic,Indeno(1||2||3-cd)pyrene,n/a,=,23.9,µg/L,EPA 625,0.12,2
 2017/18-PRE,Lab,LCS dup|| rec,8/18/2017,Organic,Indeno(1||2||3-cd)pyrene,n/a,=,95,%,EPA 625,-88,-88
 2017/18-PRE,Lab,LCS|| RPD,8/18/2017,Organic,Indeno(1||2||3-cd)pyrene,n/a,=,3,%,EPA 625,-88,-88
-2017/18-PRE,Tubing,Blank equip blank,8/18/2017,Organic,Indeno(1||2||3-cd)pyrene,n/a,<,0.12,µg/L,EPA 625,0.12,2
-2017/18-PRE,Carboy,Blank equip blank,8/18/2017,Organic,Isophorone,n/a,<,0.21,µg/L,EPA 625,0.21,1
+2017/18-PRE,Tubing Blank,equip blank,8/18/2017,Organic,Indeno(1||2||3-cd)pyrene,n/a,<,0.12,µg/L,EPA 625,0.12,2
+2017/18-PRE,Carboy Blank,equip blank,8/18/2017,Organic,Isophorone,n/a,<,0.21,µg/L,EPA 625,0.21,1
 2017/18-PRE,Lab,method blank,8/18/2017,Organic,Isophorone,n/a,<,0.21,µg/L,EPA 625,0.21,1
 2017/18-PRE,Lab,LCS,8/18/2017,Organic,Isophorone,n/a,=,21.4,µg/L,EPA 625,0.21,1
 2017/18-PRE,Lab,LCS|| rec,8/18/2017,Organic,Isophorone,n/a,=,86,%,EPA 625,-88,-88
 2017/18-PRE,Lab,LCS dup,8/18/2017,Organic,Isophorone,n/a,=,19.9,µg/L,EPA 625,0.21,1
 2017/18-PRE,Lab,LCS dup|| rec,8/18/2017,Organic,Isophorone,n/a,=,79,%,EPA 625,-88,-88
 2017/18-PRE,Lab,LCS|| RPD,8/18/2017,Organic,Isophorone,n/a,=,8,%,EPA 625,-88,-88
-2017/18-PRE,Tubing,Blank equip blank,8/18/2017,Organic,Isophorone,n/a,<,0.21,µg/L,EPA 625,0.21,1
-2017/18-PRE,Carboy,Blank equip blank,8/18/2017,Organic,Naphthalene,n/a,<,0.49,µg/L,EPA 625,0.49,1
+2017/18-PRE,Tubing Blank,equip blank,8/18/2017,Organic,Isophorone,n/a,<,0.21,µg/L,EPA 625,0.21,1
+2017/18-PRE,Carboy Blank,equip blank,8/18/2017,Organic,Naphthalene,n/a,<,0.49,µg/L,EPA 625,0.49,1
 2017/18-PRE,Lab,method blank,8/18/2017,Organic,Naphthalene,n/a,<,0.49,µg/L,EPA 625,0.49,1
 2017/18-PRE,Lab,LCS,8/18/2017,Organic,Naphthalene,n/a,=,18.1,µg/L,EPA 625,0.49,1
 2017/18-PRE,Lab,LCS|| rec,8/18/2017,Organic,Naphthalene,n/a,=,72,%,EPA 625,-88,-88
 2017/18-PRE,Lab,LCS dup,8/18/2017,Organic,Naphthalene,n/a,=,17.5,µg/L,EPA 625,0.49,1
 2017/18-PRE,Lab,LCS dup|| rec,8/18/2017,Organic,Naphthalene,n/a,=,70,%,EPA 625,-88,-88
 2017/18-PRE,Lab,LCS|| RPD,8/18/2017,Organic,Naphthalene,n/a,=,4,%,EPA 625,-88,-88
-2017/18-PRE,Tubing,Blank equip blank,8/18/2017,Organic,Naphthalene,n/a,<,0.49,µg/L,EPA 625,0.49,1
-2017/18-PRE,Carboy,Blank equip blank,8/18/2017,Organic,Nitrobenzene,n/a,<,0.36,µg/L,EPA 625,0.36,1
+2017/18-PRE,Tubing Blank,equip blank,8/18/2017,Organic,Naphthalene,n/a,<,0.49,µg/L,EPA 625,0.49,1
+2017/18-PRE,Carboy Blank,equip blank,8/18/2017,Organic,Nitrobenzene,n/a,<,0.36,µg/L,EPA 625,0.36,1
 2017/18-PRE,Lab,method blank,8/18/2017,Organic,Nitrobenzene,n/a,<,0.36,µg/L,EPA 625,0.36,1
 2017/18-PRE,Lab,LCS,8/18/2017,Organic,Nitrobenzene,n/a,=,19.5,µg/L,EPA 625,0.36,1
 2017/18-PRE,Lab,LCS|| rec,8/18/2017,Organic,Nitrobenzene,n/a,=,78,%,EPA 625,-88,-88
 2017/18-PRE,Lab,LCS dup,8/18/2017,Organic,Nitrobenzene,n/a,=,17.7,µg/L,EPA 625,0.36,1
 2017/18-PRE,Lab,LCS dup|| rec,8/18/2017,Organic,Nitrobenzene,n/a,=,71,%,EPA 625,-88,-88
 2017/18-PRE,Lab,LCS|| RPD,8/18/2017,Organic,Nitrobenzene,n/a,=,10,%,EPA 625,-88,-88
-2017/18-PRE,Tubing,Blank equip blank,8/18/2017,Organic,Nitrobenzene,n/a,<,0.36,µg/L,EPA 625,0.36,1
-2017/18-PRE,Carboy,Blank srgt equip blank,8/18/2017,Organic,Nitrobenzene-d5,n/a,=,15.4,µg/L,EPA 625,-88,-88
-2017/18-PRE,Carboy,Blank srgt equip blank|| rec,8/18/2017,Organic,Nitrobenzene-d5,n/a,=,62,%,EPA 625,-88,-88
+2017/18-PRE,Tubing Blank,equip blank,8/18/2017,Organic,Nitrobenzene,n/a,<,0.36,µg/L,EPA 625,0.36,1
+2017/18-PRE,Carboy Blank,srgt equip blank,8/18/2017,Organic,Nitrobenzene-d5,n/a,=,15.4,µg/L,EPA 625,-88,-88
+2017/18-PRE,Carboy Blank,srgt equip blank|| rec,8/18/2017,Organic,Nitrobenzene-d5,n/a,=,62,%,EPA 625,-88,-88
 2017/18-PRE,Lab,srgt method blank,8/18/2017,Organic,Nitrobenzene-d5,n/a,=,13.7,µg/L,EPA 625,-88,-88
 2017/18-PRE,Lab,srgt method blank|| rec,8/18/2017,Organic,Nitrobenzene-d5,n/a,=,55,%,EPA 625,-88,-88
 2017/18-PRE,Lab,srgt LCS,8/18/2017,Organic,Nitrobenzene-d5,n/a,=,17,µg/L,EPA 625,-88,-88
 2017/18-PRE,Lab,srgt LCS|| rec,8/18/2017,Organic,Nitrobenzene-d5,n/a,=,68,%,EPA 625,-88,-88
 2017/18-PRE,Lab,srgt LCS dup,8/18/2017,Organic,Nitrobenzene-d5,n/a,=,16.1,µg/L,EPA 625,-88,-88
 2017/18-PRE,Lab,srgt LCS dup|| rec,8/18/2017,Organic,Nitrobenzene-d5,n/a,=,64,%,EPA 625,-88,-88
-2017/18-PRE,Tubing,Blank srgt equip blank,8/18/2017,Organic,Nitrobenzene-d5,n/a,=,14,µg/L,EPA 625,-88,-88
-2017/18-PRE,Tubing,Blank srgt equip blank|| rec,8/18/2017,Organic,Nitrobenzene-d5,n/a,=,56,%,EPA 625,-88,-88
-2017/18-PRE,Carboy,Blank equip blank,8/18/2017,Organic,N-Nitrosodimethylamine,n/a,<,0.14,µg/L,EPA 625,0.14,1
+2017/18-PRE,Tubing Blank,srgt equip blank,8/18/2017,Organic,Nitrobenzene-d5,n/a,=,14,µg/L,EPA 625,-88,-88
+2017/18-PRE,Tubing Blank,srgt equip blank|| rec,8/18/2017,Organic,Nitrobenzene-d5,n/a,=,56,%,EPA 625,-88,-88
+2017/18-PRE,Carboy Blank,equip blank,8/18/2017,Organic,N-Nitrosodimethylamine,n/a,<,0.14,µg/L,EPA 625,0.14,1
 2017/18-PRE,Lab,method blank,8/18/2017,Organic,N-Nitrosodimethylamine,n/a,<,0.14,µg/L,EPA 625,0.14,1
 2017/18-PRE,Lab,LCS,8/18/2017,Organic,N-Nitrosodimethylamine,n/a,=,12.4,µg/L,EPA 625,0.14,1
 2017/18-PRE,Lab,LCS|| rec,8/18/2017,Organic,N-Nitrosodimethylamine,n/a,=,50,%,EPA 625,-88,-88
 2017/18-PRE,Lab,LCS dup,8/18/2017,Organic,N-Nitrosodimethylamine,n/a,=,11.4,µg/L,EPA 625,0.14,1
 2017/18-PRE,Lab,LCS dup|| rec,8/18/2017,Organic,N-Nitrosodimethylamine,n/a,=,46,%,EPA 625,-88,-88
 2017/18-PRE,Lab,LCS|| RPD,8/18/2017,Organic,N-Nitrosodimethylamine,n/a,=,8,%,EPA 625,-88,-88
-2017/18-PRE,Tubing,Blank equip blank,8/18/2017,Organic,N-Nitrosodimethylamine,n/a,<,0.14,µg/L,EPA 625,0.14,1
-2017/18-PRE,Carboy,Blank equip blank,8/18/2017,Organic,N-Nitrosodi-N-propylamine,n/a,<,0.26,µg/L,EPA 625,0.26,1
+2017/18-PRE,Tubing Blank,equip blank,8/18/2017,Organic,N-Nitrosodimethylamine,n/a,<,0.14,µg/L,EPA 625,0.14,1
+2017/18-PRE,Carboy Blank,equip blank,8/18/2017,Organic,N-Nitrosodi-N-propylamine,n/a,<,0.26,µg/L,EPA 625,0.26,1
 2017/18-PRE,Lab,method blank,8/18/2017,Organic,N-Nitrosodi-N-propylamine,n/a,<,0.26,µg/L,EPA 625,0.26,1
 2017/18-PRE,Lab,LCS,8/18/2017,Organic,N-Nitrosodi-N-propylamine,n/a,=,7.15,µg/L,EPA 625,0.26,1
 2017/18-PRE,Lab,LCS|| rec,8/18/2017,Organic,N-Nitrosodi-N-propylamine,n/a,=,29,%,EPA 625,-88,-88
 2017/18-PRE,Lab,LCS dup,8/18/2017,Organic,N-Nitrosodi-N-propylamine,n/a,=,5.98,µg/L,EPA 625,0.26,1
 2017/18-PRE,Lab,LCS dup|| rec,8/18/2017,Organic,N-Nitrosodi-N-propylamine,n/a,=,24,%,EPA 625,-88,-88
 2017/18-PRE,Lab,LCS|| RPD,8/18/2017,Organic,N-Nitrosodi-N-propylamine,n/a,=,18,%,EPA 625,-88,-88
-2017/18-PRE,Tubing,Blank equip blank,8/18/2017,Organic,N-Nitrosodi-N-propylamine,n/a,<,0.26,µg/L,EPA 625,0.26,1
-2017/18-PRE,Carboy,Blank equip blank,8/18/2017,Organic,N-Nitrosodiphenylamine,n/a,<,0.19,µg/L,EPA 625,0.19,1
+2017/18-PRE,Tubing Blank,equip blank,8/18/2017,Organic,N-Nitrosodi-N-propylamine,n/a,<,0.26,µg/L,EPA 625,0.26,1
+2017/18-PRE,Carboy Blank,equip blank,8/18/2017,Organic,N-Nitrosodiphenylamine,n/a,<,0.19,µg/L,EPA 625,0.19,1
 2017/18-PRE,Lab,method blank,8/18/2017,Organic,N-Nitrosodiphenylamine,n/a,<,0.19,µg/L,EPA 625,0.19,1
 2017/18-PRE,Lab,LCS,8/18/2017,Organic,N-Nitrosodiphenylamine,n/a,=,17.9,µg/L,EPA 625,0.19,1
 2017/18-PRE,Lab,LCS|| rec,8/18/2017,Organic,N-Nitrosodiphenylamine,n/a,=,71,%,EPA 625,-88,-88
 2017/18-PRE,Lab,LCS dup,8/18/2017,Organic,N-Nitrosodiphenylamine,n/a,=,17.8,µg/L,EPA 625,0.19,1
 2017/18-PRE,Lab,LCS dup|| rec,8/18/2017,Organic,N-Nitrosodiphenylamine,n/a,=,71,%,EPA 625,-88,-88
 2017/18-PRE,Lab,LCS|| RPD,8/18/2017,Organic,N-Nitrosodiphenylamine,n/a,=,0.2,%,EPA 625,-88,-88
-2017/18-PRE,Tubing,Blank equip blank,8/18/2017,Organic,N-Nitrosodiphenylamine,n/a,<,0.19,µg/L,EPA 625,0.19,1
-2017/18-PRE,Carboy,Blank srgt equip blank,9/4/2017,Organic,Perylene-d12,n/a,=,4.27,µg/L,EPA 525.2,-88,-88
-2017/18-PRE,Carboy,Blank srgt equip blank|| rec,9/4/2017,Organic,Perylene-d12,n/a,=,85,%,EPA 525.2,-88,-88
+2017/18-PRE,Tubing Blank,equip blank,8/18/2017,Organic,N-Nitrosodiphenylamine,n/a,<,0.19,µg/L,EPA 625,0.19,1
+2017/18-PRE,Carboy Blank,srgt equip blank,9/4/2017,Organic,Perylene-d12,n/a,=,4.27,µg/L,EPA 525.2,-88,-88
+2017/18-PRE,Carboy Blank,srgt equip blank|| rec,9/4/2017,Organic,Perylene-d12,n/a,=,85,%,EPA 525.2,-88,-88
 2017/18-PRE,Lab,srgt method blank,9/3/2017,Organic,Perylene-d12,n/a,=,4.85,µg/L,EPA 525.2,-88,-88
 2017/18-PRE,Lab,srgt method blank|| rec,9/3/2017,Organic,Perylene-d12,n/a,=,97,%,EPA 525.2,-88,-88
 2017/18-PRE,Lab,srgt LCS,9/3/2017,Organic,Perylene-d12,n/a,=,4.99,µg/L,EPA 525.2,-88,-88
 2017/18-PRE,Lab,srgt LCS|| rec,9/3/2017,Organic,Perylene-d12,n/a,=,100,%,EPA 525.2,-88,-88
 2017/18-PRE,Lab,srgt LCS dup,9/3/2017,Organic,Perylene-d12,n/a,=,4.83,µg/L,EPA 525.2,-88,-88
 2017/18-PRE,Lab,srgt LCS dup|| rec,9/3/2017,Organic,Perylene-d12,n/a,=,97,%,EPA 525.2,-88,-88
-2017/18-PRE,Tubing,Blank srgt equip blank,9/3/2017,Organic,Perylene-d12,n/a,=,4.15,µg/L,EPA 525.2,-88,-88
-2017/18-PRE,Tubing,Blank srgt equip blank|| rec,9/3/2017,Organic,Perylene-d12,n/a,=,83,%,EPA 525.2,-88,-88
-2017/18-PRE,Carboy,Blank equip blank,8/18/2017,Organic,Phenanthrene,n/a,<,0.32,µg/L,EPA 625,0.32,1
+2017/18-PRE,Tubing Blank,srgt equip blank,9/3/2017,Organic,Perylene-d12,n/a,=,4.15,µg/L,EPA 525.2,-88,-88
+2017/18-PRE,Tubing Blank,srgt equip blank|| rec,9/3/2017,Organic,Perylene-d12,n/a,=,83,%,EPA 525.2,-88,-88
+2017/18-PRE,Carboy Blank,equip blank,8/18/2017,Organic,Phenanthrene,n/a,<,0.32,µg/L,EPA 625,0.32,1
 2017/18-PRE,Lab,method blank,8/18/2017,Organic,Phenanthrene,n/a,<,0.32,µg/L,EPA 625,0.32,1
 2017/18-PRE,Lab,LCS,8/18/2017,Organic,Phenanthrene,n/a,=,21.1,µg/L,EPA 625,0.32,1
 2017/18-PRE,Lab,LCS|| rec,8/18/2017,Organic,Phenanthrene,n/a,=,85,%,EPA 625,-88,-88
 2017/18-PRE,Lab,LCS dup,8/18/2017,Organic,Phenanthrene,n/a,=,20.5,µg/L,EPA 625,0.32,1
 2017/18-PRE,Lab,LCS dup|| rec,8/18/2017,Organic,Phenanthrene,n/a,=,82,%,EPA 625,-88,-88
 2017/18-PRE,Lab,LCS|| RPD,8/18/2017,Organic,Phenanthrene,n/a,=,3,%,EPA 625,-88,-88
-2017/18-PRE,Tubing,Blank equip blank,8/18/2017,Organic,Phenanthrene,n/a,<,0.32,µg/L,EPA 625,0.32,1
-2017/18-PRE,Carboy,Blank equip blank,8/18/2017,Organic,Phenol,n/a,<,0.16,µg/L,EPA 625,0.16,1
+2017/18-PRE,Tubing Blank,equip blank,8/18/2017,Organic,Phenanthrene,n/a,<,0.32,µg/L,EPA 625,0.32,1
+2017/18-PRE,Carboy Blank,equip blank,8/18/2017,Organic,Phenol,n/a,<,0.16,µg/L,EPA 625,0.16,1
 2017/18-PRE,Lab,method blank,8/18/2017,Organic,Phenol,n/a,<,0.16,µg/L,EPA 625,0.16,1
 2017/18-PRE,Lab,LCS,8/18/2017,Organic,Phenol,n/a,=,7.72,µg/L,EPA 625,0.16,1
 2017/18-PRE,Lab,LCS|| rec,8/18/2017,Organic,Phenol,n/a,=,31,%,EPA 625,-88,-88
 2017/18-PRE,Lab,LCS dup,8/18/2017,Organic,Phenol,n/a,=,7.35,µg/L,EPA 625,0.16,1
 2017/18-PRE,Lab,LCS dup|| rec,8/18/2017,Organic,Phenol,n/a,=,29,%,EPA 625,-88,-88
 2017/18-PRE,Lab,LCS|| RPD,8/18/2017,Organic,Phenol,n/a,=,5,%,EPA 625,-88,-88
-2017/18-PRE,Tubing,Blank equip blank,8/18/2017,Organic,Phenol,n/a,<,0.16,µg/L,EPA 625,0.16,1
-2017/18-PRE,Carboy,Blank srgt equip blank,8/18/2017,Organic,Phenol-d5,n/a,=,14,µg/L,EPA 625,-88,-88
-2017/18-PRE,Carboy,Blank srgt equip blank|| rec,8/18/2017,Organic,Phenol-d5,n/a,=,28,%,EPA 625,-88,-88
+2017/18-PRE,Tubing Blank,equip blank,8/18/2017,Organic,Phenol,n/a,<,0.16,µg/L,EPA 625,0.16,1
+2017/18-PRE,Carboy Blank,srgt equip blank,8/18/2017,Organic,Phenol-d5,n/a,=,14,µg/L,EPA 625,-88,-88
+2017/18-PRE,Carboy Blank,srgt equip blank|| rec,8/18/2017,Organic,Phenol-d5,n/a,=,28,%,EPA 625,-88,-88
 2017/18-PRE,Lab,srgt method blank,8/18/2017,Organic,Phenol-d5,n/a,=,13.7,µg/L,EPA 625,-88,-88
 2017/18-PRE,Lab,srgt method blank|| rec,8/18/2017,Organic,Phenol-d5,n/a,=,27,%,EPA 625,-88,-88
 2017/18-PRE,Lab,srgt LCS,8/18/2017,Organic,Phenol-d5,n/a,=,15.8,µg/L,EPA 625,-88,-88
 2017/18-PRE,Lab,srgt LCS|| rec,8/18/2017,Organic,Phenol-d5,n/a,=,32,%,EPA 625,-88,-88
 2017/18-PRE,Lab,srgt LCS dup,8/18/2017,Organic,Phenol-d5,n/a,=,14.6,µg/L,EPA 625,-88,-88
 2017/18-PRE,Lab,srgt LCS dup|| rec,8/18/2017,Organic,Phenol-d5,n/a,=,29,%,EPA 625,-88,-88
-2017/18-PRE,Tubing,Blank srgt equip blank,8/18/2017,Organic,Phenol-d5,n/a,=,12.9,µg/L,EPA 625,-88,-88
-2017/18-PRE,Tubing,Blank srgt equip blank|| rec,8/18/2017,Organic,Phenol-d5,n/a,=,26,%,EPA 625,-88,-88
-2017/18-PRE,Carboy,Blank srgt equip blank,8/18/2017,Organic,p-Terphenyl-d14,n/a,=,17.1,µg/L,EPA 625,-88,-88
-2017/18-PRE,Carboy,Blank srgt equip blank|| rec,8/18/2017,Organic,p-Terphenyl-d14,n/a,=,68,%,EPA 625,-88,-88
+2017/18-PRE,Tubing Blank,srgt equip blank,8/18/2017,Organic,Phenol-d5,n/a,=,12.9,µg/L,EPA 625,-88,-88
+2017/18-PRE,Tubing Blank,srgt equip blank|| rec,8/18/2017,Organic,Phenol-d5,n/a,=,26,%,EPA 625,-88,-88
+2017/18-PRE,Carboy Blank,srgt equip blank,8/18/2017,Organic,p-Terphenyl-d14,n/a,=,17.1,µg/L,EPA 625,-88,-88
+2017/18-PRE,Carboy Blank,srgt equip blank|| rec,8/18/2017,Organic,p-Terphenyl-d14,n/a,=,68,%,EPA 625,-88,-88
 2017/18-PRE,Lab,srgt method blank,8/18/2017,Organic,p-Terphenyl-d14,n/a,=,16.4,µg/L,EPA 625,-88,-88
 2017/18-PRE,Lab,srgt method blank|| rec,8/18/2017,Organic,p-Terphenyl-d14,n/a,=,66,%,EPA 625,-88,-88
 2017/18-PRE,Lab,srgt LCS,8/18/2017,Organic,p-Terphenyl-d14,n/a,=,18.5,µg/L,EPA 625,-88,-88
 2017/18-PRE,Lab,srgt LCS|| rec,8/18/2017,Organic,p-Terphenyl-d14,n/a,=,74,%,EPA 625,-88,-88
 2017/18-PRE,Lab,srgt LCS dup,8/18/2017,Organic,p-Terphenyl-d14,n/a,=,17.2,µg/L,EPA 625,-88,-88
 2017/18-PRE,Lab,srgt LCS dup|| rec,8/18/2017,Organic,p-Terphenyl-d14,n/a,=,69,%,EPA 625,-88,-88
-2017/18-PRE,Tubing,Blank srgt equip blank,8/18/2017,Organic,p-Terphenyl-d14,n/a,=,15.7,µg/L,EPA 625,-88,-88
-2017/18-PRE,Tubing,Blank srgt equip blank|| rec,8/18/2017,Organic,p-Terphenyl-d14,n/a,=,63,%,EPA 625,-88,-88
-2017/18-PRE,Carboy,Blank equip blank,8/18/2017,Organic,Pyrene,n/a,<,0.25,µg/L,EPA 625,0.25,1
+2017/18-PRE,Tubing Blank,srgt equip blank,8/18/2017,Organic,p-Terphenyl-d14,n/a,=,15.7,µg/L,EPA 625,-88,-88
+2017/18-PRE,Tubing Blank,srgt equip blank|| rec,8/18/2017,Organic,p-Terphenyl-d14,n/a,=,63,%,EPA 625,-88,-88
+2017/18-PRE,Carboy Blank,equip blank,8/18/2017,Organic,Pyrene,n/a,<,0.25,µg/L,EPA 625,0.25,1
 2017/18-PRE,Lab,method blank,8/18/2017,Organic,Pyrene,n/a,<,0.25,µg/L,EPA 625,0.25,1
 2017/18-PRE,Lab,LCS,8/18/2017,Organic,Pyrene,n/a,=,21.1,µg/L,EPA 625,0.25,1
 2017/18-PRE,Lab,LCS|| rec,8/18/2017,Organic,Pyrene,n/a,=,84,%,EPA 625,-88,-88
 2017/18-PRE,Lab,LCS dup,8/18/2017,Organic,Pyrene,n/a,=,20.4,µg/L,EPA 625,0.25,1
 2017/18-PRE,Lab,LCS dup|| rec,8/18/2017,Organic,Pyrene,n/a,=,82,%,EPA 625,-88,-88
 2017/18-PRE,Lab,LCS|| RPD,8/18/2017,Organic,Pyrene,n/a,=,4,%,EPA 625,-88,-88
-2017/18-PRE,Tubing,Blank equip blank,8/18/2017,Organic,Pyrene,n/a,<,0.25,µg/L,EPA 625,0.25,1
-2017/18-PRE,Carboy,Blank srgt equip blank,9/4/2017,Organic,Triphenylphosphate,n/a,=,5.54,µg/L,EPA 525.2,-88,-88
-2017/18-PRE,Carboy,Blank srgt equip blank|| rec,9/4/2017,Organic,Triphenylphosphate,n/a,=,111,%,EPA 525.2,-88,-88
+2017/18-PRE,Tubing Blank,equip blank,8/18/2017,Organic,Pyrene,n/a,<,0.25,µg/L,EPA 625,0.25,1
+2017/18-PRE,Carboy Blank,srgt equip blank,9/4/2017,Organic,Triphenylphosphate,n/a,=,5.54,µg/L,EPA 525.2,-88,-88
+2017/18-PRE,Carboy Blank,srgt equip blank|| rec,9/4/2017,Organic,Triphenylphosphate,n/a,=,111,%,EPA 525.2,-88,-88
 2017/18-PRE,Lab,srgt method blank,9/3/2017,Organic,Triphenylphosphate,n/a,=,6.24,µg/L,EPA 525.2,-88,-88
 2017/18-PRE,Lab,srgt method blank|| rec,9/3/2017,Organic,Triphenylphosphate,n/a,=,125,%,EPA 525.2,-88,-88
 2017/18-PRE,Lab,srgt LCS,9/3/2017,Organic,Triphenylphosphate,n/a,=,6.81,µg/L,EPA 525.2,-88,-88
 2017/18-PRE,Lab,srgt LCS|| rec,9/3/2017,Organic,Triphenylphosphate,n/a,=,136,%,EPA 525.2,-88,-88
 2017/18-PRE,Lab,srgt LCS dup,9/3/2017,Organic,Triphenylphosphate,n/a,=,6.18,µg/L,EPA 525.2,-88,-88
 2017/18-PRE,Lab,srgt LCS dup|| rec,9/3/2017,Organic,Triphenylphosphate,n/a,=,124,%,EPA 525.2,-88,-88
-2017/18-PRE,Tubing,Blank srgt equip blank,9/3/2017,Organic,Triphenylphosphate,n/a,=,5.42,µg/L,EPA 525.2,-88,-88
-2017/18-PRE,Tubing,Blank srgt equip blank|| rec,9/3/2017,Organic,Triphenylphosphate,n/a,=,108,%,EPA 525.2,-88,-88
-2017/18-PRE,Carboy,Blank equip blank,9/4/2017,Pesticide,Alachlor,n/a,<,0.022,µg/L,EPA 525.2,0.022,0.1
+2017/18-PRE,Tubing Blank,srgt equip blank,9/3/2017,Organic,Triphenylphosphate,n/a,=,5.42,µg/L,EPA 525.2,-88,-88
+2017/18-PRE,Tubing Blank,srgt equip blank|| rec,9/3/2017,Organic,Triphenylphosphate,n/a,=,108,%,EPA 525.2,-88,-88
+2017/18-PRE,Carboy Blank,equip blank,9/4/2017,Pesticide,Alachlor,n/a,<,0.022,µg/L,EPA 525.2,0.022,0.1
 2017/18-PRE,Lab,method blank,9/3/2017,Pesticide,Alachlor,n/a,<,0.022,µg/L,EPA 525.2,0.022,0.1
 2017/18-PRE,Lab,LCS,9/3/2017,Pesticide,Alachlor,n/a,=,5.28,µg/L,EPA 525.2,0.022,0.1
 2017/18-PRE,Lab,LCS|| rec,9/3/2017,Pesticide,Alachlor,n/a,=,106,%,EPA 525.2,-88,-88
 2017/18-PRE,Lab,LCS dup,9/3/2017,Pesticide,Alachlor,n/a,=,5.17,µg/L,EPA 525.2,0.022,0.1
 2017/18-PRE,Lab,LCS dup|| rec,9/3/2017,Pesticide,Alachlor,n/a,=,103,%,EPA 525.2,-88,-88
 2017/18-PRE,Lab,LCS|| RPD,9/3/2017,Pesticide,Alachlor,n/a,=,2,%,EPA 525.2,-88,-88
-2017/18-PRE,Tubing,Blank equip blank,9/3/2017,Pesticide,Alachlor,n/a,<,0.022,µg/L,EPA 525.2,0.022,0.1
+2017/18-PRE,Tubing Blank,equip blank,9/3/2017,Pesticide,Alachlor,n/a,<,0.022,µg/L,EPA 525.2,0.022,0.1
 2017/18-PRE,Lab,method blank,9/3/2017,Pesticide,Aldrin,n/a,<,0.05,µg/L,EPA 525.2,0.05,0.05
-2017/18-PRE,Carboy,Blank equip blank,9/4/2017,Pesticide,Atrazine,n/a,<,0.034,µg/L,EPA 525.2,0.034,0.1
+2017/18-PRE,Carboy Blank,equip blank,9/4/2017,Pesticide,Atrazine,n/a,<,0.034,µg/L,EPA 525.2,0.034,0.1
 2017/18-PRE,Lab,method blank,9/3/2017,Pesticide,Atrazine,n/a,<,0.034,µg/L,EPA 525.2,0.034,0.1
 2017/18-PRE,Lab,LCS,9/3/2017,Pesticide,Atrazine,n/a,=,5.53,µg/L,EPA 525.2,0.034,0.1
 2017/18-PRE,Lab,LCS|| rec,9/3/2017,Pesticide,Atrazine,n/a,=,111,%,EPA 525.2,-88,-88
 2017/18-PRE,Lab,LCS dup,9/3/2017,Pesticide,Atrazine,n/a,=,5.11,µg/L,EPA 525.2,0.034,0.1
 2017/18-PRE,Lab,LCS dup|| rec,9/3/2017,Pesticide,Atrazine,n/a,=,102,%,EPA 525.2,-88,-88
 2017/18-PRE,Lab,LCS|| RPD,9/3/2017,Pesticide,Atrazine,n/a,=,8,%,EPA 525.2,-88,-88
-2017/18-PRE,Tubing,Blank equip blank,9/3/2017,Pesticide,Atrazine,n/a,<,0.034,µg/L,EPA 525.2,0.034,0.1
-2017/18-PRE,Carboy,Blank equip blank,9/4/2017,Pesticide,Bromacil,n/a,<,0.038,µg/L,EPA 525.2,0.038,0.5
+2017/18-PRE,Tubing Blank,equip blank,9/3/2017,Pesticide,Atrazine,n/a,<,0.034,µg/L,EPA 525.2,0.034,0.1
+2017/18-PRE,Carboy Blank,equip blank,9/4/2017,Pesticide,Bromacil,n/a,<,0.038,µg/L,EPA 525.2,0.038,0.5
 2017/18-PRE,Lab,method blank,9/3/2017,Pesticide,Bromacil,n/a,<,0.038,µg/L,EPA 525.2,0.038,0.5
 2017/18-PRE,Lab,LCS,9/3/2017,Pesticide,Bromacil,n/a,=,4.97,µg/L,EPA 525.2,0.038,0.5
 2017/18-PRE,Lab,LCS|| rec,9/3/2017,Pesticide,Bromacil,n/a,=,99,%,EPA 525.2,-88,-88
 2017/18-PRE,Lab,LCS dup,9/3/2017,Pesticide,Bromacil,n/a,=,4.96,µg/L,EPA 525.2,0.038,0.5
 2017/18-PRE,Lab,LCS dup|| rec,9/3/2017,Pesticide,Bromacil,n/a,=,99,%,EPA 525.2,-88,-88
 2017/18-PRE,Lab,LCS|| RPD,9/3/2017,Pesticide,Bromacil,n/a,=,0.3,%,EPA 525.2,-88,-88
-2017/18-PRE,Tubing,Blank equip blank,9/3/2017,Pesticide,Bromacil,n/a,<,0.038,µg/L,EPA 525.2,0.038,0.5
-2017/18-PRE,Carboy,Blank equip blank,9/4/2017,Pesticide,Butachlor,n/a,<,0.017,µg/L,EPA 525.2,0.017,0.1
+2017/18-PRE,Tubing Blank,equip blank,9/3/2017,Pesticide,Bromacil,n/a,<,0.038,µg/L,EPA 525.2,0.038,0.5
+2017/18-PRE,Carboy Blank,equip blank,9/4/2017,Pesticide,Butachlor,n/a,<,0.017,µg/L,EPA 525.2,0.017,0.1
 2017/18-PRE,Lab,method blank,9/3/2017,Pesticide,Butachlor,n/a,<,0.017,µg/L,EPA 525.2,0.017,0.1
 2017/18-PRE,Lab,LCS,9/3/2017,Pesticide,Butachlor,n/a,=,5.67,µg/L,EPA 525.2,0.017,0.1
 2017/18-PRE,Lab,LCS|| rec,9/3/2017,Pesticide,Butachlor,n/a,=,113,%,EPA 525.2,-88,-88
 2017/18-PRE,Lab,LCS dup,9/3/2017,Pesticide,Butachlor,n/a,=,5.29,µg/L,EPA 525.2,0.017,0.1
 2017/18-PRE,Lab,LCS dup|| rec,9/3/2017,Pesticide,Butachlor,n/a,=,106,%,EPA 525.2,-88,-88
 2017/18-PRE,Lab,LCS|| RPD,9/3/2017,Pesticide,Butachlor,n/a,=,7,%,EPA 525.2,-88,-88
-2017/18-PRE,Tubing,Blank equip blank,9/3/2017,Pesticide,Butachlor,n/a,<,0.017,µg/L,EPA 525.2,0.017,0.1
-2017/18-PRE,Carboy,Blank equip blank,9/4/2017,Pesticide,Captan,n/a,<,0.86,µg/L,EPA 525.2,0.86,1
+2017/18-PRE,Tubing Blank,equip blank,9/3/2017,Pesticide,Butachlor,n/a,<,0.017,µg/L,EPA 525.2,0.017,0.1
+2017/18-PRE,Carboy Blank,equip blank,9/4/2017,Pesticide,Captan,n/a,<,0.86,µg/L,EPA 525.2,0.86,1
 2017/18-PRE,Lab,method blank,9/3/2017,Pesticide,Captan,n/a,<,0.86,µg/L,EPA 525.2,0.86,1
 2017/18-PRE,Lab,LCS,9/3/2017,Pesticide,Captan,n/a,=,5.45,µg/L,EPA 525.2,0.86,1
 2017/18-PRE,Lab,LCS|| rec,9/3/2017,Pesticide,Captan,n/a,=,109,%,EPA 525.2,-88,-88
 2017/18-PRE,Lab,LCS dup,9/3/2017,Pesticide,Captan,n/a,=,5.37,µg/L,EPA 525.2,0.86,1
 2017/18-PRE,Lab,LCS dup|| rec,9/3/2017,Pesticide,Captan,n/a,=,107,%,EPA 525.2,-88,-88
 2017/18-PRE,Lab,LCS|| RPD,9/3/2017,Pesticide,Captan,n/a,=,2,%,EPA 525.2,-88,-88
-2017/18-PRE,Tubing,Blank equip blank,9/3/2017,Pesticide,Captan,n/a,<,0.86,µg/L,EPA 525.2,0.86,1
-2017/18-PRE,Carboy,Blank equip blank,9/4/2017,Pesticide,Chloropropham,n/a,<,0.01,µg/L,EPA 525.2,0.01,0.1
+2017/18-PRE,Tubing Blank,equip blank,9/3/2017,Pesticide,Captan,n/a,<,0.86,µg/L,EPA 525.2,0.86,1
+2017/18-PRE,Carboy Blank,equip blank,9/4/2017,Pesticide,Chloropropham,n/a,<,0.01,µg/L,EPA 525.2,0.01,0.1
 2017/18-PRE,Lab,method blank,9/3/2017,Pesticide,Chloropropham,n/a,<,0.01,µg/L,EPA 525.2,0.01,0.1
 2017/18-PRE,Lab,LCS,9/3/2017,Pesticide,Chloropropham,n/a,=,5.64,µg/L,EPA 525.2,0.01,0.1
 2017/18-PRE,Lab,LCS|| rec,9/3/2017,Pesticide,Chloropropham,n/a,=,113,%,EPA 525.2,-88,-88
 2017/18-PRE,Lab,LCS dup,9/3/2017,Pesticide,Chloropropham,n/a,=,5.45,µg/L,EPA 525.2,0.01,0.1
 2017/18-PRE,Lab,LCS dup|| rec,9/3/2017,Pesticide,Chloropropham,n/a,=,109,%,EPA 525.2,-88,-88
 2017/18-PRE,Lab,LCS|| RPD,9/3/2017,Pesticide,Chloropropham,n/a,=,4,%,EPA 525.2,-88,-88
-2017/18-PRE,Tubing,Blank equip blank,9/3/2017,Pesticide,Chloropropham,n/a,<,0.01,µg/L,EPA 525.2,0.01,0.1
-2017/18-PRE,Carboy,Blank equip blank,9/4/2017,Pesticide,Cyanazine,n/a,<,0.024,µg/L,EPA 525.2,0.024,0.1
+2017/18-PRE,Tubing Blank,equip blank,9/3/2017,Pesticide,Chloropropham,n/a,<,0.01,µg/L,EPA 525.2,0.01,0.1
+2017/18-PRE,Carboy Blank,equip blank,9/4/2017,Pesticide,Cyanazine,n/a,<,0.024,µg/L,EPA 525.2,0.024,0.1
 2017/18-PRE,Lab,method blank,9/3/2017,Pesticide,Cyanazine,n/a,<,0.024,µg/L,EPA 525.2,0.024,0.1
 2017/18-PRE,Lab,LCS,9/3/2017,Pesticide,Cyanazine,n/a,=,4.53,µg/L,EPA 525.2,0.024,0.1
 2017/18-PRE,Lab,LCS|| rec,9/3/2017,Pesticide,Cyanazine,n/a,=,91,%,EPA 525.2,-88,-88
 2017/18-PRE,Lab,LCS dup,9/3/2017,Pesticide,Cyanazine,n/a,=,4.37,µg/L,EPA 525.2,0.024,0.1
 2017/18-PRE,Lab,LCS dup|| rec,9/3/2017,Pesticide,Cyanazine,n/a,=,87,%,EPA 525.2,-88,-88
 2017/18-PRE,Lab,LCS|| RPD,9/3/2017,Pesticide,Cyanazine,n/a,=,4,%,EPA 525.2,-88,-88
-2017/18-PRE,Tubing,Blank equip blank,9/3/2017,Pesticide,Cyanazine,n/a,<,0.024,µg/L,EPA 525.2,0.024,0.1
-2017/18-PRE,Carboy,Blank equip blank,9/4/2017,Pesticide,Diazinon,n/a,<,0.096,µg/L,EPA 525.2,0.096,0.1
+2017/18-PRE,Tubing Blank,equip blank,9/3/2017,Pesticide,Cyanazine,n/a,<,0.024,µg/L,EPA 525.2,0.024,0.1
+2017/18-PRE,Carboy Blank,equip blank,9/4/2017,Pesticide,Diazinon,n/a,<,0.096,µg/L,EPA 525.2,0.096,0.1
 2017/18-PRE,Lab,method blank,9/3/2017,Pesticide,Diazinon,n/a,<,0.096,µg/L,EPA 525.2,0.096,0.1
 2017/18-PRE,Lab,LCS,9/3/2017,Pesticide,Diazinon,n/a,=,3.11,µg/L,EPA 525.2,0.096,0.1
 2017/18-PRE,Lab,LCS|| rec,9/3/2017,Pesticide,Diazinon,n/a,=,62,%,EPA 525.2,-88,-88
 2017/18-PRE,Lab,LCS dup,9/3/2017,Pesticide,Diazinon,n/a,=,3.58,µg/L,EPA 525.2,0.096,0.1
 2017/18-PRE,Lab,LCS dup|| rec,9/3/2017,Pesticide,Diazinon,n/a,=,72,%,EPA 525.2,-88,-88
 2017/18-PRE,Lab,LCS|| RPD,9/3/2017,Pesticide,Diazinon,n/a,=,14,%,EPA 525.2,-88,-88
-2017/18-PRE,Tubing,Blank equip blank,9/3/2017,Pesticide,Diazinon,n/a,<,0.096,µg/L,EPA 525.2,0.096,0.1
-2017/18-PRE,Carboy,Blank equip blank,9/4/2017,Pesticide,Dimethoate,n/a,<,0.024,µg/L,EPA 525.2,0.024,0.2
+2017/18-PRE,Tubing Blank,equip blank,9/3/2017,Pesticide,Diazinon,n/a,<,0.096,µg/L,EPA 525.2,0.096,0.1
+2017/18-PRE,Carboy Blank,equip blank,9/4/2017,Pesticide,Dimethoate,n/a,<,0.024,µg/L,EPA 525.2,0.024,0.2
 2017/18-PRE,Lab,method blank,9/3/2017,Pesticide,Dimethoate,n/a,<,0.024,µg/L,EPA 525.2,0.024,0.2
 2017/18-PRE,Lab,LCS,9/3/2017,Pesticide,Dimethoate,n/a,=,4.4,µg/L,EPA 525.2,0.024,0.2
 2017/18-PRE,Lab,LCS|| rec,9/3/2017,Pesticide,Dimethoate,n/a,=,88,%,EPA 525.2,-88,-88
 2017/18-PRE,Lab,LCS dup,9/3/2017,Pesticide,Dimethoate,n/a,=,3.96,µg/L,EPA 525.2,0.024,0.2
 2017/18-PRE,Lab,LCS dup|| rec,9/3/2017,Pesticide,Dimethoate,n/a,=,79,%,EPA 525.2,-88,-88
 2017/18-PRE,Lab,LCS|| RPD,9/3/2017,Pesticide,Dimethoate,n/a,=,11,%,EPA 525.2,-88,-88
-2017/18-PRE,Tubing,Blank equip blank,9/3/2017,Pesticide,Dimethoate,n/a,<,0.024,µg/L,EPA 525.2,0.024,0.2
-2017/18-PRE,Carboy,Blank equip blank,9/4/2017,Pesticide,Diphenamid,n/a,<,0.024,µg/L,EPA 525.2,0.024,0.1
+2017/18-PRE,Tubing Blank,equip blank,9/3/2017,Pesticide,Dimethoate,n/a,<,0.024,µg/L,EPA 525.2,0.024,0.2
+2017/18-PRE,Carboy Blank,equip blank,9/4/2017,Pesticide,Diphenamid,n/a,<,0.024,µg/L,EPA 525.2,0.024,0.1
 2017/18-PRE,Lab,method blank,9/3/2017,Pesticide,Diphenamid,n/a,<,0.024,µg/L,EPA 525.2,0.024,0.1
 2017/18-PRE,Lab,LCS,9/3/2017,Pesticide,Diphenamid,n/a,=,6.08,µg/L,EPA 525.2,0.024,0.1
 2017/18-PRE,Lab,LCS|| rec,9/3/2017,Pesticide,Diphenamid,n/a,=,122,%,EPA 525.2,-88,-88
 2017/18-PRE,Lab,LCS dup,9/3/2017,Pesticide,Diphenamid,n/a,=,5.76,µg/L,EPA 525.2,0.024,0.1
 2017/18-PRE,Lab,LCS dup|| rec,9/3/2017,Pesticide,Diphenamid,n/a,=,115,%,EPA 525.2,-88,-88
 2017/18-PRE,Lab,LCS|| RPD,9/3/2017,Pesticide,Diphenamid,n/a,=,5,%,EPA 525.2,-88,-88
-2017/18-PRE,Tubing,Blank equip blank,9/3/2017,Pesticide,Diphenamid,n/a,<,0.024,µg/L,EPA 525.2,0.024,0.1
-2017/18-PRE,Carboy,Blank equip blank,9/4/2017,Pesticide,Disulfoton,n/a,<,0.031,µg/L,EPA 525.2,0.031,0.1
+2017/18-PRE,Tubing Blank,equip blank,9/3/2017,Pesticide,Diphenamid,n/a,<,0.024,µg/L,EPA 525.2,0.024,0.1
+2017/18-PRE,Carboy Blank,equip blank,9/4/2017,Pesticide,Disulfoton,n/a,<,0.031,µg/L,EPA 525.2,0.031,0.1
 2017/18-PRE,Lab,method blank,9/3/2017,Pesticide,Disulfoton,n/a,<,0.031,µg/L,EPA 525.2,0.031,0.1
 2017/18-PRE,Lab,LCS,9/3/2017,Pesticide,Disulfoton,n/a,=,4.42,µg/L,EPA 525.2,0.031,0.1
 2017/18-PRE,Lab,LCS|| rec,9/3/2017,Pesticide,Disulfoton,n/a,=,88,%,EPA 525.2,-88,-88
 2017/18-PRE,Lab,LCS dup,9/3/2017,Pesticide,Disulfoton,n/a,=,3.63,µg/L,EPA 525.2,0.031,0.1
 2017/18-PRE,Lab,LCS dup|| rec,9/3/2017,Pesticide,Disulfoton,n/a,=,73,%,EPA 525.2,-88,-88
 2017/18-PRE,Lab,LCS|| RPD,9/3/2017,Pesticide,Disulfoton,n/a,=,20,%,EPA 525.2,-88,-88
-2017/18-PRE,Tubing,Blank equip blank,9/3/2017,Pesticide,Disulfoton,n/a,<,0.031,µg/L,EPA 525.2,0.031,0.1
-2017/18-PRE,Carboy,Blank equip blank,9/4/2017,Pesticide,EPTC,n/a,<,0.017,µg/L,EPA 525.2,0.017,0.1
+2017/18-PRE,Tubing Blank,equip blank,9/3/2017,Pesticide,Disulfoton,n/a,<,0.031,µg/L,EPA 525.2,0.031,0.1
+2017/18-PRE,Carboy Blank,equip blank,9/4/2017,Pesticide,EPTC,n/a,<,0.017,µg/L,EPA 525.2,0.017,0.1
 2017/18-PRE,Lab,method blank,9/3/2017,Pesticide,EPTC,n/a,<,0.017,µg/L,EPA 525.2,0.017,0.1
 2017/18-PRE,Lab,LCS,9/3/2017,Pesticide,EPTC,n/a,=,6.19,µg/L,EPA 525.2,0.017,0.1
 2017/18-PRE,Lab,LCS|| rec,9/3/2017,Pesticide,EPTC,n/a,=,124,%,EPA 525.2,-88,-88
 2017/18-PRE,Lab,LCS dup,9/3/2017,Pesticide,EPTC,n/a,=,5.96,µg/L,EPA 525.2,0.017,0.1
 2017/18-PRE,Lab,LCS dup|| rec,9/3/2017,Pesticide,EPTC,n/a,=,119,%,EPA 525.2,-88,-88
 2017/18-PRE,Lab,LCS|| RPD,9/3/2017,Pesticide,EPTC,n/a,=,4,%,EPA 525.2,-88,-88
-2017/18-PRE,Tubing,Blank equip blank,9/3/2017,Pesticide,EPTC,n/a,<,0.017,µg/L,EPA 525.2,0.017,0.1
-2017/18-PRE,Carboy,Blank equip blank,9/4/2017,Pesticide,Metolachlor,n/a,<,0.012,µg/L,EPA 525.2,0.012,0.1
+2017/18-PRE,Tubing Blank,equip blank,9/3/2017,Pesticide,EPTC,n/a,<,0.017,µg/L,EPA 525.2,0.017,0.1
+2017/18-PRE,Carboy Blank,equip blank,9/4/2017,Pesticide,Metolachlor,n/a,<,0.012,µg/L,EPA 525.2,0.012,0.1
 2017/18-PRE,Lab,method blank,9/3/2017,Pesticide,Metolachlor,n/a,<,0.012,µg/L,EPA 525.2,0.012,0.1
 2017/18-PRE,Lab,LCS,9/3/2017,Pesticide,Metolachlor,n/a,=,5.36,µg/L,EPA 525.2,0.012,0.1
 2017/18-PRE,Lab,LCS|| rec,9/3/2017,Pesticide,Metolachlor,n/a,=,107,%,EPA 525.2,-88,-88
 2017/18-PRE,Lab,LCS dup,9/3/2017,Pesticide,Metolachlor,n/a,=,5.18,µg/L,EPA 525.2,0.012,0.1
 2017/18-PRE,Lab,LCS dup|| rec,9/3/2017,Pesticide,Metolachlor,n/a,=,104,%,EPA 525.2,-88,-88
 2017/18-PRE,Lab,LCS|| RPD,9/3/2017,Pesticide,Metolachlor,n/a,=,3,%,EPA 525.2,-88,-88
-2017/18-PRE,Tubing,Blank equip blank,9/3/2017,Pesticide,Metolachlor,n/a,<,0.012,µg/L,EPA 525.2,0.012,0.1
-2017/18-PRE,Carboy,Blank equip blank,9/4/2017,Pesticide,Metribuzin,n/a,<,0.015,µg/L,EPA 525.2,0.015,0.1
+2017/18-PRE,Tubing Blank,equip blank,9/3/2017,Pesticide,Metolachlor,n/a,<,0.012,µg/L,EPA 525.2,0.012,0.1
+2017/18-PRE,Carboy Blank,equip blank,9/4/2017,Pesticide,Metribuzin,n/a,<,0.015,µg/L,EPA 525.2,0.015,0.1
 2017/18-PRE,Lab,method blank,9/3/2017,Pesticide,Metribuzin,n/a,<,0.015,µg/L,EPA 525.2,0.015,0.1
 2017/18-PRE,Lab,LCS,9/3/2017,Pesticide,Metribuzin,n/a,=,4.8,µg/L,EPA 525.2,0.015,0.1
 2017/18-PRE,Lab,LCS|| rec,9/3/2017,Pesticide,Metribuzin,n/a,=,96,%,EPA 525.2,-88,-88
 2017/18-PRE,Lab,LCS dup,9/3/2017,Pesticide,Metribuzin,n/a,=,4.89,µg/L,EPA 525.2,0.015,0.1
 2017/18-PRE,Lab,LCS dup|| rec,9/3/2017,Pesticide,Metribuzin,n/a,=,98,%,EPA 525.2,-88,-88
 2017/18-PRE,Lab,LCS|| RPD,9/3/2017,Pesticide,Metribuzin,n/a,=,2,%,EPA 525.2,-88,-88
-2017/18-PRE,Tubing,Blank equip blank,9/3/2017,Pesticide,Metribuzin,n/a,<,0.015,µg/L,EPA 525.2,0.015,0.1
-2017/18-PRE,Carboy,Blank equip blank,9/4/2017,Pesticide,Molinate,n/a,<,0.039,µg/L,EPA 525.2,0.039,0.1
+2017/18-PRE,Tubing Blank,equip blank,9/3/2017,Pesticide,Metribuzin,n/a,<,0.015,µg/L,EPA 525.2,0.015,0.1
+2017/18-PRE,Carboy Blank,equip blank,9/4/2017,Pesticide,Molinate,n/a,<,0.039,µg/L,EPA 525.2,0.039,0.1
 2017/18-PRE,Lab,method blank,9/3/2017,Pesticide,Molinate,n/a,<,0.039,µg/L,EPA 525.2,0.039,0.1
 2017/18-PRE,Lab,LCS,9/3/2017,Pesticide,Molinate,n/a,=,5.49,µg/L,EPA 525.2,0.039,0.1
 2017/18-PRE,Lab,LCS|| rec,9/3/2017,Pesticide,Molinate,n/a,=,110,%,EPA 525.2,-88,-88
 2017/18-PRE,Lab,LCS dup,9/3/2017,Pesticide,Molinate,n/a,=,5.47,µg/L,EPA 525.2,0.039,0.1
 2017/18-PRE,Lab,LCS dup|| rec,9/3/2017,Pesticide,Molinate,n/a,=,109,%,EPA 525.2,-88,-88
 2017/18-PRE,Lab,LCS|| RPD,9/3/2017,Pesticide,Molinate,n/a,=,0.3,%,EPA 525.2,-88,-88
-2017/18-PRE,Tubing,Blank equip blank,9/3/2017,Pesticide,Molinate,n/a,<,0.039,µg/L,EPA 525.2,0.039,0.1
-2017/18-PRE,Carboy,Blank equip blank,8/18/2017,Pesticide,Pentachlorophenol,n/a,<,0.19,µg/L,EPA 625,0.19,1
+2017/18-PRE,Tubing Blank,equip blank,9/3/2017,Pesticide,Molinate,n/a,<,0.039,µg/L,EPA 525.2,0.039,0.1
+2017/18-PRE,Carboy Blank,equip blank,8/18/2017,Pesticide,Pentachlorophenol,n/a,<,0.19,µg/L,EPA 625,0.19,1
 2017/18-PRE,Lab,method blank,8/18/2017,Pesticide,Pentachlorophenol,n/a,<,0.19,µg/L,EPA 625,0.19,1
 2017/18-PRE,Lab,LCS,8/18/2017,Pesticide,Pentachlorophenol,n/a,=,22.6,µg/L,EPA 625,0.19,1
 2017/18-PRE,Lab,LCS|| rec,8/18/2017,Pesticide,Pentachlorophenol,n/a,=,90,%,EPA 625,-88,-88
 2017/18-PRE,Lab,LCS dup,8/18/2017,Pesticide,Pentachlorophenol,n/a,=,21.7,µg/L,EPA 625,0.19,1
 2017/18-PRE,Lab,LCS dup|| rec,8/18/2017,Pesticide,Pentachlorophenol,n/a,=,87,%,EPA 625,-88,-88
 2017/18-PRE,Lab,LCS|| RPD,8/18/2017,Pesticide,Pentachlorophenol,n/a,=,4,%,EPA 625,-88,-88
-2017/18-PRE,Tubing,Blank equip blank,8/18/2017,Pesticide,Pentachlorophenol,n/a,<,0.19,µg/L,EPA 625,0.19,1
-2017/18-PRE,Carboy,Blank equip blank,9/4/2017,Pesticide,Prometon,n/a,<,0.024,µg/L,EPA 525.2,0.024,0.1
+2017/18-PRE,Tubing Blank,equip blank,8/18/2017,Pesticide,Pentachlorophenol,n/a,<,0.19,µg/L,EPA 625,0.19,1
+2017/18-PRE,Carboy Blank,equip blank,9/4/2017,Pesticide,Prometon,n/a,<,0.024,µg/L,EPA 525.2,0.024,0.1
 2017/18-PRE,Lab,method blank,9/3/2017,Pesticide,Prometon,n/a,<,0.024,µg/L,EPA 525.2,0.024,0.1
 2017/18-PRE,Lab,LCS,9/3/2017,Pesticide,Prometon,n/a,=,2.04,µg/L,EPA 525.2,0.024,0.1
 2017/18-PRE,Lab,LCS|| rec,9/3/2017,Pesticide,Prometon,n/a,=,41,%,EPA 525.2,-88,-88
 2017/18-PRE,Lab,LCS dup,9/3/2017,Pesticide,Prometon,n/a,=,2.2,µg/L,EPA 525.2,0.024,0.1
 2017/18-PRE,Lab,LCS dup|| rec,9/3/2017,Pesticide,Prometon,n/a,=,44,%,EPA 525.2,-88,-88
 2017/18-PRE,Lab,LCS|| RPD,9/3/2017,Pesticide,Prometon,n/a,=,7,%,EPA 525.2,-88,-88
-2017/18-PRE,Tubing,Blank equip blank,9/3/2017,Pesticide,Prometon,n/a,<,0.024,µg/L,EPA 525.2,0.024,0.1
-2017/18-PRE,Carboy,Blank equip blank,9/4/2017,Pesticide,Prometryn,n/a,<,0.036,µg/L,EPA 525.2,0.036,0.1
+2017/18-PRE,Tubing Blank,equip blank,9/3/2017,Pesticide,Prometon,n/a,<,0.024,µg/L,EPA 525.2,0.024,0.1
+2017/18-PRE,Carboy Blank,equip blank,9/4/2017,Pesticide,Prometryn,n/a,<,0.036,µg/L,EPA 525.2,0.036,0.1
 2017/18-PRE,Lab,method blank,9/3/2017,Pesticide,Prometryn,n/a,<,0.036,µg/L,EPA 525.2,0.036,0.1
 2017/18-PRE,Lab,LCS,9/3/2017,Pesticide,Prometryn,n/a,=,4.73,µg/L,EPA 525.2,0.036,0.1
 2017/18-PRE,Lab,LCS|| rec,9/3/2017,Pesticide,Prometryn,n/a,=,95,%,EPA 525.2,-88,-88
 2017/18-PRE,Lab,LCS dup,9/3/2017,Pesticide,Prometryn,n/a,=,4.36,µg/L,EPA 525.2,0.036,0.1
 2017/18-PRE,Lab,LCS dup|| rec,9/3/2017,Pesticide,Prometryn,n/a,=,87,%,EPA 525.2,-88,-88
 2017/18-PRE,Lab,LCS|| RPD,9/3/2017,Pesticide,Prometryn,n/a,=,8,%,EPA 525.2,-88,-88
-2017/18-PRE,Tubing,Blank equip blank,9/3/2017,Pesticide,Prometryn,n/a,<,0.036,µg/L,EPA 525.2,0.036,0.1
-2017/18-PRE,Carboy,Blank equip blank,9/4/2017,Pesticide,Simazine,n/a,<,0.015,µg/L,EPA 525.2,0.015,0.1
+2017/18-PRE,Tubing Blank,equip blank,9/3/2017,Pesticide,Prometryn,n/a,<,0.036,µg/L,EPA 525.2,0.036,0.1
+2017/18-PRE,Carboy Blank,equip blank,9/4/2017,Pesticide,Simazine,n/a,<,0.015,µg/L,EPA 525.2,0.015,0.1
 2017/18-PRE,Lab,method blank,9/3/2017,Pesticide,Simazine,n/a,<,0.015,µg/L,EPA 525.2,0.015,0.1
 2017/18-PRE,Lab,LCS,9/3/2017,Pesticide,Simazine,n/a,=,4.63,µg/L,EPA 525.2,0.015,0.1
 2017/18-PRE,Lab,LCS|| rec,9/3/2017,Pesticide,Simazine,n/a,=,93,%,EPA 525.2,-88,-88
 2017/18-PRE,Lab,LCS dup,9/3/2017,Pesticide,Simazine,n/a,=,4.58,µg/L,EPA 525.2,0.015,0.1
 2017/18-PRE,Lab,LCS dup|| rec,9/3/2017,Pesticide,Simazine,n/a,=,92,%,EPA 525.2,-88,-88
 2017/18-PRE,Lab,LCS|| RPD,9/3/2017,Pesticide,Simazine,n/a,=,1,%,EPA 525.2,-88,-88
-2017/18-PRE,Tubing,Blank equip blank,9/3/2017,Pesticide,Simazine,n/a,<,0.015,µg/L,EPA 525.2,0.015,0.1
-2017/18-PRE,Carboy,Blank equip blank,9/4/2017,Pesticide,Terbacil,n/a,<,0.55,µg/L,EPA 525.2,0.55,2
+2017/18-PRE,Tubing Blank,equip blank,9/3/2017,Pesticide,Simazine,n/a,<,0.015,µg/L,EPA 525.2,0.015,0.1
+2017/18-PRE,Carboy Blank,equip blank,9/4/2017,Pesticide,Terbacil,n/a,<,0.55,µg/L,EPA 525.2,0.55,2
 2017/18-PRE,Lab,method blank,9/3/2017,Pesticide,Terbacil,n/a,<,0.55,µg/L,EPA 525.2,0.55,2
 2017/18-PRE,Lab,LCS,9/3/2017,Pesticide,Terbacil,n/a,=,6.06,µg/L,EPA 525.2,0.55,2
 2017/18-PRE,Lab,LCS|| rec,9/3/2017,Pesticide,Terbacil,n/a,=,121,%,EPA 525.2,-88,-88
 2017/18-PRE,Lab,LCS dup,9/3/2017,Pesticide,Terbacil,n/a,=,5.77,µg/L,EPA 525.2,0.55,2
 2017/18-PRE,Lab,LCS dup|| rec,9/3/2017,Pesticide,Terbacil,n/a,=,115,%,EPA 525.2,-88,-88
 2017/18-PRE,Lab,LCS|| RPD,9/3/2017,Pesticide,Terbacil,n/a,=,5,%,EPA 525.2,-88,-88
-2017/18-PRE,Tubing,Blank equip blank,9/3/2017,Pesticide,Terbacil,n/a,<,0.55,µg/L,EPA 525.2,0.55,2
-2017/18-PRE,Carboy,Blank equip blank,9/4/2017,Pesticide,Thiobencarb,n/a,<,0.025,µg/L,EPA 525.2,0.025,0.1
+2017/18-PRE,Tubing Blank,equip blank,9/3/2017,Pesticide,Terbacil,n/a,<,0.55,µg/L,EPA 525.2,0.55,2
+2017/18-PRE,Carboy Blank,equip blank,9/4/2017,Pesticide,Thiobencarb,n/a,<,0.025,µg/L,EPA 525.2,0.025,0.1
 2017/18-PRE,Lab,method blank,9/3/2017,Pesticide,Thiobencarb,n/a,<,0.025,µg/L,EPA 525.2,0.025,0.1
 2017/18-PRE,Lab,LCS,9/3/2017,Pesticide,Thiobencarb,n/a,=,4.91,µg/L,EPA 525.2,0.025,0.1
 2017/18-PRE,Lab,LCS|| rec,9/3/2017,Pesticide,Thiobencarb,n/a,=,98,%,EPA 525.2,-88,-88
 2017/18-PRE,Lab,LCS dup,9/3/2017,Pesticide,Thiobencarb,n/a,=,4.79,µg/L,EPA 525.2,0.025,0.1
 2017/18-PRE,Lab,LCS dup|| rec,9/3/2017,Pesticide,Thiobencarb,n/a,=,96,%,EPA 525.2,-88,-88
 2017/18-PRE,Lab,LCS|| RPD,9/3/2017,Pesticide,Thiobencarb,n/a,=,2,%,EPA 525.2,-88,-88
-2017/18-PRE,Tubing,Blank equip blank,9/3/2017,Pesticide,Thiobencarb,n/a,<,0.025,µg/L,EPA 525.2,0.025,0.1
-2017/18-PRE,Carboy,Blank equip blank,9/4/2017,Pesticide,Trithion,n/a,<,0.012,µg/L,EPA 525.2,0.012,0.1
+2017/18-PRE,Tubing Blank,equip blank,9/3/2017,Pesticide,Thiobencarb,n/a,<,0.025,µg/L,EPA 525.2,0.025,0.1
+2017/18-PRE,Carboy Blank,equip blank,9/4/2017,Pesticide,Trithion,n/a,<,0.012,µg/L,EPA 525.2,0.012,0.1
 2017/18-PRE,Lab,method blank,9/3/2017,Pesticide,Trithion,n/a,<,0.012,µg/L,EPA 525.2,0.012,0.1
 2017/18-PRE,Lab,LCS,9/3/2017,Pesticide,Trithion,n/a,=,5.52,µg/L,EPA 525.2,0.012,0.1
 2017/18-PRE,Lab,LCS|| rec,9/3/2017,Pesticide,Trithion,n/a,=,110,%,EPA 525.2,-88,-88
 2017/18-PRE,Lab,LCS dup,9/3/2017,Pesticide,Trithion,n/a,=,5.34,µg/L,EPA 525.2,0.012,0.1
 2017/18-PRE,Lab,LCS dup|| rec,9/3/2017,Pesticide,Trithion,n/a,=,107,%,EPA 525.2,-88,-88
 2017/18-PRE,Lab,LCS|| RPD,9/3/2017,Pesticide,Trithion,n/a,=,3,%,EPA 525.2,-88,-88
-2017/18-PRE,Tubing,Blank equip blank,9/3/2017,Pesticide,Trithion,n/a,<,0.012,µg/L,EPA 525.2,0.012,0.1
+2017/18-PRE,Tubing Blank,equip blank,9/3/2017,Pesticide,Trithion,n/a,<,0.012,µg/L,EPA 525.2,0.012,0.1
 2018-DRY,Lab,method blank,8/24/2018,Cation,Calcium,Total,<,0.016,mg/L,EPA 200.7,0.016,0.1
 2018-DRY,Lab,LCS,8/24/2018,Cation,Calcium,Total,=,51,mg/L,EPA 200.7,0.016,0.1
 2018-DRY,Lab,LCS|| rec,8/24/2018,Cation,Calcium,Total,=,102,%,EPA 200.7,-88,-88

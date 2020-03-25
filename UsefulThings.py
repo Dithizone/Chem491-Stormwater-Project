@@ -86,7 +86,6 @@ fevents = ['2018/19-1',
 
 feventproblemchildren = ['2016/17-PREBlankwater-ultrapure',
                          '2012/13-PRETubing',
-                         '2012/13-PRE2',
                          '2012/13-PRE2Tubing',
                          '2011/12-PRE2Arrowhead', ]
 
@@ -137,6 +136,7 @@ theheaders = ['Event ID',
               'RL']
 
 years = [2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019]
+
 
 def printthedetails(dataframe):
     for m in [0, 1, 2, 3, 4, 5, 6, 7, 9, 10, 11, 12]:
