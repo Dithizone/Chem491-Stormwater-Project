@@ -1,17 +1,27 @@
 # This is a scratchpad for trying things out.
 
-from UsefulThings import datanames
-from UsefulThings import fevents
+import pandas as pd
+from UsefulThings import theheaders
+from UsefulThings import printthedetails
+from UsefulThings import gsites
 
-thingsinfirstcolumn = []
+# df2011f = pd.read_csv('data/2011f.csv', names=theheaders, index_col=None)
+# df2012f = pd.read_csv('data/2012f.csv', names=theheaders, index_col=None)
+# df2013f = pd.read_csv('data/2013f.csv', names=theheaders, index_col=None)
+# df2014f = pd.read_csv('data/2014f.csv', names=theheaders, index_col=None)
+# df2015f = pd.read_csv('data/2015f.csv', names=theheaders, index_col=None)
+# df2016f = pd.read_csv('data/2016f.csv', names=theheaders, index_col=None)
+# df2017f = pd.read_csv('data/2017f.csv', names=theheaders, index_col=None)
+# df2018f = pd.read_csv('data/2018f.csv', names=theheaders, index_col=None)
+# df2019f = pd.read_csv('data/2019f.csv', names=theheaders, index_col=None)
+TheFData = pd.read_csv('data/TheFData.csv')
 
-for name in datanames:
-    with open(f'data/precsv/precsv{name}.txt', 'r') as file:
-        precsv = file.read().replace(',', '||').split(sep='\n')
-        for line in precsv:
-            if line.split(sep=" ")[0] not in thingsinfirstcolumn:
-                thingsinfirstcolumn.append(line.split(sep=" ")[0])
+print('The QAQC Sample Types:')
+for i in TheFData.loc[:, 'QAQC Sample Type'].unique():
+    print(f'{i}')
 
-for i in thingsinfirstcolumn:
-    if i not in fevents:
-        print(f'\'{i}\',')  # Thanks Python!
+print('\nThe Site IDs:')
+for j in TheFData.loc[:, 'Site ID'].unique():
+    print(f'{j}')
+
+print('\n<<<Some of the above seem incorrect.>>>')

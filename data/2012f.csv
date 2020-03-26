@@ -75,7 +75,7 @@
 2011/12-1,Lab,LCS|| rec,10/13/2011,Anion,Perchlorate,n/a,=,107,%,EPA 314.0,-88,-88
 2011/12-1,Lab,method blank,10/13/2011,Anion,Perchlorate,n/a,<,0.95,µg/L,EPA 314.0,0.95,2
 2011/12-1,MO-VEN,field duplicate,10/6/2011,Bacteriological,E. Coli,n/a,=,17820,MPN/100 mL,MMO-MUG,100,100
-2011/12-1,MO-VEN,field duplicate,10/9/2011,Bacteriological,Fecal Coliform,n/a,=,90000,MPN/100 mL,SM,9221,E
+2011/12-1,MO-VEN,field duplicate,10/9/2011,Bacteriological,Fecal Coliform,n/a,=,90000,MPN/100 mL,SM 9221 E,2,2
 2011/12-1,MO-VEN,field duplicate,10/6/2011,Bacteriological,Total Coliform,n/a,=,198630,MPN/100 mL,MMO-MUG,100,100
 2011/12-1,000NONPJ,matrix spike,10/18/2011,Cation,Calcium,Total,=,73.1,mg/L,EPA 200.7,0.016,0.1
 2011/12-1,000NONPJ,matrix spike,10/18/2011,Cation,Calcium,Total,=,75.9,mg/L,EPA 200.7,0.016,0.1
@@ -4772,7 +4772,7 @@
 2011/12-2,Lab,LCS|| rec,1/27/2012,Anion,Perchlorate,n/a,=,103,%,EPA 314.0,-88,-88
 2011/12-2,Lab,method blank,1/27/2012,Anion,Perchlorate,n/a,<,0.95,µg/L,EPA 314.0,0.95,2
 2011/12-2,MO-MEI,field duplicate,1/22/2012,Bacteriological,E. Coli,n/a,=,86640,MPN/100 mL,MMO-MUG,100,100
-2011/12-2,MO-MEI,field duplicate,1/25/2012,Bacteriological,Fecal Coliform,n/a,=,160000,MPN/100 mL,SM,9221,E
+2011/12-2,MO-MEI,field duplicate,1/25/2012,Bacteriological,Fecal Coliform,n/a,=,160000,MPN/100 mL,SM 9221 E,2,2
 2011/12-2,MO-MEI,field duplicate,1/22/2012,Bacteriological,Total Coliform,n/a,=,241920,MPN/100 mL,MMO-MUG,100,100
 2011/12-2,Lab,LCS,1/23/2012,Cation,Calcium,Total,=,48.3,mg/L,EPA 200.7,0.016,0.1
 2011/12-2,Lab,LCS|| rec,1/23/2012,Cation,Calcium,Total,=,96,%,EPA 200.7,-88,-88
@@ -8263,7 +8263,7 @@
 2011/12-3,Lab,LCS|| rec,3/27/2012,Anion,Perchlorate,n/a,=,90,%,EPA 314.0,-88,-88
 2011/12-3,Lab,method blank,3/27/2012,Anion,Perchlorate,n/a,<,0.95,µg/L,EPA 314.0,0.95,2
 2011/12-3,MO-MEI,field blank,3/18/2012,Bacteriological,E. Coli,n/a,<,10,MPN/100 mL,MMO-MUG,10,10
-2011/12-3,MO-MEI,field blank,3/19/2012,Bacteriological,Fecal Coliform,n/a,<,2,MPN/100 mL,SM,9221,E
+2011/12-3,MO-MEI,field blank,3/19/2012,Bacteriological,Fecal Coliform,n/a,<,2,MPN/100 mL,SM 9221 E,2,2
 2011/12-3,MO-MEI,field blank,3/18/2012,Bacteriological,Total Coliform,n/a,<,10,MPN/100 mL,MMO-MUG,10,10
 2011/12-3,Lab,LCS,3/26/2012,Cation,Calcium,Total,=,48.1,mg/L,EPA 200.7,0.016,0.1
 2011/12-3,Lab,LCS|| rec,3/26/2012,Cation,Calcium,Total,=,96,%,EPA 200.7,-88,-88
@@ -8362,8 +8362,8 @@
 2011/12-3,ME-VR2,matrix spike dup|| rec,3/19/2012,Conventional,MBAS,n/a,=,113,%,SM 5540 C,-88,-88
 2011/12-3,ME-VR2,matrix spike|| rec,3/19/2012,Conventional,MBAS,n/a,=,109,%,SM 5540 C,-88,-88
 2011/12-3,ME-VR2,matrix spike|| RPD,3/19/2012,Conventional,MBAS,n/a,=,3,%,SM 5540 C,-88,-88
-2011/12-3,000NONPJ,lab duplicate,3/18/2012,Conventional,pH,n/a,=,7.64,pH,Units SM 4500-H+,B,0.1
-2011/12-3,Lab,CRM,3/18/2012,Conventional,pH,n/a,=,6.84,pH,Units SM 4500-H+,B,0.1
+2011/12-3,000NONPJ,lab duplicate,3/18/2012,Conventional,pH,n/a,=,7.64,pH Units,SM 4500-H+ B,0.1,0.1
+2011/12-3,Lab,CRM,3/18/2012,Conventional,pH,n/a,=,6.84,pH Units,SM 4500-H+ B,0.1,0.1
 2011/12-3,Lab,CRM|| rec,3/18/2012,Conventional,pH,n/a,=,100,%,SM 4500-H+ B,-88,-88
 2011/12-3,Lab,LCS,3/29/2012,Conventional,Phenolics,n/a,=,0.101,mg/L,EPA 420.4,0.0042,0.01
 2011/12-3,Lab,LCS|| rec,3/29/2012,Conventional,Phenolics,n/a,=,101,%,EPA 420.4,-88,-88

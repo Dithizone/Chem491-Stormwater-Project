@@ -4214,8 +4214,8 @@
 2017/18-2,MO-OJA,matrix spike|| RPD,3/15/2018,Anion,Sulfate,Total,=,0.4,%,EPA 300.0,-88,-88
 2017/18-2,MO-CAM,field duplicate,3/3/2018,Bacteriological,E. Coli,n/a,=,7701,MPN/100 mL,MMO-MUG,10,10
 2017/18-2,MO-THO,field blank,3/3/2018,Bacteriological,E. Coli,n/a,<,10,MPN/100 mL,MMO-MUG,10,10
-2017/18-2,MO-CAM,field duplicate,3/4/2018,Bacteriological,Fecal Coliform,n/a,=,4600,MPN/100 mL,SM,9221,E
-2017/18-2,MO-THO,field blank,3/4/2018,Bacteriological,Fecal Coliform,n/a,<,1.8,MPN/100 mL,SM,9221,E
+2017/18-2,MO-CAM,field duplicate,3/4/2018,Bacteriological,Fecal Coliform,n/a,=,4600,MPN/100 mL,SM 9221 E,2,2
+2017/18-2,MO-THO,field blank,3/4/2018,Bacteriological,Fecal Coliform,n/a,<,1.8,MPN/100 mL,SM 9221 E,1.8,1.8
 2017/18-2,MO-CAM,field duplicate,3/3/2018,Bacteriological,Total Coliform,n/a,=,24196,MPN/100 mL,MMO-MUG,10,10
 2017/18-2,MO-THO,field blank,3/3/2018,Bacteriological,Total Coliform,n/a,<,10,MPN/100 mL,MMO-MUG,10,10
 2017/18-2,000NONPJ,matrix spike,3/14/2018,Cation,Calcium,Total,=,135,mg/L,EPA 200.7,0.016,0.1
@@ -7987,8 +7987,8 @@
 2017/18-3,Lab,method blank,3/24/2018,Anion,Sulfate,Total,<,0.1,mg/L,EPA 300.0,0.1,0.5
 2017/18-3,ME-CC,field duplicate,3/11/2018,Bacteriological,E. Coli,n/a,=,3654,MPN/100 mL,MMO-MUG,10,10
 2017/18-3,ME-SCR,field blank,3/11/2018,Bacteriological,E. Coli,n/a,<,10,MPN/100 mL,MMO-MUG,10,10
-2017/18-3,ME-CC,field duplicate,3/14/2018,Bacteriological,Fecal Coliform,n/a,=,5400,MPN/100 mL,SM,9221,E
-2017/18-3,ME-SCR,field blank,3/11/2018,Bacteriological,Fecal Coliform,n/a,<,1.8,MPN/100 mL,SM,9221,E
+2017/18-3,ME-CC,field duplicate,3/14/2018,Bacteriological,Fecal Coliform,n/a,=,5400,MPN/100 mL,SM 9221 E,2,2
+2017/18-3,ME-SCR,field blank,3/11/2018,Bacteriological,Fecal Coliform,n/a,<,1.8,MPN/100 mL,SM 9221 E,1.8,1.8
 2017/18-3,ME-CC,field duplicate,3/11/2018,Bacteriological,Total Coliform,n/a,=,290900,MPN/100 mL,MMO-MUG,1000,1000
 2017/18-3,ME-SCR,field blank,3/11/2018,Bacteriological,Total Coliform,n/a,<,10,MPN/100 mL,MMO-MUG,10,10
 2017/18-3,Lab,method blank,3/26/2018,Cation,Calcium,Total,<,0.016,mg/L,EPA 200.7,0.016,0.1
@@ -11238,7 +11238,7 @@
 2017/18-4,Lab,LCS|| rec,3/25/2018,Anion,Sulfate,Total,=,105,%,EPA 300.0,-88,-88
 2017/18-4,Lab,method blank,3/25/2018,Anion,Sulfate,Total,<,0.1,mg/L,EPA 300.0,0.1,0.5
 2017/18-4,MO-HUE,field duplicate,3/22/2018,Bacteriological,E. Coli,n/a,=,17329,MPN/100 mL,MMO-MUG,10,10
-2017/18-4,MO-HUE,field duplicate,3/25/2018,Bacteriological,Fecal Coliform,n/a,=,92000,MPN/100 mL,SM,9221,E
+2017/18-4,MO-HUE,field duplicate,3/25/2018,Bacteriological,Fecal Coliform,n/a,=,92000,MPN/100 mL,SM 9221 E,2,2
 2017/18-4,MO-HUE,field duplicate,3/22/2018,Bacteriological,Total Coliform,n/a,=,155310,MPN/100 mL,MMO-MUG,100,100
 2017/18-4,000NONPJ,matrix spike,4/4/2018,Cation,Calcium,Total,=,59.1,mg/L,EPA 200.7,0.016,0.1
 2017/18-4,000NONPJ,matrix spike|| rec,4/4/2018,Cation,Calcium,Total,=,89,%,EPA 200.7,-88,-88

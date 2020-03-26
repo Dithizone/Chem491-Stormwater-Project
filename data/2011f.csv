@@ -101,7 +101,7 @@
 2010/11-1,Lab,LCS|| rec,10/16/2010,Anion,Perchlorate,n/a,=,112,%,EPA 314.0,-88,-88
 2010/11-1,Lab,method blank,10/16/2010,Anion,Perchlorate,n/a,<,0.82,µg/L,EPA 314.0,0.82,2
 2010/11-1,MO-MEI,field duplicate,10/7/2010,Bacteriological,E. Coli,n/a,=,86640,MPN/100 mL,MMO-MUG,100,100
-2010/11-1,MO-MEI,field duplicate,10/8/2010,Bacteriological,Fecal Coliform,n/a,=,110000,MPN/100 mL,SM,9221,E
+2010/11-1,MO-MEI,field duplicate,10/8/2010,Bacteriological,Fecal Coliform,n/a,=,110000,MPN/100 mL,SM 9221 E,2,2
 2010/11-1,MO-MEI,field duplicate,10/7/2010,Bacteriological,Total Coliform,n/a,=,1413600,MPN/100 mL,MMO-MUG,1000,1000
 2010/11-1,Lab,LCS,10/13/2010,Cation,Calcium,Total,=,47.5,mg/L,EPA 200.7,0.016,0.1
 2010/11-1,Lab,LCS,10/13/2010,Cation,Calcium,Total,=,48.2,mg/L,EPA 200.7,0.016,0.1
@@ -7327,7 +7327,7 @@
 2010/11-3,Lab,LCS|| rec,12/2/2010,Anion,Perchlorate,n/a,=,102,%,EPA 314.0,-88,-88
 2010/11-3,Lab,method blank,12/2/2010,Anion,Perchlorate,n/a,<,0.82,µg/L,EPA 314.0,0.82,2
 2010/11-3,MO-MEI,field duplicate,11/21/2010,Bacteriological,E. Coli,n/a,=,8664,MPN/100 mL,MMO-MUG,10,10
-2010/11-3,MO-MEI,field duplicate,11/22/2010,Bacteriological,Fecal Coliform,n/a,=,5000,MPN/100 mL,SM,9221,E
+2010/11-3,MO-MEI,field duplicate,11/22/2010,Bacteriological,Fecal Coliform,n/a,=,5000,MPN/100 mL,SM 9221 E,2,2
 2010/11-3,MO-MEI,field duplicate,11/21/2010,Bacteriological,Total Coliform,n/a,=,204600,MPN/100 mL,MMO-MUG,1000,1000
 2010/11-3,000NONPJ,matrix spike,11/29/2010,Cation,Calcium,Total,=,412,mg/L,EPA 200.7,0.016,0.1
 2010/11-3,000NONPJ,matrix spike dup,11/29/2010,Cation,Calcium,Total,=,406,mg/L,EPA 200.7,0.016,0.1
@@ -9092,7 +9092,7 @@
 2010/11-4,Lab,LCS|| rec,3/4/2011,Anion,Perchlorate,n/a,=,106,%,EPA 314.0,-88,-88
 2010/11-4,Lab,method blank,3/4/2011,Anion,Perchlorate,n/a,<,0.64,µg/L,EPA 314.0,0.64,2
 2010/11-4,MO-MEI,field blank,2/17/2011,Bacteriological,E. Coli,n/a,<,10,MPN/100 mL,MMO-MUG,10,10
-2010/11-4,MO-MEI,field blank,2/18/2011,Bacteriological,Fecal Coliform,n/a,<,2,MPN/100 mL,SM,9221,E
+2010/11-4,MO-MEI,field blank,2/18/2011,Bacteriological,Fecal Coliform,n/a,<,2,MPN/100 mL,SM 9221 E,2,2
 2010/11-4,MO-MEI,field blank,2/17/2011,Bacteriological,Total Coliform,n/a,<,10,MPN/100 mL,MMO-MUG,10,10
 2010/11-4,000NONPJ,matrix spike,3/1/2011,Cation,Calcium,Total,=,51.6,mg/L,EPA 200.7,0.016,0.1
 2010/11-4,000NONPJ,matrix spike dup,3/1/2011,Cation,Calcium,Total,=,50.7,mg/L,EPA 200.7,0.016,0.1

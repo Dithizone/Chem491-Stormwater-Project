@@ -1745,7 +1745,7 @@
 2012/13-2,ME-SCR,matrix spike|| rec,11/21/2012,Anion,Perchlorate,n/a,=,98,%,EPA 314.0,-88,-88
 2012/13-2,ME-SCR,matrix spike|| RPD,11/21/2012,Anion,Perchlorate,n/a,=,2,%,EPA 314.0,-88,-88
 2012/13-2,MO-CAM,field duplicate,11/18/2012,Bacteriological,E. Coli,n/a,=,15531,MPN/100 mL,MMO-MUG,10,10
-2012/13-2,MO-CAM,field duplicate,11/20/2012,Bacteriological,Fecal Coliform,n/a,=,22000,MPN/100 mL,SM,9221,E
+2012/13-2,MO-CAM,field duplicate,11/20/2012,Bacteriological,Fecal Coliform,n/a,=,22000,MPN/100 mL,SM 9221 E,2,2
 2012/13-2,MO-CAM,field duplicate,11/18/2012,Bacteriological,Total Coliform,n/a,=,365400,MPN/100 mL,MMO-MUG,1000,1000
 2012/13-2,Lab,method blank,11/27/2012,Cation,Calcium,Total,<,0.0156,mg/L,EPA 200.7,0.0156,0.1
 2012/13-2,Lab,LCS,11/27/2012,Cation,Calcium,Total,=,47.5,mg/L,EPA 200.7,0.0156,0.1
@@ -4813,7 +4813,7 @@
 2012/13-3,ME-SCR,matrix spike|| rec,3/1/2013,Anion,Perchlorate,n/a,=,90,%,EPA 314.0,-88,-88
 2012/13-3,ME-SCR,matrix spike|| RPD,3/1/2013,Anion,Perchlorate,n/a,=,6,%,EPA 314.0,-88,-88
 2012/13-3,MO-VEN,field blank,2/20/2013,Bacteriological,E. Coli,n/a,<,10,MPN/100 mL,MMO-MUG,10,10
-2012/13-3,MO-VEN,field blank,2/21/2013,Bacteriological,Fecal Coliform,n/a,<,2,MPN/100 mL,SM,9221,E
+2012/13-3,MO-VEN,field blank,2/21/2013,Bacteriological,Fecal Coliform,n/a,<,2,MPN/100 mL,SM 9221 E,2,2
 2012/13-3,MO-VEN,field blank,2/20/2013,Bacteriological,Total Coliform,n/a,<,10,MPN/100 mL,MMO-MUG,10,10
 2012/13-3,Lab,method blank,2/25/2013,Cation,Calcium,Total,<,0.0156,mg/L,EPA 200.7,0.0156,0.1
 2012/13-3,Lab,LCS,2/25/2013,Cation,Calcium,Total,=,46.9,mg/L,EPA 200.7,0.0156,0.1

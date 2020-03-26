@@ -8785,7 +8785,7 @@
 2015/16-3,Lab,LCS,2/23/2016,Anion,Sulfate,Total,=,8.15,mg/L,EPA 300.0,0.1,0.5
 2015/16-3,Lab,LCS|| rec,2/23/2016,Anion,Sulfate,Total,=,102,%,EPA 300.0,-88,-88
 2015/16-3,MO-THO,field duplicate,2/1/2016,Bacteriological,E. Coli,n/a,=,14136,MPN/100 mL,MMO-MUG,10,10
-2015/16-3,MO-THO,field duplicate,2/3/2016,Bacteriological,Fecal Coliform,n/a,>,16000,MPN/100 mL,SM,9221,E
+2015/16-3,MO-THO,field duplicate,2/3/2016,Bacteriological,Fecal Coliform,n/a,>,16000,MPN/100 mL,SM 9221 E,2,2
 2015/16-3,MO-THO,field duplicate,2/1/2016,Bacteriological,Total Coliform,n/a,=,78900,MPN/100 mL,MMO-MUG,1000,1000
 2015/16-3,Lab,method blank,2/8/2016,Cation,Calcium,Total,<,0.016,mg/L,EPA 200.7,0.016,0.1
 2015/16-3,Lab,method blank,2/8/2016,Cation,Calcium,Total,DNQ,0.0225,mg/L,EPA 200.7,0.016,0.1
@@ -8960,8 +8960,8 @@
 2015/16-3,Lab,LCS,2/3/2016,Conventional,MBAS,n/a,=,0.188,mg/L,SM 5540 C,0.019,0.05
 2015/16-3,Lab,LCS|| rec,2/3/2016,Conventional,MBAS,n/a,=,94,%,SM 5540 C,-88,-88
 2015/16-3,Lab,method blank,2/3/2016,Conventional,MBAS,n/a,DNQ,0.0219,mg/L,SM 5540 C,0.019,0.05
-2015/16-3,000NONPJ,lab duplicate,2/1/2016,Conventional,pH,n/a,=,7.6,pH,Units SM 4500-H+,B,0.1
-2015/16-3,Lab,LCS,2/1/2016,Conventional,pH,n/a,=,7.41,pH,Units SM 4500-H+,B,0.1
+2015/16-3,000NONPJ,lab duplicate,2/1/2016,Conventional,pH,n/a,=,7.6,pH Units,SM 4500-H+ B,0.1,0.1
+2015/16-3,Lab,LCS,2/1/2016,Conventional,pH,n/a,=,7.41,pH Units,SM 4500-H+ B,0.1,0.1
 2015/16-3,Lab,LCS|| rec,2/1/2016,Conventional,pH,n/a,=,100,%,SM 4500-H+ B,-88,-88
 2015/16-3,000NONPJ,matrix spike,2/9/2016,Conventional,Phenolics,n/a,=,0.271,mg/L,EPA 420.4,0.0042,0.01
 2015/16-3,000NONPJ,matrix spike|| rec,2/9/2016,Conventional,Phenolics,n/a,=,105,%,EPA 420.4,-88,-88
@@ -15041,7 +15041,7 @@
 2015/16-5,Lab,LCS|| rec,6/24/2016,Anion,Sulfate,Total,=,102,%,EPA 300.0,-88,-88
 2015/16-5,ME-CC,field duplicate,6/24/2016,Bacteriological,E. Coli,n/a,=,98,MPN/100 mL,MMO-MUG,10,10
 2015/16-5,ME-CC,field duplicate,6/24/2016,Bacteriological,Enterococcus,n/a,=,108,MPN/100 mL,Enterolert,10,10
-2015/16-5,ME-CC,field duplicate,6/27/2016,Bacteriological,Fecal Coliform,n/a,=,540,MPN/100 mL,SM,9221,E
+2015/16-5,ME-CC,field duplicate,6/27/2016,Bacteriological,Fecal Coliform,n/a,=,540,MPN/100 mL,SM 9221 E,2,2
 2015/16-5,ME-CC,field duplicate,6/24/2016,Bacteriological,Total Coliform,n/a,=,92080,MPN/100 mL,MMO-MUG,100,100
 2015/16-5,000NONPJ,matrix spike,6/27/2016,Cation,Calcium,Total,=,156,mg/L,EPA 200.7,0.016,0.1
 2015/16-5,000NONPJ,matrix spike|| rec,6/27/2016,Cation,Calcium,Total,=,96,%,EPA 200.7,-88,-88

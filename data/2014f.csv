@@ -54,7 +54,7 @@
 2013/14-1,Lab,method blank,12/19/2013,Anion,Perchlorate,n/a,<,0.95,µg/L,EPA 314.0,0.95,2
 2013/14-1,MO-THO,field blank,12/8/2013,Bacteriological,E. Coli,n/a,<,10,MPN/100 mL,MMO-MUG,10,10
 2013/14-1,MO-THO,field blank,12/8/2013,Bacteriological,Enterococcus,n/a,<,10,MPN/100 mL,Enterolert,10,10
-2013/14-1,MO-THO,field blank,12/9/2013,Bacteriological,Fecal Coliform,n/a,<,2,MPN/100 mL,SM,9221,E
+2013/14-1,MO-THO,field blank,12/9/2013,Bacteriological,Fecal Coliform,n/a,<,2,MPN/100 mL,SM 9221 E,2,2
 2013/14-1,MO-THO,field blank,12/9/2013,Bacteriological,Total Coliform,n/a,<,2,MPN/100 mL,MMO-MUG,2,2
 2013/14-1,Lab,method blank,12/24/2013,Cation,Calcium,Total,<,0.016,mg/L,EPA 200.7,0.016,0.1
 2013/14-1,Lab,LCS,12/24/2013,Cation,Calcium,Total,=,48.9,mg/L,EPA 200.7,0.016,0.1
@@ -3173,7 +3173,7 @@
 2013/14-2,ME-CC,matrix spike|| rec,2/15/2014,Anion,Perchlorate,n/a,=,117,%,EPA 314.0,-88,-88
 2013/14-2,ME-CC,matrix spike|| RPD,2/15/2014,Anion,Perchlorate,n/a,=,2,%,EPA 314.0,-88,-88
 2013/14-2,MO-OXN,field duplicate,2/7/2014,Bacteriological,E. Coli,n/a,=,369,MPN/100 mL,MMO-MUG,10,10
-2013/14-2,MO-OXN,field duplicate,2/9/2014,Bacteriological,Fecal Coliform,n/a,=,1100,MPN/100 mL,SM,9221,E
+2013/14-2,MO-OXN,field duplicate,2/9/2014,Bacteriological,Fecal Coliform,n/a,=,1100,MPN/100 mL,SM 9221 E,2,2
 2013/14-2,MO-OXN,field duplicate,2/7/2014,Bacteriological,Total Coliform,n/a,=,2613,MPN/100 mL,MMO-MUG,10,10
 2013/14-2,Lab,method blank,2/12/2014,Cation,Calcium,Total,<,0.016,mg/L,EPA 200.7,0.016,0.1
 2013/14-2,Lab,LCS,2/12/2014,Cation,Calcium,Total,=,52.8,mg/L,EPA 200.7,0.016,0.1
@@ -11803,26 +11803,26 @@
 2013/14-4,MO-CAM,matrix spike dup|| rec,4/26/2014,Anion,Perchlorate,n/a,=,113,%,EPA 314.0,-88,-88
 2013/14-4,MO-CAM,matrix spike|| rec,4/26/2014,Anion,Perchlorate,n/a,=,114,%,EPA 314.0,-88,-88
 2013/14-4,MO-CAM,matrix spike|| RPD,4/26/2014,Anion,Perchlorate,n/a,=,0.3,%,EPA 314.0,-88,-88
-2013/14-4,Lab,method blank,4/17/2014,Bacteriological,E. Coli,n/a,<,1,MPN/100 mL,SM,9223,B
-2013/14-4,Lab,method blank,4/17/2014,Bacteriological,E. Coli,n/a,<,1,MPN/100 mL,SM,9223,B
-2013/14-4,Lab,method blank,4/24/2014,Bacteriological,E. Coli,n/a,<,1,MPN/100 mL,SM,9223,B
-2013/14-4,Lab,method blank,4/26/2014,Bacteriological,E. Coli,n/a,<,1,MPN/100 mL,SM,9223,B
-2013/14-4,Lab,method blank,4/26/2014,Bacteriological,E. Coli,n/a,<,1,MPN/100 mL,SM,9223,B
-2013/14-4,Lab,method blank,4/17/2014,Bacteriological,Enterococcus,n/a,<,1,MPN/100 mL,SM,9230,D
-2013/14-4,Lab,method blank,4/17/2014,Bacteriological,Enterococcus,n/a,<,1,MPN/100 mL,SM,9230,D
-2013/14-4,Lab,method blank,4/24/2014,Bacteriological,Enterococcus,n/a,<,1,MPN/100 mL,SM,9230,D
-2013/14-4,Lab,method blank,4/26/2014,Bacteriological,Enterococcus,n/a,<,1,MPN/100 mL,SM,9230,D
-2013/14-4,Lab,method blank,4/26/2014,Bacteriological,Enterococcus,n/a,<,1,MPN/100 mL,SM,9230,D
-2013/14-4,Lab,method blank,4/17/2014,Bacteriological,Fecal Coliform,n/a,<,2,MPN/100 mL,SM,9221,E
-2013/14-4,Lab,method blank,4/17/2014,Bacteriological,Fecal Coliform,n/a,<,2,MPN/100 mL,SM,9221,E
-2013/14-4,Lab,method blank,4/24/2014,Bacteriological,Fecal Coliform,n/a,<,2,MPN/100 mL,SM,9221,E
-2013/14-4,Lab,method blank,4/26/2014,Bacteriological,Fecal Coliform,n/a,<,2,MPN/100 mL,SM,9221,E
-2013/14-4,Lab,method blank,4/26/2014,Bacteriological,Fecal Coliform,n/a,<,2,MPN/100 mL,SM,9221,E
-2013/14-4,Lab,method blank,4/17/2014,Bacteriological,Total Coliform,n/a,<,1,MPN/100 mL,SM,9223,B
-2013/14-4,Lab,method blank,4/17/2014,Bacteriological,Total Coliform,n/a,<,1,MPN/100 mL,SM,9223,B
-2013/14-4,Lab,method blank,4/24/2014,Bacteriological,Total Coliform,n/a,<,1,MPN/100 mL,SM,9223,B
-2013/14-4,Lab,method blank,4/26/2014,Bacteriological,Total Coliform,n/a,<,1,MPN/100 mL,SM,9223,B
-2013/14-4,Lab,method blank,4/26/2014,Bacteriological,Total Coliform,n/a,<,1,MPN/100 mL,SM,9223,B
+2013/14-4,Lab,method blank,4/17/2014,Bacteriological,E. Coli,n/a,<,1,MPN/100 mL,SM 9223 B,1,1
+2013/14-4,Lab,method blank,4/17/2014,Bacteriological,E. Coli,n/a,<,1,MPN/100 mL,SM 9223 B,1,1
+2013/14-4,Lab,method blank,4/24/2014,Bacteriological,E. Coli,n/a,<,1,MPN/100 mL,SM 9223 B,1,1
+2013/14-4,Lab,method blank,4/26/2014,Bacteriological,E. Coli,n/a,<,1,MPN/100 mL,SM 9223 B,1,1
+2013/14-4,Lab,method blank,4/26/2014,Bacteriological,E. Coli,n/a,<,1,MPN/100 mL,SM 9223 B,1,1
+2013/14-4,Lab,method blank,4/17/2014,Bacteriological,Enterococcus,n/a,<,1,MPN/100 mL,SM 9230 D,1,1
+2013/14-4,Lab,method blank,4/17/2014,Bacteriological,Enterococcus,n/a,<,1,MPN/100 mL,SM 9230 D,1,1
+2013/14-4,Lab,method blank,4/24/2014,Bacteriological,Enterococcus,n/a,<,1,MPN/100 mL,SM 9230 D,1,1
+2013/14-4,Lab,method blank,4/26/2014,Bacteriological,Enterococcus,n/a,<,1,MPN/100 mL,SM 9230 D,1,1
+2013/14-4,Lab,method blank,4/26/2014,Bacteriological,Enterococcus,n/a,<,1,MPN/100 mL,SM 9230 D,1,1
+2013/14-4,Lab,method blank,4/17/2014,Bacteriological,Fecal Coliform,n/a,<,2,MPN/100 mL,SM 9221 E,2,2
+2013/14-4,Lab,method blank,4/17/2014,Bacteriological,Fecal Coliform,n/a,<,2,MPN/100 mL,SM 9221 E,2,2
+2013/14-4,Lab,method blank,4/24/2014,Bacteriological,Fecal Coliform,n/a,<,2,MPN/100 mL,SM 9221 E,2,2
+2013/14-4,Lab,method blank,4/26/2014,Bacteriological,Fecal Coliform,n/a,<,2,MPN/100 mL,SM 9221 E,2,2
+2013/14-4,Lab,method blank,4/26/2014,Bacteriological,Fecal Coliform,n/a,<,2,MPN/100 mL,SM 9221 E,2,2
+2013/14-4,Lab,method blank,4/17/2014,Bacteriological,Total Coliform,n/a,<,1,MPN/100 mL,SM 9223 B,1,1
+2013/14-4,Lab,method blank,4/17/2014,Bacteriological,Total Coliform,n/a,<,1,MPN/100 mL,SM 9223 B,1,1
+2013/14-4,Lab,method blank,4/24/2014,Bacteriological,Total Coliform,n/a,<,1,MPN/100 mL,SM 9223 B,1,1
+2013/14-4,Lab,method blank,4/26/2014,Bacteriological,Total Coliform,n/a,<,1,MPN/100 mL,SM 9223 B,1,1
+2013/14-4,Lab,method blank,4/26/2014,Bacteriological,Total Coliform,n/a,<,1,MPN/100 mL,SM 9223 B,1,1
 2013/14-4,000NONPJ,matrix spike,4/23/2014,Cation,Calcium,Total,=,458,mg/L,EPA 200.7,0.016,0.1
 2013/14-4,000NONPJ,matrix spike|| rec,4/23/2014,Cation,Calcium,Total,=,123,%,EPA 200.7,-88,-88
 2013/14-4,000NONPJ,matrix spike dup,4/23/2014,Cation,Calcium,Total,=,446,mg/L,EPA 200.7,0.016,0.1

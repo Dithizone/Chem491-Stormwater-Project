@@ -139,7 +139,7 @@ years = [2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019]
 
 
 def printthedetails(dataframe):
-    for m in [0, 1, 2, 3, 4, 5, 6, 7, 9, 10, 11, 12]:
+    for m in [0, 1, 2, 3, 4, 5, 6, 7, 9, 10]:
         print(f'{theheaders[m]} ({m}):')
         for n in dataframe.iloc[:, m].unique():
             if m == 2 or m == 5:
