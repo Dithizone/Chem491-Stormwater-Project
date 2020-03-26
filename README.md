@@ -1,7 +1,7 @@
 # Chem491-Stormwater-Project
 This is the repository for the stormwater data mining project at CSU Channel Islands! We can imagine this project in a few discrete stages &mdash; Data acquisition, data cleaning and arranging, data exploration (e.g., PCA, covariance), and then the pretty graphs and charts.
 
-### Data acquisition (in progress)
+### Data acquisition (F data complete, G data in progress)
 There are quite a few Python libraries which deal with PDFs, but they either haven't been maintained or require lots of additional installs like Visual Studio C++, so the text from each PDF was extracted by ctrl-A and pasted into text files (see, e.g., ```data/raw/2019fg```). The data tables were then extracted and separated by whether they came from Appendix F or G (*F data* and *G data*, respectively), and molded into a .csv format.
 
 The F data is complete and the G data is still in progress. Presently, the data is arranged exactly as it is in the PDFs, but will be more useful with pollutants along one axis and dates along another (and maybe sampling station along a third).
