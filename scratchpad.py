@@ -1,10 +1,14 @@
 # This is a scratchpad for trying things out.
-# Most recently (2020.03.28), this is generating data to motivate FixingFData.py
+# Most recently (2020.03.29), this is determining whether
+# 'Wet' and 'Dry' are word I can anchor the G data to.
 
 import pandas as pd
 from UsefulThings import theheaders
 from UsefulThings import printthedetails
+from UsefulThings import fevents
 from UsefulThings import gsites
+from UsefulThings import datanames
+import re
 
 # df2011f = pd.read_csv('data/2011f.csv', names=theheaders, index_col=None)
 # df2012f = pd.read_csv('data/2012f.csv', names=theheaders, index_col=None)
@@ -16,55 +20,32 @@ from UsefulThings import gsites
 # df2018f = pd.read_csv('data/2018f.csv', names=theheaders, index_col=None)
 # df2019f = pd.read_csv('data/2019f.csv', names=theheaders, index_col=None)
 
-TheFData = pd.read_csv('data/TheFDataComplete.csv.csv')
+uniques = []
+totalgdata = 0
+wet = 0
+dry = 0
 
-print('The QAQC Sample Types:')
-for i in TheFData.loc[:, 'QAQC Sample Type'].unique():
-    print(f'"{i}",')
+for name in datanames:
+    with open(file=f'data/precsv/precsv{name}.txt', mode='r') as file:
+        precsv = file.read().replace(',', '||').split(sep='\n')
+        for i in range(len(precsv)):
+            splitprecsv = precsv[i].split(sep=' ')
+            if splitprecsv[0] not in fevents:
+                if splitprecsv[0] != '':
+                    totalgdata += 1
+                    if splitprecsv[2] not in uniques:
+                        uniques.append(splitprecsv[2])
+                        print(f'{splitprecsv[2]}\t\t(in {name})')
+                    for k in splitprecsv:
+                        if re.search('Dry', k) is not None:
+                            wet += 1
+                        if re.search('Wet', k) is not None:
+                            dry += 1
 
-print('\nThe Site IDs:')
-for j in TheFData.loc[:, 'Site ID'].unique():
-    print(f'"{j}",')
+print('\n')
+print('The entire list (omitting fevents):')
+for j in uniques:
+    if j not in fevents:
+        print(j)
 
-print('\n<<<All of the above seem reasonable.>>>')
-
-QAQCwhichseemwrong = ["Blank (distille equip blank",
-                      "Blank (distille srgt equip blank",
-                      "Blank (distille srgt equip blank|| rec",
-                      "(old) equip blank",
-                      "2L (plastic) equip blank",
-                      "(old) srgt equip blank",
-                      "(old) srgt equip blank|| rec",
-                      "2L (plastic) srgt equip blank",
-                      "2L (plastic) srgt equip blank|| rec",
-                      "(HNO3||methanol) equip blank",
-                      "(HNO3||methanol) srgt equip blank",
-                      "(HNO3||methanol)srgt equip blank|| rec",
-                      "Blank (HNO3||me equip blank",
-                      "Blank (HNO3||me matrix spike",
-                      "Blank (HNO3||me matrix spike|| rec",
-                      "Blank (HNO3||me matrix spike dup",
-                      "Blank (HNO3||me matrix spike dup|| rec",
-                      "Blank (HNO3||me matrix spike|| RPD",
-                      "Blank (HNO3||me srgt matrix spike",
-                      "Blank (HNO3||me srgt matrix spike|| rec",
-                      "Blank (HNO3||me srgt matrix spike dup",
-                      "Blank (HNO3||me srgt matrix spike dup|| rec",
-                      "Blank (HNO3||me srgt equip blank",
-                      "Blank (HNO3||me srgt equip blank|| rec",
-                      " srgt environ",
-                      " srgt environ|| rec"]  # These have been fixed now.
-
-SiteIDwhichseemwrong = ["RC",
-                        "ubing",
-                        "Rinse",
-                        "y"]  # These have been fixed now.
-
-# Let's look at the entries which contains these
-#
-#
-# for i in range(len(QAQCwhichseemwrong)):
-#     thewwrongentries = TheFData.loc[:, 'QAQC Sample Type'] == QAQCwhichseemwrong[i]
-#     print(f'\nRows with {QAQCwhichseemwrong[i]}')
-#     print(TheFData[thewwrongentries].iloc[:, [0, 1, 2]])
-#     print(TheFData[thewwrongentries].iloc[:, [0, 1, 2]].shape)
+print(f'\nTotal of {totalgdata} entries in G data. Also, {wet} Wet and {dry} Dry, total {wet + dry}.')
