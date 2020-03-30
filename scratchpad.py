@@ -1,6 +1,7 @@
 # This is a scratchpad for trying things out.
 # Most recently (2020.03.29), this is determining whether
-# 'Wet' and 'Dry' are word I can anchor the G data to.
+# 'Wet' and 'Dry' are words I can anchor the G data to.
+# Also, "AM" and "PM."
 
 import pandas as pd
 from UsefulThings import theheaders
@@ -24,6 +25,8 @@ uniques = []
 totalgdata = 0
 wet = 0
 dry = 0
+AM = 0
+PM = 0
 
 for name in datanames:
     with open(file=f'data/precsv/precsv{name}.txt', mode='r') as file:
@@ -41,6 +44,10 @@ for name in datanames:
                             wet += 1
                         if re.search('Wet', k) is not None:
                             dry += 1
+                        if re.search('^AM$', k) is not None:
+                            AM += 1
+                        if re.search('^PM$', k) is not None:
+                            PM += 1
 
 print('\n')
 print('The entire list (omitting fevents):')
@@ -49,3 +56,4 @@ for j in uniques:
         print(j)
 
 print(f'\nTotal of {totalgdata} entries in G data. Also, {wet} Wet and {dry} Dry, total {wet + dry}.')
+print(f'AM and PM occur {AM} and {PM} times, respectively. Total: {AM + PM}')  # More than 101617 *cry emoji*
