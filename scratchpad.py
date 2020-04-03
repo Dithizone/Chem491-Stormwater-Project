@@ -1,7 +1,6 @@
 # This is a scratchpad for trying things out.
-# Most recently (2020.03.29), this is determining whether
-# 'Wet' and 'Dry' are words I can anchor the G data to.
-# Also, "AM" and "PM."
+# Most recently (2020.4.2), this is double-checking that
+# we got all the G data.
 
 import pandas as pd
 from UsefulThings import theheaders
@@ -23,10 +22,9 @@ import re
 
 uniques = []
 totalgdata = 0
-wet = 0
-dry = 0
-AM = 0
-PM = 0
+totalgdataincsv = 0
+totalgdatain2011 = 0
+GDatafiles = ['2012g', '2013g', '2015g', '2016g', '2017g', '2018g', '2019g']
 
 for name in datanames:
     with open(file=f'data/precsv/precsv{name}.txt', mode='r') as file:
@@ -36,24 +34,19 @@ for name in datanames:
             if splitprecsv[0] not in fevents:
                 if splitprecsv[0] != '':
                     totalgdata += 1
-                    if splitprecsv[2] not in uniques:
-                        uniques.append(splitprecsv[2])
-                        print(f'{splitprecsv[2]}\t\t(in {name})')
-                    for k in splitprecsv:
-                        if re.search('Dry', k) is not None:
-                            wet += 1
-                        if re.search('Wet', k) is not None:
-                            dry += 1
-                        if re.search('^AM$', k) is not None:
-                            AM += 1
-                        if re.search('^PM$', k) is not None:
-                            PM += 1
 
-print('\n')
-print('The entire list (omitting fevents):')
-for j in uniques:
-    if j not in fevents:
-        print(j)
+for individualfile in GDatafiles:
+    with open(file=f'data/{individualfile}.csv', mode='r') as file2:
+        csv = file2.read().replace(',', '||').split(sep='\n')
+        totalgdataincsv += len(csv)
 
-print(f'\nTotal of {totalgdata} entries in G data. Also, {wet} Wet and {dry} Dry, total {wet + dry}.')
-print(f'AM and PM occur {AM} and {PM} times, respectively. Total: {AM + PM}')  # More than 101617 *cry emoji*
+with open(file=f'data/precsv/precsv2011fg.txt', mode='r') as file3:
+    precsv3 = file3.read().replace(',', '||').split(sep='\n')
+    for i in range(len(precsv3)):
+        splitprecsv3 = precsv3[i].split(sep=' ')
+        if splitprecsv3[0] not in fevents:
+            if splitprecsv3[0] != '':
+                totalgdatain2011 += 1
+
+print(f'\nTotal of {totalgdata} entries in G data from precsv. Without 2011, {totalgdata - totalgdatain2011}.')
+print(f'\nAnd the total in the csv files is {totalgdataincsv}.')
