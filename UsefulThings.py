@@ -135,11 +135,11 @@ theheaders = ['Event ID',
               'MDL',
               'RL']
 
-thegheaders = ["SiteID",
+thegheaders = ["Site ID",
                "Event",
-               "EventType",
-               "SampleDate",
-               "AnalysisDate",
+               "Event Type",
+               "Sample Date",
+               "Analysis Date",
                "Constituent",
                "Fraction",
                "Sign",
@@ -147,8 +147,8 @@ thegheaders = ["SiteID",
                "Units",
                "Method",
                "MDL",
-               "ReportingLimit",
-               "AnalyzingLaboratory"]
+               "Reporting Limit",
+               "Analyzing Laboratory"]
 
 years = [2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019]
 
@@ -163,3 +163,11 @@ def printthedetails(dataframe):
             if m != 2 and m != 5:
                 print(f'\t{n}')
         print('\n')
+
+
+def printthegdetails(dataframe):
+    """This prints all the unique values for columns specific to the G data from the chosen dataframe."""
+    for p in [0, 1, 2, 5, 6, 7, 9, 10, 11, 13]:
+        print(f'\n{thegheaders[p]} ({p}):')
+        for q in dataframe.iloc[:, p].unique():
+            print(f'\t{q}')
