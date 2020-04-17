@@ -196,7 +196,8 @@ def linePlotTheThing(dataframetoplot,
                      islogscale=False,
                      figuredimensions=(8, 6),
                      filepathtosavepng=None,
-                     legend=False):
+                     legend=False,
+                     showplot=True):
     dataframetoplot.plot(kind='line',
                          y=columntoplot,
                          color=color,
@@ -212,7 +213,8 @@ def linePlotTheThing(dataframetoplot,
                     orientation="landscape",
                     pad_inches=0.2,
                     dpi=600)
-    return plt.show()
+    if showplot is True:
+        return plt.show()
 
 
 def saveThisGraph(filepathtosavepng):
@@ -227,7 +229,8 @@ def linePlotAllTheThings(dataframetoplot,
                          xaxislabel=None,
                          yaxislabel=None,
                          figuredimensions=(8, 6),
-                         filepathtosavepng=None):
+                         filepathtosavepng=None,
+                         showplot=True):
     plt.figure(figsize=figuredimensions)
     for k in columnstoplot:
         plt.plot(dataframetoplot.loc[:, k], label=f'{k}')
@@ -237,4 +240,5 @@ def linePlotAllTheThings(dataframetoplot,
     plt.ylabel(yaxislabel)
     if filepathtosavepng is not None:
         saveThisGraph(filepathtosavepng)
-    return plt.show()
+    if showplot is True:
+        return plt.show()
