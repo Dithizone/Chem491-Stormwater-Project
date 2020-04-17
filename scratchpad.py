@@ -10,6 +10,7 @@ from UsefulThings import gsites
 from UsefulThings import datanames
 import re
 
+# Note: These are now in 'data/prepivot/2011f.csv, if we need them again
 # df2011f = pd.read_csv('data/2011f.csv', names=theheaders, index_col=None)
 # df2012f = pd.read_csv('data/2012f.csv', names=theheaders, index_col=None)
 # df2013f = pd.read_csv('data/2013f.csv', names=theheaders, index_col=None)
