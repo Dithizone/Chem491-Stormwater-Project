@@ -132,7 +132,10 @@ monitoringStations = ['MO-CAM',
                       'MO-SIM',
                       'MO-SPA',
                       'MO-THO',
-                      'MO-VEN']
+                      'MO-VEN',
+                      'ME-CC',
+                      'ME-SCR',
+                      'ME-VR2']
 
 theheaders = ['Event ID',
               'Site ID',
