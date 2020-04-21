@@ -7,6 +7,8 @@
 # from PubChem automatically using BeautifulSoup4 but we're
 # on the clock.
 
+# This script performed its job admirably!
+
 import pandas as pd
 import matplotlib.pyplot as plt
 from UsefulThings import monitoringStations
@@ -16,7 +18,7 @@ unitstokeep = ['mg/L', 'µg/L', 'ng/L']
 # It turns out I should've actually read a little about
 # each data set because the F data is just QAQC stuff
 # and not actually useful for our project... *crying emoji*
-theGData = pd.read_csv('data/prepivot/TheGDataComplete.csv', parse_dates=['Sample Date', 'Analysis Date'])
+theGData = pd.read_csv('../data/prepivot/TheGDataComplete.csv', parse_dates=['Sample Date', 'Analysis Date'])
 
 ourGData_ng = theGData[theGData['Units'] == 'ng/L']
 
