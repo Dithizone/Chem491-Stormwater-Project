@@ -1,6 +1,10 @@
 # This is a collection of useful functions, lists, and such
 # so they don't clutter up other working files!
 
+# See if I can load DataFrames here, create a list of
+# DataFrames here, and just import them as a list to unclutter
+# other scripts/notebooks. TODO: Try this DataFrame loading idea.
+
 import matplotlib.pyplot as plt
 
 datanames = ['2019fg',
@@ -136,6 +140,21 @@ monitoringStations = ['MO-CAM',
                       'ME-CC',
                       'ME-SCR',
                       'ME-VR2']
+stationIDsAndSelectedRainfallStation = {'Website to find locations': 'https://www.vcwatershed.net/fws/gmap.html',
+                                        'MO-CAM': 'H259 Camarillo-PVWD (a bit south)',
+                                        'MO-FIL': 'H199A (South side of Fillmore by Santa Clara river)',
+                                        'MO-HUE': '017C Port Hueneme - Oxnard Sewer Plant (nearby)',
+                                        'MO-MEI': 'H218 (adjacent)',
+                                        'MO-MPK': 'H508 (Southwest in Moorpark)',
+                                        'MO-OJA': 'H030D (adjacent)',
+                                        'MO-OXN': 'H239 El Rio spreading ground (MO-OXN isn\'t on map but this seems close)',
+                                        'MO-SIM': 'H506 (Just east of the Reagan Library)',
+                                        'MO-SPA': 'H245A (North side of Santa Paula), except for 2010 which is H245B',
+                                        'MO-THO': 'H188 (In Newbury Park... but that\'s where THO seems to be in the image)',
+                                        'MO-VEN': 'H175A Saticoy-County Yard (upstream a ways from MO-VEN, but along Santa Clara river)',
+                                        'ME-CC': 'H505 (Right by CSUCI, incidentally)',
+                                        'ME-SCR': 'Use H175A just like MO-VEN (positioned in between MO-VEN and ME-SCR along Santa Clara river)',
+                                        'ME-VR2': 'H122, Ventura-Kingston Reservoir (Right next to ME-VR2)'}
 
 theheaders = ['Event ID',
               'Site ID',

@@ -1,12 +1,12 @@
-# This will either fix the rainfall data or analyze it,
-# depending on how useful the data is in the form we
-# get it.
-
-# Rainfall data can be found here:
+# This will need to scrub the data of unnecessary (but helpful!)
+# data at the top and bottom of the rainfall stuff, and turn it
+# into something Pandas-able. Rainfall data can be found here:
 # https://www.vcwatershed.net/hydrodata/php/getstations.php?dataset=rain_day&order=name
 
-# To move forward with this, we need to know which monitoring
-# stations we're interested in. Actually... let's do this:
-# TODO: Determine which stations we want rainfall data from.
+# The location of the rainfall data is data/rainfall/for <station name>
 
-print('More will come!')
+from UsefulThings import stationIDsAndSelectedRainfallStation
+
+# Prints the rainfall data info I scribbled down
+for i in stationIDsAndSelectedRainfallStation.keys():
+    print(f'{i}:\t{stationIDsAndSelectedRainfallStation[i]}')
