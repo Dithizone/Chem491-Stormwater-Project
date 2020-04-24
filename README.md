@@ -1,8 +1,8 @@
 # Chem491-Stormwater-Project
-(Current as of 2020.4.3)
+(Current as of 2020.4.23)
 
 This is the repository for the stormwater data mining project at 
-CSU Channel Islands!We can imagine this project in a few discrete 
+CSU Channel Islands! We can imagine this project in a few discrete 
 stages &mdash; Data acquisition, data wrangling and arranging, 
 data exploration (e.g., PCA, covariance), and then the pretty 
 graphs and charts.
@@ -23,33 +23,35 @@ fixes of errors due to my extracting method (e.g. ```y,Blank (HNO3||me equip bla
 had to be converted to ```Carboy Blank (HNO3||methanol),equip blank```). 
 These fixes can be seen in **historical/FixingFData.py** and **historical/FixingGData.py**.
 
-Presently (2020.4.3), the data is arranged exactly as it is in the PDFs, but will 
-be more useful with pollutants along one axis and dates along another 
-(and maybe sampling station along a third).
+### Data arranging (Complete, with disclaimer)
+Presently (2020.4.23), the data has since been converted so rows are dates and columns
+are contituents, and separated by monitoring station. The resulting data sets have a 
+shape of about (50, 200). This was done by **historical/pivotTable.py** and the (rough)
+results can be seen in **StormwaterAnalysis.ipynb**
 
-### Data arranging (About to start)
-I imagine the structure will be ```index='Sample Dates'``` and ```header='Constituents'``` 
-for covariance tests and a transpose will need to be done for PCA. Pollutants 
-and analysis method will need to be combined (e.g., "Copper (LCS)" and "Copper 
-(Matrix Spike)") so the ```Result``` column can be used as the values after 
-doing the ```pandas.DataFrame.pivot_table()``` thing.
+Disclaimer: The data has holes (which is problematic for many analyses) which might
+be fixable by condensing dates from, say, ```2011-10-05 06:30:00``` and ```2011-10-05 13:50:00```
+into a single date, ```2011-10-05```, or squishing into a range of several days.
 
-One option for arranging: we could create a 3-way tensor 
-```(sampling date, pollutant name, sampling location)``` if I get proficient 
-enough in that soon. Alternatively, a 2-way tensor ```(sampling date, pollutant name)``` 
-can be created for each sample station individually, which might be more manageable 
-in Excel.
+I have worked with tensors and two decomposition methods (canonical polyadic and Tucker),
+but since we're not looking at relationships between constituents or stations and instead
+looking at these data relative to wildfires (not part of the tensor), this seems irrelevant.
 
-### Data exploration
-Clustering in PCA will reveal if certain pollutants are related and 
-correlate with each other, especially in wildfire-relevant times, as 
-will covariance. NMF may be valuable if some pollutant behaviors are 
-wildfire-dependant and others are not.
+### Additional data and future plans
+Rainfall data (```data\rainfall\for <station name>```) has been collected, and the station and
+wildfire locations are being assembled in Google Earth to aid in selecting specific stations
+to explore.
 
-Anyway, this is where the fun begins! We'll just have to get creative.
+Daphnia endpoint toxicity data is also being collected, to compare endpoint concentrations with 
+pre- and post-fire levels in Ventura County, and/or to create plausible dose response curves 
+(potentially using logit or probit models, as time permits).
 
-### PG;NP
-Maybe determining a non-wildfire rhythm and subtracting it out (i.e. 
-graphing only the pollutants' deviation from typical behavior) will 
-be the most elegant way of making pretty pictures. We'll see what the 
-exploration stage shows, though!
+Data concerning the Carr fire in northern California is also being sought, to explore 
+similarities/differences between the two environments.
+
+### Future plans
+Once the stations and wildfire locations are assembled, specific subsets of our data can be
+chosen for exploration to see changes after the fire.
+
+Additionally, two other avenues of exploration (dose response prediction and NorCal/SoCal
+comparison) will progress once data is procured.
