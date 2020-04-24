@@ -155,6 +155,21 @@ stationIDsAndSelectedRainfallStation = {'Website to find locations': 'https://ww
                                         'ME-CC': 'H505 (Right by CSUCI, incidentally)',
                                         'ME-SCR': 'Use H175A just like MO-VEN (positioned in between MO-VEN and ME-SCR along Santa Clara river)',
                                         'ME-VR2': 'H122, Ventura-Kingston Reservoir (Right next to ME-VR2)'}
+monitoringStationCoords = {'Station': ['Latitude', 'Longitude'],
+                           'MO-CAM': [34.219492, -119.066173],
+                           'MO-FIL': [34.405355, -118.929577],
+                           'MO-HUE': [34.140853, -119.187986],
+                           'MO-MEI': [34.443184, -119.278031],
+                           'MO-MPK': [34.279133, -118.905403],
+                           'MO-OJA': [34.444788, -119.241287],
+                           'MO-OXN': [34.236975, -119.184792],
+                           'MO-SIM': [34.271909, -118.781102],
+                           'MO-SPA': [34.358091, -119.049187],
+                           'MO-THO': [34.213262, -118.921535],
+                           'MO-VEN': [34.245438, -119.19175],
+                           'ME-CC': [34.179189, -119.039648],
+                           'ME-SCR': [34.301172, -119.110343],
+                           'ME-VR2': [34.344223, -119.299081]}
 
 theheaders = ['Event ID',
               'Site ID',
