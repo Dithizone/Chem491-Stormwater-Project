@@ -292,6 +292,7 @@ class NewData:
     def showuniques(self, column):
         for i in self.data[column].unique():
             print(i)
+        print(f'Total: {len(self.data[column].unique())}')
 
     def selectJustRowsWith(self, entry, incolumn):
         smallerdata = self.data[self.data[incolumn] == entry]

@@ -12,4 +12,6 @@ columns = tubbsdata.columns
 # units = tubbsdata.showuniques('Unit')
 
 print(columns)
-dates = tubbsdata.showuniques('SampleDate')  # 2018-02-14 to 2018-11-23, oh no
+tubbsdata.showuniques('SampleDate')  # 2018-02-14 to 2018-11-23, oh no
+tubbsdata.showuniques('StationName')
+tubbsdata.showuniques('StationCode')
