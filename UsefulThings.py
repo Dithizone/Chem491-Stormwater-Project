@@ -6,6 +6,7 @@
 # other scripts/notebooks. TODO: Try this DataFrame loading idea.
 
 import matplotlib.pyplot as plt
+import pandas as pd
 
 datanames = ['2019fg',
              '2018fg',
@@ -279,3 +280,19 @@ def linePlotAllTheThings(dataframetoplot,
         saveThisGraph(filepathtosavepng)
     if showplot is True:
         return plt.show()
+
+
+class NewData:
+    def __init__(self, filepath, sep=','):
+        self.datalocation = filepath
+        data = pd.read_csv(filepath_or_buffer=filepath, sep=sep)
+        self.columns = data.columns.values
+        self.data = data
+
+    def showuniques(self, column):
+        for i in self.data[column].unique():
+            print(i)
+
+    def selectJustRowsWith(self, entry, incolumn):
+        smallerdata = self.data[self.data[incolumn] == entry]
+        return smallerdata
