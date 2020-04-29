@@ -6,6 +6,9 @@ import matplotlib.pyplot as plt
 from UsefulThings import NewData
 
 # Fire data for Tubbs and others can be found at https://rmgsc.cr.usgs.gov/outgoing/GeoMAC/
+# Fires in data/shapefiles were chosen by cross-referencing fires with
+# those from Ventura county according to e.g. https://en.wikipedia.org/wiki/2017_California_wildfires
+
 tubbsdata = NewData('data/tubbsFire/ceden_data_20200417023345.txt', sep='|')
 
 # analytes = tubbsdata.showuniques('Analyte')
