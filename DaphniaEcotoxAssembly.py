@@ -58,4 +58,6 @@ ecotoxdataframe = ecotoxdata[columnsIwant]
 ecotoxdataframe = ecotoxdataframe[ecotoxdataframe['Organism Lifestage'] == 'Neonate']\
     .sort_values(by='Chemical Name', ascending=False).reset_index()
 print(ecotoxdataframe.shape)  # (1007, 41)
+
+# Saving as a file
 ecotoxdataframe.to_csv(path_or_buf='data/ecotox/DaphniaECOTOX.csv')
