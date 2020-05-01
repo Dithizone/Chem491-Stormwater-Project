@@ -297,3 +297,4 @@ class NewData:
     def selectJustRowsWith(self, entry, incolumn):
         smallerdata = self.data[self.data[incolumn] == entry]
         return smallerdata
+

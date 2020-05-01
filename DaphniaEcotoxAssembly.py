@@ -5,14 +5,57 @@ import pandas as pd
 import matplotlib.pyplot as plt
 from UsefulThings import NewData
 
-ecotoxdata = NewData(filepath='data/ecotox/aquatic report; Daphnia Magna.csv')
-print(ecotoxdata.showuniques('Endpoint'))  # Shows 'None' as an endpoint?
+columnsIwant = ['Test Number',
+                'CAS Number',
+                'Chemical Name',
+                'Test Method',
+                'Species Scientific Name',
+                'Organism Lifestage',
+                'Organism Age Mean',
+                'Organism Age Min',
+                'Organism Age Max',
+                'Age Units',
+                'Exposure Type',
+                'Media Type',
+                'Test Location',
+                'Number of Doses',
+                'Conc 1 Type (Standardized)',
+                'Conc 1 Mean (Standardized)',
+                'Conc 1 Min (Standardized)',
+                'Conc 1 Max (Standardized)',
+                'Conc 1 Units (Standardized)',
+                'Effect',
+                'Effect Measurement',
+                'Endpoint',
+                'Observed Duration Mean (Days)',
+                'Observed Duration Min (Days)',
+                'Observed Duration Max (Days)',
+                'Observed Duration Units (Days)',
+                'Test Type',
+                'Temperature Mean',
+                'Temperature Min',
+                'Temperature Max',
+                'Temperature Units',
+                'Hardness Mean',
+                'Hardness Min',
+                'Hardness Max',
+                'Hardness Units',
+                'pH Mean',
+                'pH Min',
+                'pH Max',
+                'Author',
+                'Title',
+                'Publication Year']
 
-# (My cool NewData class has limitations)
-ecotox = pd.read_csv(filepath_or_buffer='data/ecotox/aquatic report; Daphnia Magna.csv')
-weirdendpoint = ecotox[ecotox['Endpoint'] != 'LC50']
-weirdendpoint2 = weirdendpoint[weirdendpoint['Endpoint'] != 'EC50']
-weirdendpoint3 = weirdendpoint2[weirdendpoint2['Endpoint'] != 'LC50*']
-weirdendpoint4 = weirdendpoint3[weirdendpoint3['Endpoint'] != 'EC50*']
+ecotoxdata = pd.read_csv('data/ecotox/2020.4.30DaphniaAquaticReport.txt', sep='|')
+for i in ecotoxdata.columns.values:  # Shows unique entries and total entries (i.e. are there holes?)
+    print(f'{i}\t\tUniques: {len(ecotoxdata[i].unique())}\t\tCount: {ecotoxdata[i].count()}')
 
-print(weirdendpoint3['Endpoint'])  # Doesn't show 'None' as an endpoint
+print('\n------- The dataframe (hopefully) ------- ')
+ecotoxdataframe = ecotoxdata[columnsIwant]
+
+# Selecting for just data on Neonates
+ecotoxdataframe = ecotoxdataframe[ecotoxdataframe['Organism Lifestage'] == 'Neonate']\
+    .sort_values(by='Chemical Name', ascending=False).reset_index()
+print(ecotoxdataframe.shape)  # (1007, 41)
+ecotoxdataframe.to_csv(path_or_buf='data/ecotox/DaphniaECOTOX.csv')
