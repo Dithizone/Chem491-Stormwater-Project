@@ -50,12 +50,21 @@ print('Pandas disapproves of how I did unit conversions so it\'s giving a "Setti
 print(f'TheTubbsData shape is {TheTubbsData.shape}')
 
 print(f'\n------- StationNames ({len(TheTubbsData["StationName"].unique())}) -------')
-# for j in TheTubbsData['StationName'].unique():
-#     print(j)
+# Station "Piner Creek at Marlow Rd" is the one in Google Earth
+for j in TheTubbsData['StationName'].unique():
+    print(j)
 
 print(f'\n------- StationCode ({len(TheTubbsData["StationCode"].unique())}) -------')
-# for k in TheTubbsData["StationCode"].unique():
-#     print(k)
+# Station 114PI5786 is the one in Google Earth
+for k in TheTubbsData["StationCode"].unique():
+    print(k)
 
-# TODO: Determine which stations we want to use
-# because omg 82 is waaay too many
+stationsfortubbsfire = ['114PI5786', '114PR1182', '114UL0366', '114MW6173', '114PL8130']
+
+for station in stationsfortubbsfire:
+    dfForStation = TheTubbsData[TheTubbsData['StationCode'] == '114PI5786']
+    pivotStation = pd.pivot_table(dfForStation, values='Result', index='SampleDate', columns='Analyte')
+    print(f'At 114PI5786, the data has shape {dfForStation.shape}. After pivot: {pivotStation.shape}')
+# pivotStation.to_csv(path_or_buf=f'data/114PI5786.csv')
+
+print(pivotStation.columns.values)
