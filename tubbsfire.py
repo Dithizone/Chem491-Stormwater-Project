@@ -7,7 +7,7 @@
 
 import pandas as pd
 import matplotlib.pyplot as plt
-from UsefulThings import NewData
+from UsefulThings import NewData, constituentsWeWant, tubbsConstituentsWeWant
 
 tubbsdata = pd.read_csv('data/tubbsFire/Sonoma County Data 16-19.txt', sep='|', dtype={'Result': float})
 # Wow so, one of the entries for Total Dissolved Solids had a Result value
@@ -64,7 +64,16 @@ stationsfortubbsfire = ['114PI5786', '114PR1182', '114UL0366', '114MW6173', '114
 for station in stationsfortubbsfire:
     dfForStation = TheTubbsData[TheTubbsData['StationCode'] == '114PI5786']
     pivotStation = pd.pivot_table(dfForStation, values='Result', index='SampleDate', columns='Analyte')
-    print(f'At 114PI5786, the data has shape {dfForStation.shape}. After pivot: {pivotStation.shape}')
-# pivotStation.to_csv(path_or_buf=f'data/114PI5786.csv')
+    wantedConstituentsFromStation = pivotStation[tubbsConstituentsWeWant]
+    print(f'At {station}, the data has shape {dfForStation.shape}. After pivot: {pivotStation.shape}. After selection: {wantedConstituentsFromStation.shape}')
+    pivotStation.to_csv(path_or_buf=f'data/tubbsfire/{station}.csv')
 
-print(pivotStation.columns.values)
+# Now we have the data... though it's (4, 16) so I'm not sure how useful it'll be.
+
+# ---------------------------------
+# ------- Now, the rainfall -------
+# ---------------------------------
+# from https://www.ncdc.noaa.gov/cdo-web/datasets/GHCND/stations/GHCND:USW00023213/detail
+
+santarosarainfall = pd.read_csv('data/tubbsFire/santarosarainfall.csv')
+print(santarosarainfall)

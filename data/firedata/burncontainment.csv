@@ -1,0 +1,64 @@
+Fire,Year,Date,Acres Burned,Containment (%)
+Tubbs,2017,Oct 9,"25,000",0%
+Tubbs,2017,Oct 10,"27,000",0%
+Tubbs,2017,Oct 11,"27,363",10%
+Tubbs,2017,Oct 12,"34,770",10%
+Tubbs,2017,Oct 13,"35,270",44%
+Tubbs,2017,Oct 14,"35,470",50%
+Tubbs,2017,Oct 15,"35,470",60%
+Tubbs,2017,Oct 16,"36,432",75%
+Tubbs,2017,Oct 17,"36,432",87%
+Tubbs,2017,Oct 18,"36,432",91%
+Tubbs,2017,Oct 19,"36,432",92%
+Tubbs,2017,Oct 20,"36,432",93%
+Tubbs,2017,Oct 21,"36,793",94%
+Tubbs,2017,Oct 22,"36,807",94%
+Tubbs,2017,Oct 26,"36,807",95%
+Tubbs,2017,Oct 31,"36,807",100%
+Thomas,2017,Dec 5,"50,000",0%
+Thomas,2017,Dec 6,"90,000",5%
+Thomas,2017,Dec 7,"115,000",5%
+Thomas,2017,Dec 8,"143,000",10%
+Thomas,2017,Dec 9,"155,000",15%
+Thomas,2017,Dec 10,"230,000",10%
+Thomas,2017,Dec 11,"231,700",20%
+Thomas,2017,Dec 12,"236,000",25%
+Thomas,2017,Dec 13,"238,500",30%
+Thomas,2017,Dec 14,"249,500",35%
+Thomas,2017,Dec 15,"256,000",35%
+Thomas,2017,Dec 16,"267,500",40%
+Thomas,2017,Dec 17,"270,000",45%
+Thomas,2017,Dec 18,"271,000",50%
+Thomas,2017,Dec 19,"272,000",55%
+Thomas,2017,Dec 20,"272,000",60%
+Thomas,2017,Dec 21,"272,600",65%
+Thomas,2017,Dec 22,"273,400",65%
+Thomas,2017,Dec 23,"273,400",70%
+Thomas,2017,Dec 24,"281,620",86%
+Thomas,2017,Dec 26,"281,620",88%
+Thomas,2017,Dec 27,"281,893",91%
+Thomas,2017,Dec 29,"281,893",92%
+Thomas,2018,Jan 12,"281,893",100%
+Woolsey,2018,8-Nov,,0%
+Woolsey,2018,9-Nov,,0%
+Woolsey,2018,10-Nov,,5%
+Woolsey,2018,11-Nov,,15%
+Woolsey,2018,12-Nov,,30%
+Woolsey,2018,13-Nov,,40%
+Woolsey,2018,14-Nov,,50%
+Woolsey,2018,15-Nov,,62%
+Woolsey,2018,16-Nov,,78%
+Woolsey,2018,17-Nov,,82%
+Woolsey,2018,18-Nov,,91%
+Woolsey,2018,19-Nov,,94%
+Woolsey,2018,20-Nov,,96%
+Woolsey,2018,21-Nov,,100%
+Easy,2019,Oct 30,,
+Easy,2019,Oct 31,,
+Easy,2019,Nov 1,,
+Easy,2019,Nov 2,1,806,100%
+Maria,2019,Oct 31,,
+Maria,2019,Nov 1,,
+Maria,2019,Nov 2,,
+Maria,2019,Nov 3,9,412,70%
+Maria,2019,Nov 4,9,412,80%

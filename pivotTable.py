@@ -11,14 +11,14 @@
 
 import pandas as pd
 import matplotlib.pyplot as plt
-from UsefulThings import monitoringStations
+from UsefulThings import monitoringStations, constituentsWeWant
 
 unitstokeep = ['mg/L', 'µg/L', 'ng/L']
 
 # It turns out I should've actually read a little about
 # each data set because the F data is just QAQC stuff
 # and not actually useful for our project... *crying emoji*
-theGData = pd.read_csv('../data/prepivot/TheGDataComplete.csv', parse_dates=['Sample Date', 'Analysis Date'])
+theGData = pd.read_csv('data/prepivot/TheGDataComplete.csv', parse_dates=['Sample Date', 'Analysis Date'])
 
 ourGData_ng = theGData[theGData['Units'] == 'ng/L']
 
@@ -43,7 +43,9 @@ print('Pandas disapproves of how I did unit conversions so it\'s giving a "Setti
 for station in monitoringStations:
     dfForStation = ourGData[ourGData['Site ID'] == station]
     pivotStation = pd.pivot_table(dfForStation, values='Result', index='Sample Date', columns='Constituent')
-    print(f'At {station}, the data has shape {dfForStation.shape}. After pivot: {pivotStation.shape}')
-    pivotStation.to_csv(path_or_buf=f'data/{station}.csv')
+    wantedConstituentsFromStation = pivotStation[constituentsWeWant]
+    print(f'At {station}, the data has shape {dfForStation.shape}. After pivot: {pivotStation.shape}. After constituents: {wantedConstituentsFromStation.shape}')
+    # wantedConstituentsFromStation.to_csv(path_or_buf=f'data/{station}metals-PAHs.csv')
 
 # And now we have the data!
+# EDIT (2020.05.07): filtered for constituents we want (29 total)

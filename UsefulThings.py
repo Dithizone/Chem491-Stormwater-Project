@@ -203,6 +203,52 @@ thegheaders = ["Site ID",
 
 years = [2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019]
 
+constituentsWeWant = ['Acenaphthene',
+                      'Acenaphthylene',
+                      'Aluminum',
+                      'Anthracene',
+                      'Arsenic',
+                      'Benz(a)anthracene',
+                      'Benzo(a)pyrene',
+                      'Benzo(b)fluoranthene',
+                      'Benzo(g||h||i)perylene',
+                      'Benzo(k)fluoranthene',
+                      'Cadmium',
+                      'Calcium',
+                      'Chrysene',
+                      'Copper',
+                      'Dibenz(a||h)anthracene',
+                      'Fluoranthene',
+                      'Fluorene',
+                      'Indeno(1||2||3-cd)pyrene',
+                      'Iron',
+                      'Lead',
+                      'Magnesium',
+                      'Mercury',
+                      'Naphthalene',
+                      'Nickel',
+                      'Phenanthrene',
+                      'Potassium',
+                      'Pyrene',
+                      'Sodium',
+                      'Zinc']
+tubbsConstituentsWeWant = ['Aluminum, Dissolved',
+                           'Arsenic, Dissolved',
+                           'Benzo(b)fluoranthene, Total',
+                           'Benzo(g,h,i)perylene, Total',
+                           'Cadmium, Dissolved',
+                           'Calcium, Total',
+                           'Copper, Total',
+                           'Fluoranthene, Total',
+                           'Iron, Dissolved',
+                           'Lead, Dissolved',
+                           'Magnesium, Total',
+                           'Mercury, Dissolved',
+                           'Mercury, Methyl, Total',
+                           'Nickel, Dissolved',
+                           'Pyrene, Total',
+                           'Zinc, Dissolved']
+
 
 def printthedetails(dataframe):
     """This prints all the unique values for columns 0 through 10 for the chosen dataframe."""
@@ -297,4 +343,3 @@ class NewData:
     def selectJustRowsWith(self, entry, incolumn):
         smallerdata = self.data[self.data[incolumn] == entry]
         return smallerdata
-
