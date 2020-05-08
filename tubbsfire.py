@@ -66,7 +66,7 @@ for station in stationsfortubbsfire:
     pivotStation = pd.pivot_table(dfForStation, values='Result', index='SampleDate', columns='Analyte')
     wantedConstituentsFromStation = pivotStation[tubbsConstituentsWeWant]
     print(f'At {station}, the data has shape {dfForStation.shape}. After pivot: {pivotStation.shape}. After selection: {wantedConstituentsFromStation.shape}')
-    pivotStation.to_csv(path_or_buf=f'data/tubbsfire/{station}.csv')
+    # wantedConstituentsFromStation.to_csv(path_or_buf=f'data/tubbsfire/{station}.csv')
 
 # Now we have the data... though it's (4, 16) so I'm not sure how useful it'll be.
 
