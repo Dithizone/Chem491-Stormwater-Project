@@ -1,6 +1,7 @@
 # This separates the data by effect (e.g., "Mortality" or "Immobilization")
-# Then it will simplify the data into just three columns: Endpoint, Chemical
-# Name, and Effect Measurement.
+# Then it will simplify the data into just a few columns
+
+# This performed its job admirably!
 
 import pandas as pd
 
