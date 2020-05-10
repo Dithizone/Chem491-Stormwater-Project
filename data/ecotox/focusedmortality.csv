@@ -1,0 +1,612 @@
+,Effect Measurement,Endpoint,Chemical Name,Conc 1 Mean (Standardized),Conc 1 Units (Standardized)
+0,Mortality,LC50,"1,1'-(2,2,2-Trichloroethylidene)bis[4-chlorobenzene]",0.0019,AI mg/L
+1,Mortality,LC50,"1,1'-(2,2,2-Trichloroethylidene)bis[4-chlorobenzene]",0.0009,AI mg/L
+2,Mortality,LC50,"1,1'-Oxybisbenzene octabromo deriv.",3.96,AI mg/L
+3,Mortality,LC50,"1,1'-Oxybisbenzene pentabromo deriv.",0.058,AI mg/L
+4,Mortality,LC50,"2,2',3,3',4,4',5,5'-Octachloro-1,1'-biphenyl",0.0002,AI mg/L
+5,Mortality,LC50,"2,2',3,3',4,4',6-Heptachloro-1,1'-biphenyl",0.002,AI mg/L
+6,Mortality,LC50,"2,2',3,3',4,4'-Hexachloro-1,1'-biphenyl",0.0006,AI mg/L
+7,Mortality,LC50,"2,2',4,4',5,5'-Hexachloro-1,1'-biphenyl",0.0013,AI mg/L
+8,Mortality,LC50,"2,2',4,5,5'-Pentachloro-1,1'-biphenyl",0.01,AI mg/L
+9,Mortality,LC50,"2,2',5,5'-Tetrachloro-1,1'-biphenyl",0.03,AI mg/L
+10,Mortality,LC50,"2,2',5-Trichloro-1,1'-biphenyl",0.055,AI mg/L
+11,Mortality,LC50,"2,3,4,5,6-Pentachloro-1,1'-biphenyl",0.008,AI mg/L
+12,Mortality,LC50,"2,4,4'-Trichloro-1,1'-biphenyl",0.16,AI mg/L
+13,Mortality,LC50,"2,4,5-Trichloro-1,1'-biphenyl",0.59,AI mg/L
+14,Mortality,LC50,2-Amino-4-(methylseleno)butanoic acid,0.31,AI mg/L
+15,Mortality,LC50,2-Amino-4-(methylseleno)butanoic acid,0.31,AI mg/L
+16,Mortality,LC50,"3,3',4,4'-Tetrachloro-1,1'-biphenyl",0.002,AI mg/L
+17,Mortality,LC50,"3,3'-Diselenobisalanine",2.01,AI mg/L
+18,Mortality,LC50,"3,3'-Diselenobisalanine",2.01,AI mg/L
+19,Survival,EC50,9H-Fluorene,2.84240304,AI mg/L
+20,Mortality,LC50,Aluminum oxide (Al2O3),162.392,AI mg/L
+21,Mortality,LC50,Aluminum oxide (Al2O3),500,AI mg/L
+22,Survival,EC50,Anthracene,0.019609238668,AI mg/L
+23,Survival,EC50,Anthracene,0.01119305752,AI mg/L
+24,Mortality,LC50,Antimony trichloride,0.0101,AI mg/L
+25,Mortality,LC50,Antimony trichloride,23.5,AI mg/L
+26,Mortality,LC50,Antimony trichloride,14,AI mg/L
+27,Mortality,LC50,Antimony trichloride,14,AI mg/L
+28,Mortality,LC50,Antimony trichloride,14,AI mg/L
+29,Mortality,LC50,Antimony trichloride,10.1,AI mg/L
+30,Mortality,LC50,Arsenic acid  (H3AsO4),6.6,AI mg/L
+31,Mortality,LC50,Arsenic acid  (H3AsO4),NR,AI mg/L
+32,Mortality,LC50,Arsenic oxide (As2O3),5.8,AI mg/L
+33,Mortality,LC50,Benz[a]anthracene,0.0975,AI mg/L
+34,Survival,EC50,Benz[a]anthracene,0.00095883186,AI mg/L
+35,Survival,EC50,Benz[a]anthracene,0.001481623517,AI mg/L
+36,Mortality,LC50,Benz[a]anthracene,0.1949,AI mg/L
+37,Survival,EC50,Benzo(b)fluorene,41.20,nM
+38,Survival,EC50,Benzo(b)fluorene,483.62,nM
+39,Survival,EC50,Benzo(e)pyrene,0.001428104598,AI mg/L
+40,Survival,EC50,Benzo(e)pyrene,0.000325486737,AI mg/L
+41,Survival,EC50,Benzo(ghi)perylene,0.000132641904,AI mg/L
+42,Survival,EC50,Benzo(ghi)perylene,0.001041791621,AI mg/L
+43,Survival,EC50,Benzo[a]pyrene,0.001624910532,AI mg/L
+44,Survival,LC50,Benzo[a]pyrene,0.25,AI mg/L
+45,Survival,EC50,Benzo[a]pyrene,0.000981506517,AI mg/L
+46,Survival,EC50,Benzo[rst]pentaphene,2.27,nM
+47,Survival,EC50,Benzo[rst]pentaphene,17.20,nM
+48,Mortality,LC50,Beryllium sulfate,1.25,AI mg/L
+49,Mortality,LC50,Beryllium sulfate,3.07,AI mg/L
+50,Mortality,LC50,Beryllium sulfate,2.45,AI mg/L
+51,Mortality,LC50,Beryllium sulfate,3.46,AI mg/L
+52,Mortality,LC50,Beryllium sulfate,0.82,AI mg/L
+53,Mortality,LC50,Beryllium sulfate,2.41,AI mg/L
+54,Mortality,LC50,Cadmium chloride (CdCl2),0.013,AI mg/L
+55,Mortality,LC50,Cadmium chloride (CdCl2),0.007,AI mg/L
+56,Mortality,LC50,Cadmium chloride (CdCl2),0.2,AI mg/L
+57,Mortality,LC50,Cadmium chloride (CdCl2),0.0049,AI mg/L
+58,Mortality,LC50,Cadmium chloride (CdCl2),0.11,AI mg/L
+59,Mortality,LC50,Cadmium chloride (CdCl2),0.1649844,AI mg/L
+60,Mortality,LC50,Cadmium chloride (CdCl2),0.055,AI mg/L
+61,Mortality,LC50,Cadmium chloride (CdCl2),0.098,AI mg/L
+62,Mortality,LC50,Cadmium chloride (CdCl2),0.067,AI mg/L
+63,Mortality,LC50,Cadmium chloride (CdCl2),0.12,AI mg/L
+64,Mortality,LC50,Cadmium chloride (CdCl2),0.043,AI mg/L
+65,Mortality,LC50,Cadmium chloride (CdCl2),22.6,AI mg/L
+66,Mortality,LC50,Cadmium chloride (CdCl2),0.061,AI mg/L
+67,Mortality,LC50,Cadmium chloride (CdCl2),0.018,AI mg/L
+68,Mortality,LC50,Cadmium chloride (CdCl2),0.017,AI mg/L
+69,Mortality,LC50,Cadmium chloride (CdCl2),0.061,AI mg/L
+70,Mortality,LC50,Cadmium chloride (CdCl2),0.021,AI mg/L
+71,Mortality,LC50,Cadmium chloride (CdCl2),0.007,AI mg/L
+72,Mortality,LC50,Cadmium chloride (CdCl2),0.52,AI mg/L
+73,Mortality,LC50,Cadmium chloride (CdCl2),0.018,AI mg/L
+74,Mortality,LC50,Cadmium chloride (CdCl2),0.067,AI mg/L
+75,Mortality,LC50,Cadmium chloride (CdCl2),0.151,AI mg/L
+76,Mortality,LC50,Cadmium chloride (CdCl2),0.018,AI mg/L
+77,Mortality,LC50,Cadmium chloride (CdCl2),0.24,AI mg/L
+78,Mortality,LC50,Cadmium chloride (CdCl2),0.27,AI mg/L
+79,Mortality,LC50,Cadmium chloride (CdCl2),NR,AI mg/L
+80,Mortality,LC50,Cadmium chloride (CdCl2),0.018,AI mg/L
+81,Mortality,LC85,Cadmium chloride (CdCl2),0.54811484,AI mg/L
+82,Mortality,LC50,Cadmium chloride (CdCl2),0.1049,AI mg/L
+83,Mortality,LC50,Cadmium chloride (CdCl2),0.0082,AI mg/L
+84,Mortality,LC50,Cadmium chloride (CdCl2),0.043,AI mg/L
+85,Mortality,LC50,Cadmium chloride (CdCl2),0.191,AI mg/L
+86,Mortality,LC50,Cadmium chloride (CdCl2),0.098,AI mg/L
+87,Mortality,LC50,Cadmium chloride (CdCl2),0.047,AI mg/L
+88,Mortality,LC50,Cadmium chloride (CdCl2),0.071,AI mg/L
+89,Mortality,LC50,Cadmium chloride (CdCl2),0.005,AI mg/L
+90,Mortality,LC50,Cadmium chloride (CdCl2),0.067,AI mg/L
+91,Mortality,LC50,Cadmium chloride (CdCl2),0.098,AI mg/L
+92,Mortality,LC50,Cadmium chloride (CdCl2),0.008,AI mg/L
+93,Mortality,LC50,Cadmium chloride (CdCl2),0.18,AI mg/L
+94,Mortality,LC50,Cadmium chloride (CdCl2),0.1,AI mg/L
+95,Mortality,LC50,Cadmium chloride (CdCl2),0.00685,AI mg/L
+96,Mortality,LC50,Cadmium chloride (CdCl2),0.015,AI mg/L
+97,Mortality,LC50,Cadmium chloride (CdCl2),NR,AI mg/L
+98,Mortality,LC50,Cadmium chloride (CdCl2),0.066,AI mg/L
+99,Mortality,LC50,Cadmium chloride (CdCl2),0.018,AI mg/L
+100,Mortality,LC50,Cadmium chloride (CdCl2),0.21,AI mg/L
+101,Mortality,LC50,Cadmium chloride (CdCl2),0.004,AI mg/L
+102,Mortality,LC50,Cadmium chloride (CdCl2),0.0668,AI mg/L
+103,Mortality,LC50,Cadmium chloride (CdCl2),0.012,AI mg/L
+104,Mortality,LC50,Cadmium chloride (CdCl2),NR,AI mg/L
+105,Mortality,LC50,Cadmium chloride (CdCl2),0.008,AI mg/L
+106,Mortality,LC50,Cadmium chloride (CdCl2),NR,AI mg/L
+107,Mortality,LC50,Cadmium chloride (CdCl2),0.092,AI mg/L
+108,Mortality,LC50,Cadmium chloride (CdCl2),0.009,AI mg/L
+109,Mortality,LC50,Cadmium chloride (CdCl2),0.01,AI mg/L
+110,Mortality,LC50,Cadmium chloride (CdCl2),NR,AI mg/L
+111,Mortality,LC50,Cadmium chloride (CdCl2),0.078,AI mg/L
+112,Mortality,LC50,Cadmium chloride (CdCl2),0.108,AI mg/L
+113,Mortality,LC50,Cadmium chloride (CdCl2),0.294,AI mg/L
+114,Mortality,LC50,Cadmium chloride (CdCl2),0.023,AI mg/L
+115,Mortality,LC50,Cadmium chloride (CdCl2),0.107,AI mg/L
+116,Mortality,LC50,Cadmium chloride (CdCl2),0.018,AI mg/L
+117,Mortality,LC50,Cadmium chloride (CdCl2),NR,AI mg/L
+118,Mortality,LC50,Cadmium chloride (CdCl2),0.049,AI mg/L
+119,Mortality,LC50,Cadmium chloride (CdCl2),NR,AI mg/L
+120,Mortality,LC50,Cadmium chloride (CdCl2),0.092,AI mg/L
+121,Mortality,LC50,Cadmium chloride (CdCl2),NR,AI mg/L
+122,Mortality,LC50,Cadmium chloride (CdCl2),0.0901,AI mg/L
+123,Mortality,LC50,Cadmium chloride (CdCl2),0.009,AI mg/L
+124,Mortality,LC50,Cadmium chloride (CdCl2),0.00343,AI mg/L
+125,Mortality,LC50,Cadmium chloride (CdCl2),0.031,AI mg/L
+126,Mortality,LC50,Cadmium chloride (CdCl2),0.06,AI mg/L
+127,Mortality,LC50,Cadmium chloride (CdCl2),NR,AI mg/L
+128,Mortality,LC50,Cadmium chloride (CdCl2),0.025,AI mg/L
+129,Mortality,LC50,Cadmium chloride (CdCl2),0.2,AI mg/L
+130,Mortality,LC50,Cadmium chloride (CdCl2),0.24,AI mg/L
+131,Mortality,LC50,Cadmium chloride (CdCl2),0.098,AI mg/L
+132,Mortality,LC50,Cadmium chloride (CdCl2),0.069,AI mg/L
+133,Mortality,LC50,Cadmium chloride (CdCl2),0.021,AI mg/L
+134,Mortality,LC50,Cadmium chloride (CdCl2),0.0033,AI mg/L
+135,Mortality,LC50,Cadmium chloride (CdCl2),NR,AI mg/L
+136,Mortality,LC50,Cadmium chloride (CdCl2),0.0035,AI mg/L
+137,Mortality,LC50,Cadmium chloride (CdCl2),0.043,AI mg/L
+138,Mortality,LC50,Cadmium chloride (CdCl2),0.218,AI mg/L
+139,Mortality,LC50,Cadmium chloride (CdCl2),0.018,AI mg/L
+140,Mortality,LC50,Cadmium chloride (CdCl2),NR,AI mg/L
+141,Mortality,LC50,Cadmium chloride (CdCl2),0.012,AI mg/L
+142,Mortality,LC50,Cadmium chloride (CdCl2),0.216,AI mg/L
+143,Mortality,LC50,Cadmium chloride (CdCl2),0.27,AI mg/L
+144,Mortality,LC50,Cadmium chloride (CdCl2),0.0074,AI mg/L
+145,Mortality,LC50,Cadmium chloride (CdCl2),0.074,AI mg/L
+146,Mortality,LC50,Cadmium chloride (CdCl2),0.008,AI mg/L
+147,Mortality,LC50,Cadmium chloride (CdCl2),0.056,AI mg/L
+148,Mortality,LC50,Cadmium chloride (CdCl2),0.07905,AI mg/L
+149,Mortality,LC50,Cadmium chloride (CdCl2),0.0083,AI mg/L
+150,Mortality,LC50,Cadmium chloride (CdCl2),0.037,AI mg/L
+151,Mortality,LC50,Cadmium chloride (CdCl2),0.067,AI mg/L
+152,Mortality,LC50,Cadmium chloride (CdCl2),0.092,AI mg/L
+153,Mortality,LC50,Cadmium chloride (CdCl2),0.018,AI mg/L
+154,Mortality,LC50,Cadmium chloride (CdCl2),0.049,AI mg/L
+155,Mortality,LC50,Cadmium chloride (CdCl2),NR,AI mg/L
+156,Mortality,LC50,Cadmium chloride (CdCl2),0.06,AI mg/L
+157,Mortality,LC50,Cadmium chloride (CdCl2),0.061,AI mg/L
+158,Mortality,LC50,Cadmium chloride (CdCl2),0.018,AI mg/L
+159,Mortality,LC50,Cadmium chloride (CdCl2),0.12,AI mg/L
+160,Mortality,LC50,Cadmium chloride (CdCl2),0.0061,AI mg/L
+161,Mortality,LC50,Cadmium chloride (CdCl2),0.026,AI mg/L
+162,Mortality,LC50,Cadmium chloride (CdCl2),NR,AI mg/L
+163,Mortality,LC50,Cadmium chloride (CdCl2),0.018,AI mg/L
+164,Mortality,LC50,Cadmium chloride (CdCl2),NR,AI mg/L
+165,Mortality,LC50,Cadmium chloride (CdCl2),0.024,AI mg/L
+166,Mortality,LC50,Cadmium chloride (CdCl2),0.003,AI mg/L
+167,Mortality,LC50,Cadmium chloride (CdCl2),0.018,AI mg/L
+168,Mortality,LC50,Cadmium chloride (CdCl2),0.017,AI mg/L
+169,Mortality,LC50,Cadmium chloride (CdCl2),0.075,AI mg/L
+170,Mortality,LC50,Cadmium chloride (CdCl2),0.032,AI mg/L
+171,Mortality,LC50,Cadmium chloride (CdCl2),0.083,AI mg/L
+172,Mortality,LC50,Cadmium chloride (CdCl2),0.0978,AI mg/L
+173,Mortality,LC50,Cadmium chloride (CdCl2),0.0074,AI mg/L
+174,Mortality,LC50,Cadmium chloride (CdCl2),NR,AI mg/L
+175,Mortality,LC50,Cadmium chloride (CdCl2),0.018,AI mg/L
+176,Mortality,LC50,Cadmium chloride (CdCl2),0.24,AI mg/L
+177,Mortality,LC50,Cadmium chloride (CdCl2),0.018,AI mg/L
+178,Mortality,LC50,Cadmium chloride (CdCl2),NR,AI mg/L
+179,Mortality,LC15,Cadmium chloride (CdCl2),0.04949532,AI mg/L
+180,Mortality,EC50,Cadmium chloride (CdCl2),0.0095,AI mg/L
+181,Mortality,LC50,Cadmium chloride (CdCl2),0.004,AI mg/L
+182,Mortality,LC50,Cadmium chloride (CdCl2),0.7136,AI mg/L
+183,Mortality,LC50,Cadmium chloride (CdCl2),0.02,AI mg/L
+184,Mortality,LC50,Cadmium oxide,3.28,AI mg/L
+185,Mortality,LC50,Cadmium oxide,0.0000054,AI mg/L
+186,Mortality,LC50,Cadmium sulfide,0.161,AI mg/L
+187,Mortality,LC50,Cadmium sulfide,0.011,AI mg/L
+188,Mortality,LC50,Cadmium sulfide,0.011,AI mg/L
+189,Mortality,LC50,"Carbonic acid, Cadmium salt (1:1)",20000,AI mg/L
+190,Mortality,LC50,"Carbonic acid, Cadmium salt (1:1)",20000,AI mg/L
+191,Mortality,LC50,"Carbonic acid, Zinc salt (1:1)",30000,AI mg/L
+192,Mortality,LC50,"Carbonic acid, Zinc salt (1:1)",30000,AI mg/L
+193,Mortality,LC50,Chlorotrimethylstannane,0.15,AI mg/L
+194,Mortality,LC50,Chromic acid (H2Cr2O7) disodium salt,1.854,AI mg/L
+195,Mortality,LC50,Chromic acid (H2Cr2O7) disodium salt,0.29,AI mg/L
+196,Mortality,LC50,Chromic acid (H2Cr2O7) disodium salt,0.778,AI mg/L
+197,Mortality,EC50,Chromic acid (H2Cr2O7) disodium salt,0.524,AI mg/L
+198,Survival,EC50,Chromic acid dipotassium salt,0.7,AI mg/L
+199,Mortality,LC50,Chromic acid dipotassium salt,0.31,AI mg/L
+200,Mortality,LC50,Chromic acid dipotassium salt,NR,AI mg/L
+201,Mortality,LC50,Chromic acid dipotassium salt,0.25,AI mg/L
+202,Mortality,LC50,Chromic acid dipotassium salt,1.3,AI mg/L
+203,Mortality,LC50,Chromic acid dipotassium salt,0.44,AI mg/L
+204,Mortality,LC50,Chromic acid dipotassium salt,1.05,AI mg/L
+205,Mortality,LC50,Chromic acid dipotassium salt,0.38,AI mg/L
+206,Survival,EC50,Chromic acid dipotassium salt,1.3,AI mg/L
+207,Mortality,EC10,Chromic acid dipotassium salt,0.069,AI mg/L
+208,Mortality,EC50,Chromic acid dipotassium salt,0.224,AI mg/L
+209,Mortality,LC50,Chromic acid dipotassium salt,0.38,AI mg/L
+210,Mortality,LC50,Cobalt sulfate,7.37,AI mg/L
+211,Mortality,LC50,Cobalt sulfate,5.15,AI mg/L
+212,Mortality,LC50,Cobalt sulfate,1.86,AI mg/L
+213,Mortality,LC50,Cobalt sulfate,7.37,AI mg/L
+214,Mortality,LC50,Cobalt sulfate,6.83,AI mg/L
+215,Mortality,LC50,Cobalt sulfate,1.86,AI mg/L
+216,Mortality,LC50,Copper,0.033,AI mg/L
+217,Mortality,LC50,Copper,0.047,AI mg/L
+218,Mortality,LC50,Copper,0.039,AI mg/L
+219,Mortality,LC50,Copper,0.033,AI mg/L
+220,Mortality,LC50,Copper,0.029,AI mg/L
+221,Mortality,LC50,Copper,0.0391,AI mg/L
+222,Mortality,LC50,Copper,0.048,AI mg/L
+223,Mortality,LC50,Copper,0.0504,AI mg/L
+224,Mortality,LC50,Copper,0.058,AI mg/L
+225,Mortality,LC50,Copper,0.059,AI mg/L
+226,Mortality,LC50,Copper,0.028,AI mg/L
+227,Mortality,LC50,Copper,0.031,AI mg/L
+228,Mortality,LC50,Copper,0.0309,AI mg/L
+229,Mortality,LC50,Copper,0.026,AI mg/L
+230,Mortality,LC50,Copper,0.041,AI mg/L
+231,Mortality,LC50,Copper,0.04,AI mg/L
+232,Mortality,LC50,Copper,0.052,AI mg/L
+233,Mortality,LC50,Copper,0.051,AI mg/L
+234,Mortality,LC50,Copper,0.052,AI mg/L
+235,Mortality,LC50,Copper,0.03,AI mg/L
+236,Mortality,LC50,Copper,0.035,AI mg/L
+237,Mortality,LC50,Copper,0.063,AI mg/L
+238,Mortality,LC50,Copper,0.046,AI mg/L
+239,Mortality,LC50,Copper,0.037,AI mg/L
+240,Mortality,LC50,Copper,0.031,AI mg/L
+241,Mortality,LC50,Copper,0.05,AI mg/L
+242,Mortality,LC50,Copper,0.038,AI mg/L
+243,Mortality,LC50,Copper chloride (CuCl2),0.0537808,AI mg/L
+244,Mortality,LC50,Copper chloride (CuCl2),0.043293544,AI mg/L
+245,Mortality,LC50,Copper chloride (CuCl2),0.053511896,AI mg/L
+246,Mortality,LC50,Copper chloride (CuCl2),0.0122,AI mg/L
+247,Mortality,LC50,Copper chloride (CuCl2),0.047596008,AI mg/L
+248,Mortality,LC50,Copper chloride (CuCl2),0.053511896,AI mg/L
+249,Mortality,LC50,Copper chloride (CuCl2),0.03177,AI mg/L
+250,Mortality,LC50,Copper chloride (CuCl2),0.01635,AI mg/L
+251,Mortality,LC50,Copper chloride (CuCl2),0.04504142,AI mg/L
+252,Mortality,LC50,Copper chloride (CuCl2),0.056604292,AI mg/L
+253,Mortality,LC50,Copper chloride (CuCl2),0.04268,AI mg/L
+254,Mortality,LC50,Copper chloride (CuCl2),0.062654632,AI mg/L
+255,Mortality,LC50,Copper chloride (CuCl2),0.05728,AI mg/L
+256,Mortality,LC50,Copper chloride (CuCl2),0.049612788,AI mg/L
+257,Mortality,LC50,Copper chloride (CuCl2),0.057276552,AI mg/L
+258,Mortality,LC50,Copper chloride (CuCl2),0.02155,AI mg/L
+259,Mortality,LC50,Copper chloride (CuCl2),0.02097,AI mg/L
+260,Mortality,LC50,Copper chloride (CuCl2),0.046654844,AI mg/L
+261,Mortality,LC50,Copper chloride (CuCl2),0.01199,AI mg/L
+262,Mortality,LC50,Copper chloride (CuCl2),0.01693,AI mg/L
+263,Mortality,LC50,Copper chloride (CuCl2),0.047999364,AI mg/L
+264,Mortality,LC50,Copper chloride (CuCl2),0.069,AI mg/L
+265,Survival,EC50,"Dibenz(a,h)anthracene",0.000551139336,AI mg/L
+266,Survival,EC50,"Dibenz(a,h)anthracene",0.00155877792,AI mg/L
+267,Mortality,LC50,Dichlorodimethylstannane,19.27,AI mg/L
+268,Survival,EC50,Fluoranthene,0.00398443138,AI mg/L
+269,Survival,EC50,Fluoranthene,0.011372821142,AI mg/L
+270,Mortality,EC50,Iron chloride (FeCl2),0.017,AI mg/L
+271,Mortality,EC50,Iron chloride (FeCl2),0.019,AI mg/L
+272,Mortality,EC50,Iron chloride (FeCl2),0.019,AI mg/L
+273,Mortality,LC50,Lead chloride (PbCl2),0.168,AI mg/L
+274,Mortality,LC50,Lead chloride (PbCl2),167,AI mg/L
+275,Mortality,LC50,Lead chloride (PbCl2),0.168,AI mg/L
+276,Mortality,LC50,Lead sulfide,9958,AI mg/L
+277,Mortality,LC50,Lead sulfide,0.138,AI mg/L
+278,Mortality,LC50,Lead sulfide,0.138,AI mg/L
+279,Mortality,LC50,Lead(2+)salt carbamic acid (1:1),10000,AI mg/L
+280,Mortality,LC50,Lead(2+)salt carbamic acid (1:1),10000,AI mg/L
+281,Mortality,LC50,Mercuric nitrate,0.0083,AI mg/L
+282,Mortality,LC50,Mercury chloride (Hg2Cl2),0.0027,AI mg/L
+283,Mortality,LC50,Mercury chloride (Hg2Cl2),0.002,AI mg/L
+284,Survival,EC50,Naphthacene,0.00232859166,AI mg/L
+285,Survival,EC50,Naphthacene,0.003444945897,AI mg/L
+286,Mortality,LC50,Naphthalene,NR,AI mg/L
+287,Mortality,LC50,Naphthalene,NR,AI mg/L
+288,Mortality,LC50,Naphthalene,NR,AI mg/L
+289,Mortality,LC50,Naphthalene,6,AI mg/L
+290,Mortality,LC50,Naphthalene,NR,AI mg/L
+291,Mortality,LC50,Naphthalene,NR,AI mg/L
+292,Mortality,LC50,Naphthalene,6,AI mg/L
+293,Mortality,LC50,Naphthalene,NR,AI mg/L
+294,Mortality,LC50,Naphthalene,NR,AI mg/L
+295,Mortality,LC50,Naphthalene,11.4,AI mg/L
+296,Mortality,LC50,Naphthalene,NR,AI mg/L
+297,Mortality,LC50,Naphthalene,NR,AI mg/L
+298,Mortality,LC50,Naphthalene,7.8,AI mg/L
+299,Mortality,LC50,Naphthalene,12.3,AI mg/L
+300,Mortality,LC50,Naphthalene,NR,AI mg/L
+301,Mortality,LC50,Naphthalene,7.8,AI mg/L
+302,Mortality,LC50,Naphthalene,NR,AI mg/L
+303,Mortality,LC50,Nickel chloride (NiCl2),0.36,AI mg/L
+304,Mortality,LC50,Nickel chloride (NiCl2),8,AI mg/L
+305,Survival,EC50,Nitric acid silver (1+) salt (1:1),0.00081,AI mg/L
+306,Mortality,LC50,Nitric acid silver (1+) salt (1:1),0.00137,AI mg/L
+307,Mortality,LC50,Nitric acid silver (1+) salt (1:1),0.0275,AI mg/L
+308,Mortality,LC50,Nitric acid silver (1+) salt (1:1),0.00127,AI mg/L
+309,Mortality,LC50,Nitric acid silver (1+) salt (1:1),0.001774,AI mg/L
+310,Mortality,LC50,Nitric acid silver (1+) salt (1:1),0.002503,AI mg/L
+311,Mortality,LC50,Nitric acid silver (1+) salt (1:1),0.001479,AI mg/L
+312,Mortality,LC50,Nitric acid silver (1+) salt (1:1),0.001138,AI mg/L
+313,Mortality,LC50,Nitric acid silver (1+) salt (1:1),0.001559,AI mg/L
+314,Mortality,LC50,Nitric acid silver (1+) salt (1:1),0.002595,AI mg/L
+315,Mortality,LC50,Nitric acid silver (1+) salt (1:1),0.001532,AI mg/L
+316,Mortality,LC50,Nitric acid silver (1+) salt (1:1),0.002039,AI mg/L
+317,Mortality,LC50,Nitric acid silver (1+) salt (1:1),0.001666,AI mg/L
+318,Mortality,LC50,Nitric acid silver (1+) salt (1:1),0.000578,AI mg/L
+319,Mortality,LC50,Nitric acid silver (1+) salt (1:1),0.0012,AI mg/L
+320,Mortality,LC50,Nitric acid silver (1+) salt (1:1),0.002947,AI mg/L
+321,Mortality,LC50,Nitric acid silver (1+) salt (1:1),0.000941,AI mg/L
+322,Mortality,LC50,Nitric acid silver (1+) salt (1:1),0.00657,AI mg/L
+323,Mortality,LC50,Nitric acid silver (1+) salt (1:1),0.000844,AI mg/L
+324,Mortality,LC50,Nitric acid silver (1+) salt (1:1),0.00274,AI mg/L
+325,Mortality,LC50,Nitric acid silver (1+) salt (1:1),0.002513,AI mg/L
+326,Mortality,LC50,Nitric acid silver (1+) salt (1:1),0.003124,AI mg/L
+327,Mortality,LC50,Nitric acid silver (1+) salt (1:1),0.00101,AI mg/L
+328,Mortality,LC50,Nitric acid silver (1+) salt (1:1),0.002561,AI mg/L
+329,Mortality,LC50,Nitric acid silver (1+) salt (1:1),0.00047,AI mg/L
+330,Mortality,LC50,Nitric acid silver (1+) salt (1:1),0.001466,AI mg/L
+331,Mortality,LC50,Nitric acid silver (1+) salt (1:1),0.00026,AI mg/L
+332,Mortality,LC50,Nitric acid silver (1+) salt (1:1),0.0082,AI mg/L
+333,Mortality,LC50,Nitric acid silver (1+) salt (1:1),0.00688,AI mg/L
+334,Mortality,LC50,Nitric acid silver (1+) salt (1:1),0.001993,AI mg/L
+335,Mortality,LC20,Nitric acid silver (1+) salt (1:1),0.00641,AI mg/L
+336,Mortality,LC50,Nitric acid silver (1+) salt (1:1),0.003794,AI mg/L
+337,Mortality,LC50,Nitric acid silver (1+) salt (1:1),0.003256,AI mg/L
+338,Mortality,LC50,Nitric acid silver (1+) salt (1:1),0.002641,AI mg/L
+339,Mortality,LC50,Nitric acid silver (1+) salt (1:1),0.001009,AI mg/L
+340,Mortality,LC20,Nitric acid silver (1+) salt (1:1),0.00212,AI mg/L
+341,Mortality,LC50,Nitric acid silver (1+) salt (1:1),0.001374,AI mg/L
+342,Mortality,LC50,Nitric acid silver (1+) salt (1:1),0.002006,AI mg/L
+343,Mortality,LC50,Nitric acid silver (1+) salt (1:1),0.002502,AI mg/L
+344,Mortality,LC50,Nitric acid silver (1+) salt (1:1),0.001393,AI mg/L
+345,Mortality,LC50,Nitric acid silver (1+) salt (1:1),0.001443,AI mg/L
+346,Mortality,LC50,Nitric acid silver (1+) salt (1:1),0.00026,AI mg/L
+347,Mortality,LC50,Nitric acid silver (1+) salt (1:1),0.0047,AI mg/L
+348,Mortality,LC50,Nitric acid silver (1+) salt (1:1),0.00279,AI mg/L
+349,Mortality,LC50,Nitric acid silver (1+) salt (1:1),0.002317,AI mg/L
+350,Mortality,LC50,Nitric acid silver (1+) salt (1:1),0.00018,AI mg/L
+351,Mortality,LC50,"Nitric acid, Copper(2+) salt",0.8744,AI mg/L
+352,Mortality,LC50,"Nitric acid, Copper(2+) salt",0.338,AI mg/L
+353,Mortality,LC50,"Nitric acid, Lead (2+) salt (2:1)",1.8,AI mg/L
+354,Mortality,LC50,"Nitric acid, Lead (2+) salt (2:1)",0.894,AI mg/L
+355,Mortality,LC50,"Nitric acid, Lead (2+) salt (2:1)",0.095,AI mg/L
+356,Mortality,LC50,PCB 1242,0.23,AI mg/L
+357,Mortality,EC50,Phenanthrene,0.212,AI mg/L
+358,Mortality,EC50,Phenanthrene,0.949984022,AI mg/L
+359,Mortality,EC50,Phenanthrene,0.437,AI mg/L
+360,Mortality,EC50,Phenanthrene,0.23,AI mg/L
+361,Mortality,EC50,Phenanthrene,0.491,AI mg/L
+362,Survival,EC50,Phenanthrene,0.477665512,AI mg/L
+363,Survival,EC50,Phenanthrene,0.699232798542,AI mg/L
+364,Mortality,EC50,Phenanthrene,0.302,AI mg/L
+365,Survival,EC50,Pyrene,0.02,AI mg/L
+366,Survival,EC50,Pyrene,NR,AI mg/L
+367,Survival,EC50,Pyrene,NR,AI mg/L
+368,Survival,EC50,Pyrene,NR,AI mg/L
+369,Survival,EC50,Pyrene,NR,AI mg/L
+370,Survival,EC50,Pyrene,NR,AI mg/L
+371,Survival,EC50,Pyrene,NR,AI mg/L
+372,Survival,EC50,Pyrene,0.02,AI mg/L
+373,Survival,EC50,Pyrene,0.02,AI mg/L
+374,Survival,EC50,Pyrene,NR,AI mg/L
+375,Survival,EC50,Pyrene,NR,AI mg/L
+376,Survival,EC50,Pyrene,NR,AI mg/L
+377,Survival,EC50,Pyrene,0.01,AI mg/L
+378,Survival,EC50,Pyrene,NR,AI mg/L
+379,Survival,EC50,Pyrene,0.03,AI mg/L
+380,Survival,EC50,Pyrene,NR,AI mg/L
+381,Survival,EC50,Pyrene,NR,AI mg/L
+382,Survival,EC50,Pyrene,NR,AI mg/L
+383,Survival,EC50,Pyrene,NR,AI mg/L
+384,Mortality,EC50,Pyrene,NR,AI mg/L
+385,Survival,EC50,Pyrene,0.02,AI mg/L
+386,Survival,EC50,Pyrene,NR,AI mg/L
+387,Survival,EC50,Pyrene,NR,AI mg/L
+388,Survival,EC50,Pyrene,0.00458108481,AI mg/L
+389,Survival,EC50,Pyrene,NR,AI mg/L
+390,Survival,EC50,Pyrene,NR,AI mg/L
+391,Survival,EC50,Pyrene,NR,AI mg/L
+392,Survival,EC50,Pyrene,NR,AI mg/L
+393,Mortality,LC50,Pyrene,0.1358,AI mg/L
+394,Mortality,LC50,Pyrene,0.2538,AI mg/L
+395,Survival,EC50,Pyrene,0.03,AI mg/L
+396,Survival,EC50,Pyrene,0.01,AI mg/L
+397,Survival,EC50,Pyrene,NR,AI mg/L
+398,Survival,EC50,Pyrene,NR,AI mg/L
+399,Survival,EC50,Pyrene,0.00432826556,AI mg/L
+400,Survival,EC50,Pyrene,NR,AI mg/L
+401,Survival,EC50,Pyrene,0.03,AI mg/L
+402,Survival,EC50,Pyrene,0.04,AI mg/L
+403,Survival,EC50,Pyrene,NR,AI mg/L
+404,Survival,EC50,Pyrene,NR,AI mg/L
+405,Survival,EC50,Pyrene,0.02,AI mg/L
+406,Survival,EC50,Pyrene,NR,AI mg/L
+407,Survival,EC50,Pyrene,NR,AI mg/L
+408,Survival,EC50,Pyrene,NR,AI mg/L
+409,Survival,EC50,Pyrene,0.03,AI mg/L
+410,Mortality,LC50,"Selenic acid, sodium salt (1:2)",2.84,AI mg/L
+411,Mortality,EC50,"Selenic acid, sodium salt (1:2)",1.87,AI mg/L
+412,Mortality,LC50,"Selenic acid, sodium salt (1:2)",2.84,AI mg/L
+413,Mortality,LC50,Selenious acid,1.2,AI mg/L
+414,Mortality,LC50,Selenious acid,1.22,AI mg/L
+415,Mortality,LC50,Selenious acid,1.2,AI mg/L
+416,Mortality,LC50,Selenious acid,1.2,AI mg/L
+417,Mortality,LC50,"Selenious acid, Sodium salt (1:2)",0.55,AI mg/L
+418,Mortality,LC50,"Selenious acid, Sodium salt (1:2)",0.55,AI mg/L
+419,Mortality,LC50,Selenium oxide (SeO2),4.8,AI mg/L
+420,Mortality,LC50,Sulfuric acid copper(2+) salt (1:1),0.018,AI mg/L
+421,Mortality,LC50,Sulfuric acid copper(2+) salt (1:1),0.00003,AI mg/L
+422,Mortality,LC50,Sulfuric acid copper(2+) salt (1:1),0.1088,AI mg/L
+423,Mortality,LC50,Sulfuric acid copper(2+) salt (1:1),0.00047,AI mg/L
+424,Mortality,LC50,Sulfuric acid copper(2+) salt (1:1),0.159,AI mg/L
+425,Mortality,LC50,Sulfuric acid copper(2+) salt (1:1),0.0153,AI mg/L
+426,Mortality,LC50,Sulfuric acid copper(2+) salt (1:1),0.00029,AI mg/L
+427,Mortality,LC50,Sulfuric acid copper(2+) salt (1:1),0.00014,AI mg/L
+428,Mortality,LC50,Sulfuric acid copper(2+) salt (1:1),0.0052,AI mg/L
+429,Mortality,LC50,Sulfuric acid copper(2+) salt (1:1),0.0473,AI mg/L
+430,Mortality,LC50,Sulfuric acid copper(2+) salt (1:1),0.0026,AI mg/L
+431,Mortality,LC50,Sulfuric acid copper(2+) salt (1:1),0.0083,AI mg/L
+432,Mortality,LC50,Sulfuric acid copper(2+) salt (1:1),0.0001,AI mg/L
+433,Mortality,LC50,Sulfuric acid copper(2+) salt (1:1),0.00003,AI mg/L
+434,Mortality,LC50,Sulfuric acid copper(2+) salt (1:1),0.0252,AI mg/L
+435,Mortality,LC50,Sulfuric acid copper(2+) salt (1:1),0.00043,AI mg/L
+436,Mortality,LC50,Sulfuric acid copper(2+) salt (1:1),0.00011,AI mg/L
+437,Mortality,LC50,Sulfuric acid copper(2+) salt (1:1),0.0003,AI mg/L
+438,Mortality,LC50,Sulfuric acid copper(2+) salt (1:1),0.00013,AI mg/L
+439,Mortality,LC50,Sulfuric acid copper(2+) salt (1:1),0.00017,AI mg/L
+440,Mortality,LC50,Sulfuric acid copper(2+) salt (1:1),0.0028,AI mg/L
+441,Mortality,LC50,Sulfuric acid copper(2+) salt (1:1),0.00017,AI mg/L
+442,Mortality,LC50,Sulfuric acid copper(2+) salt (1:1),0.399,AI mg/L
+443,Mortality,LC50,Sulfuric acid copper(2+) salt (1:1),0.0451,AI mg/L
+444,Mortality,LC50,Sulfuric acid copper(2+) salt (1:1),0.012,AI mg/L
+445,Mortality,LC50,Sulfuric acid copper(2+) salt (1:1),0.0074,AI mg/L
+446,Mortality,LC50,Sulfuric acid copper(2+) salt (1:1),0.0065,AI mg/L
+447,Mortality,LC50,Sulfuric acid copper(2+) salt (1:1),0.00008,AI mg/L
+448,Mortality,LC50,Sulfuric acid copper(2+) salt (1:1),0.000057,AI mg/L
+449,Mortality,LC50,Sulfuric acid copper(2+) salt (1:1),0.1064,AI mg/L
+450,Mortality,EC50,Sulfuric acid copper(2+) salt (1:1),0.038,AI mg/L
+451,Mortality,EC50,Sulfuric acid copper(2+) salt (1:1),0.013,AI mg/L
+452,Mortality,EC05,Sulfuric acid copper(2+) salt (1:1),0.050102045,AI mg/L
+453,Mortality,LC50,Sulfuric acid copper(2+) salt (1:1),0.002,AI mg/L
+454,Mortality,EC50,Sulfuric acid copper(2+) salt (1:1),0.15515472,AI mg/L
+455,Mortality,LC50,Sulfuric acid copper(2+) salt (1:1),0.0228,AI mg/L
+456,Mortality,LC50,Sulfuric acid copper(2+) salt (1:1),0.00023,AI mg/L
+457,Mortality,LC50,Sulfuric acid copper(2+) salt (1:1),0.0016,AI mg/L
+458,Mortality,LC50,Sulfuric acid copper(2+) salt (1:1),0.0211,AI mg/L
+459,Mortality,LC50,Sulfuric acid copper(2+) salt (1:1),0.001,AI mg/L
+460,Mortality,LC50,Sulfuric acid copper(2+) salt (1:1),0.002,AI mg/L
+461,Mortality,LC50,Sulfuric acid copper(2+) salt (1:1),0.00042,AI mg/L
+462,Mortality,LC50,Sulfuric acid copper(2+) salt (1:1),0.00003,AI mg/L
+463,Mortality,LC50,Sulfuric acid copper(2+) salt (1:1),0.1305,AI mg/L
+464,Mortality,LC50,Sulfuric acid copper(2+) salt (1:1),0.0071,AI mg/L
+465,Mortality,LC50,Sulfuric acid copper(2+) salt (1:1),0.00009,AI mg/L
+466,Mortality,LC50,Sulfuric acid copper(2+) salt (1:1),0.1876,AI mg/L
+467,Mortality,LC50,Sulfuric acid copper(2+) salt (1:1),0.0032,AI mg/L
+468,Mortality,LC50,Sulfuric acid copper(2+) salt (1:1),0.00007,AI mg/L
+469,Mortality,LC50,Sulfuric acid copper(2+) salt (1:1),0.00004,AI mg/L
+470,Mortality,LC50,Sulfuric acid copper(2+) salt (1:1),0.0086,AI mg/L
+471,Mortality,LC50,Sulfuric acid copper(2+) salt (1:1),NR,AI mg/L
+472,Mortality,LC50,Sulfuric acid copper(2+) salt (1:1),0.00019,AI mg/L
+473,Mortality,LC50,Sulfuric acid copper(2+) salt (1:1),0.000036,AI mg/L
+474,Mortality,LC50,Sulfuric acid copper(2+) salt (1:1),0.0111,AI mg/L
+475,Mortality,LC50,Sulfuric acid copper(2+) salt (1:1),0.0049,AI mg/L
+476,Mortality,LC50,Sulfuric acid copper(2+) salt (1:1),0.0004,AI mg/L
+477,Mortality,LC50,Sulfuric acid copper(2+) salt (1:1),0.1225,AI mg/L
+478,Mortality,LC50,Sulfuric acid copper(2+) salt (1:1),0.000055,AI mg/L
+479,Mortality,LC50,Sulfuric acid copper(2+) salt (1:1),0.0266,AI mg/L
+480,Mortality,LC50,Sulfuric acid copper(2+) salt (1:1),NR,AI mg/L
+481,Mortality,LC50,Sulfuric acid copper(2+) salt (1:1),0.00018,AI mg/L
+482,Mortality,LC50,Sulfuric acid copper(2+) salt (1:1),0.0007,AI mg/L
+483,Mortality,LC50,Sulfuric acid copper(2+) salt (1:1),0.0189,AI mg/L
+484,Mortality,LC50/,Sulfuric acid copper(2+) salt (1:1),0.34,AI mg/L
+485,Mortality,LC50,Sulfuric acid copper(2+) salt (1:1),0.0048,AI mg/L
+486,Mortality,LC50,Sulfuric acid copper(2+) salt (1:1),0.0188,AI mg/L
+487,Mortality,LC50,Sulfuric acid copper(2+) salt (1:1),0.0826,AI mg/L
+488,Mortality,LC50,Sulfuric acid copper(2+) salt (1:1),0.00001,AI mg/L
+489,Mortality,LC50,Sulfuric acid copper(2+) salt (1:1),22,AI mg/L
+490,Mortality,LC50,Sulfuric acid copper(2+) salt (1:1),0.00077,AI mg/L
+491,Mortality,LC50,Sulfuric acid copper(2+) salt (1:1),0.018,AI mg/L
+492,Mortality,LC50,Sulfuric acid copper(2+) salt (1:1),0.007,AI mg/L
+493,Mortality,LC50,Sulfuric acid copper(2+) salt (1:1),0.00002,AI mg/L
+494,Mortality,LC50,Sulfuric acid copper(2+) salt (1:1),0.000053,AI mg/L
+495,Mortality,LC50,Sulfuric acid copper(2+) salt (1:1),0.002,AI mg/L
+496,Mortality,LC50,Sulfuric acid copper(2+) salt (1:1),NR,AI mg/L
+497,Mortality,LC50,Sulfuric acid copper(2+) salt (1:1),0.0093,AI mg/L
+498,Mortality,LC50,Sulfuric acid copper(2+) salt (1:1),0.00015,AI mg/L
+499,Mortality,LC50,Sulfuric acid copper(2+) salt (1:1),0.00005,AI mg/L
+500,Mortality,LC50,Sulfuric acid copper(2+) salt (1:1),0.0094,AI mg/L
+501,Mortality,LC50,Sulfuric acid copper(2+) salt (1:1),0.000023,AI mg/L
+502,Mortality,LC50,Sulfuric acid copper(2+) salt (1:1),0.0016,AI mg/L
+503,Mortality,LC50,Sulfuric acid copper(2+) salt (1:1),0.00031,AI mg/L
+504,Mortality,EC50,Sulfuric acid copper(2+) salt (1:1),0.0495,AI mg/L
+505,Mortality,LC50,Sulfuric acid copper(2+) salt (1:1),NR,AI mg/L
+506,Mortality,LC50,Sulfuric acid copper(2+) salt (1:1),0.0005,AI mg/L
+507,Mortality,LC50,Sulfuric acid copper(2+) salt (1:1),0.0308,AI mg/L
+508,Mortality,LC50,Sulfuric acid copper(2+) salt (1:1),0.00023,AI mg/L
+509,Mortality,LC50,Sulfuric acid copper(2+) salt (1:1),0.01,AI mg/L
+510,Mortality,LC50,Sulfuric acid copper(2+) salt (1:1),0.0382,AI mg/L
+511,Mortality,LC50,Sulfuric acid copper(2+) salt (1:1),0.0259,AI mg/L
+512,Mortality,LC50,Sulfuric acid copper(2+) salt (1:1),NR,AI mg/L
+513,Mortality,LC50,Sulfuric acid copper(2+) salt (1:1),0.00037,AI mg/L
+514,Mortality,EC50,Sulfuric acid copper(2+) salt (1:1),0.05,AI mg/L
+515,Mortality,LC50,Sulfuric acid copper(2+) salt (1:1),0.000016,AI mg/L
+516,Mortality,LC50,Sulfuric acid copper(2+) salt (1:1),0.002,AI mg/L
+517,Mortality,LC50,Sulfuric acid copper(2+) salt (1:1),0.000013,AI mg/L
+518,Mortality,LC50,Sulfuric acid copper(2+) salt (1:1),0.00061,AI mg/L
+519,Mortality,LC50,Sulfuric acid copper(2+) salt (1:1),NR,AI mg/L
+520,Mortality,EC50,Sulfuric acid copper(2+) salt (1:1),0.0113,AI mg/L
+521,Mortality,LC50,Sulfuric acid copper(2+) salt (1:1),0.0035,AI mg/L
+522,Mortality,LC50,Sulfuric acid copper(2+) salt (1:1),0.00004,AI mg/L
+523,Mortality,LC50,Sulfuric acid copper(2+) salt (1:1),NR,AI mg/L
+524,Mortality,LC50,Sulfuric acid copper(2+) salt (1:1),0.004,AI mg/L
+525,Mortality,LC50,Sulfuric acid copper(2+) salt (1:1),0.00017,AI mg/L
+526,Mortality,LC50,Sulfuric acid copper(2+) salt (1:1),0.0167,AI mg/L
+527,Mortality,LC50,Sulfuric acid copper(2+) salt (1:1),0.004,AI mg/L
+528,Mortality,LC50,Sulfuric acid copper(2+) salt (1:1),0.0005,AI mg/L
+529,Mortality,LC50,Sulfuric acid copper(2+) salt (1:1),0.0006,AI mg/L
+530,Mortality,LC50,Sulfuric acid copper(2+) salt (1:1),0.28,AI mg/L
+531,Mortality,LC50,"Sulfuric acid, Aluminum salt (3:2)",38.2,AI mg/L
+532,Mortality,LC50,"Sulfuric acid, Aluminum salt (3:2)",38.2,AI mg/L
+533,Mortality,LC50,"Sulfuric acid, Aluminum salt (3:2)",38.2,AI mg/L
+534,Mortality,LC50,"Sulfuric acid, Aluminum salt (3:2)",38.2,AI mg/L
+535,Mortality,LC50,"Sulfuric acid, Cadmium salt (1:1)",0.104,AI mg/L
+536,Mortality,LC50,"Sulfuric acid, Cadmium salt (1:1)",0.0278,AI mg/L
+537,Mortality,LC50,"Sulfuric acid, Cadmium salt (1:1)",3.83,AI mg/L
+538,Mortality,LC50,"Sulfuric acid, Cadmium salt (1:1)",0.0914,AI mg/L
+539,Mortality,LC50,"Sulfuric acid, Cadmium salt (1:1)",0.179,AI mg/L
+540,Mortality,LC50,"Sulfuric acid, Cadmium salt (1:1)",0.069,AI mg/L
+541,Mortality,LC50,"Sulfuric acid, Cadmium salt (1:1)",0.04,AI mg/L
+542,Mortality,LC50,"Sulfuric acid, Cadmium salt (1:1)",0.027,AI mg/L
+543,Mortality,LC50,"Sulfuric acid, Cadmium salt (1:1)",0.027,AI mg/L
+544,Mortality,LC50,"Sulfuric acid, Cadmium salt (1:1)",0.309,AI mg/L
+545,Mortality,LC50,"Sulfuric acid, Cadmium salt (1:1)",0.0202,AI mg/L
+546,Mortality,LC50,"Sulfuric acid, Cadmium salt (1:1)",0.0181,AI mg/L
+547,Mortality,LC50,"Sulfuric acid, Lead(2+) salt (1:1)",3166,AI mg/L
+548,Mortality,LC50,"Sulfuric acid, Lead(2+) salt (1:1)",0.395,AI mg/L
+549,Mortality,LC50,"Sulfuric acid, Lead(2+) salt (1:1)",0.392,AI mg/L
+550,Mortality,LC50,"Sulfuric acid, Manganese(2+) salt (1:1)",16,AI mg/L
+551,Mortality,LC50,"Sulfuric acid, Manganese(2+) salt (1:1)",14.4,AI mg/L
+552,Mortality,LC50,"Sulfuric acid, Manganese(2+) salt (1:1)",12.6,AI mg/L
+553,Mortality,LC50,"Sulfuric acid, Manganese(2+) salt (1:1)",19.5,AI mg/L
+554,Mortality,LC50,"Sulfuric acid, Manganese(2+) salt (1:1)",19.2,AI mg/L
+555,Mortality,LC50,"Sulfuric acid, Manganese(2+) salt (1:1)",15.2,AI mg/L
+556,Mortality,LC50,"Sulfuric acid, Zinc salt (1:1)",0.0218,AI mg/L
+557,Mortality,LC50,"Sulfuric acid, Zinc salt (1:1)",4.029,AI mg/L
+558,Mortality,LC50,"Sulfuric acid, Zinc salt (1:1)",0.636,AI mg/L
+559,Mortality,LC50,"Sulfuric acid, Zinc salt (1:1)",0.378,AI mg/L
+560,Mortality,LC50,"Sulfuric acid, Zinc salt (1:1)",0.62,AI mg/L
+561,Mortality,LC50,"Sulfuric acid, Zinc salt (1:1)",1.29,AI mg/L
+562,Mortality,LC50,"Sulfuric acid, Zinc salt (1:1)",0.878,AI mg/L
+563,Mortality,LC50,"Sulfuric acid, Zinc salt (1:1)",0.239,AI mg/L
+564,Mortality,LC50,"Sulfuric acid, Zinc salt (1:1)",35.403,AI mg/L
+565,Mortality,LC50,"Sulfuric acid, Zinc salt (1:1)",0.3,AI mg/L
+566,Mortality,LC50,"Sulfuric acid, Zinc salt (1:1)",0.121,AI mg/L
+567,Mortality,LC50,"Sulfuric acid, Zinc salt (1:1)",0.397,AI mg/L
+568,Mortality,LC50,"Sulfuric acid, Zinc salt (1:1)",29.4,AI mg/L
+569,Mortality,LC50,"Sulfuric acid, Zinc salt (1:1)",0.62,AI mg/L
+570,Mortality,LC50,Tributylchlorostannane,0.00095,AI mg/L
+571,Mortality,LC50,Vanadium oxide (V2O5),1.46,AI mg/L
+572,Mortality,LC50,Vanadium oxide (V2O5),1.03,AI mg/L
+573,Mortality,LC50,Vanadium oxide (V2O5),0.85,AI mg/L
+574,Mortality,LC50,Vanadium oxide (V2O5),1.37,AI mg/L
+575,Mortality,LC50,Vanadium oxide (V2O5),1.52,AI mg/L
+576,Mortality,LC50,Vanadium oxide (V2O5),1.58,AI mg/L
+577,Mortality,LC50,Zinc,2.85,AI mg/L
+578,Mortality,LC50,Zinc,3.58,AI mg/L
+579,Mortality,LC50,Zinc chloride (ZnCl2),0.84,AI mg/L
+580,Mortality,LC50,Zinc chloride (ZnCl2),1.8,AI mg/L
+581,Mortality,LC50,Zinc chloride (ZnCl2),8.2316744,AI mg/L
+582,Mortality,LC50,Zinc chloride (ZnCl2),1.70902644,AI mg/L
+583,Mortality,LC50,Zinc chloride (ZnCl2),0.177,AI mg/L
+584,Mortality,LC50,Zinc chloride (ZnCl2),6.2964132,AI mg/L
+585,Mortality,LC50,Zinc chloride (ZnCl2),6.5689852,AI mg/L
+586,Mortality,LC50,Zinc chloride (ZnCl2),8.2861888,AI mg/L
+587,Mortality,EC50,Zinc chloride (ZnCl2),0.4,AI mg/L
+588,Mortality,EC50,Zinc chloride (ZnCl2),0.59,AI mg/L
+589,Mortality,LC85,Zinc chloride (ZnCl2),1.94616408,AI mg/L
+590,Mortality,LC50,Zinc chloride (ZnCl2),0.164,AI mg/L
+591,Mortality,LC50,Zinc chloride (ZnCl2),0.21,AI mg/L
+592,Mortality,LC50,Zinc chloride (ZnCl2),7.4003298,AI mg/L
+593,Mortality,LC50,Zinc chloride (ZnCl2),0.8,AI mg/L
+594,Mortality,LC50,Zinc chloride (ZnCl2),6.8688144,AI mg/L
+595,Mortality,LC50,Zinc chloride (ZnCl2),9.6490488,AI mg/L
+596,Mortality,LC50,Zinc chloride (ZnCl2),0.21,AI mg/L
+597,Mortality,LC50,Zinc chloride (ZnCl2),47.7,AI mg/L
+598,Mortality,LC15,Zinc chloride (ZnCl2),1.499146,AI mg/L
+599,Mortality,EC50,Zinc chloride (ZnCl2),0.16,AI mg/L
+600,Mortality,LC50,Zinc chloride (ZnCl2),2.3,AI mg/L
+601,Mortality,LC50,Zinc chloride (ZnCl2),8.4,AI mg/L
+602,Mortality,LC50,Zinc oxide (ZnO),1.25,AI mg/L
+603,Mortality,LC50,Zinc oxide (ZnO),24.6,AI mg/L
+604,Mortality,LC50,Zinc oxide (ZnO),2.14,AI mg/L
+605,Mortality,LC50,Zinc oxide (ZnO),0.098,AI mg/L
+606,Mortality,LC50,Zinc oxide (ZnO),1.511,AI mg/L
+607,Mortality,LC50,Zinc oxide (ZnO),2.58,AI mg/L
+608,Mortality,LC50,Zinc sulfide,30000,AI mg/L
+609,Mortality,LC50,Zinc sulfide,30000,AI mg/L
+610,Mortality,LC50,bis(Acetyloxy)dibutylstannane,0.17,AI mg/L

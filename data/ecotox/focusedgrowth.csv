@@ -1,0 +1,8 @@
+,Effect Measurement,Endpoint,Chemical Name,Conc 1 Mean (Standardized),Conc 1 Units (Standardized)
+0,"Growth, general",EC50,Cadmium chloride (CdCl2),0.001,AI mg/L
+1,Length,EC50,Chromic acid (H2Cr2O7) disodium salt,0.233,AI mg/L
+2,"Growth, general",EC20,Nitric acid silver (1+) salt (1:1),0.00642,AI mg/L
+3,"Growth, general",EC50,Nitric acid silver (1+) salt (1:1),0.00802,AI mg/L
+4,"Growth, general",EC20,Nitric acid silver (1+) salt (1:1),0.00756,AI mg/L
+5,"Growth, general",EC50,Nitric acid silver (1+) salt (1:1),0.00857,AI mg/L
+6,Length,EC10,Sulfuric acid copper(2+) salt (1:1),0.0109,AI mg/L

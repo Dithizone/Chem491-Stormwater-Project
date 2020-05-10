@@ -1,0 +1,267 @@
+,Effect Measurement,Endpoint,Chemical Name,Conc 1 Mean (Standardized),Conc 1 Units (Standardized)
+0,Immobile,EC50*,2-Amino-4-(methylseleno)butanoic acid,0.045,AI mg/L
+1,Immobile,EC50*,"3,3'-Diselenobisalanine",0.52,AI mg/L
+2,Immobile,EC50,Aluminum hydroxide (Al(OH)3),0.065,AI mg/L
+3,Immobile,EC50,Aluminum oxide (Al2O3),114.357,AI mg/L
+4,Immobile,EC50,Aluminum oxide (Al2O3),500,AI mg/L
+5,Immobile,EC50,Antimony trioxide,3.01,AI mg/L
+6,Immobile,EC50,Arsenic oxide (As2O3),2.7,AI mg/L
+7,Immobile,EC90,Arsenic oxide (As2O3),3.4,AI mg/L
+8,Immobile,EC50,Arsenic oxide (As2O3),2.5,AI mg/L
+9,Immobile,EC10,Arsenic oxide (As2O3),2,AI mg/L
+10,Immobile,EC90,Arsenic oxide (As2O3),3.8,AI mg/L
+11,Immobile,EC10,Arsenic oxide (As2O3),1.9,AI mg/L
+12,Immobile,EC50,Barium nitrate,133.8059776,AI mg/L
+13,Immobile,EC50,Benzo[a]pyrene,0.0293,AI mg/L
+14,Immobile,EC50,Cadmium,0.0135,AI mg/L
+15,Immobile,EC50/,Cadmium,0.1312,AI mg/L
+16,Immobile,EC50/,Cadmium,0.1399,AI mg/L
+17,Immobile,EC50/,Cadmium,0.3263,AI mg/L
+18,Immobile,EC50/,Cadmium,0.0491,AI mg/L
+19,Immobile,EC50/,Cadmium,0.0244,AI mg/L
+20,Immobile,EC50/,Cadmium,0.1294,AI mg/L
+21,Immobile,EC50/,Cadmium,0.2288,AI mg/L
+22,Immobile,EC50/,Cadmium,0.3553,AI mg/L
+23,Immobile,EC50/,Cadmium,0.1467,AI mg/L
+24,Immobile,EC50/,Cadmium,0.2501,AI mg/L
+25,Immobile,EC50/,Cadmium,0.0254,AI mg/L
+26,Immobile,EC50/,Cadmium,0.3193,AI mg/L
+27,Immobile,EC50,Cadmium chloride (CdCl2),0.1294,AI mg/L
+28,Immobile,EC50,Cadmium chloride (CdCl2),0.3316,AI mg/L
+29,Immobile,EC50,Cadmium chloride (CdCl2),0.0201,AI mg/L
+30,Immobile,EC50,Cadmium chloride (CdCl2),0.0098,AI mg/L
+31,Immobile,LC50,Cadmium chloride (CdCl2),NR,AI mg/L
+32,Immobile,EC50,Cadmium chloride (CdCl2),0.0396,AI mg/L
+33,Immobile,EC50,Cadmium chloride (CdCl2),0.6319,AI mg/L
+34,Immobile,LC50,Cadmium chloride (CdCl2),0.02,AI mg/L
+35,Immobile,LC50,Cadmium chloride (CdCl2),NR,AI mg/L
+36,Immobile,EC50,Cadmium chloride (CdCl2),NR,AI mg/L
+37,Immobile,EC50,Cadmium chloride (CdCl2),37.9,AI mg/L
+38,Immobile,LC50,Cadmium chloride (CdCl2),0.12,AI mg/L
+39,Immobile,EC50,Cadmium chloride (CdCl2),0.009,AI mg/L
+40,Immobile,EC50,Cadmium chloride (CdCl2),0.458,AI mg/L
+41,Immobile,EC50,Cadmium chloride (CdCl2),0.00948,AI mg/L
+42,Immobile,EC50,Cadmium chloride (CdCl2),0.0271,AI mg/L
+43,Immobile,LC50,Cadmium chloride (CdCl2),NR,AI mg/L
+44,Immobile,EC50,Cadmium chloride (CdCl2),0.1159,AI mg/L
+45,Immobile,EC50,Cadmium chloride (CdCl2),0.463,AI mg/L
+46,Immobile,EC50,Cadmium chloride (CdCl2),0.0036,AI mg/L
+47,Immobile,EC50,Cadmium chloride (CdCl2),0.0245,AI mg/L
+48,Immobile,EC50,Cadmium chloride (CdCl2),0.009,AI mg/L
+49,Immobile,EC50,Cadmium chloride (CdCl2),0.0045,AI mg/L
+50,Immobile,EC50,Cadmium chloride (CdCl2),0.0353,AI mg/L
+51,Immobile,EC50,Chromic acid dipotassium salt,0.72,AI mg/L
+52,Immobile,EC50,Chromic acid dipotassium salt,1.45,AI mg/L
+53,Immobile,EC50,Chromic acid dipotassium salt,NR,AI mg/L
+54,Immobile,EC50,Chromic acid dipotassium salt,0.28,AI mg/L
+55,Immobile,EC50,Chromic acid dipotassium salt,1.13,AI mg/L
+56,Immobile,EC50,Chromic acid dipotassium salt,NR,AI mg/L
+57,Immobile,EC50,Chromic acid dipotassium salt,0.89,AI mg/L
+58,Immobile,EC50,Chromic acid dipotassium salt,1.43,AI mg/L
+59,Immobile,EC50,Chromic acid dipotassium salt,1.05,AI mg/L
+60,Immobile,EC50,Chromic acid dipotassium salt,0.77,AI mg/L
+61,Immobile,EC50,Chromic acid dipotassium salt,1.22,AI mg/L
+62,Immobile,EC50,Chromic acid dipotassium salt,1.03,AI mg/L
+63,Immobile,EC50,Chromic acid dipotassium salt,0.65,AI mg/L
+64,Immobile,EC50,Chromic acid dipotassium salt,0.2204,AI mg/L
+65,Immobile,EC50,Chromic acid dipotassium salt,1.3,AI mg/L
+66,Immobile,EC50,Chromic acid dipotassium salt,1.03,AI mg/L
+67,Immobile,EC50,Chromic acid dipotassium salt,0.82,AI mg/L
+68,Immobile,EC50,Chromic acid dipotassium salt,0.8,AI mg/L
+69,Immobile,EC50,Chromic acid dipotassium salt,1.55,AI mg/L
+70,Immobile,EC50,Chromic acid dipotassium salt,NR,AI mg/L
+71,Immobile,EC50,Chromic acid dipotassium salt,0.87,AI mg/L
+72,Immobile,EC50,Chromic acid dipotassium salt,1.05,AI mg/L
+73,Immobile,EC50,Chromic acid dipotassium salt,1.16,AI mg/L
+74,Immobile,EC50,Chromic acid dipotassium salt,NR,AI mg/L
+75,Immobile,EC50,Chromic acid dipotassium salt,1.17,AI mg/L
+76,Immobile,EC50,Chromic acid dipotassium salt,NR,AI mg/L
+77,Immobile,EC50,Chromic acid dipotassium salt,0.78,AI mg/L
+78,Immobile,EC50,Chromic acid dipotassium salt,1.16,AI mg/L
+79,Immobile,EC50,Chromic acid dipotassium salt,NR,AI mg/L
+80,Immobile,EC50,Chromic acid dipotassium salt,1.44,AI mg/L
+81,Immobile,EC50,Chromic acid dipotassium salt,0.92,AI mg/L
+82,Immobile,EC50,Chromic acid dipotassium salt,46.8,AI mg/L
+83,Immobile,EC50,Chromic acid dipotassium salt,1.41,AI mg/L
+84,Immobile,EC50,Chromic acid dipotassium salt,1.05,AI mg/L
+85,Immobile,EC50,Chromic acid dipotassium salt,0.98,AI mg/L
+86,Immobile,LC50,Chromic acid dipotassium salt,NR,AI mg/L
+87,Immobile,EC50,Chromic acid dipotassium salt,1.22,AI mg/L
+88,Immobile,EC50,Chromic acid dipotassium salt,0.2621,AI mg/L
+89,Immobile,EC50,Chromic acid dipotassium salt,1.48,AI mg/L
+90,Immobile,EC50,Chromic acid dipotassium salt,1.3,AI mg/L
+91,Immobile,EC50,Chromic acid dipotassium salt,0.1949,AI mg/L
+92,Immobile,EC50,Chromic acid dipotassium salt,0.82,AI mg/L
+93,Immobile,EC50,Chromic acid dipotassium salt,0.6,AI mg/L
+94,Immobile,EC50,Chromic acid dipotassium salt,0.2291,AI mg/L
+95,Immobile,EC50,Chromic acid dipotassium salt,0.1004,AI mg/L
+96,Immobile,EC50,Chromic acid dipotassium salt,0.92,AI mg/L
+97,Immobile,EC50,Chromic acid dipotassium salt,1.07,AI mg/L
+98,Immobile,EC50,Chromic acid dipotassium salt,0.61,AI mg/L
+99,Immobile,EC50,Chromic acid dipotassium salt,0.85,AI mg/L
+100,Immobile,EC50,Chromic acid dipotassium salt,0.85,AI mg/L
+101,Immobile,EC50,Chromic acid dipotassium salt,1.15,AI mg/L
+102,Immobile,EC50,Chromic acid dipotassium salt,0.2297,AI mg/L
+103,Immobile,EC50,Chromic acid dipotassium salt,0.65,AI mg/L
+104,Immobile,EC50,Chromic acid dipotassium salt,0.187,AI mg/L
+105,Immobile,EC50,Chromic acid dipotassium salt,1.13,AI mg/L
+106,Immobile,EC50,Chromic acid dipotassium salt,1.61,AI mg/L
+107,Immobile,EC50,Chromic acid dipotassium salt,1.03,AI mg/L
+108,Immobile,EC50,Chromic acid dipotassium salt,1,AI mg/L
+109,Immobile,EC50,Chromic acid dipotassium salt,1,AI mg/L
+110,Immobile,EC50,Chromic acid dipotassium salt,0.188,AI mg/L
+111,Immobile,EC50,Chromic acid dipotassium salt,2.45,AI mg/L
+112,Immobile,EC50,Chromic acid dipotassium salt,1,AI mg/L
+113,Immobile,EC50,Chromic acid dipotassium salt,1.4,AI mg/L
+114,Immobile,EC50,Chromic acid dipotassium salt,0.94,AI mg/L
+115,Immobile,EC50,Chromic acid dipotassium salt,1.71,AI mg/L
+116,Immobile,EC50,Chromic acid dipotassium salt,1.38,AI mg/L
+117,Immobile,EC50,Chromic acid dipotassium salt,0.97,AI mg/L
+118,Immobile,EC50,Chromic acid dipotassium salt,0.113,AI mg/L
+119,Immobile,EC50,Chromic acid dipotassium salt,0.88,AI mg/L
+120,Immobile,EC50,Chromic acid dipotassium salt,NR,AI mg/L
+121,Immobile,EC50,Chromic acid dipotassium salt,1.03,AI mg/L
+122,Immobile,EC50,Chromic acid dipotassium salt,0.8,AI mg/L
+123,Immobile,EC50,Chromic acid dipotassium salt,0.201,AI mg/L
+124,Immobile,EC50,Chromic acid dipotassium salt,0.14,AI mg/L
+125,Immobile,EC50,Chromic acid dipotassium salt,0.66,AI mg/L
+126,Immobile,EC50,Chromic acid dipotassium salt,1.13,AI mg/L
+127,Immobile,EC50,Chromic acid dipotassium salt,0.5159,AI mg/L
+128,Immobile,EC50,Chromic acid dipotassium salt,NR,AI mg/L
+129,Immobile,EC50,Chromic acid dipotassium salt,0.1741,AI mg/L
+130,Immobile,EC50,Chromic acid dipotassium salt,0.6,AI mg/L
+131,Immobile,EC50,Chromic acid dipotassium salt,0.96,AI mg/L
+132,Immobile,EC50,Chromic acid dipotassium salt,0.77,AI mg/L
+133,Immobile,EC50,Chromic acid dipotassium salt,NR,AI mg/L
+134,Immobile,EC50,Chromic acid dipotassium salt,0.2883,AI mg/L
+135,Immobile,EC50,Chromic acid dipotassium salt,0.1639,AI mg/L
+136,Immobile,EC50,Chromic acid dipotassium salt,1,AI mg/L
+137,Immobile,EC50,Chromic acid dipotassium salt,0.84,AI mg/L
+138,Immobile,EC50,Chromic acid dipotassium salt,0.9,AI mg/L
+139,Immobile,EC50,Chromic acid dipotassium salt,0.55,AI mg/L
+140,Immobile,EC50,Chromic acid dipotassium salt,NR,AI mg/L
+141,Immobile,EC50,Chromic acid dipotassium salt,1.34,AI mg/L
+142,Immobile,EC50,Chromic acid dipotassium salt,0.55,AI mg/L
+143,Immobile,EC50,Copper,0.103,AI mg/L
+144,Immobile,EC50,Copper chloride (CuCl2),0.047,AI mg/L
+145,Immobile,EC50,Copper chloride (CuCl2),0.415,AI mg/L
+146,Immobile,LC20,Copper oxide (CuO),90.7,AI mg/L
+147,Immobile,LC20,Copper oxide (CuO),0.96,AI mg/L
+148,Immobile,LC50,Copper oxide (CuO),131.8,AI mg/L
+149,Immobile,LC50,Copper oxide (CuO),2.6,AI mg/L
+150,Immobile,EC20,Fluoranthene,89,AI mg/L
+151,Immobile,EC50,Fluoranthene,NR,AI mg/L
+152,Immobile,EC50,Fluoranthene,NR,AI mg/L
+153,Immobile,EC50,Fluoranthene,0.78,AI mg/L
+154,Immobile,EC50,Fluoranthene,NR,AI mg/L
+155,Immobile,EC50,Fluoranthene,150,AI mg/L
+156,Immobile,EC50,Fluoranthene,NR,AI mg/L
+157,Immobile,EC50,Fluoranthene,0.01313,AI mg/L
+158,Immobile,EC50,Fluoranthene,0.03437,AI mg/L
+159,Immobile,EC50,Fluoranthene,NR,AI mg/L
+160,Immobile,EC50,Fluoranthene,0.0202,AI mg/L
+161,Immobile,EC50,Fluoranthene,0.06328,AI mg/L
+162,Immobile,EC50,Fluoranthene,NR,AI mg/L
+163,Immobile,EC50,Fluoranthene,NR,AI mg/L
+164,Immobile,EC50,Hydroxytriphenylstannane,0.0165,AI mg/L
+165,Immobile,EC50,Manganese chloride (MnCl2),4.7,AI mg/L
+166,Immobile,EC50,Manganese chloride (MnCl2),22.8,AI mg/L
+167,Immobile,EC50,Manganese chloride (MnCl2),20,AI mg/L
+168,Immobile,EC50,Manganese chloride (MnCl2),32.3,AI mg/L
+169,Immobile,EC50,Manganese chloride (MnCl2),34.5,AI mg/L
+170,Immobile,EC50,Manganese chloride (MnCl2),56.1,AI mg/L
+171,Immobile,EC50,Mercury chloride (HgCl2),0.0124,AI mg/L
+172,Immobile,EC50,Mercury chloride (HgCl2),0.002986456,AI mg/L
+173,Immobile,EC50,Mercury chloride (HgCl2),0.002,AI mg/L
+174,Immobile,EC50,Mercury chloride (HgCl2),0.0113,AI mg/L
+175,Immobile,EC50,Mercury chloride (HgCl2),0.0015,AI mg/L
+176,Immobile,EC50,Mercury chloride (HgCl2),0.0122,AI mg/L
+177,Immobile,EC50,Mercury chloride (HgCl2),0.0101,AI mg/L
+178,Immobile,EC50,Naphthalene,1.6,AI mg/L
+179,Immobile,EC50,Naphthalene,2.55,AI mg/L
+180,Immobile,EC50,"Nitric acid, Lead (2+) salt (2:1)",18.153,AI mg/L
+181,Immobile,EC50,Phenanthrene,0.72502,AI mg/L
+182,Immobile,EC20,Phenanthrene,165,AI mg/L
+183,Immobile,EC50,Phenanthrene,0.60438,AI mg/L
+184,Immobile,EC50,Phenanthrene,244,AI mg/L
+185,Immobile,EC50,Phenanthrene,0.67841,AI mg/L
+186,Immobile,EC50,Phenanthrene,0.85374,AI mg/L
+187,Immobile,EC50,Phenanthrene,0.27264,AI mg/L
+188,Immobile,EC50,Phenanthrene,0.73067,AI mg/L
+189,Immobile,EC50,Phenanthrene,0.19891,AI mg/L
+190,Immobile,EC50,"Polyphosphoric acids, Ammonium salts",1676,AI mg/L
+191,Immobile,EC50,"Polyphosphoric acids, Ammonium salts",99.74,AI mg/L
+192,Immobile,EC50,"Polyphosphoric acids, Ammonium salts",1007,AI mg/L
+193,Immobile,EC50,"Polyphosphoric acids, Ammonium salts",90.89,AI mg/L
+194,Immobile,EC50,"Polyphosphoric acids, Ammonium salts",730.5,AI mg/L
+195,Immobile,EC50,Pyrene,67,AI mg/L
+196,Immobile,EC20,Pyrene,39,AI mg/L
+197,Immobile,EC50,Silv-ex(fire suppressant),7,AI mg/L
+198,Immobile,EC50,Silv-ex(fire suppressant),0.11,AI mg/L
+199,Immobile,EC50,Silv-ex(fire suppressant),10,AI mg/L
+200,Immobile,EC50,Silv-ex(fire suppressant),0.12,AI mg/L
+201,Immobile,EC50,Sulfuric acid copper(2+) salt (1:1),0.123,AI mg/L
+202,Immobile,EC50,Sulfuric acid copper(2+) salt (1:1),0.021,AI mg/L
+203,Immobile,EC50,Sulfuric acid copper(2+) salt (1:1),0.0105,AI mg/L
+204,Immobile,EC50,Sulfuric acid copper(2+) salt (1:1),0.0238,AI mg/L
+205,Immobile,EC50,Sulfuric acid copper(2+) salt (1:1),0.0173,AI mg/L
+206,Immobile,EC50,Sulfuric acid copper(2+) salt (1:1),0.1665,AI mg/L
+207,Immobile,EC50,Sulfuric acid copper(2+) salt (1:1),0.0147,AI mg/L
+208,Immobile,EC50,Sulfuric acid copper(2+) salt (1:1),0.013,AI mg/L
+209,Immobile,EC50,Sulfuric acid copper(2+) salt (1:1),0.0313,AI mg/L
+210,Immobile,EC50,Sulfuric acid copper(2+) salt (1:1),0.0707,AI mg/L
+211,Immobile,EC50,Sulfuric acid copper(2+) salt (1:1),0.0412,AI mg/L
+212,Immobile,EC50,Sulfuric acid copper(2+) salt (1:1),0.1527,AI mg/L
+213,Immobile,EC50,Sulfuric acid copper(2+) salt (1:1),0.1014,AI mg/L
+214,Immobile,EC50,Sulfuric acid copper(2+) salt (1:1),0.025,AI mg/L
+215,Immobile,EC50,Sulfuric acid copper(2+) salt (1:1),0.0206,AI mg/L
+216,Immobile,EC50,Sulfuric acid copper(2+) salt (1:1),21.5,AI mg/L
+217,Immobile,EC50,Sulfuric acid copper(2+) salt (1:1),0.0348,AI mg/L
+218,Immobile,LC50,Sulfuric acid copper(2+) salt (1:1),0.07,AI mg/L
+219,Immobile,EC50,Sulfuric acid copper(2+) salt (1:1),0.18747862,AI mg/L
+220,Immobile,EC50,Sulfuric acid copper(2+) salt (1:1),0.0919,AI mg/L
+221,Immobile,LC20,Sulfuric acid copper(2+) salt (1:1),0.05,AI mg/L
+222,Immobile,EC50,Sulfuric acid diammonium salt mixt. with diammonium hydrogen phosphate,52.15,AI mg/L
+223,Immobile,EC50,Sulfuric acid diammonium salt mixt. with diammonium hydrogen phosphate,51.95,AI mg/L
+224,Immobile,EC50,Sulfuric acid diammonium salt mixt. with diammonium hydrogen phosphate,280,AI mg/L
+225,Immobile,EC50,Sulfuric acid diammonium salt mixt. with diammonium hydrogen phosphate,24.26,AI mg/L
+226,Immobile,EC50,Sulfuric acid diammonium salt mixt. with diammonium hydrogen phosphate,780,AI mg/L
+227,Immobile,EC50,Sulfuric acid diammonium salt mixt. with diammonium hydrogen phosphate,188,AI mg/L
+228,Immobile,EC50,Sulfuric acid diammonium salt mixt. with diammonium hydrogen phosphate,780,AI mg/L
+229,Immobile,EC50,Sulfuric acid diammonium salt mixt. with diammonium hydrogen phosphate,81.11,AI mg/L
+230,Immobile,EC50,"Sulfuric acid, Iron (2+) salt (1:1)",14.468527,AI mg/L
+231,Immobile,LC50,"Sulfuric acid, Zinc salt (1:1)",1.4,AI mg/L
+232,Immobile,EC50,"Sulfuric acid, Zinc salt (1:1)",0.699,AI mg/L
+233,Immobile,EC50,"Sulfuric acid, Zinc salt (1:1)",8.048,AI mg/L
+234,Immobile,EC50,"Sulfuric acid, Zinc salt (1:1)",0.916,AI mg/L
+235,Immobile,EC50,"Sulfuric acid, Zinc salt (1:1)",0.7555,AI mg/L
+236,Immobile,LC20,"Sulfuric acid, Zinc salt (1:1)",1.2,AI mg/L
+237,Immobile,EC50,"Sulfuric acid, Zinc salt (1:1)",0.742,AI mg/L
+238,Immobile,EC50,"Sulfuric acid, Zinc salt (1:1)",3.665,AI mg/L
+239,Immobile,EC50,"Sulfuric acid, Zinc salt (1:1)",7.325,AI mg/L
+240,Immobile,EC50,"Sulfuric acid, Zinc salt (1:1)",1.831,AI mg/L
+241,Immobile,EC50,"Sulfuric acid, Zinc salt (1:1)",0.9864,AI mg/L
+242,Immobile,EC50,"Sulfuric acid, Zinc salt (1:1)",0.7981,AI mg/L
+243,Immobile,EC50,"Sulfuric acid, Zinc salt (1:1)",0.8621,AI mg/L
+244,Immobile,EC50,"Sulfuric acid, Zinc salt (1:1)",0.7014,AI mg/L
+245,Immobile,EC50,"Sulfuric acid, Zinc salt (1:1)",0.7948,AI mg/L
+246,Immobile,EC50,"Sulfuric acid, Zinc salt (1:1)",1.263,AI mg/L
+247,Immobile,EC50,Tributylstannane,0.000000001,AI mg/L
+248,Immobile,EC50,Zinc,0.696,AI mg/L
+249,Immobile,EC50,Zinc chloride (ZnCl2),93.8,AI mg/L
+250,Immobile,EC50,Zinc chloride (ZnCl2),NR,AI mg/L
+251,Immobile,EC50,Zinc chloride (ZnCl2),NR,AI mg/L
+252,Immobile,EC50,Zinc chloride (ZnCl2),NR,AI mg/L
+253,Immobile,EC50,Zinc chloride (ZnCl2),NR,AI mg/L
+254,Immobile,EC50,Zinc chloride (ZnCl2),NR,AI mg/L
+255,Immobile,EC50,Zinc chloride (ZnCl2),NR,AI mg/L
+256,Immobile,EC50,Zinc chloride (ZnCl2),NR,AI mg/L
+257,Immobile,EC50,Zinc chloride (ZnCl2),NR,AI mg/L
+258,Immobile,EC10,Zinc oxide (ZnO),0.6,AI mg/L
+259,Immobile,LC50,Zinc oxide (ZnO),2.6,AI mg/L
+260,Immobile,LC50,Zinc oxide (ZnO),7.1,AI mg/L
+261,Immobile,LC20,Zinc oxide (ZnO),4.4,AI mg/L
+262,Immobile,LC20,Zinc oxide (ZnO),2,AI mg/L
+263,Immobile,EC50,Zinc oxide (ZnO),0.481,AI mg/L
+264,Immobile,EC50,Zinc oxide (ZnO),0.622,AI mg/L
+265,Immobile,EC50,Zinc oxide (ZnO),1,AI mg/L

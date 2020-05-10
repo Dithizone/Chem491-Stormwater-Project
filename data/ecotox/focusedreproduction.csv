@@ -1,0 +1,39 @@
+,Effect Measurement,Endpoint,Chemical Name,Conc 1 Mean (Standardized),Conc 1 Units (Standardized)
+0,Viability,EC50,Cadmium chloride (CdCl2),0.0061,AI mg/L
+1,Progeny counts/numbers,EC50,Chromic acid (H2Cr2O7) disodium salt,0.047,AI mg/L
+2,Progeny counts/numbers,EC50,Nickel chloride (NiCl2),0.25667,AI mg/L
+3,Progeny counts/numbers,EC50,Nickel chloride (NiCl2),0.28209,AI mg/L
+4,Progeny counts/numbers,EC50,Nickel chloride (NiCl2),0.1,AI mg/L
+5,Progeny counts/numbers,EC50,Nickel chloride (NiCl2),0.27355,AI mg/L
+6,Progeny counts/numbers,EC50,Nickel chloride (NiCl2),0.29035,AI mg/L
+7,Progeny counts/numbers,EC50,Nickel chloride (NiCl2),0.3109,AI mg/L
+8,Progeny counts/numbers,EC50,Nickel chloride (NiCl2),0.27891,AI mg/L
+9,Progeny counts/numbers,EC50,Nitric acid silver (1+) salt (1:1),0.00663,AI mg/L
+10,Progeny counts/numbers,EC50,Nitric acid silver (1+) salt (1:1),0.00666,AI mg/L
+11,Reproductive success (general),EC50,Nitric acid silver (1+) salt (1:1),0.00617,AI mg/L
+12,Progeny counts/numbers,EC50,Nitric acid silver (1+) salt (1:1),0.00661,AI mg/L
+13,Progeny counts/numbers,EC50,Nitric acid silver (1+) salt (1:1),0.00652,AI mg/L
+14,Progeny counts/numbers,EC50,Nitric acid silver (1+) salt (1:1),0.00642,AI mg/L
+15,Reproductive success (general),EC50,Nitric acid silver (1+) salt (1:1),0.0061,AI mg/L
+16,Progeny counts/numbers,EC50,Nitric acid silver (1+) salt (1:1),0.00587,AI mg/L
+17,Progeny counts/numbers,EC50,Nitric acid silver (1+) salt (1:1),0.00551,AI mg/L
+18,Progeny counts/numbers,EC50,Nitric acid silver (1+) salt (1:1),0.00696,AI mg/L
+19,Progeny counts/numbers,EC50,Nitric acid silver (1+) salt (1:1),0.00617,AI mg/L
+20,Progeny counts/numbers,EC50,Nitric acid silver (1+) salt (1:1),0.0061,AI mg/L
+21,Progeny counts/numbers,EC50,Nitric acid silver (1+) salt (1:1),0.00604,AI mg/L
+22,Reproductive success (general),EC20,Nitric acid silver (1+) salt (1:1),0.00543,AI mg/L
+23,Reproductive success (general),EC20,Nitric acid silver (1+) salt (1:1),0.00557,AI mg/L
+24,Progeny counts/numbers,EC50,Nitric acid silver (1+) salt (1:1),0.00693,AI mg/L
+25,Net Reproductive Rate,EC10,Sulfuric acid copper(2+) salt (1:1),0.0075,AI mg/L
+26,Net Reproductive Rate,EC50,Zinc chloride (ZnCl2),0.124,AI mg/L
+27,Net Reproductive Rate,EC50,Zinc chloride (ZnCl2),0.112,AI mg/L
+28,Net Reproductive Rate,EC50,Zinc chloride (ZnCl2),0.123,AI mg/L
+29,Progeny counts/numbers,EC10,Zinc chloride (ZnCl2),0.084,AI mg/L
+30,Progeny counts/numbers,EC10,Zinc chloride (ZnCl2),0.085,AI mg/L
+31,Progeny counts/numbers,EC50,Zinc chloride (ZnCl2),0.136,AI mg/L
+32,Net Reproductive Rate,EC50,Zinc chloride (ZnCl2),0.115,AI mg/L
+33,Net Reproductive Rate,EC50,Zinc chloride (ZnCl2),0.12,AI mg/L
+34,Progeny counts/numbers,EC50,Zinc chloride (ZnCl2),0.135,AI mg/L
+35,Net Reproductive Rate,EC50,Zinc chloride (ZnCl2),0.091,AI mg/L
+36,Net Reproductive Rate,EC50,Zinc chloride (ZnCl2),0.115,AI mg/L
+37,Net Reproductive Rate,EC50,Zinc chloride (ZnCl2),0.096,AI mg/L

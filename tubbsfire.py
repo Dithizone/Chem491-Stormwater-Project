@@ -9,7 +9,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 from UsefulThings import NewData, constituentsWeWant, tubbsConstituentsWeWant
 
-tubbsdata = pd.read_csv('data/tubbsFire/Sonoma County Data 16-19.txt', sep='|', dtype={'Result': float})
+tubbsdata = pd.read_csv('data/tubbsFire/ceden_data_20200509063830.txt', sep='|', dtype={'Result': float})
 # Wow so, one of the entries for Total Dissolved Solids had a Result value
 # of .289.6 which Pandas treated as a string in the middle of a whole
 # column of floats which made memory usage HUGE. So large, in fact, that
@@ -59,14 +59,20 @@ print(f'\n------- StationCode ({len(TheTubbsData["StationCode"].unique())}) ----
 for k in TheTubbsData["StationCode"].unique():
     print(k)
 
-stationsfortubbsfire = ['114PI5786', '114PR1182', '114UL0366', '114MW6173', '114PL8130']
+stationsfortubbsfire = ['114PI5786', '114PR1182', '114UL0366', '114MW6173', '114PL8130']  # Many not present in new data
+allstations = TheTubbsData["StationCode"].unique()
+thedates = ['2017-11-01', '2017-11-08', '2017-11-15', '2018-03-22']
+print(TheTubbsData['Analyte'].unique())
 
-for station in stationsfortubbsfire:
-    dfForStation = TheTubbsData[TheTubbsData['StationCode'] == '114PI5786']
+for station in allstations:
+    dfForStation = TheTubbsData[TheTubbsData['StationCode'] == station]
     pivotStation = pd.pivot_table(dfForStation, values='Result', index='SampleDate', columns='Analyte')
-    wantedConstituentsFromStation = pivotStation[tubbsConstituentsWeWant]
-    print(f'At {station}, the data has shape {dfForStation.shape}. After pivot: {pivotStation.shape}. After selection: {wantedConstituentsFromStation.shape}')
+    # wantedConstituentsFromStation = pivotStation[tubbsConstituentsWeWant]
+    if pivotStation.shape[0] > 10:
+        print(f'At {station}, the data has shape {dfForStation.shape}. After pivot: {pivotStation.shape}.')
     # wantedConstituentsFromStation.to_csv(path_or_buf=f'data/tubbsfire/{station}.csv')
+    # print(wantedConstituentsFromStation)
+
 
 # Now we have the data... though it's (4, 16) so I'm not sure how useful it'll be.
 
@@ -74,6 +80,6 @@ for station in stationsfortubbsfire:
 # ------- Now, the rainfall -------
 # ---------------------------------
 # from https://www.ncdc.noaa.gov/cdo-web/datasets/GHCND/stations/GHCND:USW00023213/detail
-
-santarosarainfall = pd.read_csv('data/tubbsFire/santarosarainfall.csv')
-print(santarosarainfall)
+#
+# santarosarainfall = pd.read_csv('data/tubbsFire/santarosarainfall.csv')
+# print(santarosarainfall)
