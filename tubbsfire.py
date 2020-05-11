@@ -61,6 +61,7 @@ for k in TheTubbsData["StationCode"].unique():
 
 stationsfortubbsfire = ['114PI5786', '114PR1182', '114UL0366', '114MW6173', '114PL8130']  # Many not present in new data
 allstations = TheTubbsData["StationCode"].unique()
+allstationdescriptions = TheTubbsData["StationName"].unique()
 thedates = ['2017-11-01', '2017-11-08', '2017-11-15', '2018-03-22']
 print(TheTubbsData['Analyte'].unique())
 
@@ -68,7 +69,7 @@ for station in allstations:
     dfForStation = TheTubbsData[TheTubbsData['StationCode'] == station]
     pivotStation = pd.pivot_table(dfForStation, values='Result', index='SampleDate', columns='Analyte')
     # wantedConstituentsFromStation = pivotStation[tubbsConstituentsWeWant]
-    if pivotStation.shape[0] > 10:
+    if pivotStation.shape[0] > 6:
         print(f'At {station}, the data has shape {dfForStation.shape}. After pivot: {pivotStation.shape}.')
     # wantedConstituentsFromStation.to_csv(path_or_buf=f'data/tubbsfire/{station}.csv')
     # print(wantedConstituentsFromStation)
