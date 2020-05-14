@@ -249,6 +249,37 @@ tubbsConstituentsWeWant = ['Aluminum, Dissolved',
                            'Pyrene, Total',
                            'Zinc, Dissolved']
 
+# Dataframes
+MO_CAM = pd.read_csv('data/MO-CAMmetals-PAHs.csv', index_col='Sample Date')
+MO_FIL = pd.read_csv('data/MO-FILmetals-PAHs.csv', index_col='Sample Date')
+MO_HUE = pd.read_csv('data/MO-HUEmetals-PAHs.csv', index_col='Sample Date')
+MO_MEI = pd.read_csv('data/MO-MEImetals-PAHs.csv', index_col='Sample Date')
+MO_MPK = pd.read_csv('data/MO-MPKmetals-PAHs.csv', index_col='Sample Date')
+MO_OJA = pd.read_csv('data/MO-OJAmetals-PAHs.csv', index_col='Sample Date')
+MO_OXN = pd.read_csv('data/MO-OXNmetals-PAHs.csv', index_col='Sample Date')
+MO_SIM = pd.read_csv('data/MO-SIMmetals-PAHs.csv', index_col='Sample Date')
+MO_SPA = pd.read_csv('data/MO-SPAmetals-PAHs.csv', index_col='Sample Date')
+MO_THO = pd.read_csv('data/MO-THOmetals-PAHs.csv', index_col='Sample Date')
+MO_VEN = pd.read_csv('data/MO-VENmetals-PAHs.csv', index_col='Sample Date')
+ME_CC = pd.read_csv('data/ME-CCmetals-PAHs.csv', index_col='Sample Date')
+ME_SCR = pd.read_csv('data/ME-SCRmetals-PAHs.csv', index_col='Sample Date')
+ME_VR2 = pd.read_csv('data/ME-VR2metals-PAHs.csv', index_col='Sample Date')
+
+allTheDataFrames = [MO_CAM,
+                    MO_FIL,
+                    MO_HUE,
+                    MO_MEI,
+                    MO_MPK,
+                    MO_OJA,
+                    MO_OXN,
+                    MO_SIM,
+                    MO_SPA,
+                    MO_THO,
+                    MO_VEN,
+                    ME_CC,
+                    ME_SCR,
+                    ME_VR2]
+
 
 def printthedetails(dataframe):
     """This prints all the unique values for columns 0 through 10 for the chosen dataframe."""
