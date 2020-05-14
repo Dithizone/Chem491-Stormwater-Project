@@ -5,7 +5,7 @@
 
 import pandas as pd
 
-daphniadata = pd.read_csv('data/ecotox/DaphniaECOTOX.csv', index_col=0)
+daphniadata = pd.read_csv('../data/ecotox/DaphniaECOTOX.csv', index_col=0)
 print(f'DaphniaData is {daphniadata.shape}')
 print(f'------- The columns -------')
 print(daphniadata.columns.values)
