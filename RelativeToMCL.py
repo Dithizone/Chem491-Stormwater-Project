@@ -11,10 +11,14 @@ from UsefulThings import ME_VR2, \
     saveThisGraph
 from copy import deepcopy
 import matplotlib.pyplot as plt
+import pandas as pd
 
 # All MCLs in ng/L (from https://www.epa.gov/ground-water-and-drinking-water/national-primary-drinking-water-regulations#Organic )
 # These are {'constituent': [MCL, Daphnia mortality EC50]}
-lotsOfVariation = None
+lotsOfVariation = None  # This is so I can write lotsOfVariation as a note while keeping functionality
+
+SRCity = pd.read_csv('data/tubbsFire/114SR0761_SWAMP.csv', index_col='SampleDate')
+SRDownstream = pd.read_csv('data/tubbsFire/114MW0020.csv', index_col='SampleDate')
 
 PAHMCLsAndDaphnia = {'Benz(a)anthracene': [(200 / 0.1), (np.average([0.000551139336, 0.00155877792]) * 1000000)],
                      'Benzo(a)pyrene': [(200 / 1), (np.average([0.001624910532, 0.000981506517]) * 1000000)],
@@ -44,23 +48,26 @@ PAHDaphnia = ['Benz(a)anthracene',
               'Dibenz(a||h)anthracene']
 
 
-def convertToMCL(station, MCL0orDaphnia1):
+def convertToMCL(station, MCL0orDaphnia1, SantaRosa=False):
     for key in metalMCLsAndDaphnia.keys():
         if metalMCLsAndDaphnia[key][MCL0orDaphnia1] is not None:
             station[key] = station[key] / metalMCLsAndDaphnia[key][MCL0orDaphnia1]
-
-    for otherkey in PAHMCLsAndDaphnia.keys():
-        if PAHMCLsAndDaphnia[otherkey][MCL0orDaphnia1] is not None:
-            station[otherkey] = station[otherkey] / PAHMCLsAndDaphnia[otherkey][MCL0orDaphnia1]
-
-
-def makedeepcopy(station):
-    return deepcopy(
-        station[['Cadmium', 'Copper', 'Lead', 'Mercury', 'Benz(a)anthracene', 'Benzo(a)pyrene', 'Benzo(b)fluoranthene',
-                 'Benzo(k)fluoranthene', 'Dibenz(a||h)anthracene', 'Indeno(1||2||3-cd)pyrene']])
+    if SantaRosa is False:
+        for otherkey in PAHMCLsAndDaphnia.keys():
+            if PAHMCLsAndDaphnia[otherkey][MCL0orDaphnia1] is not None:
+                station[otherkey] = station[otherkey] / PAHMCLsAndDaphnia[otherkey][MCL0orDaphnia1]
 
 
-# Deepcopies of all five stations, reframed as ratios of MCL and Daphnia EC50
+def makedeepcopy(station, SantaRosa=False):
+    if SantaRosa is False:
+        return deepcopy(
+            station[['Cadmium', 'Copper', 'Lead', 'Mercury', 'Benz(a)anthracene', 'Benzo(a)pyrene', 'Benzo(b)fluoranthene',
+                     'Benzo(k)fluoranthene', 'Dibenz(a||h)anthracene', 'Indeno(1||2||3-cd)pyrene']])
+    if SantaRosa is True:
+        return deepcopy(
+            station[['Cadmium', 'Copper', 'Lead', 'Mercury']])
+
+# Deepcopies of all stations, reframed as ratios of MCL and Daphnia EC50
 ME_VR2MCL = makedeepcopy(ME_VR2)
 ME_VR2Daphnia = makedeepcopy(ME_VR2)
 convertToMCL(ME_VR2MCL, 0)
@@ -85,6 +92,16 @@ ME_CCMCL = makedeepcopy(ME_CC)
 ME_CCDaphnia = makedeepcopy(ME_CC)
 convertToMCL(ME_CCMCL, 0)
 convertToMCL(ME_CCDaphnia, 1)
+
+SRCityMCL = makedeepcopy(SRCity, SantaRosa=True)
+SRCityDaphnia = makedeepcopy(SRCity, SantaRosa=True)
+convertToMCL(SRCityMCL, 0, SantaRosa=True)
+convertToMCL(SRCityDaphnia, 1, SantaRosa=True)
+
+SRDownstreamMCL = makedeepcopy(SRDownstream, SantaRosa=True)
+SRDownstreamDaphnia = makedeepcopy(SRDownstream, SantaRosa=True)
+convertToMCL(SRDownstreamMCL, 0, SantaRosa=True)
+convertToMCL(SRDownstreamDaphnia, 1, SantaRosa=True)
 
 # -----------------------------------------
 # -----------------------------------------
@@ -114,7 +131,7 @@ plt.xticks(rotation=90)
 plt.axhline(y=1, linewidth=3)
 plt.axvline(x='2017-05-23', linewidth=3)
 plt.legend(loc='upper center', bbox_to_anchor=(1.3, 0.8))
-saveThisGraph(filepathtosavepng='images/forpaper/MCLVRmetalPAH.png')
+# saveThisGraph(filepathtosavepng='images/forpaper/MCLVRmetalPAH.png')
 plt.show()
 
 plt.figure(2, figsize=(14, 5))
@@ -139,7 +156,7 @@ plt.xticks(rotation=90)
 plt.axhline(y=1, linewidth=3)
 plt.axvline(x='2016-12-16', linewidth=3)
 plt.legend(loc='upper center', bbox_to_anchor=(1.3, 0.8))
-saveThisGraph(filepathtosavepng='images/forpaper/MCLSPAmetalPAH.png')
+# saveThisGraph(filepathtosavepng='images/forpaper/MCLSPAmetalPAH.png')
 plt.show()
 
 plt.figure(3, figsize=(14, 5))
@@ -164,7 +181,7 @@ plt.xticks(rotation=90)
 plt.axhline(y=1, linewidth=3)
 plt.axvline(x='2017-08-02', linewidth=3)
 plt.legend(loc='upper center', bbox_to_anchor=(1.3, 0.8))
-saveThisGraph(filepathtosavepng='images/forpaper/MCLFILmetalPAH.png')
+# saveThisGraph(filepathtosavepng='images/forpaper/MCLFILmetalPAH.png')
 plt.show()
 
 plt.figure(4, figsize=(14, 5))
@@ -189,7 +206,7 @@ plt.axhline(y=1, linewidth=3)
 plt.axvline(x='2018-05-30', linewidth=3)
 plt.xticks(rotation=90)
 plt.legend(loc='upper center', bbox_to_anchor=(1.3, 0.8))
-saveThisGraph(filepathtosavepng='images/forpaper/MCLCCmetalPAH.png')
+# saveThisGraph(filepathtosavepng='images/forpaper/MCLCCmetalPAH.png')
 plt.show()
 
 plt.figure(5, figsize=(14, 5))
@@ -214,7 +231,7 @@ plt.axhline(y=1, linewidth=3)
 plt.axvline(x='2018-05-30', linewidth=3)
 plt.xticks(rotation=90)
 plt.legend(loc='upper center', bbox_to_anchor=(1.3, 0.8))
-saveThisGraph(filepathtosavepng='images/forpaper/MCLTHOmetalPAH.png')
+# saveThisGraph(filepathtosavepng='images/forpaper/MCLTHOmetalPAH.png')
 plt.show()
 
 # -----------------------------------------
@@ -245,7 +262,7 @@ plt.xticks(rotation=90)
 plt.axhline(y=1, linewidth=3)
 plt.axvline(x='2017-05-23', linewidth=3)
 plt.legend(loc='upper center', bbox_to_anchor=(1.3, 0.8))
-saveThisGraph(filepathtosavepng='images/forpaper/DaphniaVRmetalPAH.png')
+# saveThisGraph(filepathtosavepng='images/forpaper/DaphniaVRmetalPAH.png')
 plt.show()
 
 plt.figure(7, figsize=(14, 5))
@@ -270,7 +287,7 @@ plt.xticks(rotation=90)
 plt.axhline(y=1, linewidth=3)
 plt.axvline(x='2016-12-16', linewidth=3)
 plt.legend(loc='upper center', bbox_to_anchor=(1.3, 0.8))
-saveThisGraph(filepathtosavepng='images/forpaper/DaphniaSPAmetalPAH.png')
+# saveThisGraph(filepathtosavepng='images/forpaper/DaphniaSPAmetalPAH.png')
 plt.show()
 
 plt.figure(8, figsize=(14, 5))
@@ -295,7 +312,7 @@ plt.xticks(rotation=90)
 plt.axhline(y=1, linewidth=3)
 plt.axvline(x='2017-08-02', linewidth=3)
 plt.legend(loc='upper center', bbox_to_anchor=(1.3, 0.8))
-saveThisGraph(filepathtosavepng='images/forpaper/DaphniaFILmetalPAH.png')
+# saveThisGraph(filepathtosavepng='images/forpaper/DaphniaFILmetalPAH.png')
 plt.show()
 
 plt.figure(9, figsize=(14, 5))
@@ -320,7 +337,7 @@ plt.axhline(y=1, linewidth=3)
 plt.axvline(x='2018-05-30', linewidth=3)
 plt.xticks(rotation=90)
 plt.legend(loc='upper center', bbox_to_anchor=(1.3, 0.8))
-saveThisGraph(filepathtosavepng='images/forpaper/DaphniaCCmetalPAH.png')
+# saveThisGraph(filepathtosavepng='images/forpaper/DaphniaCCmetalPAH.png')
 plt.show()
 
 plt.figure(10, figsize=(14, 5))
@@ -345,5 +362,65 @@ plt.axhline(y=1, linewidth=3)
 plt.axvline(x='2018-05-30', linewidth=3)
 plt.xticks(rotation=90)
 plt.legend(loc='upper center', bbox_to_anchor=(1.3, 0.8))
-saveThisGraph(filepathtosavepng='images/forpaper/DaphniaTHOmetalPAH.png')
+# saveThisGraph(filepathtosavepng='images/forpaper/DaphniaTHOmetalPAH.png')
+plt.show()
+
+# --------------------------------------------
+# ------- Pretty graphs for Santa Rosa -------
+# --------------------------------------------
+
+# SRCity MCL
+plt.figure(11, figsize=(7, 5))
+plt.title('MCL, in Santa Rosa', fontsize=18)
+for i in metalMCLs:
+    plt.plot(SRCityMCL[i], label=i)
+plt.ylabel('Fraction of MCL')
+plt.xlabel('Date')
+plt.axhline(y=1, linewidth=3)
+plt.axvline(x='2011-11-29', linewidth=3)
+plt.legend(loc='best')
+plt.xticks(rotation=90)
+saveThisGraph(filepathtosavepng='images/forpaper/MCLSRCityMetal.png')
+plt.show()
+
+# SR Downstream MCL
+plt.figure(12, figsize=(7, 5))
+plt.title('MCL, downstream of Santa Rosa', fontsize=18)
+for i in metalMCLs:
+    plt.plot(SRDownstreamMCL[i], label=i)
+plt.ylabel('Fraction of MCL')
+plt.xlabel('Date')
+plt.axhline(y=1, linewidth=3)
+plt.axvline(x='2017-02-07', linewidth=3)
+plt.legend(loc='best')
+plt.xticks(rotation=90)
+saveThisGraph(filepathtosavepng='images/forpaper/MCLSRDownstreamMetal.png')
+plt.show()
+
+# SRCity Daphnia
+plt.figure(13, figsize=(7, 5))
+plt.title('Daphnia EC50, in Santa Rosa', fontsize=18)
+for i in metalMCLs:
+    plt.plot(SRCityDaphnia[i], label=i)
+plt.ylabel('Fraction of MCL')
+plt.xlabel('Date')
+plt.axhline(y=1, linewidth=3)
+plt.axvline(x='2011-11-29', linewidth=3)
+plt.legend(loc='best')
+plt.xticks(rotation=90)
+saveThisGraph(filepathtosavepng='images/forpaper/DaphniaSRCityMetal.png')
+plt.show()
+
+# SR Downstream Daphnia
+plt.figure(14, figsize=(7, 5))
+plt.title('Daphnia EC50, downstream of Santa Rosa', fontsize=18)
+for i in metalMCLs:
+    plt.plot(SRDownstreamDaphnia[i], label=i)
+plt.ylabel('Fraction of MCL')
+plt.xlabel('Date')
+plt.axhline(y=1, linewidth=3)
+plt.axvline(x='2017-02-07', linewidth=3)
+plt.legend(loc='best')
+plt.xticks(rotation=90)
+saveThisGraph(filepathtosavepng='images/forpaper/DaphniaSRDownstreamMetal.png')
 plt.show()

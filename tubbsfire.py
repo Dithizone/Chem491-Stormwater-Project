@@ -8,6 +8,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 from UsefulThings import NewData, constituentsWeWant, tubbsConstituentsWeWant
+import re
 
 tubbsdata = pd.read_csv('data/tubbsFire/ceden_data_20200509063830.txt', sep='|', dtype={'Result': float})
 # Wow so, one of the entries for Total Dissolved Solids had a Result value
@@ -40,8 +41,8 @@ tubbsdata_g = tubbsdata[tubbsdata['Unit'] == 'g/L']
 tubbsdata_g['Result'] = tubbsdata_g['Result'] * 1000000000  # Converts from g/L to ng/L
 tubbsdata_g['Unit'] = 'ng/L'
 
-TheTubbsData = tubbsdata_ng.append(tubbsdata_ug, ignore_index=True)\
-    .append(tubbsdata_mg, ignore_index=True)\
+TheTubbsData = tubbsdata_ng.append(tubbsdata_ug, ignore_index=True) \
+    .append(tubbsdata_mg, ignore_index=True) \
     .append(tubbsdata_g, ignore_index=True)  # Put all the data back together
 
 print('Pandas disapproves of how I did unit conversions so it\'s giving a "SettingWithCopyWarning" error '
@@ -59,23 +60,32 @@ print(f'\n------- StationCode ({len(TheTubbsData["StationCode"].unique())}) ----
 for k in TheTubbsData["StationCode"].unique():
     print(k)
 
-stationsfortubbsfire = ['114PI5786', '114PR1182', '114UL0366', '114MW6173', '114PL8130']  # Many not present in new data
+stationsfortubbsfire = ['114SR0761_SWAMP', '114MW0020']
+# Determined from https://www.waterqualitydata.us/provider/STORET/CEDEN/CEDEN-114SR0761_SWAMP/
+# in Santa Rosa. (lat, long) is (38.445200, -122.807000)
+# Determined from https://www.waterqualitydata.us/provider/STORET/CEDEN/CEDEN-114MW0020/
+# downstream of Santa Rosa. (lat, long) is (38.4939000000, -122.8910000000)
 allstations = TheTubbsData["StationCode"].unique()
 allstationdescriptions = TheTubbsData["StationName"].unique()
 thedates = ['2017-11-01', '2017-11-08', '2017-11-15', '2018-03-22']
 print(TheTubbsData['Analyte'].unique())
 
-for station in allstations:
+for station in stationsfortubbsfire:
     dfForStation = TheTubbsData[TheTubbsData['StationCode'] == station]
     pivotStation = pd.pivot_table(dfForStation, values='Result', index='SampleDate', columns='Analyte')
-    # wantedConstituentsFromStation = pivotStation[tubbsConstituentsWeWant]
-    if pivotStation.shape[0] > 6:
-        print(f'At {station}, the data has shape {dfForStation.shape}. After pivot: {pivotStation.shape}.')
+    wantedConstituentsFromStation = pivotStation[['Cadmium, Total', 'Copper, Total', 'Lead, Total', 'Mercury, Total',
+                                                  'Nickel, Total', 'Zinc, Total']]
+    if re.search('2017', pivotStation.index.values[-1]) or re.search('2018', pivotStation.index.values[-1]) is not None:
+        if pivotStation.shape[0] > 2:
+            print(f'At {station}, the data has shape {dfForStation.shape}. After pivot: {pivotStation.shape}. Last date: {pivotStation.index.values[-1]}')
     # wantedConstituentsFromStation.to_csv(path_or_buf=f'data/tubbsfire/{station}.csv')
-    # print(wantedConstituentsFromStation)
+    print(wantedConstituentsFromStation)
 
 
-# Now we have the data... though it's (4, 16) so I'm not sure how useful it'll be.
+# Now we have the data! But why are some quantities negative? Notes in the data
+# say the samples were corrected with the average values from method blanks,
+# which means these are more realistically interpreted as below a minimum
+# detection level.
 
 # ---------------------------------
 # ------- Now, the rainfall -------

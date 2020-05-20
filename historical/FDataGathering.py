@@ -2,6 +2,8 @@
 # There are minor oddities with the SiteID and QAQCSampleType
 # outputs in TheFData (see scratchpad.py)
 
+# PDFs were acquired from http://vcstormwater.org/index.php/publications/reports/annual-reports-2009-present
+
 import re
 from UsefulThings import datanames
 from UsefulThings import fevents
